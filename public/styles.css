@@ -407,8 +407,12 @@ nav {
     display: flex;
     flex-direction: column;
     gap: 8px;
-    max-height: 440px;
+    max-height: 220px;
     overflow-y: auto;
+}
+
+#series-checkboxes {
+    max-height: 440px;
 }
 
 .checkbox-item {
