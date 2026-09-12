@@ -33,7 +33,7 @@
         © HoneyCat3D • Premium Resin Collectibles
     </div>
 
-    <script src="models-data.js?v=8"></script>
+    <script src="models-data.js?v=5"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
         const modelId = params.get("id");
@@ -78,7 +78,7 @@
                             <p>${model.description}</p>
                         </div>
 
-                        <a class="btn" id="etsy-link" href="${model.scaleOptions[0].etsyUrl}" target="_blank">View on Etsy</a>
+                        <div id="etsy-link-wrap"></div>
                     </div>
                 </div>
 
@@ -86,6 +86,15 @@
                     <img id="lightbox-image" src="" alt="${model.title} enlarged">
                 </div>
             `;
+
+            function renderEtsyButton(url) {
+                if (url === "LINK_GOES_HERE") {
+                    return `<span class="btn btn-disabled">Coming Soon</span>`;
+                }
+                return `<a class="btn" href="${url}" target="_blank">View on Etsy</a>`;
+            }
+
+            document.getElementById("etsy-link-wrap").innerHTML = renderEtsyButton(model.scaleOptions[0].etsyUrl);
 
             const mainImage = document.getElementById("main-image");
             const thumbnails = document.querySelectorAll(".thumbnail");
@@ -132,7 +141,7 @@
             document.getElementById("scale-select").addEventListener("change", (e) => {
                 const opt = model.scaleOptions[e.target.value];
                 document.getElementById("size-display").innerHTML = `<strong>Size:</strong> ${opt.size}`;
-                document.getElementById("etsy-link").href = opt.etsyUrl;
+                document.getElementById("etsy-link-wrap").innerHTML = renderEtsyButton(opt.etsyUrl);
             });
         }
     </script>
