@@ -51,30 +51,25 @@
 
     <section class="section">
         <h2>Featured Models</h2>
-        <div class="grid">
-            <div class="card">
-                <img src="images/leon-kennedy.jpg" alt="Leon Kennedy - Resident Evil 9 Requiem">
-                <h3>Leon Kennedy - Resident Evil 9 Requiem</h3>
-                <a class="btn"
-                   href="https://www.etsy.com/listing/4495283661/leon-kennedy-resident-evil-9-requiem"
-                   target="_blank">
-                   View on Etsy
-                </a>
-            </div>
-
-            <div class="card">
-                <img src="images/spiderman-venom.jpg" alt="Spider-Man vs Venom">
-                <h3>Spider-Man vs Venom</h3>
-                <a class="btn" href="https://www.etsy.com/listing/4495843541/spider-man-vs-venom-resin-model-kit-3d" target="_blank">View on Etsy</a>
-            </div>
-
-            <div class="card">
-                <img src="images/hunter-bloodborne.jpg" alt="The Hunter - Bloodborne">
-                <h3>The Hunter - Bloodborne</h3>
-                <a class="btn" href="https://www.etsy.com/listing/4495305898/the-hunter-bloodborne-resin-model-kit-3d" target="_blank">View on Etsy</a>
-            </div>
-        </div>
+        <div class="grid" id="featured-grid"></div>
     </section>
+
+    <script src="models-data.js?v=8"></script>
+    <script>
+        const featuredGrid = document.getElementById("featured-grid");
+        const shuffled = [...MODELS].sort(() => Math.random() - 0.5);
+        const featured = shuffled.slice(0, 3);
+
+        featuredGrid.innerHTML = featured.map(m => `
+            <div class="card">
+                <a href="model.html?id=${m.id}">
+                    <img src="${m.images[0]}" alt="${m.title}">
+                </a>
+                <h3>${m.title}</h3>
+                <a class="btn" href="model.html?id=${m.id}">View Details</a>
+            </div>
+        `).join("");
+    </script>
 
     <section class="section" style="text-align: center;">
         <h2>Follow the Process</h2>
