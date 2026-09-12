@@ -1173,5 +1173,281 @@ const MODELS = [
       { scale: "1/8 Scale", size: "Approx. 9 in (23 cm) tall", etsyUrl: "https://www.etsy.com/listing/4495843541/spider-man-vs-venom-resin-model-kit-3d" }
     ],
     description: "A dynamic diorama capturing Spider-Man and Venom mid-clash, sculpted with dramatic action posing and slime detailing."
+  },
+  {
+    id: "tot-lady-maria",
+    artist: "Totenn Collectibles",
+    series: "Bloodborne",
+    title: "Lady Maria",
+    images: [
+      "images/totenn-collectibles/bloodborne/lady-maria/totenn-lady-maria-1.jpg",
+      "images/totenn-collectibles/bloodborne/lady-maria/totenn-lady-maria-2.jpg",
+      "images/totenn-collectibles/bloodborne/lady-maria/totenn-lady-maria-3.jpg",
+      "images/totenn-collectibles/bloodborne/lady-maria/totenn-lady-maria-4.jpg",
+      "images/totenn-collectibles/bloodborne/lady-maria/totenn-lady-maria-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 11 in (27.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rakuyo drawn and cloak mid-swing, this Lady Maria piece was built as a direct companion to the Hunter sculpt — pose them together for a full Astral Clocktower showdown."
+  },
+  {
+    id: "vm-artorias",
+    artist: "Volition Miniatures",
+    series: "Dark Souls",
+    title: "Artorias the Abysswalker",
+    images: [
+      "images/volition-miniatures/dark-souls/artorias/vm-artorias-1.jpg",
+      "images/volition-miniatures/dark-souls/artorias/vm-artorias-2.jpg",
+      "images/volition-miniatures/dark-souls/artorias/vm-artorias-3.jpg",
+      "images/volition-miniatures/dark-souls/artorias/vm-artorias-4.jpg",
+      "images/volition-miniatures/dark-souls/artorias/vm-artorias-5.jpg",
+      "images/volition-miniatures/dark-souls/artorias/vm-artorias-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 12 in (32.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Greatsword raised and Abyss-corrupted arm on full display, this Artorias sculpt captures the exact tragedy of a knight who lost to what he was sent to destroy."
+  },
+  {
+    id: "vm-friede",
+    artist: "Volition Miniatures",
+    series: "Dark Souls",
+    title: "Blackflame Sister Friede",
+    images: [
+      "images/volition-miniatures/dark-souls/sister-friede/vm-friede-1.jpg",
+      "images/volition-miniatures/dark-souls/sister-friede/vm-friede-2.jpg",
+      "images/volition-miniatures/dark-souls/sister-friede/vm-friede-3.jpg",
+      "images/volition-miniatures/dark-souls/sister-friede/vm-friede-4.jpg",
+      "images/volition-miniatures/dark-souls/sister-friede/vm-friede-5.jpg",
+      "images/volition-miniatures/dark-souls/sister-friede/vm-friede-6.jpg",
+      "images/volition-miniatures/dark-souls/sister-friede/vm-friede-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 14 in (25.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Scythe trailing frost and cloak billowing mid-strike, this Sister Friede sculpt captures the exact moment the Painted World stops being safe."
+  },
+  {
+    id: "vm-dotbv",
+    artist: "Volition Miniatures",
+    series: "Dark Souls",
+    title: "Dancer of the Boreal Valley",
+    images: [
+      "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-1.jpg",
+      "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-2.jpg",
+      "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-3.jpg",
+      "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-4.jpg",
+      "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-5.jpg",
+      "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/18 Scale", size: "Approx. 13 in (35 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Twin blades and impossible flexibility — this Dancer of the Boreal Valley sculpt renders one of Lothric's most elegant, most lethal guardians in full mid-spin detail."
+  },
+  {
+    id: "vm-duchess",
+    artist: "Volition Miniatures",
+    series: "Elden Ring",
+    title: "Duchess [Nightreign]",
+    images: [
+      "images/volition-miniatures/elden-ring/duchess/vm-duchess-1.jpg",
+      "images/volition-miniatures/elden-ring/duchess/vm-duchess-2.jpg",
+      "images/volition-miniatures/elden-ring/duchess/vm-duchess-3.jpg",
+      "images/volition-miniatures/elden-ring/duchess/vm-duchess-4.jpg",
+      "images/volition-miniatures/elden-ring/duchess/vm-duchess-5.jpg",
+      "images/volition-miniatures/elden-ring/duchess/vm-duchess-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 8 in (20.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dagger drawn and posture coiled, this Duchess sculpt brings Nightreign's sharpest new threat to the shelf in full stalking detail."
+  },
+  {
+    id: "vm-sif",
+    artist: "Volition Miniatures",
+    series: "Dark Souls",
+    title: "Great Grey Wolf Sif",
+    images: [
+      "images/volition-miniatures/dark-souls/sif/vm-sif-1.jpg",
+      "images/volition-miniatures/dark-souls/sif/vm-sif-2.jpg",
+      "images/volition-miniatures/dark-souls/sif/vm-sif-3.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 14 in (35 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ancient, wounded, and still standing guard, this Great Grey Wolf Sif sculpt turns one of Dark Souls' most gutting boss fights into a genuinely tender display piece."
+  },
+  {
+    id: "vm-hunter",
+    artist: "Volition Miniatures",
+    series: "Bloodborne",
+    title: "Hunter",
+    images: [
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-1.jpg",
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-2.jpg",
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-3.jpg",
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-4.jpg",
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-5.jpg",
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-6.jpg",
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-7.jpg",
+      "images/volition-miniatures/bloodborne/hunter/vm-hunter-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 8.5 in (21.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lantern in one hand, cleaver in the other — this Hunter sculpt captures the exact stance you take right before Yharnam decides you've seen enough."
+  },
+  {
+    id: "vm-malenia",
+    artist: "Volition Miniatures",
+    series: "Elden Ring",
+    title: "Malenia, Blade of Miquella",
+    images: [
+      "images/volition-miniatures/elden-ring/malenia/vm-malenia-1.jpg",
+      "images/volition-miniatures/elden-ring/malenia/vm-malenia-2.jpg",
+      "images/volition-miniatures/elden-ring/malenia/vm-malenia-3.jpg",
+      "images/volition-miniatures/elden-ring/malenia/vm-malenia-4.jpg",
+      "images/volition-miniatures/elden-ring/malenia/vm-malenia-5.jpg",
+      "images/volition-miniatures/elden-ring/malenia/vm-malenia-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 13 in (33.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Prosthetic blade drawn and stance perfectly balanced, this Malenia sculpt captures the Blade of Miquella exactly as the Tarnished remember her: graceful right up until she isn't."
+  },
+  {
+    id: "vm-malenia-gor",
+    artist: "Volition Miniatures",
+    series: "Elden Ring",
+    title: "Malenia, Goddess of Rot",
+    images: [
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-1.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-2.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-3.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-4.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-5.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-6.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-7.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-8.jpg",
+      "images/volition-miniatures/elden-ring/malenia-gor/vm-malenia-gor-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 16 in (40.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Wings unfurled and rot spores drifting from the base, this Goddess of Rot interpretation of Malenia goes fully mythic — the moment before Waterfowl Dance stops being a warning."
+  },
+  {
+    id: "vm-maliketh",
+    artist: "Volition Miniatures",
+    series: "Elden Ring",
+    title: "Maliketh",
+    images: [
+      "images/volition-miniatures/elden-ring/maliketh/vm-maliketh-1.jpg",
+      "images/volition-miniatures/elden-ring/maliketh/vm-maliketh-2.jpg",
+      "images/volition-miniatures/elden-ring/maliketh/vm-maliketh-3.jpg",
+      "images/volition-miniatures/elden-ring/maliketh/vm-maliketh-4.jpg",
+      "images/volition-miniatures/elden-ring/maliketh/vm-maliketh-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 13 in (34 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Black Blade raised and Destined Death radiating off the base, this Maliketh sculpt renders the Beast Clergyman at the exact moment restraint runs out."
+  },
+  {
+    id: "vm-ranni",
+    artist: "Volition Miniatures",
+    series: "Elden Ring",
+    title: "Ranni the Witch",
+    images: [
+      "images/volition-miniatures/elden-ring/ranni/vm-ranni-1.jpg",
+      "images/volition-miniatures/elden-ring/ranni/vm-ranni-2.jpg",
+      "images/volition-miniatures/elden-ring/ranni/vm-ranni-3.jpg",
+      "images/volition-miniatures/elden-ring/ranni/vm-ranni-4.jpg",
+      "images/volition-miniatures/elden-ring/ranni/vm-ranni-5.jpg",
+      "images/volition-miniatures/elden-ring/ranni/vm-ranni-6.jpg",
+      "images/volition-miniatures/elden-ring/ranni/vm-ranni-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 9.5 in (24.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Doll form and starlit cloak rendered in fine detail, this Ranni sculpt captures the Elden Ring questline players talk about long after the credits roll."
+  },
+  {
+    id: "vm-rev-seb",
+    artist: "Volition Miniatures",
+    series: "Elden Ring",
+    title: "Revenant & Sebastian Diorama [Nightreign]",
+    images: [
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-1.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-2.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-3.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-4.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-5.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-6.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-7.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-8.jpg",
+      "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 9.7 in (24.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A two-figure Nightreign diorama capturing Revenant and Sebastian mid-encounter — built as a single connected base rather than two separate pieces."
+  },
+  {
+    id: "vm-gael",
+    artist: "Volition Miniatures",
+    series: "Dark Souls",
+    title: "Slave Knight Gael",
+    images: [
+      "images/volition-miniatures/dark-souls/gael/vm-gael-1.jpg",
+      "images/volition-miniatures/dark-souls/gael/vm-gael-2.jpg",
+      "images/volition-miniatures/dark-souls/gael/vm-gael-3.jpg",
+      "images/volition-miniatures/dark-souls/gael/vm-gael-4.jpg",
+      "images/volition-miniatures/dark-souls/gael/vm-gael-5.jpg",
+      "images/volition-miniatures/dark-souls/gael/vm-gael-6.jpg",
+      "images/volition-miniatures/dark-souls/gael/vm-gael-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 13 in (33.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hollowed, starving, and still swinging, this Slave Knight Gael sculpt captures the last real fight Dark Souls ever asked of anyone."
+  },
+  {
+    id: "vm-vicar",
+    artist: "Volition Miniatures",
+    series: "Bloodborne",
+    title: "Vicar Amelia",
+    images: [
+      "images/volition-miniatures/bloodborne/vicar-amelia/vm-vicar-1.jpg",
+      "images/volition-miniatures/bloodborne/vicar-amelia/vm-vicar-2.jpg",
+      "images/volition-miniatures/bloodborne/vicar-amelia/vm-vicar-3.jpg",
+      "images/volition-miniatures/bloodborne/vicar-amelia/vm-vicar-4.jpg",
+      "images/volition-miniatures/bloodborne/vicar-amelia/vm-vicar-5.jpg",
+      "images/volition-miniatures/bloodborne/vicar-amelia/vm-vicar-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/20 Scale", size: "Approx. 13 in (34 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Twisted, bloated, and looming at full scale, this Vicar Amelia sculpt leans into every unsettling detail of Yharnam's church-corrupted holy beast."
+  },
+  {
+    id: "vm-wylder",
+    artist: "Volition Miniatures",
+    series: "Elden Ring",
+    title: "Wylder [Nightreign]",
+    images: [
+      "images/volition-miniatures/elden-ring/wylder/vm-wylder-1.jpg",
+      "images/volition-miniatures/elden-ring/wylder/vm-wylder-2.jpg",
+      "images/volition-miniatures/elden-ring/wylder/vm-wylder-3.jpg",
+      "images/volition-miniatures/elden-ring/wylder/vm-wylder-4.jpg",
+      "images/volition-miniatures/elden-ring/wylder/vm-wylder-5.jpg",
+      "images/volition-miniatures/elden-ring/wylder/vm-wylder-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 8 in (21.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hook blade drawn and coat caught mid-stride, this Wylder sculpt brings Nightreign's flagship protector into physical, shelf-ready form."
   }
 ];
