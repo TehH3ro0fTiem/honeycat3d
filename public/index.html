@@ -58,17 +58,36 @@
     <script>
         const featuredGrid = document.getElementById("featured-grid");
         const shuffled = [...MODELS].sort(() => Math.random() - 0.5);
-        const featured = shuffled.slice(0, 5);
 
-        featuredGrid.innerHTML = featured.map(m => `
-            <div class="card">
-                <a href="model.html?id=${m.id}">
-                    <img src="${m.images[0]}" alt="${m.title}">
-                </a>
-                <h3>${m.title}</h3>
-                <a class="btn" href="model.html?id=${m.id}">View Details</a>
-            </div>
-        `).join("");
+        const CARD_MIN_WIDTH = 320;
+        const GRID_GAP = 24;
+        const MIN_CARDS = 3;
+        const MAX_CARDS = 6;
+
+        function renderFeatured() {
+            const containerWidth = featuredGrid.clientWidth;
+            const fitCount = Math.floor((containerWidth + GRID_GAP) / (CARD_MIN_WIDTH + GRID_GAP));
+            const count = Math.max(MIN_CARDS, Math.min(fitCount, MAX_CARDS, shuffled.length));
+            const featured = shuffled.slice(0, count);
+
+            featuredGrid.innerHTML = featured.map(m => `
+                <div class="card">
+                    <a href="model.html?id=${m.id}">
+                        <img src="${m.images[0]}" alt="${m.title}">
+                    </a>
+                    <h3>${m.title}</h3>
+                    <a class="btn" href="model.html?id=${m.id}">View Details</a>
+                </div>
+            `).join("");
+        }
+
+        renderFeatured();
+
+        let resizeTimer;
+        window.addEventListener("resize", () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(renderFeatured, 200);
+        });
     </script>
 
     <section class="section" style="text-align: center;">
