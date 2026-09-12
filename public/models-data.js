@@ -55,17 +55,17 @@ const MODELS = [
     series: "DC",
     title: "Absolute Batman",
     images: [
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-1.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-2.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-3.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-4.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-5.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-6.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-7.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-8.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-9.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-10.jpg",
-      "images/jace-the-sculpter/dc/absolute-batman/jts-absolute-batman-11.jpg"
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-1.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-2.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-3.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-4.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-5.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-6.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-7.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-8.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-9.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-10.jpg",
+      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-11.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 19 in (50 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -78,12 +78,12 @@ const MODELS = [
     series: "DC",
     title: "Bane",
     images: [
-      "images/jace-the-sculpter/dc/bane/jts-bane-1.jpg",
-      "images/jace-the-sculpter/dc/bane/jts-bane-2.jpg",
-      "images/jace-the-sculpter/dc/bane/jts-bane-3.jpg",
-      "images/jace-the-sculpter/dc/bane/jts-bane-4.jpg",
-      "images/jace-the-sculpter/dc/bane/jts-bane-5.jpg",
-      "images/jace-the-sculpter/dc/bane/jts-bane-6.jpg"
+      "images/jace-the-sculptor/dc/bane/jts-bane-1.jpg",
+      "images/jace-the-sculptor/dc/bane/jts-bane-2.jpg",
+      "images/jace-the-sculptor/dc/bane/jts-bane-3.jpg",
+      "images/jace-the-sculptor/dc/bane/jts-bane-4.jpg",
+      "images/jace-the-sculptor/dc/bane/jts-bane-5.jpg",
+      "images/jace-the-sculptor/dc/bane/jts-bane-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -96,15 +96,15 @@ const MODELS = [
     series: "DC",
     title: "Batman",
     images: [
-      "images/jace-the-sculpter/dc/batman/jts-batman-1.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-2.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-3.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-4.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-5.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-6.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-7.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-8.jpg",
-      "images/jace-the-sculpter/dc/batman/jts-batman-9.jpg"
+      "images/jace-the-sculptor/dc/batman/jts-batman-1.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-2.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-3.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-4.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-5.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-6.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-7.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-8.jpg",
+      "images/jace-the-sculptor/dc/batman/jts-batman-9.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 20 in (51 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -117,13 +117,13 @@ const MODELS = [
     series: "Marvel",
     title: "Carnage",
     images: [
-      "images/jace-the-sculpter/marvel/carnage/jts-carnage-1.jpg",
-      "images/jace-the-sculpter/marvel/carnage/jts-carnage-2.jpg",
-      "images/jace-the-sculpter/marvel/carnage/jts-carnage-3.jpg",
-      "images/jace-the-sculpter/marvel/carnage/jts-carnage-4.jpg",
-      "images/jace-the-sculpter/marvel/carnage/jts-carnage-5.jpg",
-      "images/jace-the-sculpter/marvel/carnage/jts-carnage-6.jpg",
-      "images/jace-the-sculpter/marvel/carnage/jts-carnage-7.jpg"
+      "images/jace-the-sculptor/marvel/carnage/jts-carnage-1.jpg",
+      "images/jace-the-sculptor/marvel/carnage/jts-carnage-2.jpg",
+      "images/jace-the-sculptor/marvel/carnage/jts-carnage-3.jpg",
+      "images/jace-the-sculptor/marvel/carnage/jts-carnage-4.jpg",
+      "images/jace-the-sculptor/marvel/carnage/jts-carnage-5.jpg",
+      "images/jace-the-sculptor/marvel/carnage/jts-carnage-6.jpg",
+      "images/jace-the-sculptor/marvel/carnage/jts-carnage-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 11.5 in (29.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -136,14 +136,14 @@ const MODELS = [
     series: "Conan",
     title: "Conan the Barbarian",
     images: [
-      "images/jace-the-sculpter/conan/conan/jts-conan-1.jpg",
-      "images/jace-the-sculpter/conan/conan/jts-conan-2.jpg",
-      "images/jace-the-sculpter/conan/conan/jts-conan-3.jpg",
-      "images/jace-the-sculpter/conan/conan/jts-conan-4.jpg",
-      "images/jace-the-sculpter/conan/conan/jts-conan-5.jpg",
-      "images/jace-the-sculpter/conan/conan/jts-conan-6.jpg",
-      "images/jace-the-sculpter/conan/conan/jts-conan-7.jpg",
-      "images/jace-the-sculpter/conan/conan/jts-conan-8.jpg"
+      "images/jace-the-sculptor/conan/conan/jts-conan-1.jpg",
+      "images/jace-the-sculptor/conan/conan/jts-conan-2.jpg",
+      "images/jace-the-sculptor/conan/conan/jts-conan-3.jpg",
+      "images/jace-the-sculptor/conan/conan/jts-conan-4.jpg",
+      "images/jace-the-sculptor/conan/conan/jts-conan-5.jpg",
+      "images/jace-the-sculptor/conan/conan/jts-conan-6.jpg",
+      "images/jace-the-sculptor/conan/conan/jts-conan-7.jpg",
+      "images/jace-the-sculptor/conan/conan/jts-conan-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 21 in (54 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -156,15 +156,15 @@ const MODELS = [
     series: "Marvel",
     title: "Cyclops",
     images: [
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-1.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-2.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-3.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-4.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-5.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-6.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-7.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-8.jpg",
-      "images/jace-the-sculpter/marvel/cyclops/jts-cyclops-9.jpg"
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-1.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-2.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-3.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-4.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-5.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-6.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-7.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-8.jpg",
+      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-9.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12 in (31 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -177,11 +177,11 @@ const MODELS = [
     series: "Marvel",
     title: "Daredevil",
     images: [
-      "images/jace-the-sculpter/marvel/daredevil/jts-daredevil-1.jpg",
-      "images/jace-the-sculpter/marvel/daredevil/jts-daredevil-2.jpg",
-      "images/jace-the-sculpter/marvel/daredevil/jts-daredevil-3.jpg",
-      "images/jace-the-sculpter/marvel/daredevil/jts-daredevil-4.jpg",
-      "images/jace-the-sculpter/marvel/daredevil/jts-daredevil-5.jpg"
+      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-1.jpg",
+      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-2.jpg",
+      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-3.jpg",
+      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-4.jpg",
+      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-5.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -194,14 +194,14 @@ const MODELS = [
     series: "Marvel",
     title: "Doctor Octopus",
     images: [
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-1.jpg",
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-2.jpg",
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-3.jpg",
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-4.jpg",
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-5.jpg",
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-6.jpg",
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-7.jpg",
-      "images/jace-the-sculpter/marvel/doc-ock/jts-doc-ock-8.jpg"
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-1.jpg",
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-2.jpg",
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-3.jpg",
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-4.jpg",
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-5.jpg",
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-6.jpg",
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-7.jpg",
+      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 19 in (47.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -214,14 +214,14 @@ const MODELS = [
     series: "Marvel",
     title: "Drax",
     images: [
-      "images/jace-the-sculpter/marvel/drax/jts-drax-1.jpg",
-      "images/jace-the-sculpter/marvel/drax/jts-drax-2.jpg",
-      "images/jace-the-sculpter/marvel/drax/jts-drax-3.jpg",
-      "images/jace-the-sculpter/marvel/drax/jts-drax-4.jpg",
-      "images/jace-the-sculpter/marvel/drax/jts-drax-5.jpg",
-      "images/jace-the-sculpter/marvel/drax/jts-drax-6.jpg",
-      "images/jace-the-sculpter/marvel/drax/jts-drax-7.jpg",
-      "images/jace-the-sculpter/marvel/drax/jts-drax-8.jpg"
+      "images/jace-the-sculptor/marvel/drax/jts-drax-1.jpg",
+      "images/jace-the-sculptor/marvel/drax/jts-drax-2.jpg",
+      "images/jace-the-sculptor/marvel/drax/jts-drax-3.jpg",
+      "images/jace-the-sculptor/marvel/drax/jts-drax-4.jpg",
+      "images/jace-the-sculptor/marvel/drax/jts-drax-5.jpg",
+      "images/jace-the-sculptor/marvel/drax/jts-drax-6.jpg",
+      "images/jace-the-sculptor/marvel/drax/jts-drax-7.jpg",
+      "images/jace-the-sculptor/marvel/drax/jts-drax-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 13 in (32.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -234,14 +234,14 @@ const MODELS = [
     series: "Marvel",
     title: "Galactus",
     images: [
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-1.jpg",
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-2.jpg",
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-3.jpg",
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-4.jpg",
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-5.jpg",
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-6.jpg",
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-7.jpg",
-      "images/jace-the-sculpter/marvel/galactus/jts-galactus-8.jpg"
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-1.jpg",
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-2.jpg",
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-3.jpg",
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-4.jpg",
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-5.jpg",
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-6.jpg",
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-7.jpg",
+      "images/jace-the-sculptor/marvel/galactus/jts-galactus-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 16 in (40 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -254,14 +254,14 @@ const MODELS = [
     series: "Marvel",
     title: "Gambit",
     images: [
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-1.jpg",
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-2.jpg",
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-3.jpg",
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-4.jpg",
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-5.jpg",
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-6.jpg",
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-7.jpg",
-      "images/jace-the-sculpter/marvel/gambit/jts-gambit-8.jpg"
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-1.jpg",
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-2.jpg",
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-3.jpg",
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-4.jpg",
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-5.jpg",
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-6.jpg",
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-7.jpg",
+      "images/jace-the-sculptor/marvel/gambit/jts-gambit-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 18 in (46 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -274,13 +274,13 @@ const MODELS = [
     series: "Marvel",
     title: "Green Goblin",
     images: [
-      "images/jace-the-sculpter/marvel/green-goblin/jts-green-goblin-1.jpg",
-      "images/jace-the-sculpter/marvel/green-goblin/jts-green-goblin-2.jpg",
-      "images/jace-the-sculpter/marvel/green-goblin/jts-green-goblin-3.jpg",
-      "images/jace-the-sculpter/marvel/green-goblin/jts-green-goblin-4.jpg",
-      "images/jace-the-sculpter/marvel/green-goblin/jts-green-goblin-5.jpg",
-      "images/jace-the-sculpter/marvel/green-goblin/jts-green-goblin-6.jpg",
-      "images/jace-the-sculpter/marvel/green-goblin/jts-green-goblin-7.jpg"
+      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-1.jpg",
+      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-2.jpg",
+      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-3.jpg",
+      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-4.jpg",
+      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-5.jpg",
+      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-6.jpg",
+      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -293,12 +293,12 @@ const MODELS = [
     series: "Marvel",
     title: "Hulk vs The Sentry",
     images: [
-      "images/jace-the-sculpter/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-1.jpg",
-      "images/jace-the-sculpter/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-2.jpg",
-      "images/jace-the-sculpter/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-3.jpg",
-      "images/jace-the-sculpter/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-4.jpg",
-      "images/jace-the-sculpter/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-5.jpg",
-      "images/jace-the-sculpter/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-6.jpg"
+      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-1.jpg",
+      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-2.jpg",
+      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-3.jpg",
+      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-4.jpg",
+      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-5.jpg",
+      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/8 Scale", size: "Approx. 15 in (38 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -311,19 +311,19 @@ const MODELS = [
     series: "Marvel",
     title: "Infernal Hulk",
     images: [
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-1.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-2.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-3.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-4.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-5.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-6.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-7.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-8.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-9.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-10.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-11.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-12.jpg",
-      "images/jace-the-sculpter/marvel/infernal-hulk/jts-infernal-hulk-13.jpg"
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-1.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-2.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-3.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-4.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-5.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-6.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-7.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-8.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-9.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-10.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-11.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-12.jpg",
+      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-13.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 13 in (33 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -336,14 +336,14 @@ const MODELS = [
     series: "DC",
     title: "Joker [X-Mas ver]",
     images: [
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-1.jpg",
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-2.jpg",
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-3.jpg",
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-4.jpg",
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-5.jpg",
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-6.jpg",
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-7.jpg",
-      "images/jace-the-sculpter/dc/joker-xmas/jts-joker-xmas-8.jpg"
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-1.jpg",
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-2.jpg",
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-3.jpg",
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-4.jpg",
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-5.jpg",
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-6.jpg",
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-7.jpg",
+      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -356,21 +356,21 @@ const MODELS = [
     series: "Marvel",
     title: "Magneto",
     images: [
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-1.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-2.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-3.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-4.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-5.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-6.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-7.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-8.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-9.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-10.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-11.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-12.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-13.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-14.jpg",
-      "images/jace-the-sculpter/marvel/magneto/jts-magneto-15.jpg"
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-1.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-2.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-3.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-4.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-5.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-6.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-7.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-8.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-9.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-10.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-11.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-12.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-13.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-14.jpg",
+      "images/jace-the-sculptor/marvel/magneto/jts-magneto-15.jpg"
     ],
     scaleOptions: [
       { scale: "1/7 Scale", size: "Approx. 18 in (47 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -383,13 +383,13 @@ const MODELS = [
     series: "Marvel",
     title: "Nightcrawler",
     images: [
-      "images/jace-the-sculpter/marvel/nightcrawler/jts-nightcrawler-1.jpg",
-      "images/jace-the-sculpter/marvel/nightcrawler/jts-nightcrawler-2.jpg",
-      "images/jace-the-sculpter/marvel/nightcrawler/jts-nightcrawler-3.jpg",
-      "images/jace-the-sculpter/marvel/nightcrawler/jts-nightcrawler-4.jpg",
-      "images/jace-the-sculpter/marvel/nightcrawler/jts-nightcrawler-5.jpg",
-      "images/jace-the-sculpter/marvel/nightcrawler/jts-nightcrawler-6.jpg",
-      "images/jace-the-sculpter/marvel/nightcrawler/jts-nightcrawler-7.jpg"
+      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-1.jpg",
+      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-2.jpg",
+      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-3.jpg",
+      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-4.jpg",
+      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-5.jpg",
+      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-6.jpg",
+      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12.4 in (31.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -402,16 +402,16 @@ const MODELS = [
     series: "DC",
     title: "Robin [Damian Wayne ver]",
     images: [
-      "images/jace-the-sculpter/dc/robin/jts-robin-1.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-2.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-3.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-4.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-5.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-6.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-7.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-8.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-9.jpg",
-      "images/jace-the-sculpter/dc/robin/jts-robin-10.jpg"
+      "images/jace-the-sculptor/dc/robin/jts-robin-1.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-2.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-3.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-4.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-5.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-6.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-7.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-8.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-9.jpg",
+      "images/jace-the-sculptor/dc/robin/jts-robin-10.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 13 in (32 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -424,13 +424,13 @@ const MODELS = [
     series: "Marvel",
     title: "Sabretooth",
     images: [
-      "images/jace-the-sculpter/marvel/sabretooth/jts-sabretooth-1.jpg",
-      "images/jace-the-sculpter/marvel/sabretooth/jts-sabretooth-2.jpg",
-      "images/jace-the-sculpter/marvel/sabretooth/jts-sabretooth-3.jpg",
-      "images/jace-the-sculpter/marvel/sabretooth/jts-sabretooth-4.jpg",
-      "images/jace-the-sculpter/marvel/sabretooth/jts-sabretooth-5.jpg",
-      "images/jace-the-sculpter/marvel/sabretooth/jts-sabretooth-6.jpg",
-      "images/jace-the-sculpter/marvel/sabretooth/jts-sabretooth-7.jpg"
+      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-1.jpg",
+      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-2.jpg",
+      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-3.jpg",
+      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-4.jpg",
+      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-5.jpg",
+      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-6.jpg",
+      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 15 in (28 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -443,12 +443,12 @@ const MODELS = [
     series: "Marvel",
     title: "Spider-Man",
     images: [
-      "images/jace-the-sculpter/marvel/spiderman/jts-spiderman-1.jpg",
-      "images/jace-the-sculpter/marvel/spiderman/jts-spiderman-2.jpg",
-      "images/jace-the-sculpter/marvel/spiderman/jts-spiderman-3.jpg",
-      "images/jace-the-sculpter/marvel/spiderman/jts-spiderman-4.jpg",
-      "images/jace-the-sculpter/marvel/spiderman/jts-spiderman-5.jpg",
-      "images/jace-the-sculpter/marvel/spiderman/jts-spiderman-6.jpg"
+      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-1.jpg",
+      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-2.jpg",
+      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-3.jpg",
+      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-4.jpg",
+      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-5.jpg",
+      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -461,11 +461,11 @@ const MODELS = [
     series: "Marvel",
     title: "Spider-Man 2099",
     images: [
-      "images/jace-the-sculpter/marvel/spiderman-2099/jts-spiderman-2099-1.jpg",
-      "images/jace-the-sculpter/marvel/spiderman-2099/jts-spiderman-2099-2.jpg",
-      "images/jace-the-sculpter/marvel/spiderman-2099/jts-spiderman-2099-3.jpg",
-      "images/jace-the-sculpter/marvel/spiderman-2099/jts-spiderman-2099-4.jpg",
-      "images/jace-the-sculpter/marvel/spiderman-2099/jts-spiderman-2099-5.jpg"
+      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-1.jpg",
+      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-2.jpg",
+      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-3.jpg",
+      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-4.jpg",
+      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-5.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -478,13 +478,13 @@ const MODELS = [
     series: "Marvel",
     title: "Thanos [Annihilation ver]",
     images: [
-      "images/jace-the-sculpter/marvel/thanos-annihilation/jts-thanos-annihilation-1.jpg",
-      "images/jace-the-sculpter/marvel/thanos-annihilation/jts-thanos-annihilation-2.jpg",
-      "images/jace-the-sculpter/marvel/thanos-annihilation/jts-thanos-annihilation-3.jpg",
-      "images/jace-the-sculpter/marvel/thanos-annihilation/jts-thanos-annihilation-4.jpg",
-      "images/jace-the-sculpter/marvel/thanos-annihilation/jts-thanos-annihilation-5.jpg",
-      "images/jace-the-sculpter/marvel/thanos-annihilation/jts-thanos-annihilation-6.jpg",
-      "images/jace-the-sculpter/marvel/thanos-annihilation/jts-thanos-annihilation-7.jpg"
+      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-1.jpg",
+      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-2.jpg",
+      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-3.jpg",
+      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-4.jpg",
+      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-5.jpg",
+      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-6.jpg",
+      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -497,18 +497,18 @@ const MODELS = [
     series: "Marvel",
     title: "The Punisher",
     images: [
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-1.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-2.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-3.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-4.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-5.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-6.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-7.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-8.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-9.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-10.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-11.jpg",
-      "images/jace-the-sculpter/marvel/punisher/jts-punisher-12.jpg"
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-1.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-2.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-3.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-4.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-5.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-6.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-7.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-8.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-9.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-10.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-11.jpg",
+      "images/jace-the-sculptor/marvel/punisher/jts-punisher-12.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12.4 in (36 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -521,13 +521,13 @@ const MODELS = [
     series: "Marvel",
     title: "The Vulture",
     images: [
-      "images/jace-the-sculpter/marvel/vulture/jts-vulture-1.jpg",
-      "images/jace-the-sculpter/marvel/vulture/jts-vulture-2.jpg",
-      "images/jace-the-sculpter/marvel/vulture/jts-vulture-3.jpg",
-      "images/jace-the-sculpter/marvel/vulture/jts-vulture-4.jpg",
-      "images/jace-the-sculpter/marvel/vulture/jts-vulture-5.jpg",
-      "images/jace-the-sculpter/marvel/vulture/jts-vulture-6.jpg",
-      "images/jace-the-sculpter/marvel/vulture/jts-vulture-7.jpg"
+      "images/jace-the-sculptor/marvel/vulture/jts-vulture-1.jpg",
+      "images/jace-the-sculptor/marvel/vulture/jts-vulture-2.jpg",
+      "images/jace-the-sculptor/marvel/vulture/jts-vulture-3.jpg",
+      "images/jace-the-sculptor/marvel/vulture/jts-vulture-4.jpg",
+      "images/jace-the-sculptor/marvel/vulture/jts-vulture-5.jpg",
+      "images/jace-the-sculptor/marvel/vulture/jts-vulture-6.jpg",
+      "images/jace-the-sculptor/marvel/vulture/jts-vulture-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -540,10 +540,10 @@ const MODELS = [
     series: "Marvel",
     title: "Weapon-X",
     images: [
-      "images/jace-the-sculpter/marvel/weaponx/jts-weaponx-1.jpg",
-      "images/jace-the-sculpter/marvel/weaponx/jts-weaponx-2.jpg",
-      "images/jace-the-sculpter/marvel/weaponx/jts-weaponx-3.jpg",
-      "images/jace-the-sculpter/marvel/weaponx/jts-weaponx-4.jpg"
+      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-1.jpg",
+      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-2.jpg",
+      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-3.jpg",
+      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-4.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -556,18 +556,18 @@ const MODELS = [
     series: "Marvel",
     title: "Wolverine",
     images: [
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-1.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-2.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-3.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-4.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-5.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-6.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-7.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-8.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-9.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-10.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-11.jpg",
-      "images/jace-the-sculpter/marvel/wolverine/jts-wolverine-12.jpg"
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-1.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-2.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-3.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-4.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-5.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-6.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-7.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-8.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-9.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-10.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-11.jpg",
+      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-12.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12 in (30 cm) tall", etsyUrl: "LINK_GOES_HERE" }
