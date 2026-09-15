@@ -29,19 +29,19 @@ const MODELS = [
     series: "Spider-Man",
     title: "Spider-Man on Goblin Glider",
     images: [
-      "images/ca3d/marvel/spider-man/spidey-glider-1.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-2.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-3.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-4.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-5.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-6.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-7.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-8.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-9.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-10.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-11.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-12.jpg",
-      "images/ca3d/marvel/spider-man/spidey-glider-13.jpg"
+      "images/ca3d/spider-man/spider-man/spidey-glider-1.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-2.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-3.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-4.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-5.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-6.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-7.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-8.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-9.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-10.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-11.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-12.jpg",
+      "images/ca3d/spider-man/spider-man/spidey-glider-13.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Approx. 25 in (63.5 cm) tall", etsyUrl: "https://www.etsy.com/listing/4497859644/spider-man-3d-printed-scale-resin-statue" },
@@ -55,17 +55,17 @@ const MODELS = [
     series: "Batman",
     title: "Absolute Batman",
     images: [
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-1.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-2.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-3.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-4.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-5.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-6.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-7.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-8.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-9.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-10.jpg",
-      "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-11.jpg"
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-1.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-2.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-3.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-4.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-5.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-6.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-7.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-8.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-9.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-10.jpg",
+      "images/jace-the-sculptor/batman/absolute-batman/jts-absolute-batman-11.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 19 in (50 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -78,12 +78,12 @@ const MODELS = [
     series: "Batman",
     title: "Bane",
     images: [
-      "images/jace-the-sculptor/dc/bane/jts-bane-1.jpg",
-      "images/jace-the-sculptor/dc/bane/jts-bane-2.jpg",
-      "images/jace-the-sculptor/dc/bane/jts-bane-3.jpg",
-      "images/jace-the-sculptor/dc/bane/jts-bane-4.jpg",
-      "images/jace-the-sculptor/dc/bane/jts-bane-5.jpg",
-      "images/jace-the-sculptor/dc/bane/jts-bane-6.jpg"
+      "images/jace-the-sculptor/batman/bane/jts-bane-1.jpg",
+      "images/jace-the-sculptor/batman/bane/jts-bane-2.jpg",
+      "images/jace-the-sculptor/batman/bane/jts-bane-3.jpg",
+      "images/jace-the-sculptor/batman/bane/jts-bane-4.jpg",
+      "images/jace-the-sculptor/batman/bane/jts-bane-5.jpg",
+      "images/jace-the-sculptor/batman/bane/jts-bane-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -96,15 +96,15 @@ const MODELS = [
     series: "Batman",
     title: "Batman",
     images: [
-      "images/jace-the-sculptor/dc/batman/jts-batman-1.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-2.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-3.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-4.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-5.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-6.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-7.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-8.jpg",
-      "images/jace-the-sculptor/dc/batman/jts-batman-9.jpg"
+      "images/jace-the-sculptor/batman/batman/jts-batman-1.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-2.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-3.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-4.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-5.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-6.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-7.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-8.jpg",
+      "images/jace-the-sculptor/batman/batman/jts-batman-9.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 20 in (51 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -117,13 +117,13 @@ const MODELS = [
     series: "Spider-Man",
     title: "Carnage",
     images: [
-      "images/jace-the-sculptor/marvel/carnage/jts-carnage-1.jpg",
-      "images/jace-the-sculptor/marvel/carnage/jts-carnage-2.jpg",
-      "images/jace-the-sculptor/marvel/carnage/jts-carnage-3.jpg",
-      "images/jace-the-sculptor/marvel/carnage/jts-carnage-4.jpg",
-      "images/jace-the-sculptor/marvel/carnage/jts-carnage-5.jpg",
-      "images/jace-the-sculptor/marvel/carnage/jts-carnage-6.jpg",
-      "images/jace-the-sculptor/marvel/carnage/jts-carnage-7.jpg"
+      "images/jace-the-sculptor/spider-man/carnage/jts-carnage-1.jpg",
+      "images/jace-the-sculptor/spider-man/carnage/jts-carnage-2.jpg",
+      "images/jace-the-sculptor/spider-man/carnage/jts-carnage-3.jpg",
+      "images/jace-the-sculptor/spider-man/carnage/jts-carnage-4.jpg",
+      "images/jace-the-sculptor/spider-man/carnage/jts-carnage-5.jpg",
+      "images/jace-the-sculptor/spider-man/carnage/jts-carnage-6.jpg",
+      "images/jace-the-sculptor/spider-man/carnage/jts-carnage-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 11.5 in (29.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -156,15 +156,15 @@ const MODELS = [
     series: "X-Men",
     title: "Cyclops",
     images: [
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-1.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-2.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-3.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-4.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-5.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-6.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-7.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-8.jpg",
-      "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-9.jpg"
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-1.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-2.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-3.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-4.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-5.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-6.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-7.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-8.jpg",
+      "images/jace-the-sculptor/x-men/cyclops/jts-cyclops-9.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12 in (31 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -177,11 +177,11 @@ const MODELS = [
     series: "Daredevil",
     title: "Daredevil",
     images: [
-      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-1.jpg",
-      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-2.jpg",
-      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-3.jpg",
-      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-4.jpg",
-      "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-5.jpg"
+      "images/jace-the-sculptor/daredevil/daredevil/jts-daredevil-1.jpg",
+      "images/jace-the-sculptor/daredevil/daredevil/jts-daredevil-2.jpg",
+      "images/jace-the-sculptor/daredevil/daredevil/jts-daredevil-3.jpg",
+      "images/jace-the-sculptor/daredevil/daredevil/jts-daredevil-4.jpg",
+      "images/jace-the-sculptor/daredevil/daredevil/jts-daredevil-5.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -194,14 +194,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Doctor Octopus",
     images: [
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-1.jpg",
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-2.jpg",
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-3.jpg",
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-4.jpg",
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-5.jpg",
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-6.jpg",
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-7.jpg",
-      "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-8.jpg"
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-1.jpg",
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-2.jpg",
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-3.jpg",
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-4.jpg",
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-5.jpg",
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-6.jpg",
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-7.jpg",
+      "images/jace-the-sculptor/spider-man/doc-ock/jts-doc-ock-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 19 in (47.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -214,14 +214,14 @@ const MODELS = [
     series: "Guardians of the Galaxy",
     title: "Drax",
     images: [
-      "images/jace-the-sculptor/marvel/drax/jts-drax-1.jpg",
-      "images/jace-the-sculptor/marvel/drax/jts-drax-2.jpg",
-      "images/jace-the-sculptor/marvel/drax/jts-drax-3.jpg",
-      "images/jace-the-sculptor/marvel/drax/jts-drax-4.jpg",
-      "images/jace-the-sculptor/marvel/drax/jts-drax-5.jpg",
-      "images/jace-the-sculptor/marvel/drax/jts-drax-6.jpg",
-      "images/jace-the-sculptor/marvel/drax/jts-drax-7.jpg",
-      "images/jace-the-sculptor/marvel/drax/jts-drax-8.jpg"
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-1.jpg",
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-2.jpg",
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-3.jpg",
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-4.jpg",
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-5.jpg",
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-6.jpg",
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-7.jpg",
+      "images/jace-the-sculptor/guardians-of-the-galaxy/drax/jts-drax-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 13 in (32.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -234,14 +234,14 @@ const MODELS = [
     series: "Fantastic Four",
     title: "Galactus",
     images: [
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-1.jpg",
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-2.jpg",
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-3.jpg",
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-4.jpg",
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-5.jpg",
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-6.jpg",
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-7.jpg",
-      "images/jace-the-sculptor/marvel/galactus/jts-galactus-8.jpg"
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-1.jpg",
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-2.jpg",
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-3.jpg",
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-4.jpg",
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-5.jpg",
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-6.jpg",
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-7.jpg",
+      "images/jace-the-sculptor/fantastic-four/galactus/jts-galactus-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 16 in (40 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -254,14 +254,14 @@ const MODELS = [
     series: "X-Men",
     title: "Gambit",
     images: [
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-1.jpg",
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-2.jpg",
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-3.jpg",
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-4.jpg",
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-5.jpg",
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-6.jpg",
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-7.jpg",
-      "images/jace-the-sculptor/marvel/gambit/jts-gambit-8.jpg"
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-1.jpg",
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-2.jpg",
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-3.jpg",
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-4.jpg",
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-5.jpg",
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-6.jpg",
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-7.jpg",
+      "images/jace-the-sculptor/x-men/gambit/jts-gambit-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 18 in (46 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -274,13 +274,13 @@ const MODELS = [
     series: "Spider-Man",
     title: "Green Goblin",
     images: [
-      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-1.jpg",
-      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-2.jpg",
-      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-3.jpg",
-      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-4.jpg",
-      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-5.jpg",
-      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-6.jpg",
-      "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-7.jpg"
+      "images/jace-the-sculptor/spider-man/green-goblin/jts-green-goblin-1.jpg",
+      "images/jace-the-sculptor/spider-man/green-goblin/jts-green-goblin-2.jpg",
+      "images/jace-the-sculptor/spider-man/green-goblin/jts-green-goblin-3.jpg",
+      "images/jace-the-sculptor/spider-man/green-goblin/jts-green-goblin-4.jpg",
+      "images/jace-the-sculptor/spider-man/green-goblin/jts-green-goblin-5.jpg",
+      "images/jace-the-sculptor/spider-man/green-goblin/jts-green-goblin-6.jpg",
+      "images/jace-the-sculptor/spider-man/green-goblin/jts-green-goblin-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -293,12 +293,12 @@ const MODELS = [
     series: "Hulk",
     title: "Hulk vs The Sentry",
     images: [
-      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-1.jpg",
-      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-2.jpg",
-      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-3.jpg",
-      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-4.jpg",
-      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-5.jpg",
-      "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-6.jpg"
+      "images/jace-the-sculptor/hulk/hulk-vs-sentry/jts-hulk-vs-sentry-1.jpg",
+      "images/jace-the-sculptor/hulk/hulk-vs-sentry/jts-hulk-vs-sentry-2.jpg",
+      "images/jace-the-sculptor/hulk/hulk-vs-sentry/jts-hulk-vs-sentry-3.jpg",
+      "images/jace-the-sculptor/hulk/hulk-vs-sentry/jts-hulk-vs-sentry-4.jpg",
+      "images/jace-the-sculptor/hulk/hulk-vs-sentry/jts-hulk-vs-sentry-5.jpg",
+      "images/jace-the-sculptor/hulk/hulk-vs-sentry/jts-hulk-vs-sentry-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/8 Scale", size: "Approx. 15 in (38 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -311,19 +311,19 @@ const MODELS = [
     series: "Hulk",
     title: "Infernal Hulk",
     images: [
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-1.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-2.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-3.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-4.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-5.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-6.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-7.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-8.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-9.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-10.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-11.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-12.jpg",
-      "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-13.jpg"
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-1.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-2.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-3.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-4.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-5.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-6.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-7.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-8.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-9.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-10.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-11.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-12.jpg",
+      "images/jace-the-sculptor/hulk/infernal-hulk/jts-infernal-hulk-13.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 13 in (33 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -336,14 +336,14 @@ const MODELS = [
     series: "Batman",
     title: "Joker [X-Mas ver]",
     images: [
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-1.jpg",
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-2.jpg",
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-3.jpg",
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-4.jpg",
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-5.jpg",
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-6.jpg",
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-7.jpg",
-      "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-8.jpg"
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-1.jpg",
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-2.jpg",
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-3.jpg",
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-4.jpg",
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-5.jpg",
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-6.jpg",
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-7.jpg",
+      "images/jace-the-sculptor/batman/joker-xmas/jts-joker-xmas-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -356,21 +356,21 @@ const MODELS = [
     series: "X-Men",
     title: "Magneto",
     images: [
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-1.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-2.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-3.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-4.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-5.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-6.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-7.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-8.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-9.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-10.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-11.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-12.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-13.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-14.jpg",
-      "images/jace-the-sculptor/marvel/magneto/jts-magneto-15.jpg"
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-1.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-2.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-3.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-4.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-5.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-6.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-7.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-8.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-9.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-10.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-11.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-12.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-13.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-14.jpg",
+      "images/jace-the-sculptor/x-men/magneto/jts-magneto-15.jpg"
     ],
     scaleOptions: [
       { scale: "1/7 Scale", size: "Approx. 18 in (47 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -383,13 +383,13 @@ const MODELS = [
     series: "X-Men",
     title: "Nightcrawler",
     images: [
-      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-1.jpg",
-      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-2.jpg",
-      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-3.jpg",
-      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-4.jpg",
-      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-5.jpg",
-      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-6.jpg",
-      "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-7.jpg"
+      "images/jace-the-sculptor/x-men/nightcrawler/jts-nightcrawler-1.jpg",
+      "images/jace-the-sculptor/x-men/nightcrawler/jts-nightcrawler-2.jpg",
+      "images/jace-the-sculptor/x-men/nightcrawler/jts-nightcrawler-3.jpg",
+      "images/jace-the-sculptor/x-men/nightcrawler/jts-nightcrawler-4.jpg",
+      "images/jace-the-sculptor/x-men/nightcrawler/jts-nightcrawler-5.jpg",
+      "images/jace-the-sculptor/x-men/nightcrawler/jts-nightcrawler-6.jpg",
+      "images/jace-the-sculptor/x-men/nightcrawler/jts-nightcrawler-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12.4 in (31.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -402,16 +402,16 @@ const MODELS = [
     series: "Batman",
     title: "Robin [Damian Wayne ver]",
     images: [
-      "images/jace-the-sculptor/dc/robin/jts-robin-1.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-2.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-3.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-4.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-5.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-6.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-7.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-8.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-9.jpg",
-      "images/jace-the-sculptor/dc/robin/jts-robin-10.jpg"
+      "images/jace-the-sculptor/batman/robin/jts-robin-1.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-2.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-3.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-4.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-5.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-6.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-7.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-8.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-9.jpg",
+      "images/jace-the-sculptor/batman/robin/jts-robin-10.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 13 in (32 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -424,13 +424,13 @@ const MODELS = [
     series: "X-Men",
     title: "Sabretooth",
     images: [
-      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-1.jpg",
-      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-2.jpg",
-      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-3.jpg",
-      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-4.jpg",
-      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-5.jpg",
-      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-6.jpg",
-      "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-7.jpg"
+      "images/jace-the-sculptor/x-men/sabretooth/jts-sabretooth-1.jpg",
+      "images/jace-the-sculptor/x-men/sabretooth/jts-sabretooth-2.jpg",
+      "images/jace-the-sculptor/x-men/sabretooth/jts-sabretooth-3.jpg",
+      "images/jace-the-sculptor/x-men/sabretooth/jts-sabretooth-4.jpg",
+      "images/jace-the-sculptor/x-men/sabretooth/jts-sabretooth-5.jpg",
+      "images/jace-the-sculptor/x-men/sabretooth/jts-sabretooth-6.jpg",
+      "images/jace-the-sculptor/x-men/sabretooth/jts-sabretooth-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 15 in (28 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -443,12 +443,12 @@ const MODELS = [
     series: "Spider-Man",
     title: "Spider-Man",
     images: [
-      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-1.jpg",
-      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-2.jpg",
-      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-3.jpg",
-      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-4.jpg",
-      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-5.jpg",
-      "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-6.jpg"
+      "images/jace-the-sculptor/spider-man/spiderman/jts-spiderman-1.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman/jts-spiderman-2.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman/jts-spiderman-3.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman/jts-spiderman-4.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman/jts-spiderman-5.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman/jts-spiderman-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -461,11 +461,11 @@ const MODELS = [
     series: "Spider-Man",
     title: "Spider-Man 2099",
     images: [
-      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-1.jpg",
-      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-2.jpg",
-      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-3.jpg",
-      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-4.jpg",
-      "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-5.jpg"
+      "images/jace-the-sculptor/spider-man/spiderman-2099/jts-spiderman-2099-1.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman-2099/jts-spiderman-2099-2.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman-2099/jts-spiderman-2099-3.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman-2099/jts-spiderman-2099-4.jpg",
+      "images/jace-the-sculptor/spider-man/spiderman-2099/jts-spiderman-2099-5.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -478,13 +478,13 @@ const MODELS = [
     series: "Avengers",
     title: "Thanos [Annihilation ver]",
     images: [
-      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-1.jpg",
-      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-2.jpg",
-      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-3.jpg",
-      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-4.jpg",
-      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-5.jpg",
-      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-6.jpg",
-      "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-7.jpg"
+      "images/jace-the-sculptor/avengers/thanos-annihilation/jts-thanos-annihilation-1.jpg",
+      "images/jace-the-sculptor/avengers/thanos-annihilation/jts-thanos-annihilation-2.jpg",
+      "images/jace-the-sculptor/avengers/thanos-annihilation/jts-thanos-annihilation-3.jpg",
+      "images/jace-the-sculptor/avengers/thanos-annihilation/jts-thanos-annihilation-4.jpg",
+      "images/jace-the-sculptor/avengers/thanos-annihilation/jts-thanos-annihilation-5.jpg",
+      "images/jace-the-sculptor/avengers/thanos-annihilation/jts-thanos-annihilation-6.jpg",
+      "images/jace-the-sculptor/avengers/thanos-annihilation/jts-thanos-annihilation-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -497,18 +497,18 @@ const MODELS = [
     series: "Punisher",
     title: "The Punisher",
     images: [
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-1.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-2.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-3.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-4.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-5.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-6.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-7.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-8.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-9.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-10.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-11.jpg",
-      "images/jace-the-sculptor/marvel/punisher/jts-punisher-12.jpg"
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-1.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-2.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-3.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-4.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-5.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-6.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-7.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-8.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-9.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-10.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-11.jpg",
+      "images/jace-the-sculptor/punisher/punisher/jts-punisher-12.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12.4 in (36 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -521,13 +521,13 @@ const MODELS = [
     series: "Spider-Man",
     title: "The Vulture",
     images: [
-      "images/jace-the-sculptor/marvel/vulture/jts-vulture-1.jpg",
-      "images/jace-the-sculptor/marvel/vulture/jts-vulture-2.jpg",
-      "images/jace-the-sculptor/marvel/vulture/jts-vulture-3.jpg",
-      "images/jace-the-sculptor/marvel/vulture/jts-vulture-4.jpg",
-      "images/jace-the-sculptor/marvel/vulture/jts-vulture-5.jpg",
-      "images/jace-the-sculptor/marvel/vulture/jts-vulture-6.jpg",
-      "images/jace-the-sculptor/marvel/vulture/jts-vulture-7.jpg"
+      "images/jace-the-sculptor/spider-man/vulture/jts-vulture-1.jpg",
+      "images/jace-the-sculptor/spider-man/vulture/jts-vulture-2.jpg",
+      "images/jace-the-sculptor/spider-man/vulture/jts-vulture-3.jpg",
+      "images/jace-the-sculptor/spider-man/vulture/jts-vulture-4.jpg",
+      "images/jace-the-sculptor/spider-man/vulture/jts-vulture-5.jpg",
+      "images/jace-the-sculptor/spider-man/vulture/jts-vulture-6.jpg",
+      "images/jace-the-sculptor/spider-man/vulture/jts-vulture-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -540,10 +540,10 @@ const MODELS = [
     series: "X-Men",
     title: "Weapon-X",
     images: [
-      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-1.jpg",
-      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-2.jpg",
-      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-3.jpg",
-      "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-4.jpg"
+      "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-1.jpg",
+      "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-2.jpg",
+      "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-3.jpg",
+      "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-4.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -556,18 +556,18 @@ const MODELS = [
     series: "X-Men",
     title: "Wolverine",
     images: [
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-1.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-2.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-3.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-4.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-5.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-6.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-7.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-8.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-9.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-10.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-11.jpg",
-      "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-12.jpg"
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-1.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-2.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-3.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-4.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-5.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-6.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-7.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-8.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-9.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-10.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-11.jpg",
+      "images/jace-the-sculptor/x-men/wolverine/jts-wolverine-12.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12 in (30 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -580,13 +580,13 @@ const MODELS = [
     series: "Batman",
     title: "Absolute Batman",
     images: [
-      "images/kc-studio/dc/absolute-batman/absolute-batman-1.jpg",
-      "images/kc-studio/dc/absolute-batman/absolute-batman-2.jpg",
-      "images/kc-studio/dc/absolute-batman/absolute-batman-3.jpg",
-      "images/kc-studio/dc/absolute-batman/absolute-batman-4.jpg",
-      "images/kc-studio/dc/absolute-batman/absolute-batman-5.jpg",
-      "images/kc-studio/dc/absolute-batman/absolute-batman-6.jpg",
-      "images/kc-studio/dc/absolute-batman/absolute-batman-7.jpg"
+      "images/kc-studio/batman/absolute-batman/absolute-batman-1.jpg",
+      "images/kc-studio/batman/absolute-batman/absolute-batman-2.jpg",
+      "images/kc-studio/batman/absolute-batman/absolute-batman-3.jpg",
+      "images/kc-studio/batman/absolute-batman/absolute-batman-4.jpg",
+      "images/kc-studio/batman/absolute-batman/absolute-batman-5.jpg",
+      "images/kc-studio/batman/absolute-batman/absolute-batman-6.jpg",
+      "images/kc-studio/batman/absolute-batman/absolute-batman-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12 in (30 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -636,12 +636,12 @@ const MODELS = [
     series: "Batman",
     title: "Batman on the Throne",
     images: [
-      "images/kc-studio/dc/batman-chair/batman-1.jpg",
-      "images/kc-studio/dc/batman-chair/batman-2.jpg",
-      "images/kc-studio/dc/batman-chair/batman-3.jpg",
-      "images/kc-studio/dc/batman-chair/batman-4.jpg",
-      "images/kc-studio/dc/batman-chair/batman-5.jpg",
-      "images/kc-studio/dc/batman-chair/batman-6.jpg"
+      "images/kc-studio/batman/batman-chair/batman-1.jpg",
+      "images/kc-studio/batman/batman-chair/batman-2.jpg",
+      "images/kc-studio/batman/batman-chair/batman-3.jpg",
+      "images/kc-studio/batman/batman-chair/batman-4.jpg",
+      "images/kc-studio/batman/batman-chair/batman-5.jpg",
+      "images/kc-studio/batman/batman-chair/batman-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 13 in (32.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -916,14 +916,14 @@ const MODELS = [
     series: "Moon Knight",
     title: "Moon Knight",
     images: [
-      "images/kc-studio/marvel/moon-knight/moon-knight-1.jpg",
-      "images/kc-studio/marvel/moon-knight/moon-knight-2.jpg",
-      "images/kc-studio/marvel/moon-knight/moon-knight-3.jpg",
-      "images/kc-studio/marvel/moon-knight/moon-knight-4.jpg",
-      "images/kc-studio/marvel/moon-knight/moon-knight-5.jpg",
-      "images/kc-studio/marvel/moon-knight/moon-knight-6.jpg",
-      "images/kc-studio/marvel/moon-knight/moon-knight-7.jpg",
-      "images/kc-studio/marvel/moon-knight/moon-knight-8.jpg"
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-1.jpg",
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-2.jpg",
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-3.jpg",
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-4.jpg",
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-5.jpg",
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-6.jpg",
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-7.jpg",
+      "images/kc-studio/moon-knight/moon-knight/moon-knight-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 15 in (39.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -1064,12 +1064,12 @@ const MODELS = [
     series: "Superman",
     title: "Superman [2026]",
     images: [
-      "images/kc-studio/dc/superman-2026/superman-1.jpg",
-      "images/kc-studio/dc/superman-2026/superman-2.jpg",
-      "images/kc-studio/dc/superman-2026/superman-3.jpg",
-      "images/kc-studio/dc/superman-2026/superman-4.jpg",
-      "images/kc-studio/dc/superman-2026/superman-5.jpg",
-      "images/kc-studio/dc/superman-2026/superman-6.jpg"
+      "images/kc-studio/superman/superman-2026/superman-1.jpg",
+      "images/kc-studio/superman/superman-2026/superman-2.jpg",
+      "images/kc-studio/superman/superman-2026/superman-3.jpg",
+      "images/kc-studio/superman/superman-2026/superman-4.jpg",
+      "images/kc-studio/superman/superman-2026/superman-5.jpg",
+      "images/kc-studio/superman/superman-2026/superman-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 15 in (37.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -1117,15 +1117,15 @@ const MODELS = [
     series: "Venom",
     title: "Venom",
     images: [
-      "images/kc-studio/marvel/venom/venom-1.jpg",
-      "images/kc-studio/marvel/venom/venom-2.jpg",
-      "images/kc-studio/marvel/venom/venom-3.jpg",
-      "images/kc-studio/marvel/venom/venom-4.jpg",
-      "images/kc-studio/marvel/venom/venom-5.jpg",
-      "images/kc-studio/marvel/venom/venom-6.jpg",
-      "images/kc-studio/marvel/venom/venom-7.jpg",
-      "images/kc-studio/marvel/venom/venom-8.jpg",
-      "images/kc-studio/marvel/venom/venom-9.jpg"
+      "images/kc-studio/venom/venom/venom-1.jpg",
+      "images/kc-studio/venom/venom/venom-2.jpg",
+      "images/kc-studio/venom/venom/venom-3.jpg",
+      "images/kc-studio/venom/venom/venom-4.jpg",
+      "images/kc-studio/venom/venom/venom-5.jpg",
+      "images/kc-studio/venom/venom/venom-6.jpg",
+      "images/kc-studio/venom/venom/venom-7.jpg",
+      "images/kc-studio/venom/venom/venom-8.jpg",
+      "images/kc-studio/venom/venom/venom-9.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 14 in (34.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
@@ -1160,14 +1160,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Spider-Man vs Venom",
     images: [
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-1.jpg",
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-2.jpg",
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-3.jpg",
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-4.jpg",
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-5.jpg",
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-6.jpg",
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-7.jpg",
-      "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-8.jpg"
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-1.jpg",
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-2.jpg",
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-3.jpg",
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-4.jpg",
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-5.jpg",
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-6.jpg",
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-7.jpg",
+      "images/tanuki-figures/spider-man/spider-man-vs-venom/spiderman-venom-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/8 Scale", size: "Approx. 9 in (23 cm) tall", etsyUrl: "https://www.etsy.com/listing/4495843541/spider-man-vs-venom-resin-model-kit-3d" }
@@ -1592,14 +1592,14 @@ const MODELS = [
     series: "Batman",
     title: "Batgirl",
     images: [
-      "images/abe3d/dc/batgirl/abe-batgirl-1.jpg",
-      "images/abe3d/dc/batgirl/abe-batgirl-2.jpg",
-      "images/abe3d/dc/batgirl/abe-batgirl-3.jpg",
-      "images/abe3d/dc/batgirl/abe-batgirl-4.jpg",
-      "images/abe3d/dc/batgirl/abe-batgirl-5.jpg",
-      "images/abe3d/dc/batgirl/abe-batgirl-6.jpg",
-      "images/abe3d/dc/batgirl/abe-batgirl-7.jpg",
-      "images/abe3d/dc/batgirl/abe-batgirl-8.jpg"
+      "images/abe3d/batman/batgirl/abe-batgirl-1.jpg",
+      "images/abe3d/batman/batgirl/abe-batgirl-2.jpg",
+      "images/abe3d/batman/batgirl/abe-batgirl-3.jpg",
+      "images/abe3d/batman/batgirl/abe-batgirl-4.jpg",
+      "images/abe3d/batman/batgirl/abe-batgirl-5.jpg",
+      "images/abe3d/batman/batgirl/abe-batgirl-6.jpg",
+      "images/abe3d/batman/batgirl/abe-batgirl-7.jpg",
+      "images/abe3d/batman/batgirl/abe-batgirl-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1613,9 +1613,9 @@ const MODELS = [
     series: "Batman",
     title: "Batwoman Bombshell",
     images: [
-      "images/abe3d/dc/batwoman-bombshell/abe-batwoman-bombshell-1.jpg",
-      "images/abe3d/dc/batwoman-bombshell/abe-batwoman-bombshell-2.jpg",
-      "images/abe3d/dc/batwoman-bombshell/abe-batwoman-bombshell-3.jpg"
+      "images/abe3d/batman/batwoman-bombshell/abe-batwoman-bombshell-1.jpg",
+      "images/abe3d/batman/batwoman-bombshell/abe-batwoman-bombshell-2.jpg",
+      "images/abe3d/batman/batwoman-bombshell/abe-batwoman-bombshell-3.jpg"
     ],
     scaleOptions: [
       { scale: "Non-scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -1628,14 +1628,14 @@ const MODELS = [
     series: "Batman",
     title: "Catwoman",
     images: [
-      "images/abe3d/dc/catwoman/abe-catwoman-1.jpg",
-      "images/abe3d/dc/catwoman/abe-catwoman-2.jpg",
-      "images/abe3d/dc/catwoman/abe-catwoman-3.jpg",
-      "images/abe3d/dc/catwoman/abe-catwoman-4.jpg",
-      "images/abe3d/dc/catwoman/abe-catwoman-5.jpg",
-      "images/abe3d/dc/catwoman/abe-catwoman-6.jpg",
-      "images/abe3d/dc/catwoman/abe-catwoman-7.jpg",
-      "images/abe3d/dc/catwoman/abe-catwoman-8.jpg"
+      "images/abe3d/batman/catwoman/abe-catwoman-1.jpg",
+      "images/abe3d/batman/catwoman/abe-catwoman-2.jpg",
+      "images/abe3d/batman/catwoman/abe-catwoman-3.jpg",
+      "images/abe3d/batman/catwoman/abe-catwoman-4.jpg",
+      "images/abe3d/batman/catwoman/abe-catwoman-5.jpg",
+      "images/abe3d/batman/catwoman/abe-catwoman-6.jpg",
+      "images/abe3d/batman/catwoman/abe-catwoman-7.jpg",
+      "images/abe3d/batman/catwoman/abe-catwoman-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1649,14 +1649,14 @@ const MODELS = [
     series: "Teen Titans",
     title: "Donna Troy",
     images: [
-      "images/abe3d/dc/donna-troy/abe-donna-troy-1.jpg",
-      "images/abe3d/dc/donna-troy/abe-donna-troy-2.jpg",
-      "images/abe3d/dc/donna-troy/abe-donna-troy-3.jpg",
-      "images/abe3d/dc/donna-troy/abe-donna-troy-4.jpg",
-      "images/abe3d/dc/donna-troy/abe-donna-troy-5.jpg",
-      "images/abe3d/dc/donna-troy/abe-donna-troy-6.jpg",
-      "images/abe3d/dc/donna-troy/abe-donna-troy-7.jpg",
-      "images/abe3d/dc/donna-troy/abe-donna-troy-8.jpg"
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-1.jpg",
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-2.jpg",
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-3.jpg",
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-4.jpg",
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-5.jpg",
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-6.jpg",
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-7.jpg",
+      "images/abe3d/teen-titans/donna-troy/abe-donna-troy-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -1669,14 +1669,14 @@ const MODELS = [
     series: "Batman",
     title: "Harley Quinn Classic",
     images: [
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-1.jpg",
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-2.jpg",
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-3.jpg",
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-4.jpg",
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-5.jpg",
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-6.jpg",
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-7.jpg",
-      "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-8.jpg"
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-1.jpg",
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-2.jpg",
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-3.jpg",
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-4.jpg",
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-5.jpg",
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-6.jpg",
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-7.jpg",
+      "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1690,13 +1690,13 @@ const MODELS = [
     series: "Batman",
     title: "Harley Quinn pine",
     images: [
-      "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-1.jpg",
-      "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-2.jpg",
-      "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-3.jpg",
-      "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-4.jpg",
-      "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-5.jpg",
-      "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-6.jpg",
-      "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-7.jpg"
+      "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-1.jpg",
+      "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-2.jpg",
+      "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-3.jpg",
+      "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-4.jpg",
+      "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-5.jpg",
+      "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-6.jpg",
+      "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1710,14 +1710,14 @@ const MODELS = [
     series: "Justice League",
     title: "Hawkgirl",
     images: [
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-1.jpg",
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-2.jpg",
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-3.jpg",
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-4.jpg",
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-5.jpg",
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-6.jpg",
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-7.jpg",
-      "images/abe3d/dc/hawkgirl/abe-hawkgirl-8.jpg"
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-1.jpg",
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-2.jpg",
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-3.jpg",
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-4.jpg",
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-5.jpg",
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-6.jpg",
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-7.jpg",
+      "images/abe3d/justice-league/hawkgirl/abe-hawkgirl-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -1730,14 +1730,14 @@ const MODELS = [
     series: "Green Lantern",
     title: "Jessica Cruz Green Lantern",
     images: [
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-1.jpg",
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-2.jpg",
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-3.jpg",
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-4.jpg",
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-5.jpg",
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-6.jpg",
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-7.jpg",
-      "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-8.jpg"
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-1.jpg",
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-2.jpg",
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-3.jpg",
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-4.jpg",
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-5.jpg",
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-6.jpg",
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-7.jpg",
+      "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1751,12 +1751,12 @@ const MODELS = [
     series: "Suicide Squad",
     title: "Katana Bombshell",
     images: [
-      "images/abe3d/dc/katana-bombshell/abe-katana-bombshell-1.jpg",
-      "images/abe3d/dc/katana-bombshell/abe-katana-bombshell-2.jpg",
-      "images/abe3d/dc/katana-bombshell/abe-katana-bombshell-3.jpg",
-      "images/abe3d/dc/katana-bombshell/abe-katana-bombshell-4.jpg",
-      "images/abe3d/dc/katana-bombshell/abe-katana-bombshell-5.jpg",
-      "images/abe3d/dc/katana-bombshell/abe-katana-bombshell-6.jpg"
+      "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-1.jpg",
+      "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-2.jpg",
+      "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-3.jpg",
+      "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-4.jpg",
+      "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-5.jpg",
+      "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1770,14 +1770,14 @@ const MODELS = [
     series: "Justice League",
     title: "Killer Frost",
     images: [
-      "images/abe3d/dc/killer-frost/abe-killer-frost-1.jpg",
-      "images/abe3d/dc/killer-frost/abe-killer-frost-2.jpg",
-      "images/abe3d/dc/killer-frost/abe-killer-frost-3.jpg",
-      "images/abe3d/dc/killer-frost/abe-killer-frost-4.jpg",
-      "images/abe3d/dc/killer-frost/abe-killer-frost-5.jpg",
-      "images/abe3d/dc/killer-frost/abe-killer-frost-6.jpg",
-      "images/abe3d/dc/killer-frost/abe-killer-frost-7.jpg",
-      "images/abe3d/dc/killer-frost/abe-killer-frost-8.jpg"
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-1.jpg",
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-2.jpg",
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-3.jpg",
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-4.jpg",
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-5.jpg",
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-6.jpg",
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-7.jpg",
+      "images/abe3d/justice-league/killer-frost/abe-killer-frost-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -1790,14 +1790,14 @@ const MODELS = [
     series: "Superman",
     title: "Lois Lane",
     images: [
-      "images/abe3d/dc/lois-lane/abe-lois-lane-1.jpg",
-      "images/abe3d/dc/lois-lane/abe-lois-lane-2.jpg",
-      "images/abe3d/dc/lois-lane/abe-lois-lane-3.jpg",
-      "images/abe3d/dc/lois-lane/abe-lois-lane-4.jpg",
-      "images/abe3d/dc/lois-lane/abe-lois-lane-5.jpg",
-      "images/abe3d/dc/lois-lane/abe-lois-lane-6.jpg",
-      "images/abe3d/dc/lois-lane/abe-lois-lane-7.jpg",
-      "images/abe3d/dc/lois-lane/abe-lois-lane-8.jpg"
+      "images/abe3d/superman/lois-lane/abe-lois-lane-1.jpg",
+      "images/abe3d/superman/lois-lane/abe-lois-lane-2.jpg",
+      "images/abe3d/superman/lois-lane/abe-lois-lane-3.jpg",
+      "images/abe3d/superman/lois-lane/abe-lois-lane-4.jpg",
+      "images/abe3d/superman/lois-lane/abe-lois-lane-5.jpg",
+      "images/abe3d/superman/lois-lane/abe-lois-lane-6.jpg",
+      "images/abe3d/superman/lois-lane/abe-lois-lane-7.jpg",
+      "images/abe3d/superman/lois-lane/abe-lois-lane-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1811,14 +1811,14 @@ const MODELS = [
     series: "Shazam",
     title: "Marry Marvel Bombshell",
     images: [
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-1.jpg",
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-2.jpg",
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-3.jpg",
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-4.jpg",
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-5.jpg",
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-6.jpg",
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-7.jpg",
-      "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-8.jpg"
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-1.jpg",
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-2.jpg",
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-3.jpg",
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-4.jpg",
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-5.jpg",
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-6.jpg",
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-7.jpg",
+      "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1832,13 +1832,13 @@ const MODELS = [
     series: "Aquaman",
     title: "Mera Bombshell",
     images: [
-      "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-1.jpg",
-      "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-2.jpg",
-      "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-3.jpg",
-      "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-4.jpg",
-      "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-5.jpg",
-      "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-6.jpg",
-      "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-7.jpg"
+      "images/abe3d/aquaman/mera-bombshell/abe-mera-bombshell-1.jpg",
+      "images/abe3d/aquaman/mera-bombshell/abe-mera-bombshell-2.jpg",
+      "images/abe3d/aquaman/mera-bombshell/abe-mera-bombshell-3.jpg",
+      "images/abe3d/aquaman/mera-bombshell/abe-mera-bombshell-4.jpg",
+      "images/abe3d/aquaman/mera-bombshell/abe-mera-bombshell-5.jpg",
+      "images/abe3d/aquaman/mera-bombshell/abe-mera-bombshell-6.jpg",
+      "images/abe3d/aquaman/mera-bombshell/abe-mera-bombshell-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1852,14 +1852,14 @@ const MODELS = [
     series: "Batman",
     title: "Poison Ivy",
     images: [
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-1.jpg",
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-2.jpg",
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-3.jpg",
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-4.jpg",
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-5.jpg",
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-6.jpg",
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-7.jpg",
-      "images/abe3d/dc/poison-ivy/abe-poison-ivy-8.jpg"
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-1.jpg",
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-2.jpg",
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-3.jpg",
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-4.jpg",
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-5.jpg",
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-6.jpg",
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-7.jpg",
+      "images/abe3d/batman/poison-ivy/abe-poison-ivy-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1873,14 +1873,14 @@ const MODELS = [
     series: "Superman",
     title: "Powergirl",
     images: [
-      "images/abe3d/dc/powergirl/abe-powergirl-1.jpg",
-      "images/abe3d/dc/powergirl/abe-powergirl-2.jpg",
-      "images/abe3d/dc/powergirl/abe-powergirl-3.jpg",
-      "images/abe3d/dc/powergirl/abe-powergirl-4.jpg",
-      "images/abe3d/dc/powergirl/abe-powergirl-5.jpg",
-      "images/abe3d/dc/powergirl/abe-powergirl-6.jpg",
-      "images/abe3d/dc/powergirl/abe-powergirl-7.jpg",
-      "images/abe3d/dc/powergirl/abe-powergirl-8.jpg"
+      "images/abe3d/superman/powergirl/abe-powergirl-1.jpg",
+      "images/abe3d/superman/powergirl/abe-powergirl-2.jpg",
+      "images/abe3d/superman/powergirl/abe-powergirl-3.jpg",
+      "images/abe3d/superman/powergirl/abe-powergirl-4.jpg",
+      "images/abe3d/superman/powergirl/abe-powergirl-5.jpg",
+      "images/abe3d/superman/powergirl/abe-powergirl-6.jpg",
+      "images/abe3d/superman/powergirl/abe-powergirl-7.jpg",
+      "images/abe3d/superman/powergirl/abe-powergirl-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1894,14 +1894,14 @@ const MODELS = [
     series: "Superman",
     title: "Powergirl by Dellas",
     images: [
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-1.jpg",
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-2.jpg",
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-3.jpg",
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-4.jpg",
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-5.jpg",
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-6.jpg",
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-7.jpg",
-      "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-8.jpg"
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-1.jpg",
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-2.jpg",
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-3.jpg",
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-4.jpg",
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-5.jpg",
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-6.jpg",
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-7.jpg",
+      "images/abe3d/superman/powergirl-by-dellas/abe-powergirl-by-dellas-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1915,14 +1915,14 @@ const MODELS = [
     series: "Teen Titans",
     title: "Raven Bombshell",
     images: [
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-1.jpg",
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-2.jpg",
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-3.jpg",
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-4.jpg",
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-5.jpg",
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-6.jpg",
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-7.jpg",
-      "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-8.jpg"
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-1.jpg",
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-2.jpg",
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-3.jpg",
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-4.jpg",
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-5.jpg",
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-6.jpg",
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-7.jpg",
+      "images/abe3d/teen-titans/raven-bombshell/abe-raven-bombshell-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1936,13 +1936,13 @@ const MODELS = [
     series: "Green Lantern",
     title: "Star Sapphire",
     images: [
-      "images/abe3d/dc/star-sapphire/abe-star-sapphire-1.jpg",
-      "images/abe3d/dc/star-sapphire/abe-star-sapphire-2.jpg",
-      "images/abe3d/dc/star-sapphire/abe-star-sapphire-3.jpg",
-      "images/abe3d/dc/star-sapphire/abe-star-sapphire-4.jpg",
-      "images/abe3d/dc/star-sapphire/abe-star-sapphire-5.jpg",
-      "images/abe3d/dc/star-sapphire/abe-star-sapphire-6.jpg",
-      "images/abe3d/dc/star-sapphire/abe-star-sapphire-7.jpg"
+      "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-1.jpg",
+      "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-2.jpg",
+      "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-3.jpg",
+      "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-4.jpg",
+      "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-5.jpg",
+      "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-6.jpg",
+      "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1956,14 +1956,14 @@ const MODELS = [
     series: "Teen Titans",
     title: "Starfire",
     images: [
-      "images/abe3d/dc/starfire/abe-starfire-1.jpg",
-      "images/abe3d/dc/starfire/abe-starfire-2.jpg",
-      "images/abe3d/dc/starfire/abe-starfire-3.jpg",
-      "images/abe3d/dc/starfire/abe-starfire-4.jpg",
-      "images/abe3d/dc/starfire/abe-starfire-5.jpg",
-      "images/abe3d/dc/starfire/abe-starfire-6.jpg",
-      "images/abe3d/dc/starfire/abe-starfire-7.jpg",
-      "images/abe3d/dc/starfire/abe-starfire-8.jpg"
+      "images/abe3d/teen-titans/starfire/abe-starfire-1.jpg",
+      "images/abe3d/teen-titans/starfire/abe-starfire-2.jpg",
+      "images/abe3d/teen-titans/starfire/abe-starfire-3.jpg",
+      "images/abe3d/teen-titans/starfire/abe-starfire-4.jpg",
+      "images/abe3d/teen-titans/starfire/abe-starfire-5.jpg",
+      "images/abe3d/teen-titans/starfire/abe-starfire-6.jpg",
+      "images/abe3d/teen-titans/starfire/abe-starfire-7.jpg",
+      "images/abe3d/teen-titans/starfire/abe-starfire-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -1976,14 +1976,14 @@ const MODELS = [
     series: "Superman",
     title: "Supergirl",
     images: [
-      "images/abe3d/dc/supergirl/abe-supergirl-1.jpg",
-      "images/abe3d/dc/supergirl/abe-supergirl-2.jpg",
-      "images/abe3d/dc/supergirl/abe-supergirl-3.jpg",
-      "images/abe3d/dc/supergirl/abe-supergirl-4.jpg",
-      "images/abe3d/dc/supergirl/abe-supergirl-5.jpg",
-      "images/abe3d/dc/supergirl/abe-supergirl-6.jpg",
-      "images/abe3d/dc/supergirl/abe-supergirl-7.jpg",
-      "images/abe3d/dc/supergirl/abe-supergirl-8.jpg"
+      "images/abe3d/superman/supergirl/abe-supergirl-1.jpg",
+      "images/abe3d/superman/supergirl/abe-supergirl-2.jpg",
+      "images/abe3d/superman/supergirl/abe-supergirl-3.jpg",
+      "images/abe3d/superman/supergirl/abe-supergirl-4.jpg",
+      "images/abe3d/superman/supergirl/abe-supergirl-5.jpg",
+      "images/abe3d/superman/supergirl/abe-supergirl-6.jpg",
+      "images/abe3d/superman/supergirl/abe-supergirl-7.jpg",
+      "images/abe3d/superman/supergirl/abe-supergirl-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -1997,10 +1997,10 @@ const MODELS = [
     series: "Superman",
     title: "Supergirl Bombshell",
     images: [
-      "images/abe3d/dc/supergirl-bombshell/abe-supergirl-bombshell-1.jpg",
-      "images/abe3d/dc/supergirl-bombshell/abe-supergirl-bombshell-2.jpg",
-      "images/abe3d/dc/supergirl-bombshell/abe-supergirl-bombshell-3.jpg",
-      "images/abe3d/dc/supergirl-bombshell/abe-supergirl-bombshell-4.jpg"
+      "images/abe3d/superman/supergirl-bombshell/abe-supergirl-bombshell-1.jpg",
+      "images/abe3d/superman/supergirl-bombshell/abe-supergirl-bombshell-2.jpg",
+      "images/abe3d/superman/supergirl-bombshell/abe-supergirl-bombshell-3.jpg",
+      "images/abe3d/superman/supergirl-bombshell/abe-supergirl-bombshell-4.jpg"
     ],
     scaleOptions: [
       { scale: "Non-scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -2013,13 +2013,13 @@ const MODELS = [
     series: "Superman",
     title: "Supergirl Retro",
     images: [
-      "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-1.jpg",
-      "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-2.jpg",
-      "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-3.jpg",
-      "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-4.jpg",
-      "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-5.jpg",
-      "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-6.jpg",
-      "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-7.jpg"
+      "images/abe3d/superman/supergirl-retro/abe-supergirl-retro-1.jpg",
+      "images/abe3d/superman/supergirl-retro/abe-supergirl-retro-2.jpg",
+      "images/abe3d/superman/supergirl-retro/abe-supergirl-retro-3.jpg",
+      "images/abe3d/superman/supergirl-retro/abe-supergirl-retro-4.jpg",
+      "images/abe3d/superman/supergirl-retro/abe-supergirl-retro-5.jpg",
+      "images/abe3d/superman/supergirl-retro/abe-supergirl-retro-6.jpg",
+      "images/abe3d/superman/supergirl-retro/abe-supergirl-retro-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2033,14 +2033,14 @@ const MODELS = [
     series: "Justice League",
     title: "Vixen",
     images: [
-      "images/abe3d/dc/vixen/abe-vixen-1.jpg",
-      "images/abe3d/dc/vixen/abe-vixen-2.jpg",
-      "images/abe3d/dc/vixen/abe-vixen-3.jpg",
-      "images/abe3d/dc/vixen/abe-vixen-4.jpg",
-      "images/abe3d/dc/vixen/abe-vixen-5.jpg",
-      "images/abe3d/dc/vixen/abe-vixen-6.jpg",
-      "images/abe3d/dc/vixen/abe-vixen-7.jpg",
-      "images/abe3d/dc/vixen/abe-vixen-8.jpg"
+      "images/abe3d/justice-league/vixen/abe-vixen-1.jpg",
+      "images/abe3d/justice-league/vixen/abe-vixen-2.jpg",
+      "images/abe3d/justice-league/vixen/abe-vixen-3.jpg",
+      "images/abe3d/justice-league/vixen/abe-vixen-4.jpg",
+      "images/abe3d/justice-league/vixen/abe-vixen-5.jpg",
+      "images/abe3d/justice-league/vixen/abe-vixen-6.jpg",
+      "images/abe3d/justice-league/vixen/abe-vixen-7.jpg",
+      "images/abe3d/justice-league/vixen/abe-vixen-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2054,14 +2054,14 @@ const MODELS = [
     series: "Wonder Woman",
     title: "Wonder Woman",
     images: [
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-1.jpg",
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-2.jpg",
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-3.jpg",
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-4.jpg",
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-5.jpg",
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-6.jpg",
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-7.jpg",
-      "images/abe3d/dc/wonder-woman/abe-wonder-woman-8.jpg"
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-1.jpg",
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-2.jpg",
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-3.jpg",
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-4.jpg",
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-5.jpg",
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-6.jpg",
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-7.jpg",
+      "images/abe3d/wonder-woman/wonder-woman/abe-wonder-woman-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2075,9 +2075,9 @@ const MODELS = [
     series: "Wonder Woman",
     title: "Wonder Woman Bombshell",
     images: [
-      "images/abe3d/dc/wonder-woman-bombshell/abe-wonder-woman-bombshell-1.jpg",
-      "images/abe3d/dc/wonder-woman-bombshell/abe-wonder-woman-bombshell-2.jpg",
-      "images/abe3d/dc/wonder-woman-bombshell/abe-wonder-woman-bombshell-3.jpg"
+      "images/abe3d/wonder-woman/wonder-woman-bombshell/abe-wonder-woman-bombshell-1.jpg",
+      "images/abe3d/wonder-woman/wonder-woman-bombshell/abe-wonder-woman-bombshell-2.jpg",
+      "images/abe3d/wonder-woman/wonder-woman-bombshell/abe-wonder-woman-bombshell-3.jpg"
     ],
     scaleOptions: [
       { scale: "Non-scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -2090,14 +2090,14 @@ const MODELS = [
     series: "Justice League",
     title: "Zatanna",
     images: [
-      "images/abe3d/dc/zatanna/abe-zatanna-1.jpg",
-      "images/abe3d/dc/zatanna/abe-zatanna-2.jpg",
-      "images/abe3d/dc/zatanna/abe-zatanna-3.jpg",
-      "images/abe3d/dc/zatanna/abe-zatanna-4.jpg",
-      "images/abe3d/dc/zatanna/abe-zatanna-5.jpg",
-      "images/abe3d/dc/zatanna/abe-zatanna-6.jpg",
-      "images/abe3d/dc/zatanna/abe-zatanna-7.jpg",
-      "images/abe3d/dc/zatanna/abe-zatanna-8.jpg"
+      "images/abe3d/justice-league/zatanna/abe-zatanna-1.jpg",
+      "images/abe3d/justice-league/zatanna/abe-zatanna-2.jpg",
+      "images/abe3d/justice-league/zatanna/abe-zatanna-3.jpg",
+      "images/abe3d/justice-league/zatanna/abe-zatanna-4.jpg",
+      "images/abe3d/justice-league/zatanna/abe-zatanna-5.jpg",
+      "images/abe3d/justice-league/zatanna/abe-zatanna-6.jpg",
+      "images/abe3d/justice-league/zatanna/abe-zatanna-7.jpg",
+      "images/abe3d/justice-league/zatanna/abe-zatanna-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2111,14 +2111,14 @@ const MODELS = [
     series: "Justice League",
     title: "Zatanna dellas",
     images: [
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-1.jpg",
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-2.jpg",
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-3.jpg",
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-4.jpg",
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-5.jpg",
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-6.jpg",
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-7.jpg",
-      "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-8.jpg"
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-1.jpg",
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-2.jpg",
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-3.jpg",
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-4.jpg",
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-5.jpg",
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-6.jpg",
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-7.jpg",
+      "images/abe3d/justice-league/zatanna-dellas/abe-zatanna-dellas-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2588,13 +2588,13 @@ const MODELS = [
     series: "Avengers",
     title: "America Chavez",
     images: [
-      "images/abe3d/marvel/america-chavez/abe-america-chavez-1.jpg",
-      "images/abe3d/marvel/america-chavez/abe-america-chavez-2.jpg",
-      "images/abe3d/marvel/america-chavez/abe-america-chavez-3.jpg",
-      "images/abe3d/marvel/america-chavez/abe-america-chavez-4.jpg",
-      "images/abe3d/marvel/america-chavez/abe-america-chavez-5.jpg",
-      "images/abe3d/marvel/america-chavez/abe-america-chavez-6.jpg",
-      "images/abe3d/marvel/america-chavez/abe-america-chavez-7.jpg"
+      "images/abe3d/avengers/america-chavez/abe-america-chavez-1.jpg",
+      "images/abe3d/avengers/america-chavez/abe-america-chavez-2.jpg",
+      "images/abe3d/avengers/america-chavez/abe-america-chavez-3.jpg",
+      "images/abe3d/avengers/america-chavez/abe-america-chavez-4.jpg",
+      "images/abe3d/avengers/america-chavez/abe-america-chavez-5.jpg",
+      "images/abe3d/avengers/america-chavez/abe-america-chavez-6.jpg",
+      "images/abe3d/avengers/america-chavez/abe-america-chavez-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2608,13 +2608,13 @@ const MODELS = [
     series: "Spider-Man",
     title: "Black Cat abe",
     images: [
-      "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-1.jpg",
-      "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-2.jpg",
-      "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-3.jpg",
-      "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-4.jpg",
-      "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-5.jpg",
-      "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-6.jpg",
-      "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-7.jpg"
+      "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-1.jpg",
+      "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-2.jpg",
+      "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-3.jpg",
+      "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-4.jpg",
+      "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-5.jpg",
+      "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-6.jpg",
+      "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2628,14 +2628,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Black Cat Hellfire Gala",
     images: [
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-7.jpg",
-      "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-8.jpg"
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-1.jpg",
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-2.jpg",
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-3.jpg",
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-4.jpg",
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-5.jpg",
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-6.jpg",
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-7.jpg",
+      "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2649,14 +2649,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Black Cat Matc3D",
     images: [
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-1.jpg",
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-2.jpg",
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-3.jpg",
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-4.jpg",
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-5.jpg",
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-6.jpg",
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-7.jpg",
-      "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-8.jpg"
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-1.jpg",
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-2.jpg",
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-3.jpg",
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-4.jpg",
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-5.jpg",
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-6.jpg",
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-7.jpg",
+      "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -2669,14 +2669,14 @@ const MODELS = [
     series: "Avengers",
     title: "Black Widow",
     images: [
-      "images/abe3d/marvel/black-widow/abe-black-widow-1.jpg",
-      "images/abe3d/marvel/black-widow/abe-black-widow-2.jpg",
-      "images/abe3d/marvel/black-widow/abe-black-widow-3.jpg",
-      "images/abe3d/marvel/black-widow/abe-black-widow-4.jpg",
-      "images/abe3d/marvel/black-widow/abe-black-widow-5.jpg",
-      "images/abe3d/marvel/black-widow/abe-black-widow-6.jpg",
-      "images/abe3d/marvel/black-widow/abe-black-widow-7.jpg",
-      "images/abe3d/marvel/black-widow/abe-black-widow-8.jpg"
+      "images/abe3d/avengers/black-widow/abe-black-widow-1.jpg",
+      "images/abe3d/avengers/black-widow/abe-black-widow-2.jpg",
+      "images/abe3d/avengers/black-widow/abe-black-widow-3.jpg",
+      "images/abe3d/avengers/black-widow/abe-black-widow-4.jpg",
+      "images/abe3d/avengers/black-widow/abe-black-widow-5.jpg",
+      "images/abe3d/avengers/black-widow/abe-black-widow-6.jpg",
+      "images/abe3d/avengers/black-widow/abe-black-widow-7.jpg",
+      "images/abe3d/avengers/black-widow/abe-black-widow-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2690,14 +2690,14 @@ const MODELS = [
     series: "X-Men",
     title: "Blink",
     images: [
-      "images/abe3d/marvel/blink/abe-blink-1.jpg",
-      "images/abe3d/marvel/blink/abe-blink-2.jpg",
-      "images/abe3d/marvel/blink/abe-blink-3.jpg",
-      "images/abe3d/marvel/blink/abe-blink-4.jpg",
-      "images/abe3d/marvel/blink/abe-blink-5.jpg",
-      "images/abe3d/marvel/blink/abe-blink-6.jpg",
-      "images/abe3d/marvel/blink/abe-blink-7.jpg",
-      "images/abe3d/marvel/blink/abe-blink-8.jpg"
+      "images/abe3d/x-men/blink/abe-blink-1.jpg",
+      "images/abe3d/x-men/blink/abe-blink-2.jpg",
+      "images/abe3d/x-men/blink/abe-blink-3.jpg",
+      "images/abe3d/x-men/blink/abe-blink-4.jpg",
+      "images/abe3d/x-men/blink/abe-blink-5.jpg",
+      "images/abe3d/x-men/blink/abe-blink-6.jpg",
+      "images/abe3d/x-men/blink/abe-blink-7.jpg",
+      "images/abe3d/x-men/blink/abe-blink-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2711,14 +2711,14 @@ const MODELS = [
     series: "X-Men",
     title: "Cptn Britain - Betsy Braddock Hellfire Gala",
     images: [
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-7.jpg",
-      "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-8.jpg"
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-1.jpg",
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-2.jpg",
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-3.jpg",
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-4.jpg",
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-5.jpg",
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-6.jpg",
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-7.jpg",
+      "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2732,14 +2732,14 @@ const MODELS = [
     series: "X-Men",
     title: "Dark Phoenix",
     images: [
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-1.jpg",
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-2.jpg",
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-3.jpg",
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-4.jpg",
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-5.jpg",
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-6.jpg",
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-7.jpg",
-      "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-8.jpg"
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-1.jpg",
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-2.jpg",
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-3.jpg",
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-4.jpg",
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-5.jpg",
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-6.jpg",
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-7.jpg",
+      "images/abe3d/x-men/dark-phoenix/abe-dark-phoenix-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2753,14 +2753,14 @@ const MODELS = [
     series: "X-Men",
     title: "dazzler",
     images: [
-      "images/abe3d/marvel/dazzler/abe-dazzler-1.jpg",
-      "images/abe3d/marvel/dazzler/abe-dazzler-2.jpg",
-      "images/abe3d/marvel/dazzler/abe-dazzler-3.jpg",
-      "images/abe3d/marvel/dazzler/abe-dazzler-4.jpg",
-      "images/abe3d/marvel/dazzler/abe-dazzler-5.jpg",
-      "images/abe3d/marvel/dazzler/abe-dazzler-6.jpg",
-      "images/abe3d/marvel/dazzler/abe-dazzler-7.jpg",
-      "images/abe3d/marvel/dazzler/abe-dazzler-8.jpg"
+      "images/abe3d/x-men/dazzler/abe-dazzler-1.jpg",
+      "images/abe3d/x-men/dazzler/abe-dazzler-2.jpg",
+      "images/abe3d/x-men/dazzler/abe-dazzler-3.jpg",
+      "images/abe3d/x-men/dazzler/abe-dazzler-4.jpg",
+      "images/abe3d/x-men/dazzler/abe-dazzler-5.jpg",
+      "images/abe3d/x-men/dazzler/abe-dazzler-6.jpg",
+      "images/abe3d/x-men/dazzler/abe-dazzler-7.jpg",
+      "images/abe3d/x-men/dazzler/abe-dazzler-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2774,14 +2774,14 @@ const MODELS = [
     series: "Daredevil",
     title: "Elektra abe",
     images: [
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-1.jpg",
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-2.jpg",
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-3.jpg",
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-4.jpg",
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-5.jpg",
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-6.jpg",
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-7.jpg",
-      "images/abe3d/marvel/elektra-abe/abe-elektra-abe-8.jpg"
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-1.jpg",
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-2.jpg",
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-3.jpg",
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-4.jpg",
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-5.jpg",
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-6.jpg",
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-7.jpg",
+      "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2795,14 +2795,14 @@ const MODELS = [
     series: "Daredevil",
     title: "Elektra lt3d",
     images: [
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-1.jpg",
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-2.jpg",
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-3.jpg",
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-4.jpg",
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-5.jpg",
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-6.jpg",
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-7.jpg",
-      "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-8.jpg"
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-1.jpg",
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-2.jpg",
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-3.jpg",
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-4.jpg",
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-5.jpg",
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-6.jpg",
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-7.jpg",
+      "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2816,14 +2816,14 @@ const MODELS = [
     series: "X-Men",
     title: "Emma Frost",
     images: [
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-1.jpg",
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-2.jpg",
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-3.jpg",
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-4.jpg",
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-5.jpg",
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-6.jpg",
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-7.jpg",
-      "images/abe3d/marvel/emma-frost/abe-emma-frost-8.jpg"
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-1.jpg",
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-2.jpg",
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-3.jpg",
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-4.jpg",
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-5.jpg",
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-6.jpg",
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-7.jpg",
+      "images/abe3d/x-men/emma-frost/abe-emma-frost-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2837,14 +2837,14 @@ const MODELS = [
     series: "X-Men",
     title: "Emma Frost Matc3d",
     images: [
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-1.jpg",
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-2.jpg",
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-3.jpg",
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-4.jpg",
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-5.jpg",
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-6.jpg",
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-7.jpg",
-      "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-8.jpg"
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-1.jpg",
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-2.jpg",
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-3.jpg",
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-4.jpg",
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-5.jpg",
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-6.jpg",
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-7.jpg",
+      "images/abe3d/x-men/emma-frost-matc3d/abe-emma-frost-matc3d-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -2857,14 +2857,14 @@ const MODELS = [
     series: "X-Men",
     title: "Emma Frost White Queen",
     images: [
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-1.jpg",
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-2.jpg",
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-3.jpg",
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-4.jpg",
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-5.jpg",
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-6.jpg",
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-7.jpg",
-      "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-8.jpg"
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-1.jpg",
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-2.jpg",
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-3.jpg",
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-4.jpg",
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-5.jpg",
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-6.jpg",
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-7.jpg",
+      "images/abe3d/x-men/emma-frost-white-queen/abe-emma-frost-white-queen-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2878,13 +2878,13 @@ const MODELS = [
     series: "Avengers",
     title: "Enchantress",
     images: [
-      "images/abe3d/marvel/enchantress/abe-enchantress-1.jpg",
-      "images/abe3d/marvel/enchantress/abe-enchantress-2.jpg",
-      "images/abe3d/marvel/enchantress/abe-enchantress-3.jpg",
-      "images/abe3d/marvel/enchantress/abe-enchantress-4.jpg",
-      "images/abe3d/marvel/enchantress/abe-enchantress-5.jpg",
-      "images/abe3d/marvel/enchantress/abe-enchantress-6.jpg",
-      "images/abe3d/marvel/enchantress/abe-enchantress-7.jpg"
+      "images/abe3d/avengers/enchantress/abe-enchantress-1.jpg",
+      "images/abe3d/avengers/enchantress/abe-enchantress-2.jpg",
+      "images/abe3d/avengers/enchantress/abe-enchantress-3.jpg",
+      "images/abe3d/avengers/enchantress/abe-enchantress-4.jpg",
+      "images/abe3d/avengers/enchantress/abe-enchantress-5.jpg",
+      "images/abe3d/avengers/enchantress/abe-enchantress-6.jpg",
+      "images/abe3d/avengers/enchantress/abe-enchantress-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2898,13 +2898,13 @@ const MODELS = [
     series: "Guardians of the Galaxy",
     title: "Gamora",
     images: [
-      "images/abe3d/marvel/gamora/abe-gamora-1.jpg",
-      "images/abe3d/marvel/gamora/abe-gamora-2.jpg",
-      "images/abe3d/marvel/gamora/abe-gamora-3.jpg",
-      "images/abe3d/marvel/gamora/abe-gamora-4.jpg",
-      "images/abe3d/marvel/gamora/abe-gamora-5.jpg",
-      "images/abe3d/marvel/gamora/abe-gamora-6.jpg",
-      "images/abe3d/marvel/gamora/abe-gamora-7.jpg"
+      "images/abe3d/guardians-of-the-galaxy/gamora/abe-gamora-1.jpg",
+      "images/abe3d/guardians-of-the-galaxy/gamora/abe-gamora-2.jpg",
+      "images/abe3d/guardians-of-the-galaxy/gamora/abe-gamora-3.jpg",
+      "images/abe3d/guardians-of-the-galaxy/gamora/abe-gamora-4.jpg",
+      "images/abe3d/guardians-of-the-galaxy/gamora/abe-gamora-5.jpg",
+      "images/abe3d/guardians-of-the-galaxy/gamora/abe-gamora-6.jpg",
+      "images/abe3d/guardians-of-the-galaxy/gamora/abe-gamora-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2918,14 +2918,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Gwen Stacy LT3D",
     images: [
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-1.jpg",
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-2.jpg",
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-3.jpg",
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-4.jpg",
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-5.jpg",
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-6.jpg",
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-7.jpg",
-      "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-8.jpg"
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-1.jpg",
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-2.jpg",
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-3.jpg",
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-4.jpg",
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-5.jpg",
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-6.jpg",
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-7.jpg",
+      "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2939,13 +2939,13 @@ const MODELS = [
     series: "Deadpool",
     title: "Gwenpool",
     images: [
-      "images/abe3d/marvel/gwenpool/abe-gwenpool-1.jpg",
-      "images/abe3d/marvel/gwenpool/abe-gwenpool-2.jpg",
-      "images/abe3d/marvel/gwenpool/abe-gwenpool-3.jpg",
-      "images/abe3d/marvel/gwenpool/abe-gwenpool-4.jpg",
-      "images/abe3d/marvel/gwenpool/abe-gwenpool-5.jpg",
-      "images/abe3d/marvel/gwenpool/abe-gwenpool-6.jpg",
-      "images/abe3d/marvel/gwenpool/abe-gwenpool-7.jpg"
+      "images/abe3d/deadpool/gwenpool/abe-gwenpool-1.jpg",
+      "images/abe3d/deadpool/gwenpool/abe-gwenpool-2.jpg",
+      "images/abe3d/deadpool/gwenpool/abe-gwenpool-3.jpg",
+      "images/abe3d/deadpool/gwenpool/abe-gwenpool-4.jpg",
+      "images/abe3d/deadpool/gwenpool/abe-gwenpool-5.jpg",
+      "images/abe3d/deadpool/gwenpool/abe-gwenpool-6.jpg",
+      "images/abe3d/deadpool/gwenpool/abe-gwenpool-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -2958,14 +2958,14 @@ const MODELS = [
     series: "X-Men",
     title: "Jean Grey",
     images: [
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-1.jpg",
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-2.jpg",
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-3.jpg",
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-4.jpg",
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-5.jpg",
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-6.jpg",
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-7.jpg",
-      "images/abe3d/marvel/jean-grey/abe-jean-grey-8.jpg"
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-1.jpg",
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-2.jpg",
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-3.jpg",
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-4.jpg",
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-5.jpg",
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-6.jpg",
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-7.jpg",
+      "images/abe3d/x-men/jean-grey/abe-jean-grey-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -2979,14 +2979,14 @@ const MODELS = [
     series: "X-Men",
     title: "Jean Grey Black Queen",
     images: [
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-1.jpg",
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-2.jpg",
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-3.jpg",
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-4.jpg",
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-5.jpg",
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-6.jpg",
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-7.jpg",
-      "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-8.jpg"
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-1.jpg",
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-2.jpg",
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-3.jpg",
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-4.jpg",
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-5.jpg",
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-6.jpg",
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-7.jpg",
+      "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3000,14 +3000,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Jessica Drew Spiderwoman",
     images: [
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-1.jpg",
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-2.jpg",
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-3.jpg",
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-4.jpg",
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-5.jpg",
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-6.jpg",
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-7.jpg",
-      "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-8.jpg"
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-1.jpg",
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-2.jpg",
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-3.jpg",
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-4.jpg",
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-5.jpg",
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-6.jpg",
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-7.jpg",
+      "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3021,14 +3021,14 @@ const MODELS = [
     series: "X-Men",
     title: "Jubilee",
     images: [
-      "images/abe3d/marvel/jubilee/abe-jubilee-1.jpg",
-      "images/abe3d/marvel/jubilee/abe-jubilee-2.jpg",
-      "images/abe3d/marvel/jubilee/abe-jubilee-3.jpg",
-      "images/abe3d/marvel/jubilee/abe-jubilee-4.jpg",
-      "images/abe3d/marvel/jubilee/abe-jubilee-5.jpg",
-      "images/abe3d/marvel/jubilee/abe-jubilee-6.jpg",
-      "images/abe3d/marvel/jubilee/abe-jubilee-7.jpg",
-      "images/abe3d/marvel/jubilee/abe-jubilee-8.jpg"
+      "images/abe3d/x-men/jubilee/abe-jubilee-1.jpg",
+      "images/abe3d/x-men/jubilee/abe-jubilee-2.jpg",
+      "images/abe3d/x-men/jubilee/abe-jubilee-3.jpg",
+      "images/abe3d/x-men/jubilee/abe-jubilee-4.jpg",
+      "images/abe3d/x-men/jubilee/abe-jubilee-5.jpg",
+      "images/abe3d/x-men/jubilee/abe-jubilee-6.jpg",
+      "images/abe3d/x-men/jubilee/abe-jubilee-7.jpg",
+      "images/abe3d/x-men/jubilee/abe-jubilee-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3042,14 +3042,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Julia Carpenter Spiderwoman",
     images: [
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-1.jpg",
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-2.jpg",
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-3.jpg",
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-4.jpg",
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-5.jpg",
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-6.jpg",
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-7.jpg",
-      "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-8.jpg"
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-1.jpg",
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-2.jpg",
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-3.jpg",
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-4.jpg",
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-5.jpg",
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-6.jpg",
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-7.jpg",
+      "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3063,14 +3063,14 @@ const MODELS = [
     series: "Deadpool",
     title: "Lady Deadpool",
     images: [
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-1.jpg",
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-2.jpg",
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-3.jpg",
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-4.jpg",
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-5.jpg",
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-6.jpg",
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-7.jpg",
-      "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-8.jpg"
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-1.jpg",
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-2.jpg",
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-3.jpg",
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-4.jpg",
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-5.jpg",
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-6.jpg",
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-7.jpg",
+      "images/abe3d/deadpool/lady-deadpool/abe-lady-deadpool-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3084,13 +3084,13 @@ const MODELS = [
     series: "X-Men",
     title: "Laura Kinney Wolverine",
     images: [
-      "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-1.jpg",
-      "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-2.jpg",
-      "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-3.jpg",
-      "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-4.jpg",
-      "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-5.jpg",
-      "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-6.jpg",
-      "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-7.jpg"
+      "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-1.jpg",
+      "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-2.jpg",
+      "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-3.jpg",
+      "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-4.jpg",
+      "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-5.jpg",
+      "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-6.jpg",
+      "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3118,14 +3118,14 @@ const MODELS = [
     series: "X-Men",
     title: "Madelyne Pryor",
     images: [
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-1.jpg",
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-2.jpg",
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-3.jpg",
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-4.jpg",
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-5.jpg",
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-6.jpg",
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-7.jpg",
-      "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-8.jpg"
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-1.jpg",
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-2.jpg",
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-3.jpg",
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-4.jpg",
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-5.jpg",
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-6.jpg",
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-7.jpg",
+      "images/abe3d/x-men/madelyne-pryor/abe-madelyne-pryor-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3139,14 +3139,14 @@ const MODELS = [
     series: "X-Men",
     title: "Magik",
     images: [
-      "images/abe3d/marvel/magik/abe-magik-1.jpg",
-      "images/abe3d/marvel/magik/abe-magik-2.jpg",
-      "images/abe3d/marvel/magik/abe-magik-3.jpg",
-      "images/abe3d/marvel/magik/abe-magik-4.jpg",
-      "images/abe3d/marvel/magik/abe-magik-5.jpg",
-      "images/abe3d/marvel/magik/abe-magik-6.jpg",
-      "images/abe3d/marvel/magik/abe-magik-7.jpg",
-      "images/abe3d/marvel/magik/abe-magik-8.jpg"
+      "images/abe3d/x-men/magik/abe-magik-1.jpg",
+      "images/abe3d/x-men/magik/abe-magik-2.jpg",
+      "images/abe3d/x-men/magik/abe-magik-3.jpg",
+      "images/abe3d/x-men/magik/abe-magik-4.jpg",
+      "images/abe3d/x-men/magik/abe-magik-5.jpg",
+      "images/abe3d/x-men/magik/abe-magik-6.jpg",
+      "images/abe3d/x-men/magik/abe-magik-7.jpg",
+      "images/abe3d/x-men/magik/abe-magik-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3160,14 +3160,14 @@ const MODELS = [
     series: "X-Men",
     title: "Magik Cyberpunk",
     images: [
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-1.jpg",
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-2.jpg",
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-3.jpg",
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-4.jpg",
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-5.jpg",
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-6.jpg",
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-7.jpg",
-      "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-8.jpg"
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-1.jpg",
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-2.jpg",
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-3.jpg",
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-4.jpg",
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-5.jpg",
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-6.jpg",
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-7.jpg",
+      "images/abe3d/x-men/magik-cyberpunk/abe-magik-cyberpunk-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3181,15 +3181,15 @@ const MODELS = [
     series: "Spider-Man",
     title: "Mary Jane",
     images: [
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-1.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-2.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-3.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-4.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-5.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-6.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-7.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-8.jpg",
-      "images/abe3d/marvel/mary-jane/abe-mary-jane-9.jpg"
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-1.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-2.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-3.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-4.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-5.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-6.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-7.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-8.jpg",
+      "images/abe3d/spider-man/mary-jane/abe-mary-jane-9.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3203,14 +3203,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Mary Jane dellas",
     images: [
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-1.jpg",
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-2.jpg",
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-3.jpg",
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-4.jpg",
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-5.jpg",
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-6.jpg",
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-7.jpg",
-      "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-8.jpg"
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-1.jpg",
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-2.jpg",
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-3.jpg",
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-4.jpg",
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-5.jpg",
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-6.jpg",
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-7.jpg",
+      "images/abe3d/spider-man/mary-jane-dellas/abe-mary-jane-dellas-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3224,14 +3224,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Mary Jane Hellfire Gala",
     images: [
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-7.jpg",
-      "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-8.jpg"
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-1.jpg",
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-2.jpg",
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-3.jpg",
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-4.jpg",
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-5.jpg",
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-6.jpg",
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-7.jpg",
+      "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3245,12 +3245,12 @@ const MODELS = [
     series: "Spider-Man",
     title: "MJ Mrs Claus",
     images: [
-      "images/abe3d/marvel/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-1.jpg",
-      "images/abe3d/marvel/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-2.jpg",
-      "images/abe3d/marvel/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-3.jpg",
-      "images/abe3d/marvel/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-4.jpg",
-      "images/abe3d/marvel/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-5.jpg",
-      "images/abe3d/marvel/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-6.jpg"
+      "images/abe3d/spider-man/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-1.jpg",
+      "images/abe3d/spider-man/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-2.jpg",
+      "images/abe3d/spider-man/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-3.jpg",
+      "images/abe3d/spider-man/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-4.jpg",
+      "images/abe3d/spider-man/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-5.jpg",
+      "images/abe3d/spider-man/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3264,13 +3264,13 @@ const MODELS = [
     series: "Spider-Man",
     title: "MJ Venomized",
     images: [
-      "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-1.jpg",
-      "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-2.jpg",
-      "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-3.jpg",
-      "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-4.jpg",
-      "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-5.jpg",
-      "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-6.jpg",
-      "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-7.jpg"
+      "images/abe3d/spider-man/mary-jane-venomized/abe-mary-jane-venomized-1.jpg",
+      "images/abe3d/spider-man/mary-jane-venomized/abe-mary-jane-venomized-2.jpg",
+      "images/abe3d/spider-man/mary-jane-venomized/abe-mary-jane-venomized-3.jpg",
+      "images/abe3d/spider-man/mary-jane-venomized/abe-mary-jane-venomized-4.jpg",
+      "images/abe3d/spider-man/mary-jane-venomized/abe-mary-jane-venomized-5.jpg",
+      "images/abe3d/spider-man/mary-jane-venomized/abe-mary-jane-venomized-6.jpg",
+      "images/abe3d/spider-man/mary-jane-venomized/abe-mary-jane-venomized-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -3283,14 +3283,14 @@ const MODELS = [
     series: "Avengers",
     title: "Monica Rambeau - Photon",
     images: [
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-1.jpg",
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-2.jpg",
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-3.jpg",
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-4.jpg",
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-5.jpg",
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-6.jpg",
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-7.jpg",
-      "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-8.jpg"
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-1.jpg",
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-2.jpg",
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-3.jpg",
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-4.jpg",
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-5.jpg",
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-6.jpg",
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-7.jpg",
+      "images/abe3d/avengers/monica-rambeau/abe-monica-rambeau-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3304,14 +3304,14 @@ const MODELS = [
     series: "Avengers",
     title: "Ms Marvel",
     images: [
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-1.jpg",
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-2.jpg",
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-3.jpg",
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-4.jpg",
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-5.jpg",
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-6.jpg",
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-7.jpg",
-      "images/abe3d/marvel/ms-marvel/abe-ms-marvel-8.jpg"
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-1.jpg",
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-2.jpg",
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-3.jpg",
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-4.jpg",
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-5.jpg",
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-6.jpg",
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-7.jpg",
+      "images/abe3d/avengers/ms-marvel/abe-ms-marvel-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3325,13 +3325,13 @@ const MODELS = [
     series: "X-Men",
     title: "Mystique",
     images: [
-      "images/abe3d/marvel/mystique/abe-mystique-1.jpg",
-      "images/abe3d/marvel/mystique/abe-mystique-2.jpg",
-      "images/abe3d/marvel/mystique/abe-mystique-3.jpg",
-      "images/abe3d/marvel/mystique/abe-mystique-4.jpg",
-      "images/abe3d/marvel/mystique/abe-mystique-5.jpg",
-      "images/abe3d/marvel/mystique/abe-mystique-6.jpg",
-      "images/abe3d/marvel/mystique/abe-mystique-7.jpg"
+      "images/abe3d/x-men/mystique/abe-mystique-1.jpg",
+      "images/abe3d/x-men/mystique/abe-mystique-2.jpg",
+      "images/abe3d/x-men/mystique/abe-mystique-3.jpg",
+      "images/abe3d/x-men/mystique/abe-mystique-4.jpg",
+      "images/abe3d/x-men/mystique/abe-mystique-5.jpg",
+      "images/abe3d/x-men/mystique/abe-mystique-6.jpg",
+      "images/abe3d/x-men/mystique/abe-mystique-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3345,14 +3345,14 @@ const MODELS = [
     series: "X-Men",
     title: "Mystique Hellfire Gala",
     images: [
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-7.jpg",
-      "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-8.jpg"
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-1.jpg",
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-2.jpg",
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-3.jpg",
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-4.jpg",
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-5.jpg",
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-6.jpg",
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-7.jpg",
+      "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3366,14 +3366,14 @@ const MODELS = [
     series: "Guardians of the Galaxy",
     title: "Nebula",
     images: [
-      "images/abe3d/marvel/nebula/abe-nebula-1.jpg",
-      "images/abe3d/marvel/nebula/abe-nebula-2.jpg",
-      "images/abe3d/marvel/nebula/abe-nebula-3.jpg",
-      "images/abe3d/marvel/nebula/abe-nebula-4.jpg",
-      "images/abe3d/marvel/nebula/abe-nebula-5.jpg",
-      "images/abe3d/marvel/nebula/abe-nebula-6.jpg",
-      "images/abe3d/marvel/nebula/abe-nebula-7.jpg",
-      "images/abe3d/marvel/nebula/abe-nebula-8.jpg"
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-1.jpg",
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-2.jpg",
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-3.jpg",
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-4.jpg",
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-5.jpg",
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-6.jpg",
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-7.jpg",
+      "images/abe3d/guardians-of-the-galaxy/nebula/abe-nebula-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3387,13 +3387,13 @@ const MODELS = [
     series: "X-Men",
     title: "Polaris",
     images: [
-      "images/abe3d/marvel/polaris/abe-polaris-1.jpg",
-      "images/abe3d/marvel/polaris/abe-polaris-2.jpg",
-      "images/abe3d/marvel/polaris/abe-polaris-3.jpg",
-      "images/abe3d/marvel/polaris/abe-polaris-4.jpg",
-      "images/abe3d/marvel/polaris/abe-polaris-5.jpg",
-      "images/abe3d/marvel/polaris/abe-polaris-6.jpg",
-      "images/abe3d/marvel/polaris/abe-polaris-7.jpg"
+      "images/abe3d/x-men/polaris/abe-polaris-1.jpg",
+      "images/abe3d/x-men/polaris/abe-polaris-2.jpg",
+      "images/abe3d/x-men/polaris/abe-polaris-3.jpg",
+      "images/abe3d/x-men/polaris/abe-polaris-4.jpg",
+      "images/abe3d/x-men/polaris/abe-polaris-5.jpg",
+      "images/abe3d/x-men/polaris/abe-polaris-6.jpg",
+      "images/abe3d/x-men/polaris/abe-polaris-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3407,14 +3407,14 @@ const MODELS = [
     series: "X-Men",
     title: "Polaris Hellfire Gala",
     images: [
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-7.jpg",
-      "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-8.jpg"
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-1.jpg",
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-2.jpg",
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-3.jpg",
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-4.jpg",
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-5.jpg",
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-6.jpg",
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-7.jpg",
+      "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3428,14 +3428,14 @@ const MODELS = [
     series: "X-Men",
     title: "Psylocke",
     images: [
-      "images/abe3d/marvel/psylocke/abe-psylocke-1.jpg",
-      "images/abe3d/marvel/psylocke/abe-psylocke-2.jpg",
-      "images/abe3d/marvel/psylocke/abe-psylocke-3.jpg",
-      "images/abe3d/marvel/psylocke/abe-psylocke-4.jpg",
-      "images/abe3d/marvel/psylocke/abe-psylocke-5.jpg",
-      "images/abe3d/marvel/psylocke/abe-psylocke-6.jpg",
-      "images/abe3d/marvel/psylocke/abe-psylocke-7.jpg",
-      "images/abe3d/marvel/psylocke/abe-psylocke-8.jpg"
+      "images/abe3d/x-men/psylocke/abe-psylocke-1.jpg",
+      "images/abe3d/x-men/psylocke/abe-psylocke-2.jpg",
+      "images/abe3d/x-men/psylocke/abe-psylocke-3.jpg",
+      "images/abe3d/x-men/psylocke/abe-psylocke-4.jpg",
+      "images/abe3d/x-men/psylocke/abe-psylocke-5.jpg",
+      "images/abe3d/x-men/psylocke/abe-psylocke-6.jpg",
+      "images/abe3d/x-men/psylocke/abe-psylocke-7.jpg",
+      "images/abe3d/x-men/psylocke/abe-psylocke-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3449,13 +3449,13 @@ const MODELS = [
     series: "X-Men",
     title: "Psylocke Breezy Butterfly",
     images: [
-      "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-1.jpg",
-      "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-2.jpg",
-      "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-3.jpg",
-      "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-4.jpg",
-      "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-5.jpg",
-      "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-6.jpg",
-      "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-7.jpg"
+      "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-1.jpg",
+      "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-2.jpg",
+      "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-3.jpg",
+      "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-4.jpg",
+      "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-5.jpg",
+      "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-6.jpg",
+      "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3469,13 +3469,13 @@ const MODELS = [
     series: "X-Men",
     title: "Psylocke Hellfire Gala",
     images: [
-      "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-7.jpg"
+      "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-1.jpg",
+      "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-2.jpg",
+      "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-3.jpg",
+      "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-4.jpg",
+      "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-5.jpg",
+      "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-6.jpg",
+      "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3489,14 +3489,14 @@ const MODELS = [
     series: "X-Men",
     title: "Psylocke V2",
     images: [
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-1.jpg",
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-2.jpg",
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-3.jpg",
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-4.jpg",
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-5.jpg",
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-6.jpg",
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-7.jpg",
-      "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-8.jpg"
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-1.jpg",
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-2.jpg",
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-3.jpg",
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-4.jpg",
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-5.jpg",
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-6.jpg",
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-7.jpg",
+      "images/abe3d/x-men/psylocke-v2/abe-psylocke-v2-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3510,14 +3510,14 @@ const MODELS = [
     series: "X-Men",
     title: "Rogue",
     images: [
-      "images/abe3d/marvel/rogue/abe-rogue-1.jpg",
-      "images/abe3d/marvel/rogue/abe-rogue-2.jpg",
-      "images/abe3d/marvel/rogue/abe-rogue-3.jpg",
-      "images/abe3d/marvel/rogue/abe-rogue-4.jpg",
-      "images/abe3d/marvel/rogue/abe-rogue-5.jpg",
-      "images/abe3d/marvel/rogue/abe-rogue-6.jpg",
-      "images/abe3d/marvel/rogue/abe-rogue-7.jpg",
-      "images/abe3d/marvel/rogue/abe-rogue-8.jpg"
+      "images/abe3d/x-men/rogue/abe-rogue-1.jpg",
+      "images/abe3d/x-men/rogue/abe-rogue-2.jpg",
+      "images/abe3d/x-men/rogue/abe-rogue-3.jpg",
+      "images/abe3d/x-men/rogue/abe-rogue-4.jpg",
+      "images/abe3d/x-men/rogue/abe-rogue-5.jpg",
+      "images/abe3d/x-men/rogue/abe-rogue-6.jpg",
+      "images/abe3d/x-men/rogue/abe-rogue-7.jpg",
+      "images/abe3d/x-men/rogue/abe-rogue-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3531,13 +3531,13 @@ const MODELS = [
     series: "X-Men",
     title: "Rogue Hellfire Gala",
     images: [
-      "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-7.jpg"
+      "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-1.jpg",
+      "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-2.jpg",
+      "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-3.jpg",
+      "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-4.jpg",
+      "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-5.jpg",
+      "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-6.jpg",
+      "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3551,14 +3551,14 @@ const MODELS = [
     series: "X-Men",
     title: "Rogue Savage Land",
     images: [
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-1.jpg",
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-2.jpg",
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-3.jpg",
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-4.jpg",
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-5.jpg",
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-6.jpg",
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-7.jpg",
-      "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-8.jpg"
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-1.jpg",
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-2.jpg",
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-3.jpg",
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-4.jpg",
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-5.jpg",
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-6.jpg",
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-7.jpg",
+      "images/abe3d/x-men/rogue-savage-land/abe-rogue-savage-land-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3593,7 +3593,7 @@ const MODELS = [
     series: "Avengers",
     title: "Scarlet Witch",
     images: [
-      "images/abe3d/marvel/scarlet-witch/abe-scarlet-witch-1.jpg"
+      "images/abe3d/avengers/scarlet-witch/abe-scarlet-witch-1.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3607,14 +3607,14 @@ const MODELS = [
     series: "Avengers",
     title: "Scarlet Witch Hellfire Gala",
     images: [
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-7.jpg",
-      "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-8.jpg"
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-1.jpg",
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-2.jpg",
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-3.jpg",
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-4.jpg",
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-5.jpg",
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-6.jpg",
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-7.jpg",
+      "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3628,14 +3628,14 @@ const MODELS = [
     series: "X-Men",
     title: "Selene Gallio",
     images: [
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-1.jpg",
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-2.jpg",
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-3.jpg",
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-4.jpg",
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-5.jpg",
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-6.jpg",
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-7.jpg",
-      "images/abe3d/marvel/selene-gallio/abe-selene-gallio-8.jpg"
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-1.jpg",
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-2.jpg",
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-3.jpg",
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-4.jpg",
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-5.jpg",
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-6.jpg",
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-7.jpg",
+      "images/abe3d/x-men/selene-gallio/abe-selene-gallio-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3649,13 +3649,13 @@ const MODELS = [
     series: "Fantastic Four",
     title: "Shalla-Bal",
     images: [
-      "images/abe3d/marvel/shalla-bal/abe-shalla-bal-1.jpg",
-      "images/abe3d/marvel/shalla-bal/abe-shalla-bal-2.jpg",
-      "images/abe3d/marvel/shalla-bal/abe-shalla-bal-3.jpg",
-      "images/abe3d/marvel/shalla-bal/abe-shalla-bal-4.jpg",
-      "images/abe3d/marvel/shalla-bal/abe-shalla-bal-5.jpg",
-      "images/abe3d/marvel/shalla-bal/abe-shalla-bal-6.jpg",
-      "images/abe3d/marvel/shalla-bal/abe-shalla-bal-7.jpg"
+      "images/abe3d/fantastic-four/shalla-bal/abe-shalla-bal-1.jpg",
+      "images/abe3d/fantastic-four/shalla-bal/abe-shalla-bal-2.jpg",
+      "images/abe3d/fantastic-four/shalla-bal/abe-shalla-bal-3.jpg",
+      "images/abe3d/fantastic-four/shalla-bal/abe-shalla-bal-4.jpg",
+      "images/abe3d/fantastic-four/shalla-bal/abe-shalla-bal-5.jpg",
+      "images/abe3d/fantastic-four/shalla-bal/abe-shalla-bal-6.jpg",
+      "images/abe3d/fantastic-four/shalla-bal/abe-shalla-bal-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3669,14 +3669,14 @@ const MODELS = [
     series: "Avengers",
     title: "She-Hulk",
     images: [
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-1.jpg",
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-2.jpg",
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-3.jpg",
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-4.jpg",
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-5.jpg",
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-6.jpg",
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-7.jpg",
-      "images/abe3d/marvel/she-hulk/abe-she-hulk-8.jpg"
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-1.jpg",
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-2.jpg",
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-3.jpg",
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-4.jpg",
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-5.jpg",
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-6.jpg",
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-7.jpg",
+      "images/abe3d/avengers/she-hulk/abe-she-hulk-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3690,14 +3690,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Silk",
     images: [
-      "images/abe3d/marvel/silk/abe-silk-1.jpg",
-      "images/abe3d/marvel/silk/abe-silk-2.jpg",
-      "images/abe3d/marvel/silk/abe-silk-3.jpg",
-      "images/abe3d/marvel/silk/abe-silk-4.jpg",
-      "images/abe3d/marvel/silk/abe-silk-5.jpg",
-      "images/abe3d/marvel/silk/abe-silk-6.jpg",
-      "images/abe3d/marvel/silk/abe-silk-7.jpg",
-      "images/abe3d/marvel/silk/abe-silk-8.jpg"
+      "images/abe3d/spider-man/silk/abe-silk-1.jpg",
+      "images/abe3d/spider-man/silk/abe-silk-2.jpg",
+      "images/abe3d/spider-man/silk/abe-silk-3.jpg",
+      "images/abe3d/spider-man/silk/abe-silk-4.jpg",
+      "images/abe3d/spider-man/silk/abe-silk-5.jpg",
+      "images/abe3d/spider-man/silk/abe-silk-6.jpg",
+      "images/abe3d/spider-man/silk/abe-silk-7.jpg",
+      "images/abe3d/spider-man/silk/abe-silk-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3711,14 +3711,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Spider Gwen",
     images: [
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-1.jpg",
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-2.jpg",
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-3.jpg",
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-4.jpg",
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-5.jpg",
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-6.jpg",
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-7.jpg",
-      "images/abe3d/marvel/spider-gwen/abe-spider-gwen-8.jpg"
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-1.jpg",
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-2.jpg",
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-3.jpg",
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-4.jpg",
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-5.jpg",
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-6.jpg",
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-7.jpg",
+      "images/abe3d/spider-man/spider-gwen/abe-spider-gwen-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3732,14 +3732,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "Spider Gwen Mat3d",
     images: [
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-1.jpg",
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-2.jpg",
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-3.jpg",
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-4.jpg",
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-5.jpg",
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-6.jpg",
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-7.jpg",
-      "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-8.jpg"
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-1.jpg",
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-2.jpg",
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-3.jpg",
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-4.jpg",
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-5.jpg",
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-6.jpg",
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-7.jpg",
+      "images/abe3d/spider-man/spider-gwen-mat3d/abe-spider-gwen-mat3d-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -3752,14 +3752,14 @@ const MODELS = [
     series: "Avengers",
     title: "Squirrel Girl",
     images: [
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-1.jpg",
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-2.jpg",
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-3.jpg",
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-4.jpg",
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-5.jpg",
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-6.jpg",
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-7.jpg",
-      "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-8.jpg"
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-1.jpg",
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-2.jpg",
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-3.jpg",
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-4.jpg",
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-5.jpg",
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-6.jpg",
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-7.jpg",
+      "images/abe3d/avengers/squirrel-girl/abe-squirrel-girl-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3773,14 +3773,14 @@ const MODELS = [
     series: "X-Men",
     title: "Storm",
     images: [
-      "images/abe3d/marvel/storm/abe-storm-1.jpg",
-      "images/abe3d/marvel/storm/abe-storm-2.jpg",
-      "images/abe3d/marvel/storm/abe-storm-3.jpg",
-      "images/abe3d/marvel/storm/abe-storm-4.jpg",
-      "images/abe3d/marvel/storm/abe-storm-5.jpg",
-      "images/abe3d/marvel/storm/abe-storm-6.jpg",
-      "images/abe3d/marvel/storm/abe-storm-7.jpg",
-      "images/abe3d/marvel/storm/abe-storm-8.jpg"
+      "images/abe3d/x-men/storm/abe-storm-1.jpg",
+      "images/abe3d/x-men/storm/abe-storm-2.jpg",
+      "images/abe3d/x-men/storm/abe-storm-3.jpg",
+      "images/abe3d/x-men/storm/abe-storm-4.jpg",
+      "images/abe3d/x-men/storm/abe-storm-5.jpg",
+      "images/abe3d/x-men/storm/abe-storm-6.jpg",
+      "images/abe3d/x-men/storm/abe-storm-7.jpg",
+      "images/abe3d/x-men/storm/abe-storm-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3794,14 +3794,14 @@ const MODELS = [
     series: "X-Men",
     title: "Storm Hellfire Gala",
     images: [
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-1.jpg",
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-2.jpg",
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-3.jpg",
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-4.jpg",
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-5.jpg",
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-6.jpg",
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-7.jpg",
-      "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-8.jpg"
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-1.jpg",
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-2.jpg",
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-3.jpg",
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-4.jpg",
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-5.jpg",
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-6.jpg",
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-7.jpg",
+      "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3815,14 +3815,14 @@ const MODELS = [
     series: "X-Men",
     title: "Storm Savage Land",
     images: [
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-1.jpg",
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-2.jpg",
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-3.jpg",
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-4.jpg",
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-5.jpg",
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-6.jpg",
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-7.jpg",
-      "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-8.jpg"
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-1.jpg",
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-2.jpg",
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-3.jpg",
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-4.jpg",
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-5.jpg",
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-6.jpg",
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-7.jpg",
+      "images/abe3d/x-men/storm-savage-land/abe-storm-savage-land-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3836,14 +3836,14 @@ const MODELS = [
     series: "Fantastic Four",
     title: "Sue Storm",
     images: [
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-1.jpg",
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-2.jpg",
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-3.jpg",
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-4.jpg",
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-5.jpg",
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-6.jpg",
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-7.jpg",
-      "images/abe3d/marvel/sue-storm/abe-sue-storm-8.jpg"
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-1.jpg",
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-2.jpg",
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-3.jpg",
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-4.jpg",
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-5.jpg",
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-6.jpg",
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-7.jpg",
+      "images/abe3d/fantastic-four/sue-storm/abe-sue-storm-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3857,12 +3857,12 @@ const MODELS = [
     series: "Fantastic Four",
     title: "Sue Storm jungles",
     images: [
-      "images/abe3d/marvel/sue-storm-jungles/abe-sue-storm-jungles-1.jpg",
-      "images/abe3d/marvel/sue-storm-jungles/abe-sue-storm-jungles-2.jpg",
-      "images/abe3d/marvel/sue-storm-jungles/abe-sue-storm-jungles-3.jpg",
-      "images/abe3d/marvel/sue-storm-jungles/abe-sue-storm-jungles-4.jpg",
-      "images/abe3d/marvel/sue-storm-jungles/abe-sue-storm-jungles-5.jpg",
-      "images/abe3d/marvel/sue-storm-jungles/abe-sue-storm-jungles-6.jpg"
+      "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-1.jpg",
+      "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-2.jpg",
+      "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-3.jpg",
+      "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-4.jpg",
+      "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-5.jpg",
+      "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-6.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3876,13 +3876,13 @@ const MODELS = [
     series: "Avengers",
     title: "Wasp",
     images: [
-      "images/abe3d/marvel/wasp/abe-wasp-1.jpg",
-      "images/abe3d/marvel/wasp/abe-wasp-2.jpg",
-      "images/abe3d/marvel/wasp/abe-wasp-3.jpg",
-      "images/abe3d/marvel/wasp/abe-wasp-4.jpg",
-      "images/abe3d/marvel/wasp/abe-wasp-5.jpg",
-      "images/abe3d/marvel/wasp/abe-wasp-6.jpg",
-      "images/abe3d/marvel/wasp/abe-wasp-7.jpg"
+      "images/abe3d/avengers/wasp/abe-wasp-1.jpg",
+      "images/abe3d/avengers/wasp/abe-wasp-2.jpg",
+      "images/abe3d/avengers/wasp/abe-wasp-3.jpg",
+      "images/abe3d/avengers/wasp/abe-wasp-4.jpg",
+      "images/abe3d/avengers/wasp/abe-wasp-5.jpg",
+      "images/abe3d/avengers/wasp/abe-wasp-6.jpg",
+      "images/abe3d/avengers/wasp/abe-wasp-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3896,14 +3896,14 @@ const MODELS = [
     series: "Spider-Man",
     title: "White Rabbit",
     images: [
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-1.jpg",
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-2.jpg",
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-3.jpg",
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-4.jpg",
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-5.jpg",
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-6.jpg",
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-7.jpg",
-      "images/abe3d/marvel/white-rabbit/abe-white-rabbit-8.jpg"
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-1.jpg",
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-2.jpg",
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-3.jpg",
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-4.jpg",
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-5.jpg",
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-6.jpg",
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-7.jpg",
+      "images/abe3d/spider-man/white-rabbit/abe-white-rabbit-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
@@ -3916,13 +3916,13 @@ const MODELS = [
     series: "Spider-Man",
     title: "White Widow",
     images: [
-      "images/abe3d/marvel/white-widow/abe-white-widow-1.jpg",
-      "images/abe3d/marvel/white-widow/abe-white-widow-2.jpg",
-      "images/abe3d/marvel/white-widow/abe-white-widow-3.jpg",
-      "images/abe3d/marvel/white-widow/abe-white-widow-4.jpg",
-      "images/abe3d/marvel/white-widow/abe-white-widow-5.jpg",
-      "images/abe3d/marvel/white-widow/abe-white-widow-6.jpg",
-      "images/abe3d/marvel/white-widow/abe-white-widow-7.jpg"
+      "images/abe3d/spider-man/white-widow/abe-white-widow-1.jpg",
+      "images/abe3d/spider-man/white-widow/abe-white-widow-2.jpg",
+      "images/abe3d/spider-man/white-widow/abe-white-widow-3.jpg",
+      "images/abe3d/spider-man/white-widow/abe-white-widow-4.jpg",
+      "images/abe3d/spider-man/white-widow/abe-white-widow-5.jpg",
+      "images/abe3d/spider-man/white-widow/abe-white-widow-6.jpg",
+      "images/abe3d/spider-man/white-widow/abe-white-widow-7.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
@@ -3936,14 +3936,14 @@ const MODELS = [
     series: "X-Men",
     title: "X-23 Laura Kinney",
     images: [
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-1.jpg",
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-2.jpg",
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-3.jpg",
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-4.jpg",
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-5.jpg",
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-6.jpg",
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-7.jpg",
-      "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-8.jpg"
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-1.jpg",
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-2.jpg",
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-3.jpg",
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-4.jpg",
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-5.jpg",
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-6.jpg",
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-7.jpg",
+      "images/abe3d/x-men/x-23-laura-kinney/abe-x-23-laura-kinney-8.jpg"
     ],
     scaleOptions: [
       { scale: "1/4 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" },
