@@ -26,7 +26,7 @@ const MODELS = [
   {
     id: "ca3d-spidey",
     artist: "CA3D Studios",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Spider-Man on Goblin Glider",
     images: [
       "images/ca3d/marvel/spider-man/spidey-glider-1.jpg",
@@ -114,7 +114,7 @@ const MODELS = [
   {
     id: "jts-carnage",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Carnage",
     images: [
       "images/jace-the-sculptor/marvel/carnage/jts-carnage-1.jpg",
@@ -153,7 +153,7 @@ const MODELS = [
   {
     id: "jts-cyclops",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "X-Men",
     title: "Cyclops",
     images: [
       "images/jace-the-sculptor/marvel/cyclops/jts-cyclops-1.jpg",
@@ -174,7 +174,7 @@ const MODELS = [
   {
     id: "jts-daredevil",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Daredevil",
     title: "Daredevil",
     images: [
       "images/jace-the-sculptor/marvel/daredevil/jts-daredevil-1.jpg",
@@ -191,7 +191,7 @@ const MODELS = [
   {
     id: "jts-doc-ock",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Doctor Octopus",
     images: [
       "images/jace-the-sculptor/marvel/doc-ock/jts-doc-ock-1.jpg",
@@ -211,7 +211,7 @@ const MODELS = [
   {
     id: "jts-drax",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Guardians of the Galaxy",
     title: "Drax",
     images: [
       "images/jace-the-sculptor/marvel/drax/jts-drax-1.jpg",
@@ -231,7 +231,7 @@ const MODELS = [
   {
     id: "jts-galactus",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Fantastic Four",
     title: "Galactus",
     images: [
       "images/jace-the-sculptor/marvel/galactus/jts-galactus-1.jpg",
@@ -251,7 +251,7 @@ const MODELS = [
   {
     id: "jts-gambit",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "X-Men",
     title: "Gambit",
     images: [
       "images/jace-the-sculptor/marvel/gambit/jts-gambit-1.jpg",
@@ -271,7 +271,7 @@ const MODELS = [
   {
     id: "jts-green-goblin",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Green Goblin",
     images: [
       "images/jace-the-sculptor/marvel/green-goblin/jts-green-goblin-1.jpg",
@@ -290,7 +290,7 @@ const MODELS = [
   {
     id: "jts-hulk-vs-sentry",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Hulk",
     title: "Hulk vs The Sentry",
     images: [
       "images/jace-the-sculptor/marvel/hulk-vs-sentry/jts-hulk-vs-sentry-1.jpg",
@@ -308,7 +308,7 @@ const MODELS = [
   {
     id: "jts-infernal-hulk",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Hulk",
     title: "Infernal Hulk",
     images: [
       "images/jace-the-sculptor/marvel/infernal-hulk/jts-infernal-hulk-1.jpg",
@@ -353,7 +353,7 @@ const MODELS = [
   {
     id: "jts-magneto",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "X-Men",
     title: "Magneto",
     images: [
       "images/jace-the-sculptor/marvel/magneto/jts-magneto-1.jpg",
@@ -380,7 +380,7 @@ const MODELS = [
   {
     id: "jts-nightcrawler",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "X-Men",
     title: "Nightcrawler",
     images: [
       "images/jace-the-sculptor/marvel/nightcrawler/jts-nightcrawler-1.jpg",
@@ -421,7 +421,7 @@ const MODELS = [
   {
     id: "jts-sabretooth",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "X-Men",
     title: "Sabretooth",
     images: [
       "images/jace-the-sculptor/marvel/sabretooth/jts-sabretooth-1.jpg",
@@ -440,7 +440,7 @@ const MODELS = [
   {
     id: "jts-spiderman",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Spider-Man",
     images: [
       "images/jace-the-sculptor/marvel/spiderman/jts-spiderman-1.jpg",
@@ -458,7 +458,7 @@ const MODELS = [
   {
     id: "jts-spiderman-2099",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Spider-Man 2099",
     images: [
       "images/jace-the-sculptor/marvel/spiderman-2099/jts-spiderman-2099-1.jpg",
@@ -475,7 +475,7 @@ const MODELS = [
   {
     id: "jts-thanos-annihilation",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Avengers",
     title: "Thanos [Annihilation ver]",
     images: [
       "images/jace-the-sculptor/marvel/thanos-annihilation/jts-thanos-annihilation-1.jpg",
@@ -494,7 +494,7 @@ const MODELS = [
   {
     id: "jts-punisher",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Punisher",
     title: "The Punisher",
     images: [
       "images/jace-the-sculptor/marvel/punisher/jts-punisher-1.jpg",
@@ -518,7 +518,7 @@ const MODELS = [
   {
     id: "jts-vulture",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "The Vulture",
     images: [
       "images/jace-the-sculptor/marvel/vulture/jts-vulture-1.jpg",
@@ -537,7 +537,7 @@ const MODELS = [
   {
     id: "jts-weaponx",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "X-Men",
     title: "Weapon-X",
     images: [
       "images/jace-the-sculptor/marvel/weaponx/jts-weaponx-1.jpg",
@@ -553,7 +553,7 @@ const MODELS = [
   {
     id: "jts-wolverine",
     artist: "Jace the Sculptor",
-    series: "Marvel",
+    series: "X-Men",
     title: "Wolverine",
     images: [
       "images/jace-the-sculptor/marvel/wolverine/jts-wolverine-1.jpg",
@@ -913,7 +913,7 @@ const MODELS = [
   {
     id: "kc-moon-knight",
     artist: "KcStudio",
-    series: "Marvel",
+    series: "Moon Knight",
     title: "Moon Knight",
     images: [
       "images/kc-studio/marvel/moon-knight/moon-knight-1.jpg",
@@ -1114,7 +1114,7 @@ const MODELS = [
   {
     id: "kc-venom",
     artist: "KcStudio",
-    series: "Marvel",
+    series: "Venom",
     title: "Venom",
     images: [
       "images/kc-studio/marvel/venom/venom-1.jpg",
@@ -1157,7 +1157,7 @@ const MODELS = [
   {
     id: "tanuki-spiderman-venom",
     artist: "Tanuki Figures",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Spider-Man vs Venom",
     images: [
       "images/tanuki-figures/marvel/spider-man-vs-venom/spiderman-venom-1.jpg",
@@ -1493,7 +1493,7 @@ const MODELS = [
     id: "abe-bayonetta",
     artist: "Abe3D",
     series: "Bayonetta",
-    title: "Bayonetta LT3D",
+    title: "Bayonetta by Davi",
     images: [
       "images/abe3d/bayonetta/bayonetta/abe-bayonetta-1.jpg",
       "images/abe3d/bayonetta/bayonetta/abe-bayonetta-2.jpg",
@@ -2193,7 +2193,7 @@ const MODELS = [
     id: "abe-ariel-mermaid",
     artist: "Abe3D",
     series: "Disney",
-    title: "Mermaid",
+    title: "Ariel - The Little Mermaid",
     images: [
       "images/abe3d/disney/ariel-mermaid/abe-ariel-mermaid-1.jpg",
       "images/abe3d/disney/ariel-mermaid/abe-ariel-mermaid-2.jpg",
@@ -2585,7 +2585,7 @@ const MODELS = [
   {
     id: "abe-america-chavez",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "America Chavez",
     images: [
       "images/abe3d/marvel/america-chavez/abe-america-chavez-1.jpg",
@@ -2605,7 +2605,7 @@ const MODELS = [
   {
     id: "abe-black-cat-abe",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Black Cat abe",
     images: [
       "images/abe3d/marvel/black-cat-abe/abe-black-cat-abe-1.jpg",
@@ -2625,7 +2625,7 @@ const MODELS = [
   {
     id: "abe-black-cat-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Black Cat Hellfire Gala",
     images: [
       "images/abe3d/marvel/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-1.jpg",
@@ -2646,7 +2646,7 @@ const MODELS = [
   {
     id: "abe-black-cat-matc3d",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Black Cat Matc3D",
     images: [
       "images/abe3d/marvel/black-cat-matc3d/abe-black-cat-matc3d-1.jpg",
@@ -2666,7 +2666,7 @@ const MODELS = [
   {
     id: "abe-black-widow",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Black Widow",
     images: [
       "images/abe3d/marvel/black-widow/abe-black-widow-1.jpg",
@@ -2687,7 +2687,7 @@ const MODELS = [
   {
     id: "abe-blink",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Blink",
     images: [
       "images/abe3d/marvel/blink/abe-blink-1.jpg",
@@ -2708,7 +2708,7 @@ const MODELS = [
   {
     id: "abe-captn-britain-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Cptn Britain - Betsy Braddock Hellfire Gala",
     images: [
       "images/abe3d/marvel/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-1.jpg",
@@ -2729,7 +2729,7 @@ const MODELS = [
   {
     id: "abe-dark-phoenix",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Dark Phoenix",
     images: [
       "images/abe3d/marvel/dark-phoenix/abe-dark-phoenix-1.jpg",
@@ -2750,7 +2750,7 @@ const MODELS = [
   {
     id: "abe-dazzler",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "dazzler",
     images: [
       "images/abe3d/marvel/dazzler/abe-dazzler-1.jpg",
@@ -2771,7 +2771,7 @@ const MODELS = [
   {
     id: "abe-elektra-abe",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Daredevil",
     title: "Elektra abe",
     images: [
       "images/abe3d/marvel/elektra-abe/abe-elektra-abe-1.jpg",
@@ -2792,7 +2792,7 @@ const MODELS = [
   {
     id: "abe-elektra-lt3d",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Daredevil",
     title: "Elektra lt3d",
     images: [
       "images/abe3d/marvel/elektra-lt3d/abe-elektra-lt3d-1.jpg",
@@ -2813,7 +2813,7 @@ const MODELS = [
   {
     id: "abe-emma-frost",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Emma Frost",
     images: [
       "images/abe3d/marvel/emma-frost/abe-emma-frost-1.jpg",
@@ -2834,7 +2834,7 @@ const MODELS = [
   {
     id: "abe-emma-frost-matc3d",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Emma Frost Matc3d",
     images: [
       "images/abe3d/marvel/emma-frost-matc3d/abe-emma-frost-matc3d-1.jpg",
@@ -2854,7 +2854,7 @@ const MODELS = [
   {
     id: "abe-emma-frost-white-queen",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Emma Frost White Queen",
     images: [
       "images/abe3d/marvel/emma-frost-white-queen/abe-emma-frost-white-queen-1.jpg",
@@ -2875,7 +2875,7 @@ const MODELS = [
   {
     id: "abe-enchantress",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Enchantress",
     images: [
       "images/abe3d/marvel/enchantress/abe-enchantress-1.jpg",
@@ -2895,7 +2895,7 @@ const MODELS = [
   {
     id: "abe-gamora",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Guardians of the Galaxy",
     title: "Gamora",
     images: [
       "images/abe3d/marvel/gamora/abe-gamora-1.jpg",
@@ -2915,7 +2915,7 @@ const MODELS = [
   {
     id: "abe-gwen-stacy-lt3d",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Gwen Stacy LT3D",
     images: [
       "images/abe3d/marvel/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-1.jpg",
@@ -2936,7 +2936,7 @@ const MODELS = [
   {
     id: "abe-gwenpool",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Deadpool",
     title: "Gwenpool",
     images: [
       "images/abe3d/marvel/gwenpool/abe-gwenpool-1.jpg",
@@ -2955,7 +2955,7 @@ const MODELS = [
   {
     id: "abe-jean-grey",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Jean Grey",
     images: [
       "images/abe3d/marvel/jean-grey/abe-jean-grey-1.jpg",
@@ -2976,7 +2976,7 @@ const MODELS = [
   {
     id: "abe-jean-grey-black-queen",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Jean Grey Black Queen",
     images: [
       "images/abe3d/marvel/jean-grey-black-queen/abe-jean-grey-black-queen-1.jpg",
@@ -2997,7 +2997,7 @@ const MODELS = [
   {
     id: "abe-jessica-drew-spiderwoman",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Jessica Drew Spiderwoman",
     images: [
       "images/abe3d/marvel/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-1.jpg",
@@ -3018,7 +3018,7 @@ const MODELS = [
   {
     id: "abe-jubilee",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Jubilee",
     images: [
       "images/abe3d/marvel/jubilee/abe-jubilee-1.jpg",
@@ -3039,7 +3039,7 @@ const MODELS = [
   {
     id: "abe-julia-carpenter-spiderwoman",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Julia Carpenter Spiderwoman",
     images: [
       "images/abe3d/marvel/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-1.jpg",
@@ -3060,7 +3060,7 @@ const MODELS = [
   {
     id: "abe-lady-deadpool",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Deadpool",
     title: "Lady Deadpool",
     images: [
       "images/abe3d/marvel/lady-deadpool/abe-lady-deadpool-1.jpg",
@@ -3081,7 +3081,7 @@ const MODELS = [
   {
     id: "abe-laura-kinney-wolverine",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Laura Kinney Wolverine",
     images: [
       "images/abe3d/marvel/laura-kinney-wolverine/abe-laura-kinney-wolverine-1.jpg",
@@ -3115,7 +3115,7 @@ const MODELS = [
   {
     id: "abe-madelyne-pryor",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Madelyne Pryor",
     images: [
       "images/abe3d/marvel/madelyne-pryor/abe-madelyne-pryor-1.jpg",
@@ -3136,7 +3136,7 @@ const MODELS = [
   {
     id: "abe-magik",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Magik",
     images: [
       "images/abe3d/marvel/magik/abe-magik-1.jpg",
@@ -3157,7 +3157,7 @@ const MODELS = [
   {
     id: "abe-magik-cyberpunk",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Magik Cyberpunk",
     images: [
       "images/abe3d/marvel/magik-cyberpunk/abe-magik-cyberpunk-1.jpg",
@@ -3178,7 +3178,7 @@ const MODELS = [
   {
     id: "abe-mary-jane",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Mary Jane",
     images: [
       "images/abe3d/marvel/mary-jane/abe-mary-jane-1.jpg",
@@ -3200,7 +3200,7 @@ const MODELS = [
   {
     id: "abe-mary-jane-dellas",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Mary Jane dellas",
     images: [
       "images/abe3d/marvel/mary-jane-dellas/abe-mary-jane-dellas-1.jpg",
@@ -3221,7 +3221,7 @@ const MODELS = [
   {
     id: "abe-mary-jane-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Mary Jane Hellfire Gala",
     images: [
       "images/abe3d/marvel/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-1.jpg",
@@ -3242,7 +3242,7 @@ const MODELS = [
   {
     id: "abe-mary-jane-mrs-claus",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "MJ Mrs Claus",
     images: [
       "images/abe3d/marvel/mary-jane-mrs-claus/abe-mary-jane-mrs-claus-1.jpg",
@@ -3261,7 +3261,7 @@ const MODELS = [
   {
     id: "abe-mary-jane-venomized",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "MJ Venomized",
     images: [
       "images/abe3d/marvel/mary-jane-venomized/abe-mary-jane-venomized-1.jpg",
@@ -3280,7 +3280,7 @@ const MODELS = [
   {
     id: "abe-monica-rambeau",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Monica Rambeau - Photon",
     images: [
       "images/abe3d/marvel/monica-rambeau/abe-monica-rambeau-1.jpg",
@@ -3301,7 +3301,7 @@ const MODELS = [
   {
     id: "abe-ms-marvel",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Ms Marvel",
     images: [
       "images/abe3d/marvel/ms-marvel/abe-ms-marvel-1.jpg",
@@ -3322,7 +3322,7 @@ const MODELS = [
   {
     id: "abe-mystique",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Mystique",
     images: [
       "images/abe3d/marvel/mystique/abe-mystique-1.jpg",
@@ -3342,7 +3342,7 @@ const MODELS = [
   {
     id: "abe-mystique-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Mystique Hellfire Gala",
     images: [
       "images/abe3d/marvel/mystique-hellfire-gala/abe-mystique-hellfire-gala-1.jpg",
@@ -3363,7 +3363,7 @@ const MODELS = [
   {
     id: "abe-nebula",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Guardians of the Galaxy",
     title: "Nebula",
     images: [
       "images/abe3d/marvel/nebula/abe-nebula-1.jpg",
@@ -3384,7 +3384,7 @@ const MODELS = [
   {
     id: "abe-polaris",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Polaris",
     images: [
       "images/abe3d/marvel/polaris/abe-polaris-1.jpg",
@@ -3404,7 +3404,7 @@ const MODELS = [
   {
     id: "abe-polaris-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Polaris Hellfire Gala",
     images: [
       "images/abe3d/marvel/polaris-hellfire-gala/abe-polaris-hellfire-gala-1.jpg",
@@ -3425,7 +3425,7 @@ const MODELS = [
   {
     id: "abe-psylocke",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Psylocke",
     images: [
       "images/abe3d/marvel/psylocke/abe-psylocke-1.jpg",
@@ -3446,7 +3446,7 @@ const MODELS = [
   {
     id: "abe-psylocke-breezy-butterfly",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Psylocke Breezy Butterfly",
     images: [
       "images/abe3d/marvel/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-1.jpg",
@@ -3466,7 +3466,7 @@ const MODELS = [
   {
     id: "abe-psylocke-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Psylocke Hellfire Gala",
     images: [
       "images/abe3d/marvel/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-1.jpg",
@@ -3486,7 +3486,7 @@ const MODELS = [
   {
     id: "abe-psylocke-v2",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Psylocke V2",
     images: [
       "images/abe3d/marvel/psylocke-v2/abe-psylocke-v2-1.jpg",
@@ -3507,7 +3507,7 @@ const MODELS = [
   {
     id: "abe-rogue",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Rogue",
     images: [
       "images/abe3d/marvel/rogue/abe-rogue-1.jpg",
@@ -3528,7 +3528,7 @@ const MODELS = [
   {
     id: "abe-rogue-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Rogue Hellfire Gala",
     images: [
       "images/abe3d/marvel/rogue-hellfire-gala/abe-rogue-hellfire-gala-1.jpg",
@@ -3548,7 +3548,7 @@ const MODELS = [
   {
     id: "abe-rogue-savage-land",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Rogue Savage Land",
     images: [
       "images/abe3d/marvel/rogue-savage-land/abe-rogue-savage-land-1.jpg",
@@ -3590,7 +3590,7 @@ const MODELS = [
   {
     id: "abe-scarlet-witch",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Scarlet Witch",
     images: [
       "images/abe3d/marvel/scarlet-witch/abe-scarlet-witch-1.jpg"
@@ -3604,7 +3604,7 @@ const MODELS = [
   {
     id: "abe-scarlet-witch-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Scarlet Witch Hellfire Gala",
     images: [
       "images/abe3d/marvel/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-1.jpg",
@@ -3625,7 +3625,7 @@ const MODELS = [
   {
     id: "abe-selene-gallio",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Selene Gallio",
     images: [
       "images/abe3d/marvel/selene-gallio/abe-selene-gallio-1.jpg",
@@ -3646,7 +3646,7 @@ const MODELS = [
   {
     id: "abe-shalla-bal",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Fantastic Four",
     title: "Shalla-Bal",
     images: [
       "images/abe3d/marvel/shalla-bal/abe-shalla-bal-1.jpg",
@@ -3666,7 +3666,7 @@ const MODELS = [
   {
     id: "abe-she-hulk",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "She-Hulk",
     images: [
       "images/abe3d/marvel/she-hulk/abe-she-hulk-1.jpg",
@@ -3687,7 +3687,7 @@ const MODELS = [
   {
     id: "abe-silk",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Silk",
     images: [
       "images/abe3d/marvel/silk/abe-silk-1.jpg",
@@ -3708,7 +3708,7 @@ const MODELS = [
   {
     id: "abe-spider-gwen",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Spider Gwen",
     images: [
       "images/abe3d/marvel/spider-gwen/abe-spider-gwen-1.jpg",
@@ -3729,7 +3729,7 @@ const MODELS = [
   {
     id: "abe-spider-gwen-mat3d",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "Spider Gwen Mat3d",
     images: [
       "images/abe3d/marvel/spider-gwen-mat3d/abe-spider-gwen-mat3d-1.jpg",
@@ -3749,7 +3749,7 @@ const MODELS = [
   {
     id: "abe-squirrel-girl",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Squirrel Girl",
     images: [
       "images/abe3d/marvel/squirrel-girl/abe-squirrel-girl-1.jpg",
@@ -3770,7 +3770,7 @@ const MODELS = [
   {
     id: "abe-storm",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Storm",
     images: [
       "images/abe3d/marvel/storm/abe-storm-1.jpg",
@@ -3791,7 +3791,7 @@ const MODELS = [
   {
     id: "abe-storm-hellfire-gala",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Storm Hellfire Gala",
     images: [
       "images/abe3d/marvel/storm-hellfire-gala/abe-storm-hellfire-gala-1.jpg",
@@ -3812,7 +3812,7 @@ const MODELS = [
   {
     id: "abe-storm-savage-land",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "Storm Savage Land",
     images: [
       "images/abe3d/marvel/storm-savage-land/abe-storm-savage-land-1.jpg",
@@ -3833,7 +3833,7 @@ const MODELS = [
   {
     id: "abe-sue-storm",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Fantastic Four",
     title: "Sue Storm",
     images: [
       "images/abe3d/marvel/sue-storm/abe-sue-storm-1.jpg",
@@ -3854,7 +3854,7 @@ const MODELS = [
   {
     id: "abe-sue-storm-jungles",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Fantastic Four",
     title: "Sue Storm jungles",
     images: [
       "images/abe3d/marvel/sue-storm-jungles/abe-sue-storm-jungles-1.jpg",
@@ -3873,7 +3873,7 @@ const MODELS = [
   {
     id: "abe-wasp",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Avengers",
     title: "Wasp",
     images: [
       "images/abe3d/marvel/wasp/abe-wasp-1.jpg",
@@ -3893,7 +3893,7 @@ const MODELS = [
   {
     id: "abe-white-rabbit",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "White Rabbit",
     images: [
       "images/abe3d/marvel/white-rabbit/abe-white-rabbit-1.jpg",
@@ -3913,7 +3913,7 @@ const MODELS = [
   {
     id: "abe-white-widow",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "Spider-Man",
     title: "White Widow",
     images: [
       "images/abe3d/marvel/white-widow/abe-white-widow-1.jpg",
@@ -3933,7 +3933,7 @@ const MODELS = [
   {
     id: "abe-x-23-laura-kinney",
     artist: "Abe3D",
-    series: "Marvel",
+    series: "X-Men",
     title: "X-23 Laura Kinney",
     images: [
       "images/abe3d/marvel/x-23-laura-kinney/abe-x-23-laura-kinney-1.jpg",
