@@ -52,7 +52,7 @@ const MODELS = [
   {
     id: "jts-absolute-batman",
     artist: "Jace the Sculptor",
-    series: "DC",
+    series: "Batman",
     title: "Absolute Batman",
     images: [
       "images/jace-the-sculptor/dc/absolute-batman/jts-absolute-batman-1.jpg",
@@ -75,7 +75,7 @@ const MODELS = [
   {
     id: "jts-bane",
     artist: "Jace the Sculptor",
-    series: "DC",
+    series: "Batman",
     title: "Bane",
     images: [
       "images/jace-the-sculptor/dc/bane/jts-bane-1.jpg",
@@ -93,7 +93,7 @@ const MODELS = [
   {
     id: "jts-batman",
     artist: "Jace the Sculptor",
-    series: "DC",
+    series: "Batman",
     title: "Batman",
     images: [
       "images/jace-the-sculptor/dc/batman/jts-batman-1.jpg",
@@ -333,7 +333,7 @@ const MODELS = [
   {
     id: "jts-joker-xmas",
     artist: "Jace the Sculptor",
-    series: "DC",
+    series: "Batman",
     title: "Joker [X-Mas ver]",
     images: [
       "images/jace-the-sculptor/dc/joker-xmas/jts-joker-xmas-1.jpg",
@@ -399,7 +399,7 @@ const MODELS = [
   {
     id: "jts-robin",
     artist: "Jace the Sculptor",
-    series: "DC",
+    series: "Batman",
     title: "Robin [Damian Wayne ver]",
     images: [
       "images/jace-the-sculptor/dc/robin/jts-robin-1.jpg",
@@ -577,7 +577,7 @@ const MODELS = [
   {
     id: "kc-absolute-batman",
     artist: "KcStudio",
-    series: "DC",
+    series: "Batman",
     title: "Absolute Batman",
     images: [
       "images/kc-studio/dc/absolute-batman/absolute-batman-1.jpg",
@@ -633,7 +633,7 @@ const MODELS = [
   {
     id: "kc-batman-chair",
     artist: "KcStudio",
-    series: "DC",
+    series: "Batman",
     title: "Batman on the Throne",
     images: [
       "images/kc-studio/dc/batman-chair/batman-1.jpg",
@@ -1061,7 +1061,7 @@ const MODELS = [
   {
     id: "kc-superman-2026",
     artist: "KcStudio",
-    series: "DC",
+    series: "Superman",
     title: "Superman [2026]",
     images: [
       "images/kc-studio/dc/superman-2026/superman-1.jpg",
@@ -1589,7 +1589,7 @@ const MODELS = [
   {
     id: "abe-batgirl",
     artist: "Abe3D",
-    series: "DC",
+    series: "Batman",
     title: "Batgirl",
     images: [
       "images/abe3d/dc/batgirl/abe-batgirl-1.jpg",
@@ -1610,7 +1610,7 @@ const MODELS = [
   {
     id: "abe-batwoman-bombshell",
     artist: "Abe3D",
-    series: "DC",
+    series: "Batman",
     title: "Batwoman Bombshell",
     images: [
       "images/abe3d/dc/batwoman-bombshell/abe-batwoman-bombshell-1.jpg",
@@ -1625,7 +1625,7 @@ const MODELS = [
   {
     id: "abe-catwoman",
     artist: "Abe3D",
-    series: "DC",
+    series: "Batman",
     title: "Catwoman",
     images: [
       "images/abe3d/dc/catwoman/abe-catwoman-1.jpg",
@@ -1646,7 +1646,7 @@ const MODELS = [
   {
     id: "abe-donna-troy",
     artist: "Abe3D",
-    series: "DC",
+    series: "Teen Titans",
     title: "Donna Troy",
     images: [
       "images/abe3d/dc/donna-troy/abe-donna-troy-1.jpg",
@@ -1666,7 +1666,7 @@ const MODELS = [
   {
     id: "abe-harley-quinn-classic",
     artist: "Abe3D",
-    series: "DC",
+    series: "Batman",
     title: "Harley Quinn Classic",
     images: [
       "images/abe3d/dc/harley-quinn-classic/abe-harley-quinn-classic-1.jpg",
@@ -1687,7 +1687,7 @@ const MODELS = [
   {
     id: "abe-harley-quinn-pine",
     artist: "Abe3D",
-    series: "DC",
+    series: "Batman",
     title: "Harley Quinn pine",
     images: [
       "images/abe3d/dc/harley-quinn-pine/abe-harley-quinn-pine-1.jpg",
@@ -1707,7 +1707,7 @@ const MODELS = [
   {
     id: "abe-hawkgirl",
     artist: "Abe3D",
-    series: "DC",
+    series: "Justice League",
     title: "Hawkgirl",
     images: [
       "images/abe3d/dc/hawkgirl/abe-hawkgirl-1.jpg",
@@ -1727,7 +1727,7 @@ const MODELS = [
   {
     id: "abe-jessica-cruz-green-lantern",
     artist: "Abe3D",
-    series: "DC",
+    series: "Green Lantern",
     title: "Jessica Cruz Green Lantern",
     images: [
       "images/abe3d/dc/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-1.jpg",
@@ -1748,7 +1748,7 @@ const MODELS = [
   {
     id: "abe-katana-bombshell",
     artist: "Abe3D",
-    series: "DC",
+    series: "Suicide Squad",
     title: "Katana Bombshell",
     images: [
       "images/abe3d/dc/katana-bombshell/abe-katana-bombshell-1.jpg",
@@ -1767,7 +1767,7 @@ const MODELS = [
   {
     id: "abe-killer-frost",
     artist: "Abe3D",
-    series: "DC",
+    series: "Justice League",
     title: "Killer Frost",
     images: [
       "images/abe3d/dc/killer-frost/abe-killer-frost-1.jpg",
@@ -1787,7 +1787,7 @@ const MODELS = [
   {
     id: "abe-lois-lane",
     artist: "Abe3D",
-    series: "DC",
+    series: "Superman",
     title: "Lois Lane",
     images: [
       "images/abe3d/dc/lois-lane/abe-lois-lane-1.jpg",
@@ -1808,7 +1808,7 @@ const MODELS = [
   {
     id: "abe-marry-marvel-bombshell",
     artist: "Abe3D",
-    series: "DC",
+    series: "Shazam",
     title: "Marry Marvel Bombshell",
     images: [
       "images/abe3d/dc/marry-marvel-bombshell/abe-marry-marvel-bombshell-1.jpg",
@@ -1829,7 +1829,7 @@ const MODELS = [
   {
     id: "abe-mera-bombshell",
     artist: "Abe3D",
-    series: "DC",
+    series: "Aquaman",
     title: "Mera Bombshell",
     images: [
       "images/abe3d/dc/mera-bombshell/abe-mera-bombshell-1.jpg",
@@ -1849,7 +1849,7 @@ const MODELS = [
   {
     id: "abe-poison-ivy",
     artist: "Abe3D",
-    series: "DC",
+    series: "Batman",
     title: "Poison Ivy",
     images: [
       "images/abe3d/dc/poison-ivy/abe-poison-ivy-1.jpg",
@@ -1870,7 +1870,7 @@ const MODELS = [
   {
     id: "abe-powergirl",
     artist: "Abe3D",
-    series: "DC",
+    series: "Superman",
     title: "Powergirl",
     images: [
       "images/abe3d/dc/powergirl/abe-powergirl-1.jpg",
@@ -1891,7 +1891,7 @@ const MODELS = [
   {
     id: "abe-powergirl-by-dellas",
     artist: "Abe3D",
-    series: "DC",
+    series: "Superman",
     title: "Powergirl by Dellas",
     images: [
       "images/abe3d/dc/powergirl-by-dellas/abe-powergirl-by-dellas-1.jpg",
@@ -1912,7 +1912,7 @@ const MODELS = [
   {
     id: "abe-raven-bombshell",
     artist: "Abe3D",
-    series: "DC",
+    series: "Teen Titans",
     title: "Raven Bombshell",
     images: [
       "images/abe3d/dc/raven-bombshell/abe-raven-bombshell-1.jpg",
@@ -1933,7 +1933,7 @@ const MODELS = [
   {
     id: "abe-star-sapphire",
     artist: "Abe3D",
-    series: "DC",
+    series: "Green Lantern",
     title: "Star Sapphire",
     images: [
       "images/abe3d/dc/star-sapphire/abe-star-sapphire-1.jpg",
@@ -1953,7 +1953,7 @@ const MODELS = [
   {
     id: "abe-starfire",
     artist: "Abe3D",
-    series: "DC",
+    series: "Teen Titans",
     title: "Starfire",
     images: [
       "images/abe3d/dc/starfire/abe-starfire-1.jpg",
@@ -1973,7 +1973,7 @@ const MODELS = [
   {
     id: "abe-supergirl",
     artist: "Abe3D",
-    series: "DC",
+    series: "Superman",
     title: "Supergirl",
     images: [
       "images/abe3d/dc/supergirl/abe-supergirl-1.jpg",
@@ -1994,7 +1994,7 @@ const MODELS = [
   {
     id: "abe-supergirl-bombshell",
     artist: "Abe3D",
-    series: "DC",
+    series: "Superman",
     title: "Supergirl Bombshell",
     images: [
       "images/abe3d/dc/supergirl-bombshell/abe-supergirl-bombshell-1.jpg",
@@ -2010,7 +2010,7 @@ const MODELS = [
   {
     id: "abe-supergirl-retro",
     artist: "Abe3D",
-    series: "DC",
+    series: "Superman",
     title: "Supergirl Retro",
     images: [
       "images/abe3d/dc/supergirl-retro/abe-supergirl-retro-1.jpg",
@@ -2030,7 +2030,7 @@ const MODELS = [
   {
     id: "abe-vixen",
     artist: "Abe3D",
-    series: "DC",
+    series: "Justice League",
     title: "Vixen",
     images: [
       "images/abe3d/dc/vixen/abe-vixen-1.jpg",
@@ -2051,7 +2051,7 @@ const MODELS = [
   {
     id: "abe-wonder-woman",
     artist: "Abe3D",
-    series: "DC",
+    series: "Wonder Woman",
     title: "Wonder Woman",
     images: [
       "images/abe3d/dc/wonder-woman/abe-wonder-woman-1.jpg",
@@ -2072,7 +2072,7 @@ const MODELS = [
   {
     id: "abe-wonder-woman-bombshell",
     artist: "Abe3D",
-    series: "DC",
+    series: "Wonder Woman",
     title: "Wonder Woman Bombshell",
     images: [
       "images/abe3d/dc/wonder-woman-bombshell/abe-wonder-woman-bombshell-1.jpg",
@@ -2087,7 +2087,7 @@ const MODELS = [
   {
     id: "abe-zatanna",
     artist: "Abe3D",
-    series: "DC",
+    series: "Justice League",
     title: "Zatanna",
     images: [
       "images/abe3d/dc/zatanna/abe-zatanna-1.jpg",
@@ -2108,7 +2108,7 @@ const MODELS = [
   {
     id: "abe-zatanna-dellas",
     artist: "Abe3D",
-    series: "DC",
+    series: "Justice League",
     title: "Zatanna dellas",
     images: [
       "images/abe3d/dc/zatanna-dellas/abe-zatanna-dellas-1.jpg",
