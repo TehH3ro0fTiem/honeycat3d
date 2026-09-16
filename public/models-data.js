@@ -5571,5 +5571,3859 @@ const MODELS = [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
     ],
     description: "A young spellcaster known for her playful personality, colorful magical design, and connection to the legendary Dark Magician, one of Yu-Gi-Oh's most recognizable characters."
+  },
+  {
+    id: "moonn-atom-eve",
+    artist: "3Dmoonn",
+    series: "Invincible",
+    title: "Atom Eve",
+    images: [
+      "images/3dmoonn/invincible/atom-eve/moonn-atom-eve-1.jpg",
+      "images/3dmoonn/invincible/atom-eve/moonn-atom-eve-2.jpg",
+      "images/3dmoonn/invincible/atom-eve/moonn-atom-eve-3.jpg",
+      "images/3dmoonn/invincible/atom-eve/moonn-atom-eve-4.jpg",
+      "images/3dmoonn/invincible/atom-eve/moonn-atom-eve-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Atom Eve, Invincible's telekinetic powerhouse, sculpted mid-lift with her signature costume rendered in crisp, dynamic detail."
+  },
+  {
+    id: "moonn-absolute-batman",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Absolute Batman",
+    images: [
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-1.jpg",
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-2.jpg",
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-3.jpg",
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-4.jpg",
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-5.jpg",
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-6.jpg",
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-7.jpg",
+      "images/3dmoonn/batman/absolute-batman/moonn-absolute-batman-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "This Absolute Batman sculpt leans into the character's brawnier, blue-collar reimagining, all bulk and menace under the cowl."
+  },
+  {
+    id: "moonn-albedo",
+    artist: "3Dmoonn",
+    series: "Overlord",
+    title: "Albedo",
+    images: [
+      "images/3dmoonn/overlord/albedo/moonn-albedo-1.jpg",
+      "images/3dmoonn/overlord/albedo/moonn-albedo-2.jpg",
+      "images/3dmoonn/overlord/albedo/moonn-albedo-3.jpg",
+      "images/3dmoonn/overlord/albedo/moonn-albedo-4.jpg",
+      "images/3dmoonn/overlord/albedo/moonn-albedo-5.jpg",
+      "images/3dmoonn/overlord/albedo/moonn-albedo-6.jpg",
+      "images/3dmoonn/overlord/albedo/moonn-albedo-7.jpg",
+      "images/3dmoonn/overlord/albedo/moonn-albedo-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Albedo, the demon overseer of the Great Tomb of Nazarick, sculpted with her signature horns and imperious bearing intact."
+  },
+  {
+    id: "moonn-alucard",
+    artist: "3Dmoonn",
+    series: "Hellsing",
+    title: "Alucard",
+    images: [
+      "images/3dmoonn/hellsing/alucard/moonn-alucard-1.jpg",
+      "images/3dmoonn/hellsing/alucard/moonn-alucard-2.jpg",
+      "images/3dmoonn/hellsing/alucard/moonn-alucard-3.jpg",
+      "images/3dmoonn/hellsing/alucard/moonn-alucard-4.jpg",
+      "images/3dmoonn/hellsing/alucard/moonn-alucard-5.jpg",
+      "images/3dmoonn/hellsing/alucard/moonn-alucard-6.jpg",
+      "images/3dmoonn/hellsing/alucard/moonn-alucard-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Alucard, Hellsing's ancient vampire enforcer, sculpted with his long red coat and unsettling grin caught mid-hunt."
+  },
+  {
+    id: "moonn-angel",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Angel",
+    images: [
+      "images/3dmoonn/king-of-fighters/angel/moonn-angel-1.jpg",
+      "images/3dmoonn/king-of-fighters/angel/moonn-angel-2.jpg",
+      "images/3dmoonn/king-of-fighters/angel/moonn-angel-3.jpg",
+      "images/3dmoonn/king-of-fighters/angel/moonn-angel-4.jpg",
+      "images/3dmoonn/king-of-fighters/angel/moonn-angel-5.jpg",
+      "images/3dmoonn/king-of-fighters/angel/moonn-angel-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Angel, King of Fighters' luchadora assassin, sculpted with her wrestling mask and predatory stance front and center."
+  },
+  {
+    id: "moonn-angemon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Angemon",
+    images: [
+      "images/3dmoonn/digimon/angemon/moonn-angemon-1.jpg",
+      "images/3dmoonn/digimon/angemon/moonn-angemon-2.jpg",
+      "images/3dmoonn/digimon/angemon/moonn-angemon-3.jpg",
+      "images/3dmoonn/digimon/angemon/moonn-angemon-4.jpg",
+      "images/3dmoonn/digimon/angemon/moonn-angemon-5.jpg",
+      "images/3dmoonn/digimon/angemon/moonn-angemon-6.jpg",
+      "images/3dmoonn/digimon/angemon/moonn-angemon-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Angemon, Digimon's angelic champion-level warrior, sculpted mid-descent with wings and Hand of Fate glowing."
+  },
+  {
+    id: "moonn-athena",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Athena",
+    images: [
+      "images/3dmoonn/king-of-fighters/athena/moonn-athena-1.jpg",
+      "images/3dmoonn/king-of-fighters/athena/moonn-athena-2.jpg",
+      "images/3dmoonn/king-of-fighters/athena/moonn-athena-3.jpg",
+      "images/3dmoonn/king-of-fighters/athena/moonn-athena-4.jpg",
+      "images/3dmoonn/king-of-fighters/athena/moonn-athena-5.jpg",
+      "images/3dmoonn/king-of-fighters/athena/moonn-athena-6.jpg",
+      "images/3dmoonn/king-of-fighters/athena/moonn-athena-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Athena Asamiya, King of Fighters' psychic idol, sculpted with her signature outfit and a burst of psycho power."
+  },
+  {
+    id: "moonn-b-jenet",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "B. Jenet",
+    images: [
+      "images/3dmoonn/king-of-fighters/b-jenet/moonn-b-jenet-1.jpg",
+      "images/3dmoonn/king-of-fighters/b-jenet/moonn-b-jenet-2.jpg",
+      "images/3dmoonn/king-of-fighters/b-jenet/moonn-b-jenet-3.jpg",
+      "images/3dmoonn/king-of-fighters/b-jenet/moonn-b-jenet-4.jpg",
+      "images/3dmoonn/king-of-fighters/b-jenet/moonn-b-jenet-5.jpg",
+      "images/3dmoonn/king-of-fighters/b-jenet/moonn-b-jenet-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "B. Jenet, King of Fighters' pirate captain, sculpted with cutlass drawn and swashbuckling attitude to match."
+  },
+  {
+    id: "moonn-batman-who-laughs",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Batman Who Laughs",
+    images: [
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-1.jpg",
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-2.jpg",
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-3.jpg",
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-4.jpg",
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-5.jpg",
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-6.jpg",
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-7.jpg",
+      "images/3dmoonn/batman/batman-who-laughs/moonn-batman-who-laughs-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A year-long passion project inspired by Dark Nights: Metal, this Batman Who Laughs sculpt leans fully into the character's twisted, grinning menace."
+  },
+  {
+    id: "moonn-beelstarmon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Beelstarmon",
+    images: [
+      "images/3dmoonn/digimon/beelstarmon/moonn-beelstarmon-1.jpg",
+      "images/3dmoonn/digimon/beelstarmon/moonn-beelstarmon-2.jpg",
+      "images/3dmoonn/digimon/beelstarmon/moonn-beelstarmon-3.jpg",
+      "images/3dmoonn/digimon/beelstarmon/moonn-beelstarmon-4.jpg",
+      "images/3dmoonn/digimon/beelstarmon/moonn-beelstarmon-5.jpg",
+      "images/3dmoonn/digimon/beelstarmon/moonn-beelstarmon-6.jpg",
+      "images/3dmoonn/digimon/beelstarmon/moonn-beelstarmon-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Beelstarmon, one of Digimon's Royal Knights, sculpted with her armored wings and blade held ready."
+  },
+  {
+    id: "moonn-beelzemon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Beelzemon",
+    images: [
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-1.jpg",
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-2.jpg",
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-3.jpg",
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-4.jpg",
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-5.jpg",
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-6.jpg",
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-7.jpg",
+      "images/3dmoonn/digimon/beelzemon/moonn-beelzemon-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Beelzemon, Digimon Tamers' fallen champion turned anti-hero, sculpted with his signature coat and twin guns drawn."
+  },
+  {
+    id: "moonn-black-widow-white-widow",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Black Widow / White Widow",
+    images: [
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-1.jpg",
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-2.jpg",
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-3.jpg",
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-4.jpg",
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-5.jpg",
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-6.jpg",
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-7.jpg",
+      "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A two-in-one Marvel piece pairing Black Widow's classic stealth gear against the White Widow variant's inverted palette."
+  },
+  {
+    id: "moonn-blue-mary",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Blue Mary",
+    images: [
+      "images/3dmoonn/king-of-fighters/blue-mary/moonn-blue-mary-1.jpg",
+      "images/3dmoonn/king-of-fighters/blue-mary/moonn-blue-mary-2.jpg",
+      "images/3dmoonn/king-of-fighters/blue-mary/moonn-blue-mary-3.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Blue Mary, King of Fighters' submission specialist, sculpted mid-grapple with her denim jacket and confident smirk."
+  },
+  {
+    id: "moonn-bo-katan-kryze",
+    artist: "3Dmoonn",
+    series: "Star Wars",
+    title: "Bo-Katan Kryze",
+    images: [
+      "images/3dmoonn/star-wars/bo-katan-kryze/moonn-bo-katan-kryze-1.jpg",
+      "images/3dmoonn/star-wars/bo-katan-kryze/moonn-bo-katan-kryze-2.jpg",
+      "images/3dmoonn/star-wars/bo-katan-kryze/moonn-bo-katan-kryze-3.jpg",
+      "images/3dmoonn/star-wars/bo-katan-kryze/moonn-bo-katan-kryze-4.jpg",
+      "images/3dmoonn/star-wars/bo-katan-kryze/moonn-bo-katan-kryze-5.jpg",
+      "images/3dmoonn/star-wars/bo-katan-kryze/moonn-bo-katan-kryze-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Bo-Katan Kryze, the armored Mandalorian leader from Star Wars, sculpted in full beskar with jetpack and blaster ready."
+  },
+  {
+    id: "moonn-boa-hancock",
+    artist: "3Dmoonn",
+    series: "One Piece",
+    title: "Boa Hancock",
+    images: [
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-1.jpg",
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-2.jpg",
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-3.jpg",
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-4.jpg",
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-5.jpg",
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-6.jpg",
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-7.jpg",
+      "images/3dmoonn/one-piece/boa-hancock/moonn-boa-hancock-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Boa Hancock, One Piece's Pirate Empress, sculpted in her signature dress with the regal, imperious posture fans expect."
+  },
+  {
+    id: "moonn-catwoman",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Catwoman",
+    images: [
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-1.jpg",
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-2.jpg",
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-3.jpg",
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-4.jpg",
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-5.jpg",
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-6.jpg",
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-7.jpg",
+      "images/3dmoonn/batman/catwoman/moonn-catwoman-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Catwoman perched mid-prowl, whip coiled and goggles up, sculpted with the sleek cat-burglar silhouette that defines the character."
+  },
+  {
+    id: "moonn-christie-monteiro",
+    artist: "3Dmoonn",
+    series: "Tekken",
+    title: "Christie Monteiro",
+    images: [
+      "images/3dmoonn/tekken/christie-monteiro/moonn-christie-monteiro-1.jpg",
+      "images/3dmoonn/tekken/christie-monteiro/moonn-christie-monteiro-2.jpg",
+      "images/3dmoonn/tekken/christie-monteiro/moonn-christie-monteiro-3.jpg",
+      "images/3dmoonn/tekken/christie-monteiro/moonn-christie-monteiro-4.jpg",
+      "images/3dmoonn/tekken/christie-monteiro/moonn-christie-monteiro-5.jpg",
+      "images/3dmoonn/tekken/christie-monteiro/moonn-christie-monteiro-6.jpg",
+      "images/3dmoonn/tekken/christie-monteiro/moonn-christie-monteiro-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Christie Monteiro, Tekken's capoeira specialist, sculpted mid-flow with the fluid, acrobatic energy her fighting style is known for."
+  },
+  {
+    id: "moonn-cindy",
+    artist: "3Dmoonn",
+    series: "Final Fantasy",
+    title: "Cindy",
+    images: [
+      "images/3dmoonn/final-fantasy/cindy/moonn-cindy-1.jpg",
+      "images/3dmoonn/final-fantasy/cindy/moonn-cindy-2.jpg",
+      "images/3dmoonn/final-fantasy/cindy/moonn-cindy-3.jpg",
+      "images/3dmoonn/final-fantasy/cindy/moonn-cindy-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Cindy Aurum, Final Fantasy XV's grease-streaked mechanic, sculpted in her cutoff overalls with wrench in hand."
+  },
+  {
+    id: "moonn-cortana",
+    artist: "3Dmoonn",
+    series: "Halo",
+    title: "Cortana",
+    images: [
+      "images/3dmoonn/halo/cortana/moonn-cortana-1.jpg",
+      "images/3dmoonn/halo/cortana/moonn-cortana-2.jpg",
+      "images/3dmoonn/halo/cortana/moonn-cortana-3.jpg",
+      "images/3dmoonn/halo/cortana/moonn-cortana-4.jpg",
+      "images/3dmoonn/halo/cortana/moonn-cortana-5.jpg",
+      "images/3dmoonn/halo/cortana/moonn-cortana-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Cortana rendered in her holographic glow, translating Halo's iconic AI companion into a display-ready physical form."
+  },
+  {
+    id: "moonn-dante",
+    artist: "3Dmoonn",
+    series: "Devil May Cry",
+    title: "Dante",
+    images: [
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-1.jpg",
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-2.jpg",
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-3.jpg",
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-4.jpg",
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-5.jpg",
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-6.jpg",
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-7.jpg",
+      "images/3dmoonn/devil-may-cry/dante/moonn-dante-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dante, Devil May Cry 5's demon hunter, sculpted mid-swagger with Rebellion slung and that trademark smirk."
+  },
+  {
+    id: "moonn-dark-magician-girl",
+    artist: "3Dmoonn",
+    series: "Yu-Gi-Oh!",
+    title: "Dark Magician Girl",
+    images: [
+      "images/3dmoonn/yu-gi-oh/dark-magician-girl/moonn-dark-magician-girl-1.jpg",
+      "images/3dmoonn/yu-gi-oh/dark-magician-girl/moonn-dark-magician-girl-2.jpg",
+      "images/3dmoonn/yu-gi-oh/dark-magician-girl/moonn-dark-magician-girl-3.jpg",
+      "images/3dmoonn/yu-gi-oh/dark-magician-girl/moonn-dark-magician-girl-4.jpg",
+      "images/3dmoonn/yu-gi-oh/dark-magician-girl/moonn-dark-magician-girl-5.jpg",
+      "images/3dmoonn/yu-gi-oh/dark-magician-girl/moonn-dark-magician-girl-6.jpg",
+      "images/3dmoonn/yu-gi-oh/dark-magician-girl/moonn-dark-magician-girl-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dark Magician Girl, Yu-Gi-Oh!'s spellcaster mascot, sculpted with staff raised and her signature hat and outfit in full detail."
+  },
+  {
+    id: "moonn-darth-talon",
+    artist: "3Dmoonn",
+    series: "Star Wars",
+    title: "Darth Talon",
+    images: [
+      "images/3dmoonn/star-wars/darth-talon/moonn-darth-talon-1.jpg",
+      "images/3dmoonn/star-wars/darth-talon/moonn-darth-talon-2.jpg",
+      "images/3dmoonn/star-wars/darth-talon/moonn-darth-talon-3.jpg",
+      "images/3dmoonn/star-wars/darth-talon/moonn-darth-talon-4.jpg",
+      "images/3dmoonn/star-wars/darth-talon/moonn-darth-talon-5.jpg",
+      "images/3dmoonn/star-wars/darth-talon/moonn-darth-talon-6.jpg",
+      "images/3dmoonn/star-wars/darth-talon/moonn-darth-talon-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Darth Talon, the tattooed Sith assassin from the Star Wars Legends comics, sculpted mid-strike with lightsaber drawn."
+  },
+  {
+    id: "moonn-death",
+    artist: "3Dmoonn",
+    series: "The Sandman",
+    title: "Death",
+    images: [
+      "images/3dmoonn/the-sandman/death/moonn-death-1.jpg",
+      "images/3dmoonn/the-sandman/death/moonn-death-2.jpg",
+      "images/3dmoonn/the-sandman/death/moonn-death-3.jpg",
+      "images/3dmoonn/the-sandman/death/moonn-death-4.jpg",
+      "images/3dmoonn/the-sandman/death/moonn-death-5.jpg",
+      "images/3dmoonn/the-sandman/death/moonn-death-6.jpg",
+      "images/3dmoonn/the-sandman/death/moonn-death-7.jpg",
+      "images/3dmoonn/the-sandman/death/moonn-death-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Death, the gentle, goth-styled psychopomp from Neil Gaiman's The Sandman, sculpted with the quiet warmth that made her a fan favorite."
+  },
+  {
+    id: "moonn-devimon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Devimon",
+    images: [
+      "images/3dmoonn/digimon/devimon/moonn-devimon-1.jpg",
+      "images/3dmoonn/digimon/devimon/moonn-devimon-2.jpg",
+      "images/3dmoonn/digimon/devimon/moonn-devimon-3.jpg",
+      "images/3dmoonn/digimon/devimon/moonn-devimon-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Devimon, the fallen angel and first major villain of the original Digimon anime, sculpted with wings spread wide."
+  },
+  {
+    id: "moonn-draculina",
+    artist: "3Dmoonn",
+    series: "Vampirella",
+    title: "Draculina",
+    images: [
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-1.jpg",
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-2.jpg",
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-3.jpg",
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-4.jpg",
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-5.jpg",
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-6.jpg",
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-7.jpg",
+      "images/3dmoonn/vampirella/draculina/moonn-draculina-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Draculina, Vampirella's gothic vampire counterpart, sculpted with flowing cape and predatory elegance."
+  },
+  {
+    id: "moonn-elastigirl",
+    artist: "3Dmoonn",
+    series: "The Incredibles",
+    title: "Elastigirl",
+    images: [
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-1.jpg",
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-2.jpg",
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-3.jpg",
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-4.jpg",
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-5.jpg",
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-6.jpg",
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-7.jpg",
+      "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Elastigirl mid-stretch, capturing The Incredibles' rubber-limbed super-mom in a dynamic, elongated pose."
+  },
+  {
+    id: "moonn-emma-frost",
+    artist: "3Dmoonn",
+    series: "X-Men",
+    title: "Emma Frost",
+    images: [
+      "images/3dmoonn/x-men/emma-frost/moonn-emma-frost-1.jpg",
+      "images/3dmoonn/x-men/emma-frost/moonn-emma-frost-2.jpg",
+      "images/3dmoonn/x-men/emma-frost/moonn-emma-frost-3.jpg",
+      "images/3dmoonn/x-men/emma-frost/moonn-emma-frost-4.jpg",
+      "images/3dmoonn/x-men/emma-frost/moonn-emma-frost-5.jpg",
+      "images/3dmoonn/x-men/emma-frost/moonn-emma-frost-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Emma Frost, Marvel's diamond-skinned telepath, sculpted in her iconic white ensemble with the icy composure that defines the character."
+  },
+  {
+    id: "moonn-esdeath",
+    artist: "3Dmoonn",
+    series: "Akame ga Kill!",
+    title: "Esdeath",
+    images: [
+      "images/3dmoonn/akame-ga-kill/esdeath/moonn-esdeath-1.jpg",
+      "images/3dmoonn/akame-ga-kill/esdeath/moonn-esdeath-2.jpg",
+      "images/3dmoonn/akame-ga-kill/esdeath/moonn-esdeath-3.jpg",
+      "images/3dmoonn/akame-ga-kill/esdeath/moonn-esdeath-4.jpg",
+      "images/3dmoonn/akame-ga-kill/esdeath/moonn-esdeath-5.jpg",
+      "images/3dmoonn/akame-ga-kill/esdeath/moonn-esdeath-6.jpg",
+      "images/3dmoonn/akame-ga-kill/esdeath/moonn-esdeath-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Esdeath, Akame ga Kill!'s ice-wielding general, sculpted with her sword drawn and frost curling around the base."
+  },
+  {
+    id: "moonn-eve",
+    artist: "3Dmoonn",
+    series: "Stellar Blade",
+    title: "Eve",
+    images: [
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-1.jpg",
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-2.jpg",
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-3.jpg",
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-4.jpg",
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-5.jpg",
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-6.jpg",
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-7.jpg",
+      "images/3dmoonn/stellar-blade/eve/moonn-eve-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Eve, Stellar Blade's sleek combat android, sculpted in her signature suit with the fluid, athletic silhouette from the hit PlayStation title."
+  },
+  {
+    id: "moonn-felicia",
+    artist: "3Dmoonn",
+    series: "Darkstalkers",
+    title: "Felicia",
+    images: [
+      "images/3dmoonn/darkstalkers/felicia/moonn-felicia-1.jpg",
+      "images/3dmoonn/darkstalkers/felicia/moonn-felicia-2.jpg",
+      "images/3dmoonn/darkstalkers/felicia/moonn-felicia-3.jpg",
+      "images/3dmoonn/darkstalkers/felicia/moonn-felicia-4.jpg",
+      "images/3dmoonn/darkstalkers/felicia/moonn-felicia-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Felicia, Darkstalkers' cat-girl fighter, sculpted mid-pose with her claws out and playful energy intact."
+  },
+  {
+    id: "moonn-fern",
+    artist: "3Dmoonn",
+    series: "Frieren",
+    title: "Fern",
+    images: [
+      "images/3dmoonn/frieren/fern/moonn-fern-1.jpg",
+      "images/3dmoonn/frieren/fern/moonn-fern-2.jpg",
+      "images/3dmoonn/frieren/fern/moonn-fern-3.jpg",
+      "images/3dmoonn/frieren/fern/moonn-fern-4.jpg",
+      "images/3dmoonn/frieren/fern/moonn-fern-5.jpg",
+      "images/3dmoonn/frieren/fern/moonn-fern-6.jpg",
+      "images/3dmoonn/frieren/fern/moonn-fern-7.jpg",
+      "images/3dmoonn/frieren/fern/moonn-fern-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Fern, the young mage from Frieren: Beyond Journey's End, sculpted with staff in hand and her quietly determined expression."
+  },
+  {
+    id: "moonn-frieren",
+    artist: "3Dmoonn",
+    series: "Frieren",
+    title: "Frieren",
+    images: [
+      "images/3dmoonn/frieren/frieren/moonn-frieren-1.jpg",
+      "images/3dmoonn/frieren/frieren/moonn-frieren-2.jpg",
+      "images/3dmoonn/frieren/frieren/moonn-frieren-3.jpg",
+      "images/3dmoonn/frieren/frieren/moonn-frieren-4.jpg",
+      "images/3dmoonn/frieren/frieren/moonn-frieren-5.jpg",
+      "images/3dmoonn/frieren/frieren/moonn-frieren-6.jpg",
+      "images/3dmoonn/frieren/frieren/moonn-frieren-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Frieren herself, the elven mage at the heart of Frieren: Beyond Journey's End, sculpted with the understated calm that defines her."
+  },
+  {
+    id: "moonn-fubuki",
+    artist: "3Dmoonn",
+    series: "One Punch Man",
+    title: "Fubuki",
+    images: [
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-1.jpg",
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-2.jpg",
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-3.jpg",
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-4.jpg",
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-5.jpg",
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-6.jpg",
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-7.jpg",
+      "images/3dmoonn/one-punch-man/fubuki/moonn-fubuki-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Fubuki, One-Punch Man's rank-obsessed esper, sculpted with her telekinetic aura and confident stance."
+  },
+  {
+    id: "moonn-harley-quinn-halloween",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Harley Quinn Halloween",
+    images: [
+      "images/3dmoonn/batman/harley-quinn-halloween/moonn-harley-quinn-halloween-1.jpg",
+      "images/3dmoonn/batman/harley-quinn-halloween/moonn-harley-quinn-halloween-2.jpg",
+      "images/3dmoonn/batman/harley-quinn-halloween/moonn-harley-quinn-halloween-3.jpg",
+      "images/3dmoonn/batman/harley-quinn-halloween/moonn-harley-quinn-halloween-4.jpg",
+      "images/3dmoonn/batman/harley-quinn-halloween/moonn-harley-quinn-halloween-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A Halloween-themed take on Harley Quinn, mallet in hand and costume reworked with seasonal flair."
+  },
+  {
+    id: "moonn-hawkgirl",
+    artist: "3Dmoonn",
+    series: "Justice League",
+    title: "Hawkgirl",
+    images: [
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-1.jpg",
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-2.jpg",
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-3.jpg",
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-4.jpg",
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-5.jpg",
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-6.jpg",
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-7.jpg",
+      "images/3dmoonn/justice-league/hawkgirl/moonn-hawkgirl-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hawkgirl sculpted mid-flight, wings spread and mace raised, channeling the Justice League's Thanagarian warrior."
+  },
+  {
+    id: "moonn-hinata-hyuga",
+    artist: "3Dmoonn",
+    series: "Naruto",
+    title: "Hinata Hyuga",
+    images: [
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-1.jpg",
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-2.jpg",
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-3.jpg",
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-4.jpg",
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-5.jpg",
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-6.jpg",
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-7.jpg",
+      "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hinata Hyuga, Naruto's gentle-fist Byakugan wielder, sculpted mid-stance with her clan's signature technique implied."
+  },
+  {
+    id: "moonn-holyangemon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Holyangemon",
+    images: [
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-1.jpg",
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-2.jpg",
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-3.jpg",
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-4.jpg",
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-5.jpg",
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-6.jpg",
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-7.jpg",
+      "images/3dmoonn/digimon/holyangemon/moonn-holyangemon-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Holyangemon, the fully-armored evolution of Angemon, sculpted with sword and shield raised in full Digimon glory."
+  },
+  {
+    id: "moonn-huntress",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Huntress",
+    images: [
+      "images/3dmoonn/batman/huntress/moonn-huntress-1.jpg",
+      "images/3dmoonn/batman/huntress/moonn-huntress-2.jpg",
+      "images/3dmoonn/batman/huntress/moonn-huntress-3.jpg",
+      "images/3dmoonn/batman/huntress/moonn-huntress-4.jpg",
+      "images/3dmoonn/batman/huntress/moonn-huntress-5.jpg",
+      "images/3dmoonn/batman/huntress/moonn-huntress-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Huntress, Gotham's crossbow-wielding vigilante, sculpted mid-aim with the grim intensity that sets her apart from the rest of the Bat-family."
+  },
+  {
+    id: "moonn-ingrid",
+    artist: "3Dmoonn",
+    series: "Taimanin",
+    title: "Ingrid",
+    images: [
+      "images/3dmoonn/taimanin/ingrid/moonn-ingrid-1.jpg",
+      "images/3dmoonn/taimanin/ingrid/moonn-ingrid-2.jpg",
+      "images/3dmoonn/taimanin/ingrid/moonn-ingrid-3.jpg",
+      "images/3dmoonn/taimanin/ingrid/moonn-ingrid-4.jpg",
+      "images/3dmoonn/taimanin/ingrid/moonn-ingrid-5.jpg",
+      "images/3dmoonn/taimanin/ingrid/moonn-ingrid-6.jpg",
+      "images/3dmoonn/taimanin/ingrid/moonn-ingrid-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ingrid, from the Taimanin series, sculpted with the stylized, high-detail aesthetic the franchise is known for."
+  },
+  {
+    id: "moonn-juri-han",
+    artist: "3Dmoonn",
+    series: "Street Fighter",
+    title: "Juri Han",
+    images: [
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-1.jpg",
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-2.jpg",
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-3.jpg",
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-4.jpg",
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-5.jpg",
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-6.jpg",
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-7.jpg",
+      "images/3dmoonn/street-fighter/juri-han/moonn-juri-han-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Juri Han, Street Fighter's Taekwondo brawler, sculpted mid-kick with her signature eye implant glowing."
+  },
+  {
+    id: "moonn-katarina",
+    artist: "3Dmoonn",
+    series: "League of Legends",
+    title: "Katarina",
+    images: [
+      "images/3dmoonn/league-of-legends/katarina/moonn-katarina-1.jpg",
+      "images/3dmoonn/league-of-legends/katarina/moonn-katarina-2.jpg",
+      "images/3dmoonn/league-of-legends/katarina/moonn-katarina-3.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Katarina, League of Legends' blade-dancing assassin, sculpted mid-throw with daggers fanned around her."
+  },
+  {
+    id: "moonn-killua",
+    artist: "3Dmoonn",
+    series: "Hunter x Hunter",
+    title: "Killua",
+    images: [
+      "images/3dmoonn/hunter-x-hunter/killua/moonn-killua-1.jpg",
+      "images/3dmoonn/hunter-x-hunter/killua/moonn-killua-2.jpg",
+      "images/3dmoonn/hunter-x-hunter/killua/moonn-killua-3.jpg",
+      "images/3dmoonn/hunter-x-hunter/killua/moonn-killua-4.jpg",
+      "images/3dmoonn/hunter-x-hunter/killua/moonn-killua-5.jpg",
+      "images/3dmoonn/hunter-x-hunter/killua/moonn-killua-6.jpg",
+      "images/3dmoonn/hunter-x-hunter/killua/moonn-killua-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Killua Zoldyck, Hunter x Hunter's lightning-fast assassin, sculpted with the sharp, coiled energy of his Godspeed technique."
+  },
+  {
+    id: "moonn-kyo-kusanagi",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Kyo Kusanagi",
+    images: [
+      "images/3dmoonn/king-of-fighters/kyo-kusanagi/moonn-kyo-kusanagi-1.jpg",
+      "images/3dmoonn/king-of-fighters/kyo-kusanagi/moonn-kyo-kusanagi-2.jpg",
+      "images/3dmoonn/king-of-fighters/kyo-kusanagi/moonn-kyo-kusanagi-3.jpg",
+      "images/3dmoonn/king-of-fighters/kyo-kusanagi/moonn-kyo-kusanagi-4.jpg",
+      "images/3dmoonn/king-of-fighters/kyo-kusanagi/moonn-kyo-kusanagi-5.jpg",
+      "images/3dmoonn/king-of-fighters/kyo-kusanagi/moonn-kyo-kusanagi-6.jpg",
+      "images/3dmoonn/king-of-fighters/kyo-kusanagi/moonn-kyo-kusanagi-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kyo Kusanagi, King of Fighters' flame-wielding protagonist, sculpted mid-strike with fire licking off his fists."
+  },
+  {
+    id: "moonn-lady",
+    artist: "3Dmoonn",
+    series: "Devil May Cry",
+    title: "Lady",
+    images: [
+      "images/3dmoonn/devil-may-cry/lady/moonn-lady-1.jpg",
+      "images/3dmoonn/devil-may-cry/lady/moonn-lady-2.jpg",
+      "images/3dmoonn/devil-may-cry/lady/moonn-lady-3.jpg",
+      "images/3dmoonn/devil-may-cry/lady/moonn-lady-4.jpg",
+      "images/3dmoonn/devil-may-cry/lady/moonn-lady-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lady, Devil May Cry 3's demon-hunting gunslinger, sculpted with her oversized arsenal and no-nonsense stance."
+  },
+  {
+    id: "moonn-ladydevimon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "LadyDevimon",
+    images: [
+      "images/3dmoonn/digimon/ladydevimon/moonn-ladydevimon-1.jpg",
+      "images/3dmoonn/digimon/ladydevimon/moonn-ladydevimon-2.jpg",
+      "images/3dmoonn/digimon/ladydevimon/moonn-ladydevimon-3.jpg",
+      "images/3dmoonn/digimon/ladydevimon/moonn-ladydevimon-4.jpg",
+      "images/3dmoonn/digimon/ladydevimon/moonn-ladydevimon-5.jpg",
+      "images/3dmoonn/digimon/ladydevimon/moonn-ladydevimon-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "LadyDevimon, Digimon's fallen angel villainess, sculpted with dark wings unfurled and a wicked grin."
+  },
+  {
+    id: "moonn-lara-croft",
+    artist: "3Dmoonn",
+    series: "Tomb Raider",
+    title: "Lara Croft",
+    images: [
+      "images/3dmoonn/tomb-raider/lara-croft/moonn-lara-croft-1.jpg",
+      "images/3dmoonn/tomb-raider/lara-croft/moonn-lara-croft-2.jpg",
+      "images/3dmoonn/tomb-raider/lara-croft/moonn-lara-croft-3.jpg",
+      "images/3dmoonn/tomb-raider/lara-croft/moonn-lara-croft-4.jpg",
+      "images/3dmoonn/tomb-raider/lara-croft/moonn-lara-croft-5.jpg",
+      "images/3dmoonn/tomb-raider/lara-croft/moonn-lara-croft-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lara Croft, Tomb Raider's intrepid archaeologist, sculpted mid-exploration with dual pistols drawn."
+  },
+  {
+    id: "moonn-magik",
+    artist: "3Dmoonn",
+    series: "X-Men",
+    title: "Magik",
+    images: [
+      "images/3dmoonn/x-men/magik/moonn-magik-1.jpg",
+      "images/3dmoonn/x-men/magik/moonn-magik-2.jpg",
+      "images/3dmoonn/x-men/magik/moonn-magik-3.jpg",
+      "images/3dmoonn/x-men/magik/moonn-magik-4.jpg",
+      "images/3dmoonn/x-men/magik/moonn-magik-5.jpg",
+      "images/3dmoonn/x-men/magik/moonn-magik-6.jpg",
+      "images/3dmoonn/x-men/magik/moonn-magik-7.jpg",
+      "images/3dmoonn/x-men/magik/moonn-magik-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Magik, the soulsword-wielding X-Men sorceress, sculpted here in her Marvel Rivals incarnation with Limbo's darkness swirling at her feet."
+  },
+  {
+    id: "moonn-mai-shiranui",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Mai Shiranui",
+    images: [
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-1.jpg",
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-2.jpg",
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-3.jpg",
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-4.jpg",
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-5.jpg",
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-6.jpg",
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-7.jpg",
+      "images/3dmoonn/king-of-fighters/mai-shiranui/moonn-mai-shiranui-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mai Shiranui, King of Fighters' fan-favorite kunoichi, sculpted mid-flourish with her signature fans and flowing hair."
+  },
+  {
+    id: "moonn-mantis",
+    artist: "3Dmoonn",
+    series: "Guardians of the Galaxy",
+    title: "Mantis",
+    images: [
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-1.jpg",
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-2.jpg",
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-3.jpg",
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-4.jpg",
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-5.jpg",
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-6.jpg",
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-7.jpg",
+      "images/3dmoonn/guardians-of-the-galaxy/mantis/moonn-mantis-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mantis, the empathic Guardian of the Galaxy, sculpted here in her Marvel Rivals design with her antennae and healing aura in full detail."
+  },
+  {
+    id: "moonn-may-lee",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "May Lee",
+    images: [
+      "images/3dmoonn/king-of-fighters/may-lee/moonn-may-lee-1.jpg",
+      "images/3dmoonn/king-of-fighters/may-lee/moonn-may-lee-2.jpg",
+      "images/3dmoonn/king-of-fighters/may-lee/moonn-may-lee-3.jpg",
+      "images/3dmoonn/king-of-fighters/may-lee/moonn-may-lee-4.jpg",
+      "images/3dmoonn/king-of-fighters/may-lee/moonn-may-lee-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "May Lee, King of Fighters' energetic Taekwondo fighter, sculpted mid-kick with her signature ribbons trailing."
+  },
+  {
+    id: "moonn-mirko",
+    artist: "3Dmoonn",
+    series: "My Hero Academia",
+    title: "Mirko",
+    images: [
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-1.jpg",
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-2.jpg",
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-3.jpg",
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-4.jpg",
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-5.jpg",
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-6.jpg",
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-7.jpg",
+      "images/3dmoonn/my-hero-academia/mirko/moonn-mirko-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mirko, My Hero Academia's Rabbit Hero, sculpted mid-leap with the raw physicality that makes her one of the series' toughest fighters."
+  },
+  {
+    id: "moonn-ms-fortune",
+    artist: "3Dmoonn",
+    series: "Skullgirls",
+    title: "Ms. Fortune",
+    images: [
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-1.jpg",
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-2.jpg",
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-3.jpg",
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-4.jpg",
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-5.jpg",
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-6.jpg",
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-7.jpg",
+      "images/3dmoonn/skullgirls/ms-fortune/moonn-ms-fortune-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ms. Fortune, Skullgirls' resilient cat-girl brawler, sculpted with her signature detachable limbs implied mid-fight."
+  },
+  {
+    id: "moonn-mt-lady",
+    artist: "3Dmoonn",
+    series: "My Hero Academia",
+    title: "Mt. Lady",
+    images: [
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-1.jpg",
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-2.jpg",
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-3.jpg",
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-4.jpg",
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-5.jpg",
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-6.jpg",
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-7.jpg",
+      "images/3dmoonn/my-hero-academia/mt-lady/moonn-mt-lady-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mt. Lady, My Hero Academia's giant-growth hero, sculpted at human scale but with the confident, camera-ready pose that made her a media darling."
+  },
+  {
+    id: "moonn-nefertari-vivi",
+    artist: "3Dmoonn",
+    series: "One Piece",
+    title: "Nefertari Vivi",
+    images: [
+      "images/3dmoonn/one-piece/nefertari-vivi/moonn-nefertari-vivi-1.jpg",
+      "images/3dmoonn/one-piece/nefertari-vivi/moonn-nefertari-vivi-2.jpg",
+      "images/3dmoonn/one-piece/nefertari-vivi/moonn-nefertari-vivi-3.jpg",
+      "images/3dmoonn/one-piece/nefertari-vivi/moonn-nefertari-vivi-4.jpg",
+      "images/3dmoonn/one-piece/nefertari-vivi/moonn-nefertari-vivi-5.jpg",
+      "images/3dmoonn/one-piece/nefertari-vivi/moonn-nefertari-vivi-6.jpg",
+      "images/3dmoonn/one-piece/nefertari-vivi/moonn-nefertari-vivi-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nefertari Vivi, One Piece's Alabasta princess, sculpted with the quiet resolve of a royal who fought for her kingdom from the shadows."
+  },
+  {
+    id: "moonn-nico-robin",
+    artist: "3Dmoonn",
+    series: "One Piece",
+    title: "Nico Robin",
+    images: [
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-1.jpg",
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-2.jpg",
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-3.jpg",
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-4.jpg",
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-5.jpg",
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-6.jpg",
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-7.jpg",
+      "images/3dmoonn/one-piece/nico-robin/moonn-nico-robin-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nico Robin, One Piece's archaeologist and Devil Fruit user, sculpted with her cool, composed demeanor intact."
+  },
+  {
+    id: "moonn-orihime",
+    artist: "3Dmoonn",
+    series: "Bleach",
+    title: "Orihime",
+    images: [
+      "images/3dmoonn/bleach/orihime/moonn-orihime-1.jpg",
+      "images/3dmoonn/bleach/orihime/moonn-orihime-2.jpg",
+      "images/3dmoonn/bleach/orihime/moonn-orihime-3.jpg",
+      "images/3dmoonn/bleach/orihime/moonn-orihime-4.jpg",
+      "images/3dmoonn/bleach/orihime/moonn-orihime-5.jpg",
+      "images/3dmoonn/bleach/orihime/moonn-orihime-6.jpg",
+      "images/3dmoonn/bleach/orihime/moonn-orihime-7.jpg",
+      "images/3dmoonn/bleach/orihime/moonn-orihime-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Orihime Inoue, Bleach's gentle-hearted healer, sculpted with her hairpins and Soten Kisshun ability referenced in the pose."
+  },
+  {
+    id: "moonn-panty",
+    artist: "3Dmoonn",
+    series: "Panty & Stocking with Garterbelt",
+    title: "Panty",
+    images: [
+      "images/3dmoonn/panty-stocking-with-garterbelt/panty/moonn-panty-1.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/panty/moonn-panty-2.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/panty/moonn-panty-3.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/panty/moonn-panty-4.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/panty/moonn-panty-5.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/panty/moonn-panty-6.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/panty/moonn-panty-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Panty, one half of Panty & Stocking with Garterbelt's chaotic angel duo, sculpted with the show's exaggerated, punk-glam style intact."
+  },
+  {
+    id: "moonn-poison-ivy",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Poison Ivy",
+    images: [
+      "images/3dmoonn/batman/poison-ivy/moonn-poison-ivy-1.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Poison Ivy, Gotham's botanical villainess, sculpted amid creeping vines with her signature red hair and seductive menace."
+  },
+  {
+    id: "moonn-power-girl",
+    artist: "3Dmoonn",
+    series: "Superman",
+    title: "Power Girl",
+    images: [
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-1.jpg",
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-2.jpg",
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-3.jpg",
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-4.jpg",
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-5.jpg",
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-6.jpg",
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-7.jpg",
+      "images/3dmoonn/superman/power-girl/moonn-power-girl-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Power Girl, the Kryptonian powerhouse of the Superman family, sculpted mid-flight with her iconic white bustier suit."
+  },
+  {
+    id: "moonn-q-bee",
+    artist: "3Dmoonn",
+    series: "Darkstalkers",
+    title: "Q-Bee",
+    images: [
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-1.jpg",
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-2.jpg",
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-3.jpg",
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-4.jpg",
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-5.jpg",
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-6.jpg",
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-7.jpg",
+      "images/3dmoonn/darkstalkers/q-bee/moonn-q-bee-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Q-Bee, Darkstalkers' insectoid fighter, sculpted with wings and stinger rendered in the franchise's signature grotesque-glamour style."
+  },
+  {
+    id: "moonn-raven",
+    artist: "3Dmoonn",
+    series: "Teen Titans",
+    title: "Raven",
+    images: [
+      "images/3dmoonn/teen-titans/raven/moonn-raven-1.jpg",
+      "images/3dmoonn/teen-titans/raven/moonn-raven-2.jpg",
+      "images/3dmoonn/teen-titans/raven/moonn-raven-3.jpg",
+      "images/3dmoonn/teen-titans/raven/moonn-raven-4.jpg",
+      "images/3dmoonn/teen-titans/raven/moonn-raven-5.jpg",
+      "images/3dmoonn/teen-titans/raven/moonn-raven-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Raven, Teen Titans' brooding empath, sculpted with her hooded cloak and dark magic swirling around her hands."
+  },
+  {
+    id: "moonn-reanette-elfelt",
+    artist: "3Dmoonn",
+    series: "The Ossan Newbie Adventurer",
+    title: "Reanette Elfelt",
+    images: [
+      "images/3dmoonn/the-ossan-newbie-adventurer/reanette-elfelt/moonn-reanette-elfelt-1.jpg",
+      "images/3dmoonn/the-ossan-newbie-adventurer/reanette-elfelt/moonn-reanette-elfelt-2.jpg",
+      "images/3dmoonn/the-ossan-newbie-adventurer/reanette-elfelt/moonn-reanette-elfelt-3.jpg",
+      "images/3dmoonn/the-ossan-newbie-adventurer/reanette-elfelt/moonn-reanette-elfelt-4.jpg",
+      "images/3dmoonn/the-ossan-newbie-adventurer/reanette-elfelt/moonn-reanette-elfelt-5.jpg",
+      "images/3dmoonn/the-ossan-newbie-adventurer/reanette-elfelt/moonn-reanette-elfelt-6.jpg",
+      "images/3dmoonn/the-ossan-newbie-adventurer/reanette-elfelt/moonn-reanette-elfelt-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Reanette Elfelt, sculpted from The Ossan Newbie Adventurer, rendered with the same detail and care as the rest of the lineup."
+  },
+  {
+    id: "moonn-rebecca",
+    artist: "3Dmoonn",
+    series: "Cyberpunk Edgerunners",
+    title: "Rebecca",
+    images: [
+      "images/3dmoonn/cyberpunk-edgerunners/rebecca/moonn-rebecca-1.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/rebecca/moonn-rebecca-2.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/rebecca/moonn-rebecca-3.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/rebecca/moonn-rebecca-4.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/rebecca/moonn-rebecca-5.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/rebecca/moonn-rebecca-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rebecca, Cyberpunk Edgerunners' trigger-happy mercenary, sculpted small and vicious with her oversized revolver in hand."
+  },
+  {
+    id: "moonn-red-sonja",
+    artist: "3Dmoonn",
+    series: "Red Sonja",
+    title: "Red Sonja",
+    images: [
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-1.jpg",
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-2.jpg",
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-3.jpg",
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-4.jpg",
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-5.jpg",
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-6.jpg",
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-7.jpg",
+      "images/3dmoonn/red-sonja/red-sonja/moonn-red-sonja-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Red Sonja, the She-Devil with a Sword, sculpted in her iconic chainmail with blade raised — her own franchise, not a licensed crossover."
+  },
+  {
+    id: "moonn-regina",
+    artist: "3Dmoonn",
+    series: "Dino Crisis",
+    title: "Regina",
+    images: [
+      "images/3dmoonn/dino-crisis/regina/moonn-regina-1.jpg",
+      "images/3dmoonn/dino-crisis/regina/moonn-regina-2.jpg",
+      "images/3dmoonn/dino-crisis/regina/moonn-regina-3.jpg",
+      "images/3dmoonn/dino-crisis/regina/moonn-regina-4.jpg",
+      "images/3dmoonn/dino-crisis/regina/moonn-regina-5.jpg",
+      "images/3dmoonn/dino-crisis/regina/moonn-regina-6.jpg",
+      "images/3dmoonn/dino-crisis/regina/moonn-regina-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Regina, Dino Crisis's special-ops protagonist, sculpted mid-mission with sidearm drawn against an unseen threat."
+  },
+  {
+    id: "moonn-rei-miyamoto",
+    artist: "3Dmoonn",
+    series: "Highschool of the Dead",
+    title: "Rei Miyamoto",
+    images: [
+      "images/3dmoonn/highschool-of-the-dead/rei-miyamoto/moonn-rei-miyamoto-1.jpg",
+      "images/3dmoonn/highschool-of-the-dead/rei-miyamoto/moonn-rei-miyamoto-2.jpg",
+      "images/3dmoonn/highschool-of-the-dead/rei-miyamoto/moonn-rei-miyamoto-3.jpg",
+      "images/3dmoonn/highschool-of-the-dead/rei-miyamoto/moonn-rei-miyamoto-4.jpg",
+      "images/3dmoonn/highschool-of-the-dead/rei-miyamoto/moonn-rei-miyamoto-5.jpg",
+      "images/3dmoonn/highschool-of-the-dead/rei-miyamoto/moonn-rei-miyamoto-6.jpg",
+      "images/3dmoonn/highschool-of-the-dead/rei-miyamoto/moonn-rei-miyamoto-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rei Miyamoto, Highschool of the Dead's naginata-wielding survivor, sculpted mid-swing against the zombie horde."
+  },
+  {
+    id: "moonn-rosemon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Rosemon",
+    images: [
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-1.jpg",
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-2.jpg",
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-3.jpg",
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-4.jpg",
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-5.jpg",
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-6.jpg",
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-7.jpg",
+      "images/3dmoonn/digimon/rosemon/moonn-rosemon-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rosemon, Digimon's rose-whip wielding Mega, sculpted with thorned tendrils and elegant, deadly poise."
+  },
+  {
+    id: "moonn-rugal",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Rugal",
+    images: [
+      "images/3dmoonn/king-of-fighters/rugal/moonn-rugal-1.jpg",
+      "images/3dmoonn/king-of-fighters/rugal/moonn-rugal-2.jpg",
+      "images/3dmoonn/king-of-fighters/rugal/moonn-rugal-3.jpg",
+      "images/3dmoonn/king-of-fighters/rugal/moonn-rugal-4.jpg",
+      "images/3dmoonn/king-of-fighters/rugal/moonn-rugal-5.jpg",
+      "images/3dmoonn/king-of-fighters/rugal/moonn-rugal-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rugal Bernstein, King of Fighters' recurring final boss, sculpted with the imposing bulk and cruel confidence that made him iconic."
+  },
+  {
+    id: "moonn-ryoko-hakubi",
+    artist: "3Dmoonn",
+    series: "Tenchi Muyo!",
+    title: "Ryoko Hakubi",
+    images: [
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-1.jpg",
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-2.jpg",
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-3.jpg",
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-4.jpg",
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-5.jpg",
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-6.jpg",
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-7.jpg",
+      "images/3dmoonn/tenchi-muyo/ryoko-hakubi/moonn-ryoko-hakubi-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ryoko Hakubi, Tenchi Muyo!'s space pirate, sculpted with her energy sword drawn and mischievous grin."
+  },
+  {
+    id: "moonn-sailor-moon",
+    artist: "3Dmoonn",
+    series: "Sailor Moon",
+    title: "Sailor Moon",
+    images: [
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-1.jpg",
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-2.jpg",
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-3.jpg",
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-4.jpg",
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-5.jpg",
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-6.jpg",
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-7.jpg",
+      "images/3dmoonn/sailor-moon/sailor-moon/moonn-sailor-moon-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sailor Moon herself, sculpted in her iconic sailor-suit fuku with tiara ready to strike down evil."
+  },
+  {
+    id: "moonn-sakuyamon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Sakuyamon",
+    images: [
+      "images/3dmoonn/digimon/sakuyamon/moonn-sakuyamon-1.jpg",
+      "images/3dmoonn/digimon/sakuyamon/moonn-sakuyamon-2.jpg",
+      "images/3dmoonn/digimon/sakuyamon/moonn-sakuyamon-3.jpg",
+      "images/3dmoonn/digimon/sakuyamon/moonn-sakuyamon-4.jpg",
+      "images/3dmoonn/digimon/sakuyamon/moonn-sakuyamon-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sakuyamon, Digimon Tamers' fox-spirit priestess Mega, sculpted with staff and shimenawa rope in full ceremonial detail."
+  },
+  {
+    id: "moonn-samus-aran",
+    artist: "3Dmoonn",
+    series: "Metroid",
+    title: "Samus Aran",
+    images: [
+      "images/3dmoonn/metroid/samus-aran/moonn-samus-aran-1.jpg",
+      "images/3dmoonn/metroid/samus-aran/moonn-samus-aran-2.jpg",
+      "images/3dmoonn/metroid/samus-aran/moonn-samus-aran-3.jpg",
+      "images/3dmoonn/metroid/samus-aran/moonn-samus-aran-4.jpg",
+      "images/3dmoonn/metroid/samus-aran/moonn-samus-aran-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Samus Aran, Metroid's bounty hunter, sculpted in her Power Suit with arm cannon charged and ready to fire."
+  },
+  {
+    id: "moonn-satana",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Satana",
+    images: [
+      "images/3dmoonn/marvel/satana/moonn-satana-1.jpg",
+      "images/3dmoonn/marvel/satana/moonn-satana-2.jpg",
+      "images/3dmoonn/marvel/satana/moonn-satana-3.jpg",
+      "images/3dmoonn/marvel/satana/moonn-satana-4.jpg",
+      "images/3dmoonn/marvel/satana/moonn-satana-5.jpg",
+      "images/3dmoonn/marvel/satana/moonn-satana-6.jpg",
+      "images/3dmoonn/marvel/satana/moonn-satana-7.jpg",
+      "images/3dmoonn/marvel/satana/moonn-satana-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Satana Hellstrom, Marvel's demon-blooded sorceress, sculpted with hellfire licking at her fingertips."
+  },
+  {
+    id: "moonn-saya-takagi",
+    artist: "3Dmoonn",
+    series: "Highschool of the Dead",
+    title: "Saya Takagi",
+    images: [
+      "images/3dmoonn/highschool-of-the-dead/saya-takagi/moonn-saya-takagi-1.jpg",
+      "images/3dmoonn/highschool-of-the-dead/saya-takagi/moonn-saya-takagi-2.jpg",
+      "images/3dmoonn/highschool-of-the-dead/saya-takagi/moonn-saya-takagi-3.jpg",
+      "images/3dmoonn/highschool-of-the-dead/saya-takagi/moonn-saya-takagi-4.jpg",
+      "images/3dmoonn/highschool-of-the-dead/saya-takagi/moonn-saya-takagi-5.jpg",
+      "images/3dmoonn/highschool-of-the-dead/saya-takagi/moonn-saya-takagi-6.jpg",
+      "images/3dmoonn/highschool-of-the-dead/saya-takagi/moonn-saya-takagi-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Saya Takagi, Highschool of the Dead's sharp-tongued strategist, sculpted with rifle in hand and unshakable resolve."
+  },
+  {
+    id: "moonn-seras-victoria",
+    artist: "3Dmoonn",
+    series: "Hellsing",
+    title: "Seras Victoria",
+    images: [
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-1.jpg",
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-2.jpg",
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-3.jpg",
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-4.jpg",
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-5.jpg",
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-6.jpg",
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-7.jpg",
+      "images/3dmoonn/hellsing/seras-victoria/moonn-seras-victoria-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Seras Victoria, Hellsing's fledgling vampire soldier, sculpted with her oversized cannon and Police Girl uniform."
+  },
+  {
+    id: "moonn-shanna",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Shanna",
+    images: [
+      "images/3dmoonn/marvel/shanna/moonn-shanna-1.jpg",
+      "images/3dmoonn/marvel/shanna/moonn-shanna-2.jpg",
+      "images/3dmoonn/marvel/shanna/moonn-shanna-3.jpg",
+      "images/3dmoonn/marvel/shanna/moonn-shanna-4.jpg",
+      "images/3dmoonn/marvel/shanna/moonn-shanna-5.jpg",
+      "images/3dmoonn/marvel/shanna/moonn-shanna-6.jpg",
+      "images/3dmoonn/marvel/shanna/moonn-shanna-7.jpg",
+      "images/3dmoonn/marvel/shanna/moonn-shanna-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shanna the She-Devil, Marvel's jungle-dwelling adventurer, sculpted with spear in hand and a big cat at her side."
+  },
+  {
+    id: "moonn-shizuka-marikawa",
+    artist: "3Dmoonn",
+    series: "Highschool of the Dead",
+    title: "Shizuka Marikawa",
+    images: [
+      "images/3dmoonn/highschool-of-the-dead/shizuka-marikawa/moonn-shizuka-marikawa-1.jpg",
+      "images/3dmoonn/highschool-of-the-dead/shizuka-marikawa/moonn-shizuka-marikawa-2.jpg",
+      "images/3dmoonn/highschool-of-the-dead/shizuka-marikawa/moonn-shizuka-marikawa-3.jpg",
+      "images/3dmoonn/highschool-of-the-dead/shizuka-marikawa/moonn-shizuka-marikawa-4.jpg",
+      "images/3dmoonn/highschool-of-the-dead/shizuka-marikawa/moonn-shizuka-marikawa-5.jpg",
+      "images/3dmoonn/highschool-of-the-dead/shizuka-marikawa/moonn-shizuka-marikawa-6.jpg",
+      "images/3dmoonn/highschool-of-the-dead/shizuka-marikawa/moonn-shizuka-marikawa-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shizuka Marikawa, Highschool of the Dead's school nurse, sculpted with the series' signature blend of survival grit and stylized detail."
+  },
+  {
+    id: "moonn-starfire",
+    artist: "3Dmoonn",
+    series: "Teen Titans",
+    title: "Starfire",
+    images: [
+      "images/3dmoonn/teen-titans/starfire/moonn-starfire-1.jpg",
+      "images/3dmoonn/teen-titans/starfire/moonn-starfire-2.jpg",
+      "images/3dmoonn/teen-titans/starfire/moonn-starfire-3.jpg",
+      "images/3dmoonn/teen-titans/starfire/moonn-starfire-4.jpg",
+      "images/3dmoonn/teen-titans/starfire/moonn-starfire-5.jpg",
+      "images/3dmoonn/teen-titans/starfire/moonn-starfire-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Starfire, Teen Titans' Tamaranean powerhouse, sculpted mid-flight with starbolts charging in both hands."
+  },
+  {
+    id: "moonn-storm",
+    artist: "3Dmoonn",
+    series: "X-Men",
+    title: "Storm",
+    images: [
+      "images/3dmoonn/x-men/storm/moonn-storm-1.jpg",
+      "images/3dmoonn/x-men/storm/moonn-storm-2.jpg",
+      "images/3dmoonn/x-men/storm/moonn-storm-3.jpg",
+      "images/3dmoonn/x-men/storm/moonn-storm-4.jpg",
+      "images/3dmoonn/x-men/storm/moonn-storm-5.jpg",
+      "images/3dmoonn/x-men/storm/moonn-storm-6.jpg",
+      "images/3dmoonn/x-men/storm/moonn-storm-7.jpg",
+      "images/3dmoonn/x-men/storm/moonn-storm-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Storm, the X-Men's weather-commanding goddess, sculpted with her cape billowing as if caught in a self-summoned wind."
+  },
+  {
+    id: "moonn-taki",
+    artist: "3Dmoonn",
+    series: "Soul Calibur",
+    title: "Taki",
+    images: [
+      "images/3dmoonn/soul-calibur/taki/moonn-taki-1.jpg",
+      "images/3dmoonn/soul-calibur/taki/moonn-taki-2.jpg",
+      "images/3dmoonn/soul-calibur/taki/moonn-taki-3.jpg",
+      "images/3dmoonn/soul-calibur/taki/moonn-taki-4.jpg",
+      "images/3dmoonn/soul-calibur/taki/moonn-taki-5.jpg",
+      "images/3dmoonn/soul-calibur/taki/moonn-taki-6.jpg",
+      "images/3dmoonn/soul-calibur/taki/moonn-taki-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Taki, Soul Calibur's demon-hunting ninja, sculpted mid-strike with her twin blades Rekki-Maru and Mekki-Maru drawn."
+  },
+  {
+    id: "moonn-terry",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Terry",
+    images: [
+      "images/3dmoonn/king-of-fighters/terry/moonn-terry-1.jpg",
+      "images/3dmoonn/king-of-fighters/terry/moonn-terry-2.jpg",
+      "images/3dmoonn/king-of-fighters/terry/moonn-terry-3.jpg",
+      "images/3dmoonn/king-of-fighters/terry/moonn-terry-4.jpg",
+      "images/3dmoonn/king-of-fighters/terry/moonn-terry-5.jpg",
+      "images/3dmoonn/king-of-fighters/terry/moonn-terry-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Terry Bogard, King of Fighters' red-capped brawler, sculpted mid-Power Wave with his trademark grin."
+  },
+  {
+    id: "moonn-starlight",
+    artist: "3Dmoonn",
+    series: "The Boys",
+    title: "Starlight",
+    images: [
+      "images/3dmoonn/the-boys/starlight/moonn-starlight-1.jpg",
+      "images/3dmoonn/the-boys/starlight/moonn-starlight-2.jpg",
+      "images/3dmoonn/the-boys/starlight/moonn-starlight-3.jpg",
+      "images/3dmoonn/the-boys/starlight/moonn-starlight-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Starlight, The Boys' conflicted superhero, sculpted with her light-based powers flaring against the show's dark satirical tone."
+  },
+  {
+    id: "moonn-jane-foster",
+    artist: "3Dmoonn",
+    series: "Thor",
+    title: "Jane Foster",
+    images: [
+      "images/3dmoonn/thor/jane-foster/moonn-jane-foster-1.jpg",
+      "images/3dmoonn/thor/jane-foster/moonn-jane-foster-2.jpg",
+      "images/3dmoonn/thor/jane-foster/moonn-jane-foster-3.jpg",
+      "images/3dmoonn/thor/jane-foster/moonn-jane-foster-4.jpg",
+      "images/3dmoonn/thor/jane-foster/moonn-jane-foster-5.jpg",
+      "images/3dmoonn/thor/jane-foster/moonn-jane-foster-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Jane Foster wielding Mjolnir as the Mighty Thor, sculpted with the same reverence for the hammer that defines every version of the character."
+  },
+  {
+    id: "moonn-tier-harribel",
+    artist: "3Dmoonn",
+    series: "Bleach",
+    title: "Tier Harribel",
+    images: [
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-1.jpg",
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-2.jpg",
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-3.jpg",
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-4.jpg",
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-5.jpg",
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-6.jpg",
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-7.jpg",
+      "images/3dmoonn/bleach/tier-harribel/moonn-tier-harribel-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Tier Harribel, Bleach's stoic Espada leader, sculpted with her signature blade and quietly commanding presence."
+  },
+  {
+    id: "moonn-toji-fushiguro",
+    artist: "3Dmoonn",
+    series: "Jujutsu Kaisen",
+    title: "Toji Fushiguro",
+    images: [
+      "images/3dmoonn/jujutsu-kaisen/toji-fushiguro/moonn-toji-fushiguro-1.jpg",
+      "images/3dmoonn/jujutsu-kaisen/toji-fushiguro/moonn-toji-fushiguro-2.jpg",
+      "images/3dmoonn/jujutsu-kaisen/toji-fushiguro/moonn-toji-fushiguro-3.jpg",
+      "images/3dmoonn/jujutsu-kaisen/toji-fushiguro/moonn-toji-fushiguro-4.jpg",
+      "images/3dmoonn/jujutsu-kaisen/toji-fushiguro/moonn-toji-fushiguro-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Toji Fushiguro, Jujutsu Kaisen's cursed-technique-less killer, sculpted mid-lunge with the raw physical menace that made him a fan favorite."
+  },
+  {
+    id: "moonn-ty-lee",
+    artist: "3Dmoonn",
+    series: "Avatar: The Last Airbender",
+    title: "Ty Lee",
+    images: [
+      "images/3dmoonn/avatar-the-last-airbender/ty-lee/moonn-ty-lee-1.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/ty-lee/moonn-ty-lee-2.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/ty-lee/moonn-ty-lee-3.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/ty-lee/moonn-ty-lee-4.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/ty-lee/moonn-ty-lee-5.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/ty-lee/moonn-ty-lee-6.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/ty-lee/moonn-ty-lee-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ty Lee, Avatar: The Last Airbender's chi-blocking acrobat, sculpted mid-cartwheel with her signature agility on full display."
+  },
+  {
+    id: "moonn-valentine",
+    artist: "3Dmoonn",
+    series: "Skullgirls",
+    title: "Valentine",
+    images: [
+      "images/3dmoonn/skullgirls/valentine/moonn-valentine-1.jpg",
+      "images/3dmoonn/skullgirls/valentine/moonn-valentine-2.jpg",
+      "images/3dmoonn/skullgirls/valentine/moonn-valentine-3.jpg",
+      "images/3dmoonn/skullgirls/valentine/moonn-valentine-4.jpg",
+      "images/3dmoonn/skullgirls/valentine/moonn-valentine-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Valentine, Skullgirls' nurse-assassin, sculpted with her hooked blades and unsettling calm."
+  },
+  {
+    id: "moonn-vampirella",
+    artist: "3Dmoonn",
+    series: "Vampirella",
+    title: "Vampirella",
+    images: [
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-1.jpg",
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-2.jpg",
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-3.jpg",
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-4.jpg",
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-5.jpg",
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-6.jpg",
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-7.jpg",
+      "images/3dmoonn/vampirella/vampirella/moonn-vampirella-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Vampirella, the crimson-clad vampire heroine, sculpted in her iconic scalloped costume with the gothic-pinup flair the franchise is known for."
+  },
+  {
+    id: "moonn-vanessa",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Vanessa",
+    images: [
+      "images/3dmoonn/king-of-fighters/vanessa/moonn-vanessa-1.jpg",
+      "images/3dmoonn/king-of-fighters/vanessa/moonn-vanessa-2.jpg",
+      "images/3dmoonn/king-of-fighters/vanessa/moonn-vanessa-3.jpg",
+      "images/3dmoonn/king-of-fighters/vanessa/moonn-vanessa-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Vanessa, King of Fighters' boxing specialist, sculpted mid-jab with the lean, powerful stance of a trained fighter."
+  },
+  {
+    id: "moonn-venusmon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Venusmon",
+    images: [
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-1.jpg",
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-2.jpg",
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-3.jpg",
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-4.jpg",
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-5.jpg",
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-6.jpg",
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-7.jpg",
+      "images/3dmoonn/digimon/venusmon/moonn-venusmon-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Venusmon, one of Digimon's Olympos Twelve, sculpted with flowing robes and serene, goddess-like poise."
+  },
+  {
+    id: "moonn-vergil",
+    artist: "3Dmoonn",
+    series: "Devil May Cry",
+    title: "Vergil",
+    images: [
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-1.jpg",
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-2.jpg",
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-3.jpg",
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-4.jpg",
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-5.jpg",
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-6.jpg",
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-7.jpg",
+      "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Vergil, Devil May Cry 5's stoic swordsman, sculpted mid-draw with Yamato held in its scabbard, ready for a single decisive strike."
+  },
+  {
+    id: "moonn-weak-kingsley",
+    artist: "3Dmoonn",
+    series: "Cyberpunk",
+    title: "Weak Kingsley",
+    images: [
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-1.jpg",
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-2.jpg",
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-3.jpg",
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-4.jpg",
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-5.jpg",
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-6.jpg",
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-7.jpg",
+      "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A Cyberpunk-inspired sculpt rendered with the neon-noir grit the franchise is known for."
+  },
+  {
+    id: "moonn-wonder-woman",
+    artist: "3Dmoonn",
+    series: "Wonder Woman",
+    title: "Wonder Woman",
+    images: [
+      "images/3dmoonn/wonder-woman/wonder-woman/moonn-wonder-woman-1.jpg",
+      "images/3dmoonn/wonder-woman/wonder-woman/moonn-wonder-woman-2.jpg",
+      "images/3dmoonn/wonder-woman/wonder-woman/moonn-wonder-woman-3.jpg",
+      "images/3dmoonn/wonder-woman/wonder-woman/moonn-wonder-woman-4.jpg",
+      "images/3dmoonn/wonder-woman/wonder-woman/moonn-wonder-woman-5.jpg",
+      "images/3dmoonn/wonder-woman/wonder-woman/moonn-wonder-woman-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Wonder Woman sculpted mid-battle stance, lasso coiled at her hip and shield raised in classic Amazonian form."
+  },
+  {
+    id: "moonn-yara-flor",
+    artist: "3Dmoonn",
+    series: "Wonder Woman",
+    title: "Yara Flor",
+    images: [
+      "images/3dmoonn/wonder-woman/yara-flor/moonn-yara-flor-1.jpg",
+      "images/3dmoonn/wonder-woman/yara-flor/moonn-yara-flor-2.jpg",
+      "images/3dmoonn/wonder-woman/yara-flor/moonn-yara-flor-3.jpg",
+      "images/3dmoonn/wonder-woman/yara-flor/moonn-yara-flor-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yara Flor, DC's Brazilian-Amazonian take on Wonder Woman, sculpted with her own distinct armor and fighting stance."
+  },
+  {
+    id: "moonn-x-23",
+    artist: "3Dmoonn",
+    series: "X-Men",
+    title: "X-23",
+    images: [
+      "images/3dmoonn/x-men/x-23/moonn-x-23-1.jpg",
+      "images/3dmoonn/x-men/x-23/moonn-x-23-2.jpg",
+      "images/3dmoonn/x-men/x-23/moonn-x-23-3.jpg",
+      "images/3dmoonn/x-men/x-23/moonn-x-23-4.jpg",
+      "images/3dmoonn/x-men/x-23/moonn-x-23-5.jpg",
+      "images/3dmoonn/x-men/x-23/moonn-x-23-6.jpg",
+      "images/3dmoonn/x-men/x-23/moonn-x-23-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "X-23, Laura Kinney, sculpted claws-out with the same raw intensity that defines her Wolverine legacy."
+  },
+  {
+    id: "moonn-yoko-littner",
+    artist: "3Dmoonn",
+    series: "Gurren Lagann",
+    title: "Yoko Littner",
+    images: [
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-1.jpg",
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-2.jpg",
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-3.jpg",
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-4.jpg",
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-5.jpg",
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-6.jpg",
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-7.jpg",
+      "images/3dmoonn/gurren-lagann/yoko-littner/moonn-yoko-littner-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yoko Littner, Gurren Lagann's sharpshooting sniper, sculpted with her signature rifle slung and confident swagger."
+  },
+  {
+    id: "moonn-yoruichi-shihoin",
+    artist: "3Dmoonn",
+    series: "Bleach",
+    title: "Yoruichi Shihoin",
+    images: [
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-1.jpg",
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-2.jpg",
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-3.jpg",
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-4.jpg",
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-5.jpg",
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-6.jpg",
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-7.jpg",
+      "images/3dmoonn/bleach/yoruichi-shihoin/moonn-yoruichi-shihoin-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yoruichi Shihoin, Bleach's Flash Goddess, sculpted mid-motion with the speed and agility that earned her the title."
+  },
+  {
+    id: "moonn-yuna",
+    artist: "3Dmoonn",
+    series: "Final Fantasy",
+    title: "Yuna",
+    images: [
+      "images/3dmoonn/final-fantasy/yuna/moonn-yuna-1.jpg",
+      "images/3dmoonn/final-fantasy/yuna/moonn-yuna-2.jpg",
+      "images/3dmoonn/final-fantasy/yuna/moonn-yuna-3.jpg",
+      "images/3dmoonn/final-fantasy/yuna/moonn-yuna-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yuna, Final Fantasy X's summoner, sculpted with staff in hand and the quiet determination of a would-be savior."
+  },
+  {
+    id: "moonn-zatanna",
+    artist: "3Dmoonn",
+    series: "Justice League",
+    title: "Zatanna",
+    images: [
+      "images/3dmoonn/justice-league/zatanna/moonn-zatanna-1.jpg",
+      "images/3dmoonn/justice-league/zatanna/moonn-zatanna-2.jpg",
+      "images/3dmoonn/justice-league/zatanna/moonn-zatanna-3.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Zatanna, the Justice League's stage-magician sorceress, sculpted mid-spell with her top hat and fishnets in full detail."
+  },
+  {
+    id: "moonn-aisha-clan-clan",
+    artist: "3Dmoonn",
+    series: "Outlaw Star",
+    title: "Aisha Clan-Clan",
+    images: [
+      "images/3dmoonn/outlaw-star/aisha-clan-clan/moonn-aisha-clan-clan-1.jpg",
+      "images/3dmoonn/outlaw-star/aisha-clan-clan/moonn-aisha-clan-clan-2.jpg",
+      "images/3dmoonn/outlaw-star/aisha-clan-clan/moonn-aisha-clan-clan-3.jpg",
+      "images/3dmoonn/outlaw-star/aisha-clan-clan/moonn-aisha-clan-clan-4.jpg",
+      "images/3dmoonn/outlaw-star/aisha-clan-clan/moonn-aisha-clan-clan-5.jpg",
+      "images/3dmoonn/outlaw-star/aisha-clan-clan/moonn-aisha-clan-clan-6.jpg",
+      "images/3dmoonn/outlaw-star/aisha-clan-clan/moonn-aisha-clan-clan-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Aisha Clan-Clan, Outlaw Star's Ctarl-Ctarl brawler, sculpted with feline features and fists ready for a fight."
+  },
+  {
+    id: "moonn-akeno",
+    artist: "3Dmoonn",
+    series: "High School DxD",
+    title: "Akeno",
+    images: [
+      "images/3dmoonn/high-school-dxd/akeno/moonn-akeno-1.jpg",
+      "images/3dmoonn/high-school-dxd/akeno/moonn-akeno-2.jpg",
+      "images/3dmoonn/high-school-dxd/akeno/moonn-akeno-3.jpg",
+      "images/3dmoonn/high-school-dxd/akeno/moonn-akeno-4.jpg",
+      "images/3dmoonn/high-school-dxd/akeno/moonn-akeno-5.jpg",
+      "images/3dmoonn/high-school-dxd/akeno/moonn-akeno-6.jpg",
+      "images/3dmoonn/high-school-dxd/akeno/moonn-akeno-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Akeno Himejima, High School DxD's lightning-wielding priestess, sculpted with sparks crackling around her fingertips."
+  },
+  {
+    id: "moonn-alastor",
+    artist: "3Dmoonn",
+    series: "Hazbin Hotel",
+    title: "Alastor",
+    images: [
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-1.jpg",
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-2.jpg",
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-3.jpg",
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-4.jpg",
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-5.jpg",
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-6.jpg",
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-7.jpg",
+      "images/3dmoonn/hazbin-hotel/alastor/moonn-alastor-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Alastor, Hazbin Hotel's Radio Demon, sculpted with his static-edged grin and antlers rendered in sharp detail."
+  },
+  {
+    id: "moonn-android-21",
+    artist: "3Dmoonn",
+    series: "Dragon Ball",
+    title: "Android 21",
+    images: [
+      "images/3dmoonn/dragon-ball/android-21/moonn-android-21-1.jpg",
+      "images/3dmoonn/dragon-ball/android-21/moonn-android-21-2.jpg",
+      "images/3dmoonn/dragon-ball/android-21/moonn-android-21-3.jpg",
+      "images/3dmoonn/dragon-ball/android-21/moonn-android-21-4.jpg",
+      "images/3dmoonn/dragon-ball/android-21/moonn-android-21-5.jpg",
+      "images/3dmoonn/dragon-ball/android-21/moonn-android-21-6.jpg",
+      "images/3dmoonn/dragon-ball/android-21/moonn-android-21-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Android 21, Dragon Ball FighterZ's original antagonist, sculpted with her hybrid Majin features mid-transformation."
+  },
+  {
+    id: "moonn-angewomon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Angewomon",
+    images: [
+      "images/3dmoonn/digimon/angewomon/moonn-angewomon-1.jpg",
+      "images/3dmoonn/digimon/angewomon/moonn-angewomon-2.jpg",
+      "images/3dmoonn/digimon/angewomon/moonn-angewomon-3.jpg",
+      "images/3dmoonn/digimon/angewomon/moonn-angewomon-4.jpg",
+      "images/3dmoonn/digimon/angewomon/moonn-angewomon-5.jpg",
+      "images/3dmoonn/digimon/angewomon/moonn-angewomon-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Angewomon, Digimon's angelic champion, sculpted with wings spread and Celestial Arrow drawn."
+  },
+  {
+    id: "moonn-anissa",
+    artist: "3Dmoonn",
+    series: "Invincible",
+    title: "Anissa",
+    images: [
+      "images/3dmoonn/invincible/anissa/moonn-anissa-1.jpg",
+      "images/3dmoonn/invincible/anissa/moonn-anissa-2.jpg",
+      "images/3dmoonn/invincible/anissa/moonn-anissa-3.jpg",
+      "images/3dmoonn/invincible/anissa/moonn-anissa-4.jpg",
+      "images/3dmoonn/invincible/anissa/moonn-anissa-5.jpg",
+      "images/3dmoonn/invincible/anissa/moonn-anissa-6.jpg",
+      "images/3dmoonn/invincible/anissa/moonn-anissa-7.jpg",
+      "images/3dmoonn/invincible/anissa/moonn-anissa-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Anissa, one of Invincible's Viltrumite warriors, sculpted with the same understated menace the show gives its most powerful characters."
+  },
+  {
+    id: "moonn-april-oneil",
+    artist: "3Dmoonn",
+    series: "TMNT",
+    title: "April O'Neil",
+    images: [
+      "images/3dmoonn/tmnt/april-oneil/moonn-april-oneil-1.jpg",
+      "images/3dmoonn/tmnt/april-oneil/moonn-april-oneil-2.jpg",
+      "images/3dmoonn/tmnt/april-oneil/moonn-april-oneil-3.jpg",
+      "images/3dmoonn/tmnt/april-oneil/moonn-april-oneil-4.jpg",
+      "images/3dmoonn/tmnt/april-oneil/moonn-april-oneil-5.jpg",
+      "images/3dmoonn/tmnt/april-oneil/moonn-april-oneil-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "April O'Neil, TMNT's intrepid reporter, sculpted mid-report with her signature yellow jumpsuit and press-ready confidence."
+  },
+  {
+    id: "moonn-aqua",
+    artist: "3Dmoonn",
+    series: "Kingdom Hearts",
+    title: "Aqua",
+    images: [
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-1.jpg",
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-2.jpg",
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-3.jpg",
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-4.jpg",
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-5.jpg",
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-6.jpg",
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-7.jpg",
+      "images/3dmoonn/kingdom-hearts/aqua/moonn-aqua-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Aqua, Kingdom Hearts' Keyblade Master, sculpted with weapon drawn and the quiet resolve of a hero lost to the Realm of Darkness."
+  },
+  {
+    id: "moonn-asuna",
+    artist: "3Dmoonn",
+    series: "Sword Art Online",
+    title: "Asuna",
+    images: [
+      "images/3dmoonn/sword-art-online/asuna/moonn-asuna-1.jpg",
+      "images/3dmoonn/sword-art-online/asuna/moonn-asuna-2.jpg",
+      "images/3dmoonn/sword-art-online/asuna/moonn-asuna-3.jpg",
+      "images/3dmoonn/sword-art-online/asuna/moonn-asuna-4.jpg",
+      "images/3dmoonn/sword-art-online/asuna/moonn-asuna-5.jpg",
+      "images/3dmoonn/sword-art-online/asuna/moonn-asuna-6.jpg",
+      "images/3dmoonn/sword-art-online/asuna/moonn-asuna-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Asuna Yuuki, Sword Art Online's Lightning Flash, sculpted mid-strike with rapier drawn."
+  },
+  {
+    id: "moonn-azula",
+    artist: "3Dmoonn",
+    series: "Avatar: The Last Airbender",
+    title: "Azula",
+    images: [
+      "images/3dmoonn/avatar-the-last-airbender/azula/moonn-azula-1.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/azula/moonn-azula-2.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/azula/moonn-azula-3.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/azula/moonn-azula-4.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/azula/moonn-azula-5.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/azula/moonn-azula-6.jpg",
+      "images/3dmoonn/avatar-the-last-airbender/azula/moonn-azula-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Azula, Avatar: The Last Airbender's blue-flame firebender, sculpted mid-strike with the cold precision that defines her."
+  },
+  {
+    id: "moonn-bayonetta",
+    artist: "3Dmoonn",
+    series: "Bayonetta",
+    title: "Bayonetta",
+    images: [
+      "images/3dmoonn/bayonetta/bayonetta/moonn-bayonetta-1.jpg",
+      "images/3dmoonn/bayonetta/bayonetta/moonn-bayonetta-2.jpg",
+      "images/3dmoonn/bayonetta/bayonetta/moonn-bayonetta-3.jpg",
+      "images/3dmoonn/bayonetta/bayonetta/moonn-bayonetta-4.jpg",
+      "images/3dmoonn/bayonetta/bayonetta/moonn-bayonetta-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Bayonetta, the witch with guns for heels, sculpted mid-pose with her signature confidence and stylized silhouette."
+  },
+  {
+    id: "moonn-black-cat",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Black Cat",
+    images: [
+      "images/3dmoonn/marvel/black-cat/moonn-black-cat-1.jpg",
+      "images/3dmoonn/marvel/black-cat/moonn-black-cat-2.jpg",
+      "images/3dmoonn/marvel/black-cat/moonn-black-cat-3.jpg",
+      "images/3dmoonn/marvel/black-cat/moonn-black-cat-4.jpg",
+      "images/3dmoonn/marvel/black-cat/moonn-black-cat-5.jpg",
+      "images/3dmoonn/marvel/black-cat/moonn-black-cat-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Black Cat, Marvel's luck-manipulating cat burglar, sculpted mid-leap in her skintight catsuit."
+  },
+  {
+    id: "moonn-cammy",
+    artist: "3Dmoonn",
+    series: "Street Fighter",
+    title: "Cammy",
+    images: [
+      "images/3dmoonn/street-fighter/cammy/moonn-cammy-1.jpg",
+      "images/3dmoonn/street-fighter/cammy/moonn-cammy-2.jpg",
+      "images/3dmoonn/street-fighter/cammy/moonn-cammy-3.jpg",
+      "images/3dmoonn/street-fighter/cammy/moonn-cammy-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Cammy White, Street Fighter's Delta Red operative, sculpted mid-Spiral Arrow with her signature beret and braids."
+  },
+  {
+    id: "moonn-chizuru",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Chizuru",
+    images: [
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-1.jpg",
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-2.jpg",
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-3.jpg",
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-4.jpg",
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-5.jpg",
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-6.jpg",
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-7.jpg",
+      "images/3dmoonn/king-of-fighters/chizuru/moonn-chizuru-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Chizuru Kagura, King of Fighters' shrine-maiden team leader, sculpted with the quiet mystique of one of the game's Sacred Treasures holders."
+  },
+  {
+    id: "moonn-clea",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Clea",
+    images: [
+      "images/3dmoonn/marvel/clea/moonn-clea-1.jpg",
+      "images/3dmoonn/marvel/clea/moonn-clea-2.jpg",
+      "images/3dmoonn/marvel/clea/moonn-clea-3.jpg",
+      "images/3dmoonn/marvel/clea/moonn-clea-4.jpg",
+      "images/3dmoonn/marvel/clea/moonn-clea-5.jpg",
+      "images/3dmoonn/marvel/clea/moonn-clea-6.jpg",
+      "images/3dmoonn/marvel/clea/moonn-clea-7.jpg",
+      "images/3dmoonn/marvel/clea/moonn-clea-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Clea, Marvel's Sorceress Supreme of the Dark Dimension, sculpted with mystical energy swirling around her hands."
+  },
+  {
+    id: "moonn-conquest",
+    artist: "3Dmoonn",
+    series: "Invincible",
+    title: "Conquest",
+    images: [
+      "images/3dmoonn/invincible/conquest/moonn-conquest-1.jpg",
+      "images/3dmoonn/invincible/conquest/moonn-conquest-2.jpg",
+      "images/3dmoonn/invincible/conquest/moonn-conquest-3.jpg",
+      "images/3dmoonn/invincible/conquest/moonn-conquest-4.jpg",
+      "images/3dmoonn/invincible/conquest/moonn-conquest-5.jpg",
+      "images/3dmoonn/invincible/conquest/moonn-conquest-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Conquest, one of the Viltrumite Empire's most brutal enforcers from Invincible, sculpted with the same cold, overwhelming presence he has on screen."
+  },
+  {
+    id: "moonn-cynthia",
+    artist: "3Dmoonn",
+    series: "Pokémon",
+    title: "Cynthia",
+    images: [
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-1.jpg",
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-2.jpg",
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-3.jpg",
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-4.jpg",
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-5.jpg",
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-6.jpg",
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-7.jpg",
+      "images/3dmoonn/pokemon/cynthia/moonn-cynthia-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Cynthia, the Sinnoh region's undefeated Champion, sculpted in her signature coat with the quiet confidence of Pokémon's toughest trainer."
+  },
+  {
+    id: "moonn-daphne",
+    artist: "3Dmoonn",
+    series: "Scooby-Doo",
+    title: "Daphne",
+    images: [
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-1.jpg",
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-2.jpg",
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-3.jpg",
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-4.jpg",
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-5.jpg",
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-6.jpg",
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-7.jpg",
+      "images/3dmoonn/scooby-doo/daphne/moonn-daphne-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Daphne Blake, Scooby-Doo's fashion-forward sleuth, sculpted mid-investigation with her signature purple dress."
+  },
+  {
+    id: "moonn-elektra",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Elektra",
+    images: [
+      "images/3dmoonn/marvel/elektra/moonn-elektra-1.jpg",
+      "images/3dmoonn/marvel/elektra/moonn-elektra-2.jpg",
+      "images/3dmoonn/marvel/elektra/moonn-elektra-3.jpg",
+      "images/3dmoonn/marvel/elektra/moonn-elektra-4.jpg",
+      "images/3dmoonn/marvel/elektra/moonn-elektra-5.jpg",
+      "images/3dmoonn/marvel/elektra/moonn-elektra-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Elektra, Marvel's assassin-for-hire, sculpted mid-strike with her twin sai drawn and red costume rendered in sharp detail."
+  },
+  {
+    id: "moonn-elisabeth",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Elisabeth",
+    images: [
+      "images/3dmoonn/king-of-fighters/elisabeth/moonn-elisabeth-1.jpg",
+      "images/3dmoonn/king-of-fighters/elisabeth/moonn-elisabeth-2.jpg",
+      "images/3dmoonn/king-of-fighters/elisabeth/moonn-elisabeth-3.jpg",
+      "images/3dmoonn/king-of-fighters/elisabeth/moonn-elisabeth-4.jpg",
+      "images/3dmoonn/king-of-fighters/elisabeth/moonn-elisabeth-5.jpg",
+      "images/3dmoonn/king-of-fighters/elisabeth/moonn-elisabeth-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Elisabeth Blanctorche, King of Fighters' noble swordswoman, sculpted with rapier drawn and refined, graceful stance."
+  },
+  {
+    id: "moonn-eliza",
+    artist: "3Dmoonn",
+    series: "Skullgirls",
+    title: "Eliza",
+    images: [
+      "images/3dmoonn/skullgirls/eliza/moonn-eliza-1.jpg",
+      "images/3dmoonn/skullgirls/eliza/moonn-eliza-2.jpg",
+      "images/3dmoonn/skullgirls/eliza/moonn-eliza-3.jpg",
+      "images/3dmoonn/skullgirls/eliza/moonn-eliza-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Eliza, Skullgirls' blood-manipulating vampire queen, sculpted with her signature crimson tendrils in motion."
+  },
+  {
+    id: "moonn-eri",
+    artist: "3Dmoonn",
+    series: "Metal Slug",
+    title: "Eri",
+    images: [
+      "images/3dmoonn/metal-slug/eri/moonn-eri-1.jpg",
+      "images/3dmoonn/metal-slug/eri/moonn-eri-2.jpg",
+      "images/3dmoonn/metal-slug/eri/moonn-eri-3.jpg",
+      "images/3dmoonn/metal-slug/eri/moonn-eri-4.jpg",
+      "images/3dmoonn/metal-slug/eri/moonn-eri-5.jpg",
+      "images/3dmoonn/metal-slug/eri/moonn-eri-6.jpg",
+      "images/3dmoonn/metal-slug/eri/moonn-eri-7.jpg",
+      "images/3dmoonn/metal-slug/eri/moonn-eri-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Eri Kasamoto, Metal Slug's helicopter pilot and support gunner, sculpted with the retro military-pinup style the series is known for."
+  },
+  {
+    id: "moonn-erza-scarlet",
+    artist: "3Dmoonn",
+    series: "Fairy Tail",
+    title: "Erza Scarlet",
+    images: [
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-1.jpg",
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-2.jpg",
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-3.jpg",
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-4.jpg",
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-5.jpg",
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-6.jpg",
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-7.jpg",
+      "images/3dmoonn/fairy-tail/erza-scarlet/moonn-erza-scarlet-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Erza Scarlet, Fairy Tail's armor-wielding S-Class mage, sculpted mid-requip with sword drawn."
+  },
+  {
+    id: "moonn-evie",
+    artist: "3Dmoonn",
+    series: "Stellar Blade",
+    title: "Evie",
+    images: [
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-1.jpg",
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-2.jpg",
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-3.jpg",
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-4.jpg",
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-5.jpg",
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-6.jpg",
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-7.jpg",
+      "images/3dmoonn/stellar-blade/evie/moonn-evie-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Eve in her Blood Rain outfit, a bolder Stellar Blade variant sculpted with the same sleek combat silhouette in a darker palette."
+  },
+  {
+    id: "moonn-faye-valentine",
+    artist: "3Dmoonn",
+    series: "Cowboy Bebop",
+    title: "Faye Valentine",
+    images: [
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-1.jpg",
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-2.jpg",
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-3.jpg",
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-4.jpg",
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-5.jpg",
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-6.jpg",
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-7.jpg",
+      "images/3dmoonn/cowboy-bebop/faye-valentine/moonn-faye-valentine-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Faye Valentine, Cowboy Bebop's cool-headed bounty hunter, sculpted with her signature yellow jacket and confident swagger."
+  },
+  {
+    id: "moonn-fio",
+    artist: "3Dmoonn",
+    series: "Metal Slug",
+    title: "Fio",
+    images: [
+      "images/3dmoonn/metal-slug/fio/moonn-fio-1.jpg",
+      "images/3dmoonn/metal-slug/fio/moonn-fio-2.jpg",
+      "images/3dmoonn/metal-slug/fio/moonn-fio-3.jpg",
+      "images/3dmoonn/metal-slug/fio/moonn-fio-4.jpg",
+      "images/3dmoonn/metal-slug/fio/moonn-fio-5.jpg",
+      "images/3dmoonn/metal-slug/fio/moonn-fio-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Fio Germi, Metal Slug's Italian mercenary, sculpted with rifle in hand and the retro-military charm the series is known for."
+  },
+  {
+    id: "moonn-riyo",
+    artist: "3Dmoonn",
+    series: "Gachiakuta",
+    title: "Riyo",
+    images: [
+      "images/3dmoonn/gachiakuta/riyo/moonn-riyo-1.jpg",
+      "images/3dmoonn/gachiakuta/riyo/moonn-riyo-2.jpg",
+      "images/3dmoonn/gachiakuta/riyo/moonn-riyo-3.jpg",
+      "images/3dmoonn/gachiakuta/riyo/moonn-riyo-4.jpg",
+      "images/3dmoonn/gachiakuta/riyo/moonn-riyo-5.jpg",
+      "images/3dmoonn/gachiakuta/riyo/moonn-riyo-6.jpg",
+      "images/3dmoonn/gachiakuta/riyo/moonn-riyo-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A sculpt inspired by Gachiakuta, capturing the manga's gritty, trash-world aesthetic in physical form."
+  },
+  {
+    id: "moonn-galacta",
+    artist: "3Dmoonn",
+    series: "Fantastic Four",
+    title: "Galacta",
+    images: [
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-1.jpg",
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-2.jpg",
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-3.jpg",
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-4.jpg",
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-5.jpg",
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-6.jpg",
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-7.jpg",
+      "images/3dmoonn/fantastic-four/galacta/moonn-galacta-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Galacta, the Fantastic Four-adjacent cosmic devourer reimagined in Marvel Rivals, sculpted with world-ending scale implied even at display size."
+  },
+  {
+    id: "moonn-ghislaine",
+    artist: "3Dmoonn",
+    series: "Mushoku Tensei",
+    title: "Ghislaine",
+    images: [
+      "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-1.jpg",
+      "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-2.jpg",
+      "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-3.jpg",
+      "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-4.jpg",
+      "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-5.jpg",
+      "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-6.jpg",
+      "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ghislaine Dedoldia, Mushoku Tensei's sword-saint mercenary, sculpted mid-stance with blade drawn."
+  },
+  {
+    id: "moonn-gojo",
+    artist: "3Dmoonn",
+    series: "Jujutsu Kaisen",
+    title: "Gojo",
+    images: [
+      "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-1.jpg",
+      "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-2.jpg",
+      "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-3.jpg",
+      "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-4.jpg",
+      "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-5.jpg",
+      "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-6.jpg",
+      "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Satoru Gojo, Jujutsu Kaisen's strongest sorcerer, sculpted with his signature blindfold and effortless, cocky confidence."
+  },
+  {
+    id: "moonn-hilda",
+    artist: "3Dmoonn",
+    series: "Pokémon",
+    title: "Hilda",
+    images: [
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-1.jpg",
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-2.jpg",
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-3.jpg",
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-4.jpg",
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-5.jpg",
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-6.jpg",
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-7.jpg",
+      "images/3dmoonn/pokemon/hilda/moonn-hilda-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hilda, the Unova region's trainer protagonist, sculpted in her signature outfit ready for her next Pokémon battle."
+  },
+  {
+    id: "moonn-himiko-toga",
+    artist: "3Dmoonn",
+    series: "My Hero Academia",
+    title: "Himiko Toga",
+    images: [
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-1.jpg",
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-2.jpg",
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-3.jpg",
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-4.jpg",
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-5.jpg",
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-6.jpg",
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-7.jpg",
+      "images/3dmoonn/my-hero-academia/himiko-toga/moonn-himiko-toga-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Himiko Toga, My Hero Academia's blood-obsessed villain, sculpted with knife in hand and her unsettling, wide-eyed grin."
+  },
+  {
+    id: "moonn-hinako-shijo",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Hinako Shijo",
+    images: [
+      "images/3dmoonn/king-of-fighters/hinako-shijo/moonn-hinako-shijo-1.jpg",
+      "images/3dmoonn/king-of-fighters/hinako-shijo/moonn-hinako-shijo-2.jpg",
+      "images/3dmoonn/king-of-fighters/hinako-shijo/moonn-hinako-shijo-3.jpg",
+      "images/3dmoonn/king-of-fighters/hinako-shijo/moonn-hinako-shijo-4.jpg",
+      "images/3dmoonn/king-of-fighters/hinako-shijo/moonn-hinako-shijo-5.jpg",
+      "images/3dmoonn/king-of-fighters/hinako-shijo/moonn-hinako-shijo-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hinako Shijo, King of Fighters' sumo-inspired schoolgirl fighter, sculpted mid-stance with her oversized paper fan."
+  },
+  {
+    id: "moonn-hsien-ko",
+    artist: "3Dmoonn",
+    series: "Darkstalkers",
+    title: "Hsien-Ko",
+    images: [
+      "images/3dmoonn/darkstalkers/hsien-ko/moonn-hsien-ko-1.jpg",
+      "images/3dmoonn/darkstalkers/hsien-ko/moonn-hsien-ko-2.jpg",
+      "images/3dmoonn/darkstalkers/hsien-ko/moonn-hsien-ko-3.jpg",
+      "images/3dmoonn/darkstalkers/hsien-ko/moonn-hsien-ko-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hsien-Ko, Darkstalkers' Chinese jiangshi fighter, sculpted with her giant paper talismans and mismatched, ragdoll charm."
+  },
+  {
+    id: "moonn-invincible",
+    artist: "3Dmoonn",
+    series: "Invincible",
+    title: "Invincible",
+    images: [
+      "images/3dmoonn/invincible/invincible/moonn-invincible-1.jpg",
+      "images/3dmoonn/invincible/invincible/moonn-invincible-2.jpg",
+      "images/3dmoonn/invincible/invincible/moonn-invincible-3.jpg",
+      "images/3dmoonn/invincible/invincible/moonn-invincible-4.jpg",
+      "images/3dmoonn/invincible/invincible/moonn-invincible-5.jpg",
+      "images/3dmoonn/invincible/invincible/moonn-invincible-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mark Grayson in his Invincible costume, sculpted mid-flight with the same raw, world-shaking power the show is built around."
+  },
+  {
+    id: "moonn-jessica-cruz",
+    artist: "3Dmoonn",
+    series: "Green Lantern",
+    title: "Jessica Cruz",
+    images: [
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-1.jpg",
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-2.jpg",
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-3.jpg",
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-4.jpg",
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-5.jpg",
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-6.jpg",
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-7.jpg",
+      "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Jessica Cruz, the anxiety-conquering Green Lantern, sculpted with her ring raised and a construct forming at her fist."
+  },
+  {
+    id: "moonn-jessie",
+    artist: "3Dmoonn",
+    series: "Pokémon",
+    title: "Jessie",
+    images: [
+      "images/3dmoonn/pokemon/jessie/moonn-jessie-1.jpg",
+      "images/3dmoonn/pokemon/jessie/moonn-jessie-2.jpg",
+      "images/3dmoonn/pokemon/jessie/moonn-jessie-3.jpg",
+      "images/3dmoonn/pokemon/jessie/moonn-jessie-4.jpg",
+      "images/3dmoonn/pokemon/jessie/moonn-jessie-5.jpg",
+      "images/3dmoonn/pokemon/jessie/moonn-jessie-6.jpg",
+      "images/3dmoonn/pokemon/jessie/moonn-jessie-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Jessie of Team Rocket, sculpted in her classic Pokémon anime uniform with the same theatrical flair that made the trio unforgettable."
+  },
+  {
+    id: "moonn-jinx-chibi",
+    artist: "3Dmoonn",
+    series: "League of Legends",
+    title: "Jinx Chibi",
+    images: [
+      "images/3dmoonn/league-of-legends/jinx-chibi/moonn-jinx-chibi-1.jpg",
+      "images/3dmoonn/league-of-legends/jinx-chibi/moonn-jinx-chibi-2.jpg",
+      "images/3dmoonn/league-of-legends/jinx-chibi/moonn-jinx-chibi-3.jpg",
+      "images/3dmoonn/league-of-legends/jinx-chibi/moonn-jinx-chibi-4.jpg",
+      "images/3dmoonn/league-of-legends/jinx-chibi/moonn-jinx-chibi-5.jpg",
+      "images/3dmoonn/league-of-legends/jinx-chibi/moonn-jinx-chibi-6.jpg",
+      "images/3dmoonn/league-of-legends/jinx-chibi/moonn-jinx-chibi-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A chibi take on Jinx, League of Legends' chaotic gunner, oversized weapons and manic grin scaled down into an adorable package."
+  },
+  {
+    id: "moonn-kazemon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Kazemon",
+    images: [
+      "images/3dmoonn/digimon/kazemon/moonn-kazemon-1.jpg",
+      "images/3dmoonn/digimon/kazemon/moonn-kazemon-2.jpg",
+      "images/3dmoonn/digimon/kazemon/moonn-kazemon-3.jpg",
+      "images/3dmoonn/digimon/kazemon/moonn-kazemon-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kazemon, Digimon's wind-wielding champion, sculpted mid-flight with her insectoid wings and acrobatic pose."
+  },
+  {
+    id: "moonn-king",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "King",
+    images: [
+      "images/3dmoonn/king-of-fighters/king/moonn-king-1.jpg",
+      "images/3dmoonn/king-of-fighters/king/moonn-king-2.jpg",
+      "images/3dmoonn/king-of-fighters/king/moonn-king-3.jpg",
+      "images/3dmoonn/king-of-fighters/king/moonn-king-4.jpg",
+      "images/3dmoonn/king-of-fighters/king/moonn-king-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "King, King of Fighters' Muay Thai fighter, sculpted mid-kick with her signature suit-and-tie fighting getup."
+  },
+  {
+    id: "moonn-kula",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Kula",
+    images: [
+      "images/3dmoonn/king-of-fighters/kula/moonn-kula-1.jpg",
+      "images/3dmoonn/king-of-fighters/kula/moonn-kula-2.jpg",
+      "images/3dmoonn/king-of-fighters/kula/moonn-kula-3.jpg",
+      "images/3dmoonn/king-of-fighters/kula/moonn-kula-4.jpg",
+      "images/3dmoonn/king-of-fighters/kula/moonn-kula-5.jpg",
+      "images/3dmoonn/king-of-fighters/kula/moonn-kula-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kula Diamond, King of Fighters' ice-wielding NESTS operative, sculpted with frost curling from her fingertips."
+  },
+  {
+    id: "moonn-lady-deadpool",
+    artist: "3Dmoonn",
+    series: "Deadpool",
+    title: "Lady Deadpool",
+    images: [
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-1.jpg",
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-2.jpg",
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-3.jpg",
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-4.jpg",
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-5.jpg",
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-6.jpg",
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-7.jpg",
+      "images/3dmoonn/deadpool/lady-deadpool/moonn-lady-deadpool-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lady Deadpool, sculpted with the same manic, fourth-wall-breaking energy as her more famous counterpart, dual katanas drawn."
+  },
+  {
+    id: "moonn-lady-flash",
+    artist: "3Dmoonn",
+    series: "Flash",
+    title: "Lady Flash",
+    images: [
+      "images/3dmoonn/flash/lady-flash/moonn-lady-flash-1.jpg",
+      "images/3dmoonn/flash/lady-flash/moonn-lady-flash-2.jpg",
+      "images/3dmoonn/flash/lady-flash/moonn-lady-flash-3.jpg",
+      "images/3dmoonn/flash/lady-flash/moonn-lady-flash-4.jpg",
+      "images/3dmoonn/flash/lady-flash/moonn-lady-flash-5.jpg",
+      "images/3dmoonn/flash/lady-flash/moonn-lady-flash-6.jpg",
+      "images/3dmoonn/flash/lady-flash/moonn-lady-flash-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lady Flash, a speedster reimagining sculpted with motion-blur detailing to sell the character's super-speed."
+  },
+  {
+    id: "moonn-lady-loki",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Lady Loki",
+    images: [
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-1.jpg",
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-2.jpg",
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-3.jpg",
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-4.jpg",
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-5.jpg",
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-6.jpg",
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-7.jpg",
+      "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lady Loki, sculpted in her Marvel Rivals design with the same mischievous, shape-shifting energy that defines every version of the trickster god."
+  },
+  {
+    id: "moonn-leona",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Leona",
+    images: [
+      "images/3dmoonn/king-of-fighters/leona/moonn-leona-1.jpg",
+      "images/3dmoonn/king-of-fighters/leona/moonn-leona-2.jpg",
+      "images/3dmoonn/king-of-fighters/leona/moonn-leona-3.jpg",
+      "images/3dmoonn/king-of-fighters/leona/moonn-leona-4.jpg",
+      "images/3dmoonn/king-of-fighters/leona/moonn-leona-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Leona Heidern, King of Fighters' stoic Ikari Warrior, sculpted mid-Moon Slasher with blade drawn."
+  },
+  {
+    id: "moonn-lightning",
+    artist: "3Dmoonn",
+    series: "Final Fantasy",
+    title: "Lightning",
+    images: [
+      "images/3dmoonn/final-fantasy/lightning/moonn-lightning-1.jpg",
+      "images/3dmoonn/final-fantasy/lightning/moonn-lightning-2.jpg",
+      "images/3dmoonn/final-fantasy/lightning/moonn-lightning-3.jpg",
+      "images/3dmoonn/final-fantasy/lightning/moonn-lightning-4.jpg",
+      "images/3dmoonn/final-fantasy/lightning/moonn-lightning-5.jpg",
+      "images/3dmoonn/final-fantasy/lightning/moonn-lightning-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lightning, Final Fantasy XIII's steel-willed soldier, sculpted mid-draw with her gunblade Blazefire Saber."
+  },
+  {
+    id: "moonn-lilithmon",
+    artist: "3Dmoonn",
+    series: "Digimon",
+    title: "Lilithmon",
+    images: [
+      "images/3dmoonn/digimon/lilithmon/moonn-lilithmon-1.jpg",
+      "images/3dmoonn/digimon/lilithmon/moonn-lilithmon-2.jpg",
+      "images/3dmoonn/digimon/lilithmon/moonn-lilithmon-3.jpg",
+      "images/3dmoonn/digimon/lilithmon/moonn-lilithmon-4.jpg",
+      "images/3dmoonn/digimon/lilithmon/moonn-lilithmon-5.jpg",
+      "images/3dmoonn/digimon/lilithmon/moonn-lilithmon-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lilithmon, one of Digimon's Demon Lords, sculpted with dark, seductive elegance and Nazar Nail claws bared."
+  },
+  {
+    id: "moonn-juliet-starling",
+    artist: "3Dmoonn",
+    series: "Lollipop Chainsaw",
+    title: "Juliet Starling",
+    images: [
+      "images/3dmoonn/lollipop-chainsaw/juliet-starling/moonn-juliet-starling-1.jpg",
+      "images/3dmoonn/lollipop-chainsaw/juliet-starling/moonn-juliet-starling-2.jpg",
+      "images/3dmoonn/lollipop-chainsaw/juliet-starling/moonn-juliet-starling-3.jpg",
+      "images/3dmoonn/lollipop-chainsaw/juliet-starling/moonn-juliet-starling-4.jpg",
+      "images/3dmoonn/lollipop-chainsaw/juliet-starling/moonn-juliet-starling-5.jpg",
+      "images/3dmoonn/lollipop-chainsaw/juliet-starling/moonn-juliet-starling-6.jpg",
+      "images/3dmoonn/lollipop-chainsaw/juliet-starling/moonn-juliet-starling-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Juliet Starling, Lollipop Chainsaw's cheerleader zombie-hunter, sculpted mid-swing with her signature pink chainsaw."
+  },
+  {
+    id: "moonn-lucy",
+    artist: "3Dmoonn",
+    series: "Cyberpunk Edgerunners",
+    title: "Lucy",
+    images: [
+      "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-1.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-2.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-3.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-4.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-5.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-6.jpg",
+      "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lucy, Cyberpunk Edgerunners' netrunner, sculpted with her signature visor and the neon-noir styling that defines the show."
+  },
+  {
+    id: "moonn-lucy-heartfilia",
+    artist: "3Dmoonn",
+    series: "Fairy Tail",
+    title: "Lucy Heartfilia",
+    images: [
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-1.jpg",
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-2.jpg",
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-3.jpg",
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-4.jpg",
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-5.jpg",
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-6.jpg",
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-7.jpg",
+      "images/3dmoonn/fairy-tail/lucy-heartfilia/moonn-lucy-heartfilia-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lucy Heartfilia, Fairy Tail's Celestial Spirit mage, sculpted with a key in hand ready to summon her next ally."
+  },
+  {
+    id: "moonn-lust",
+    artist: "3Dmoonn",
+    series: "Fullmetal Alchemist",
+    title: "Lust",
+    images: [
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-1.jpg",
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-2.jpg",
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-3.jpg",
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-4.jpg",
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-5.jpg",
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-6.jpg",
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-7.jpg",
+      "images/3dmoonn/fullmetal-alchemist/lust/moonn-lust-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lust, Fullmetal Alchemist's seductive homunculus, sculpted with her extending claws and cold, calculating expression."
+  },
+  {
+    id: "moonn-makima",
+    artist: "3Dmoonn",
+    series: "Chainsaw Man",
+    title: "Makima",
+    images: [
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-1.jpg",
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-2.jpg",
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-3.jpg",
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-4.jpg",
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-5.jpg",
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-6.jpg",
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-7.jpg",
+      "images/3dmoonn/chainsaw-man/makima/moonn-makima-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Makima, Chainsaw Man's unsettling Control Devil, sculpted with the calm, unreadable composure that makes her one of the series' most disquieting figures."
+  },
+  {
+    id: "moonn-marin-kitagawa",
+    artist: "3Dmoonn",
+    series: "My Dress-Up Darling",
+    title: "Marin Kitagawa",
+    images: [
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-1.jpg",
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-2.jpg",
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-3.jpg",
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-4.jpg",
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-5.jpg",
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-6.jpg",
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-7.jpg",
+      "images/3dmoonn/my-dress-up-darling/marin-kitagawa/moonn-marin-kitagawa-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Marin Kitagawa, My Dress-Up Darling's cosplay-obsessed heroine, sculpted mid-pose in one of her elaborate costumes."
+  },
+  {
+    id: "moonn-squirrel-girl",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Squirrel Girl",
+    images: [
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-1.jpg",
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-2.jpg",
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-3.jpg",
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-4.jpg",
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-5.jpg",
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-6.jpg",
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-7.jpg",
+      "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Squirrel Girl, sculpted in her Marvel Rivals design with her signature tail and unsquashable, upbeat energy."
+  },
+  {
+    id: "moonn-matsumoto",
+    artist: "3Dmoonn",
+    series: "Bleach",
+    title: "Matsumoto",
+    images: [
+      "images/3dmoonn/bleach/matsumoto/moonn-matsumoto-1.jpg",
+      "images/3dmoonn/bleach/matsumoto/moonn-matsumoto-2.jpg",
+      "images/3dmoonn/bleach/matsumoto/moonn-matsumoto-3.jpg",
+      "images/3dmoonn/bleach/matsumoto/moonn-matsumoto-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rangiku Matsumoto, Bleach's flamboyant lieutenant, sculpted with her oversized zanpakuto and confident, statuesque pose."
+  },
+  {
+    id: "moonn-midna",
+    artist: "3Dmoonn",
+    series: "The Legend of Zelda",
+    title: "Midna",
+    images: [
+      "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-1.jpg",
+      "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-2.jpg",
+      "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-3.jpg",
+      "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-4.jpg",
+      "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-5.jpg",
+      "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-6.jpg",
+      "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Midna, The Legend of Zelda: Twilight Princess's imp-form companion, sculpted with her signature helmet-like hair and mischievous grin."
+  },
+  {
+    id: "moonn-mirajane-satan-soul",
+    artist: "3Dmoonn",
+    series: "Fairy Tail",
+    title: "Mirajane Satan Soul",
+    images: [
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-1.jpg",
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-2.jpg",
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-3.jpg",
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-4.jpg",
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-5.jpg",
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-6.jpg",
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-7.jpg",
+      "images/3dmoonn/fairy-tail/mirajane-satan-soul/moonn-mirajane-satan-soul-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mirajane in her Satan Soul form, Fairy Tail's gentle barmaid turned demon, sculpted mid-transformation with wings and claws bared."
+  },
+  {
+    id: "moonn-mitsuri-kanroji",
+    artist: "3Dmoonn",
+    series: "Demon Slayer",
+    title: "Mitsuri Kanroji",
+    images: [
+      "images/3dmoonn/demon-slayer/mitsuri-kanroji/moonn-mitsuri-kanroji-1.jpg",
+      "images/3dmoonn/demon-slayer/mitsuri-kanroji/moonn-mitsuri-kanroji-2.jpg",
+      "images/3dmoonn/demon-slayer/mitsuri-kanroji/moonn-mitsuri-kanroji-3.jpg",
+      "images/3dmoonn/demon-slayer/mitsuri-kanroji/moonn-mitsuri-kanroji-4.jpg",
+      "images/3dmoonn/demon-slayer/mitsuri-kanroji/moonn-mitsuri-kanroji-5.jpg",
+      "images/3dmoonn/demon-slayer/mitsuri-kanroji/moonn-mitsuri-kanroji-6.jpg",
+      "images/3dmoonn/demon-slayer/mitsuri-kanroji/moonn-mitsuri-kanroji-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mitsuri Kanroji, Demon Slayer's Love Hashira, sculpted with her signature pink-and-green hair and whip-like sword drawn."
+  },
+  {
+    id: "moonn-mystique",
+    artist: "3Dmoonn",
+    series: "X-Men",
+    title: "Mystique",
+    images: [
+      "images/3dmoonn/x-men/mystique/moonn-mystique-1.jpg",
+      "images/3dmoonn/x-men/mystique/moonn-mystique-2.jpg",
+      "images/3dmoonn/x-men/mystique/moonn-mystique-3.jpg",
+      "images/3dmoonn/x-men/mystique/moonn-mystique-4.jpg",
+      "images/3dmoonn/x-men/mystique/moonn-mystique-5.jpg",
+      "images/3dmoonn/x-men/mystique/moonn-mystique-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mystique, the X-Men's shape-shifting infiltrator, sculpted in her iconic scaled-blue form mid-transformation."
+  },
+  {
+    id: "moonn-nami",
+    artist: "3Dmoonn",
+    series: "One Piece",
+    title: "Nami",
+    images: [
+      "images/3dmoonn/one-piece/nami/moonn-nami-1.jpg",
+      "images/3dmoonn/one-piece/nami/moonn-nami-2.jpg",
+      "images/3dmoonn/one-piece/nami/moonn-nami-3.jpg",
+      "images/3dmoonn/one-piece/nami/moonn-nami-4.jpg",
+      "images/3dmoonn/one-piece/nami/moonn-nami-5.jpg",
+      "images/3dmoonn/one-piece/nami/moonn-nami-6.jpg",
+      "images/3dmoonn/one-piece/nami/moonn-nami-7.jpg",
+      "images/3dmoonn/one-piece/nami/moonn-nami-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nami, One Piece's navigator and Straw Hat treasure-hunter, sculpted with her Clima-Tact staff and confident smirk."
+  },
+  {
+    id: "moonn-nanami",
+    artist: "3Dmoonn",
+    series: "Jujutsu Kaisen",
+    title: "Nanami",
+    images: [
+      "images/3dmoonn/jujutsu-kaisen/nanami/moonn-nanami-1.jpg",
+      "images/3dmoonn/jujutsu-kaisen/nanami/moonn-nanami-2.jpg",
+      "images/3dmoonn/jujutsu-kaisen/nanami/moonn-nanami-3.jpg",
+      "images/3dmoonn/jujutsu-kaisen/nanami/moonn-nanami-4.jpg",
+      "images/3dmoonn/jujutsu-kaisen/nanami/moonn-nanami-5.jpg",
+      "images/3dmoonn/jujutsu-kaisen/nanami/moonn-nanami-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kento Nanami, Jujutsu Kaisen's overtime-averse sorcerer, sculpted with his signature necktie and Ratio Technique blade drawn."
+  },
+  {
+    id: "moonn-nelliel-tu",
+    artist: "3Dmoonn",
+    series: "Bleach",
+    title: "Nelliel Tu",
+    images: [
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-1.jpg",
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-2.jpg",
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-3.jpg",
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-4.jpg",
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-5.jpg",
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-6.jpg",
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-7.jpg",
+      "images/3dmoonn/bleach/nelliel-tu/moonn-nelliel-tu-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nelliel Tu Odelschwanck, Bleach's former Espada, sculpted with her signature helmet-fragment mask and sword raised."
+  },
+  {
+    id: "moonn-nero",
+    artist: "3Dmoonn",
+    series: "Devil May Cry",
+    title: "Nero",
+    images: [
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-1.jpg",
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-2.jpg",
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-3.jpg",
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-4.jpg",
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-5.jpg",
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-6.jpg",
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-7.jpg",
+      "images/3dmoonn/devil-may-cry/nero/moonn-nero-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nero, Devil May Cry 5's Devil Bringer-wielding hunter, sculpted mid-swing with Red Queen revved and ready."
+  },
+  {
+    id: "moonn-omni-man",
+    artist: "3Dmoonn",
+    series: "Invincible",
+    title: "Omni-Man",
+    images: [
+      "images/3dmoonn/invincible/omni-man/moonn-omni-man-1.jpg",
+      "images/3dmoonn/invincible/omni-man/moonn-omni-man-2.jpg",
+      "images/3dmoonn/invincible/omni-man/moonn-omni-man-3.jpg",
+      "images/3dmoonn/invincible/omni-man/moonn-omni-man-4.jpg",
+      "images/3dmoonn/invincible/omni-man/moonn-omni-man-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Omni-Man, Invincible's deceptively wholesome Viltrumite patriarch, sculpted with the calm, commanding presence that hides his true nature."
+  },
+  {
+    id: "moonn-percy-de-rolo",
+    artist: "3Dmoonn",
+    series: "The Legend of Vox Machina",
+    title: "Percy de Rolo",
+    images: [
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-1.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-2.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-3.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-4.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-5.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-6.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-7.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/percy-de-rolo/moonn-percy-de-rolo-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Percy de Rolo, The Legend of Vox Machina's gunslinging tinkerer, sculpted with Bad News drawn and his signature coat detailed."
+  },
+  {
+    id: "moonn-perona",
+    artist: "3Dmoonn",
+    series: "One Piece",
+    title: "Perona",
+    images: [
+      "images/3dmoonn/one-piece/perona/moonn-perona-1.jpg",
+      "images/3dmoonn/one-piece/perona/moonn-perona-2.jpg",
+      "images/3dmoonn/one-piece/perona/moonn-perona-3.jpg",
+      "images/3dmoonn/one-piece/perona/moonn-perona-4.jpg",
+      "images/3dmoonn/one-piece/perona/moonn-perona-5.jpg",
+      "images/3dmoonn/one-piece/perona/moonn-perona-6.jpg",
+      "images/3dmoonn/one-piece/perona/moonn-perona-7.jpg",
+      "images/3dmoonn/one-piece/perona/moonn-perona-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Perona, One Piece's ghost-summoning Devil Fruit user, sculpted with her gothic-lolita style and floating hollow spirits implied."
+  },
+  {
+    id: "moonn-power",
+    artist: "3Dmoonn",
+    series: "Chainsaw Man",
+    title: "Power",
+    images: [
+      "images/3dmoonn/chainsaw-man/power/moonn-power-1.jpg",
+      "images/3dmoonn/chainsaw-man/power/moonn-power-2.jpg",
+      "images/3dmoonn/chainsaw-man/power/moonn-power-3.jpg",
+      "images/3dmoonn/chainsaw-man/power/moonn-power-4.jpg",
+      "images/3dmoonn/chainsaw-man/power/moonn-power-5.jpg",
+      "images/3dmoonn/chainsaw-man/power/moonn-power-6.jpg",
+      "images/3dmoonn/chainsaw-man/power/moonn-power-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Power, Chainsaw Man's blood-fiend devil, sculpted with her signature horns and gleefully unhinged expression."
+  },
+  {
+    id: "moonn-psylocke",
+    artist: "3Dmoonn",
+    series: "X-Men",
+    title: "Psylocke",
+    images: [
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-1.jpg",
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-2.jpg",
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-3.jpg",
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-4.jpg",
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-5.jpg",
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-6.jpg",
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-7.jpg",
+      "images/3dmoonn/x-men/psylocke/moonn-psylocke-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Psylocke, the X-Men's telepathic ninja, sculpted mid-strike with her signature psychic blade crackling."
+  },
+  {
+    id: "moonn-punchline",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Punchline",
+    images: [
+      "images/3dmoonn/batman/punchline/moonn-punchline-1.jpg",
+      "images/3dmoonn/batman/punchline/moonn-punchline-2.jpg",
+      "images/3dmoonn/batman/punchline/moonn-punchline-3.jpg",
+      "images/3dmoonn/batman/punchline/moonn-punchline-4.jpg",
+      "images/3dmoonn/batman/punchline/moonn-punchline-5.jpg",
+      "images/3dmoonn/batman/punchline/moonn-punchline-6.jpg",
+      "images/3dmoonn/batman/punchline/moonn-punchline-7.jpg",
+      "images/3dmoonn/batman/punchline/moonn-punchline-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Punchline, the Joker's chaotic protege, sculpted with her signature bat and manic grin."
+  },
+  {
+    id: "moonn-purah",
+    artist: "3Dmoonn",
+    series: "The Legend of Zelda",
+    title: "Purah",
+    images: [
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-1.jpg",
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-2.jpg",
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-3.jpg",
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-4.jpg",
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-5.jpg",
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-6.jpg",
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-7.jpg",
+      "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Purah, The Legend of Zelda's eccentric royal researcher, sculpted with her Sheikah tech and youthful appearance detailed."
+  },
+  {
+    id: "moonn-raynare",
+    artist: "3Dmoonn",
+    series: "High School DxD",
+    title: "Raynare",
+    images: [
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-1.jpg",
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-2.jpg",
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-3.jpg",
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-4.jpg",
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-5.jpg",
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-6.jpg",
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-7.jpg",
+      "images/3dmoonn/high-school-dxd/raynare/moonn-raynare-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Raynare, High School DxD's fallen angel, sculpted with dark wings unfurled and a light-spear ready."
+  },
+  {
+    id: "moonn-revy",
+    artist: "3Dmoonn",
+    series: "Black Lagoon",
+    title: "Revy",
+    images: [
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-1.jpg",
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-2.jpg",
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-3.jpg",
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-4.jpg",
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-5.jpg",
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-6.jpg",
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-7.jpg",
+      "images/3dmoonn/black-lagoon/revy/moonn-revy-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Revy, Black Lagoon's twin-pistol-wielding mercenary, sculpted mid-draw with the same reckless swagger that defines the series."
+  },
+  {
+    id: "moonn-reze",
+    artist: "3Dmoonn",
+    series: "Chainsaw Man",
+    title: "Reze",
+    images: [
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-1.jpg",
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-2.jpg",
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-3.jpg",
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-4.jpg",
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-5.jpg",
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-6.jpg",
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-7.jpg",
+      "images/3dmoonn/chainsaw-man/reze/moonn-reze-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Reze, Chainsaw Man's Bomb Devil hybrid, sculpted with the deceptively soft appearance that masks her explosive true nature."
+  },
+  {
+    id: "moonn-rias-gremory",
+    artist: "3Dmoonn",
+    series: "High School DxD",
+    title: "Rias Gremory",
+    images: [
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-1.jpg",
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-2.jpg",
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-3.jpg",
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-4.jpg",
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-5.jpg",
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-6.jpg",
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-7.jpg",
+      "images/3dmoonn/high-school-dxd/rias-gremory/moonn-rias-gremory-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rias Gremory, High School DxD's devil heiress, sculpted with her crimson hair and regal, confident bearing."
+  },
+  {
+    id: "moonn-rinoa-heartilly",
+    artist: "3Dmoonn",
+    series: "Final Fantasy",
+    title: "Rinoa Heartilly",
+    images: [
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-1.jpg",
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-2.jpg",
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-3.jpg",
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-4.jpg",
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-5.jpg",
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-6.jpg",
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-7.jpg",
+      "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rinoa Heartilly, Final Fantasy VIII's resistance fighter, sculpted with her signature blue jacket and Angel Wing accessory."
+  },
+  {
+    id: "moonn-rogue",
+    artist: "3Dmoonn",
+    series: "X-Men",
+    title: "Rogue",
+    images: [
+      "images/3dmoonn/x-men/rogue/moonn-rogue-1.jpg",
+      "images/3dmoonn/x-men/rogue/moonn-rogue-2.jpg",
+      "images/3dmoonn/x-men/rogue/moonn-rogue-3.jpg",
+      "images/3dmoonn/x-men/rogue/moonn-rogue-4.jpg",
+      "images/3dmoonn/x-men/rogue/moonn-rogue-5.jpg",
+      "images/3dmoonn/x-men/rogue/moonn-rogue-6.jpg",
+      "images/3dmoonn/x-men/rogue/moonn-rogue-7.jpg",
+      "images/3dmoonn/x-men/rogue/moonn-rogue-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rogue, the X-Men's power-absorbing Southern belle, sculpted in her classic green-and-yellow uniform with gloved hands raised."
+  },
+  {
+    id: "moonn-rumi",
+    artist: "3Dmoonn",
+    series: "KPop Demon Hunters",
+    title: "Rumi",
+    images: [
+      "images/3dmoonn/kpop-demon-hunters/rumi/moonn-rumi-1.jpg",
+      "images/3dmoonn/kpop-demon-hunters/rumi/moonn-rumi-2.jpg",
+      "images/3dmoonn/kpop-demon-hunters/rumi/moonn-rumi-3.jpg",
+      "images/3dmoonn/kpop-demon-hunters/rumi/moonn-rumi-4.jpg",
+      "images/3dmoonn/kpop-demon-hunters/rumi/moonn-rumi-5.jpg",
+      "images/3dmoonn/kpop-demon-hunters/rumi/moonn-rumi-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rumi, the lead singer and demon hunter from KPop Demon Hunters, sculpted mid-performance with her weapon close at hand."
+  },
+  {
+    id: "moonn-ryuko-matoi",
+    artist: "3Dmoonn",
+    series: "Kill la Kill",
+    title: "Ryuko Matoi",
+    images: [
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-1.jpg",
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-2.jpg",
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-3.jpg",
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-4.jpg",
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-5.jpg",
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-6.jpg",
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-7.jpg",
+      "images/3dmoonn/kill-la-kill/ryuko-matoi/moonn-ryuko-matoi-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ryuko Matoi, Kill la Kill's scissor-blade wielder, sculpted mid-transformation with Senketsu's fibers wrapping around her."
+  },
+  {
+    id: "moonn-saber",
+    artist: "3Dmoonn",
+    series: "Fate/Grand Order",
+    title: "Saber",
+    images: [
+      "images/3dmoonn/fate-grand-order/saber/moonn-saber-1.jpg",
+      "images/3dmoonn/fate-grand-order/saber/moonn-saber-2.jpg",
+      "images/3dmoonn/fate-grand-order/saber/moonn-saber-3.jpg",
+      "images/3dmoonn/fate-grand-order/saber/moonn-saber-4.jpg",
+      "images/3dmoonn/fate-grand-order/saber/moonn-saber-5.jpg",
+      "images/3dmoonn/fate-grand-order/saber/moonn-saber-6.jpg",
+      "images/3dmoonn/fate-grand-order/saber/moonn-saber-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Saber, Fate/Grand Order's stoic Servant, sculpted with Excalibur drawn and the quiet, knightly resolve that defines the class."
+  },
+  {
+    id: "moonn-sailor-mars",
+    artist: "3Dmoonn",
+    series: "Sailor Moon",
+    title: "Sailor Mars",
+    images: [
+      "images/3dmoonn/sailor-moon/sailor-mars/moonn-sailor-mars-1.jpg",
+      "images/3dmoonn/sailor-moon/sailor-mars/moonn-sailor-mars-2.jpg",
+      "images/3dmoonn/sailor-moon/sailor-mars/moonn-sailor-mars-3.jpg",
+      "images/3dmoonn/sailor-moon/sailor-mars/moonn-sailor-mars-4.jpg",
+      "images/3dmoonn/sailor-moon/sailor-mars/moonn-sailor-mars-5.jpg",
+      "images/3dmoonn/sailor-moon/sailor-mars/moonn-sailor-mars-6.jpg",
+      "images/3dmoonn/sailor-moon/sailor-mars/moonn-sailor-mars-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sailor Mars, the fiery-tempered Guardian of Mars, sculpted mid-attack with her signature fire ofuda in hand."
+  },
+  {
+    id: "moonn-sakura-chibi",
+    artist: "3Dmoonn",
+    series: "Cardcaptor Sakura",
+    title: "Sakura Chibi",
+    images: [
+      "images/3dmoonn/cardcaptor-sakura/sakura-chibi/moonn-sakura-chibi-1.jpg",
+      "images/3dmoonn/cardcaptor-sakura/sakura-chibi/moonn-sakura-chibi-2.jpg",
+      "images/3dmoonn/cardcaptor-sakura/sakura-chibi/moonn-sakura-chibi-3.jpg",
+      "images/3dmoonn/cardcaptor-sakura/sakura-chibi/moonn-sakura-chibi-4.jpg",
+      "images/3dmoonn/cardcaptor-sakura/sakura-chibi/moonn-sakura-chibi-5.jpg",
+      "images/3dmoonn/cardcaptor-sakura/sakura-chibi/moonn-sakura-chibi-6.jpg",
+      "images/3dmoonn/cardcaptor-sakura/sakura-chibi/moonn-sakura-chibi-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A chibi take on Sakura from Cardcaptor Sakura, her staff and one of the Clow Cards scaled down into an adorable pose."
+  },
+  {
+    id: "moonn-sango",
+    artist: "3Dmoonn",
+    series: "InuYasha",
+    title: "Sango",
+    images: [
+      "images/3dmoonn/inuyasha/sango/moonn-sango-1.jpg",
+      "images/3dmoonn/inuyasha/sango/moonn-sango-2.jpg",
+      "images/3dmoonn/inuyasha/sango/moonn-sango-3.jpg",
+      "images/3dmoonn/inuyasha/sango/moonn-sango-4.jpg",
+      "images/3dmoonn/inuyasha/sango/moonn-sango-5.jpg",
+      "images/3dmoonn/inuyasha/sango/moonn-sango-6.jpg",
+      "images/3dmoonn/inuyasha/sango/moonn-sango-7.jpg",
+      "images/3dmoonn/inuyasha/sango/moonn-sango-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sango, InuYasha's demon-slaying warrior, sculpted mid-throw with her Hiraikotsu boomerang."
+  },
+  {
+    id: "moonn-satellizer-el-bridget",
+    artist: "3Dmoonn",
+    series: "Freezing",
+    title: "Satellizer el Bridget",
+    images: [
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-1.jpg",
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-2.jpg",
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-3.jpg",
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-4.jpg",
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-5.jpg",
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-6.jpg",
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-7.jpg",
+      "images/3dmoonn/freezing/satellizer-el-bridget/moonn-satellizer-el-bridget-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Satellizer el Bridget, Freezing's Untouchable Queen, sculpted mid-battle with her Volt Weapon materialized."
+  },
+  {
+    id: "moonn-satsuki-kiryuin",
+    artist: "3Dmoonn",
+    series: "Kill la Kill",
+    title: "Satsuki Kiryuin",
+    images: [
+      "images/3dmoonn/kill-la-kill/satsuki-kiryuin/moonn-satsuki-kiryuin-1.jpg",
+      "images/3dmoonn/kill-la-kill/satsuki-kiryuin/moonn-satsuki-kiryuin-2.jpg",
+      "images/3dmoonn/kill-la-kill/satsuki-kiryuin/moonn-satsuki-kiryuin-3.jpg",
+      "images/3dmoonn/kill-la-kill/satsuki-kiryuin/moonn-satsuki-kiryuin-4.jpg",
+      "images/3dmoonn/kill-la-kill/satsuki-kiryuin/moonn-satsuki-kiryuin-5.jpg",
+      "images/3dmoonn/kill-la-kill/satsuki-kiryuin/moonn-satsuki-kiryuin-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Satsuki Kiryuin, Kill la Kill's imperious student council president, sculpted with Bakuzan drawn and Junketsu's regalia in full detail."
+  },
+  {
+    id: "moonn-shego",
+    artist: "3Dmoonn",
+    series: "Kim Possible",
+    title: "Shego",
+    images: [
+      "images/3dmoonn/kim-possible/shego/moonn-shego-1.jpg",
+      "images/3dmoonn/kim-possible/shego/moonn-shego-2.jpg",
+      "images/3dmoonn/kim-possible/shego/moonn-shego-3.jpg",
+      "images/3dmoonn/kim-possible/shego/moonn-shego-4.jpg",
+      "images/3dmoonn/kim-possible/shego/moonn-shego-5.jpg",
+      "images/3dmoonn/kim-possible/shego/moonn-shego-6.jpg",
+      "images/3dmoonn/kim-possible/shego/moonn-shego-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shego, Kim Possible's sarcastic sidekick-turned-villain, sculpted with her signature green plasma glowing at her fingertips."
+  },
+  {
+    id: "moonn-shermie",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Shermie",
+    images: [
+      "images/3dmoonn/king-of-fighters/shermie/moonn-shermie-1.jpg",
+      "images/3dmoonn/king-of-fighters/shermie/moonn-shermie-2.jpg",
+      "images/3dmoonn/king-of-fighters/shermie/moonn-shermie-3.jpg",
+      "images/3dmoonn/king-of-fighters/shermie/moonn-shermie-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shermie, King of Fighters' electricity-wielding fighter, sculpted mid-pose with sparks crackling around her."
+  },
+  {
+    id: "moonn-shion",
+    artist: "3Dmoonn",
+    series: "That Time I Got Reincarnated as a Slime",
+    title: "Shion",
+    images: [
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-1.jpg",
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-2.jpg",
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-3.jpg",
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-4.jpg",
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-5.jpg",
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-6.jpg",
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-7.jpg",
+      "images/3dmoonn/that-time-i-got-reincarnated-as-a-slime/shion/moonn-shion-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shion, That Time I Got Reincarnated as a Slime's loyal secretary-warrior, sculpted with katana drawn and calm efficiency."
+  },
+  {
+    id: "moonn-silk",
+    artist: "3Dmoonn",
+    series: "Marvel",
+    title: "Silk",
+    images: [
+      "images/3dmoonn/marvel/silk/moonn-silk-1.jpg",
+      "images/3dmoonn/marvel/silk/moonn-silk-2.jpg",
+      "images/3dmoonn/marvel/silk/moonn-silk-3.jpg",
+      "images/3dmoonn/marvel/silk/moonn-silk-4.jpg",
+      "images/3dmoonn/marvel/silk/moonn-silk-5.jpg",
+      "images/3dmoonn/marvel/silk/moonn-silk-6.jpg",
+      "images/3dmoonn/marvel/silk/moonn-silk-7.jpg",
+      "images/3dmoonn/marvel/silk/moonn-silk-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Silk, Marvel's spider-powered hero Cindy Moon, sculpted mid-swing with her sleek red-and-black suit."
+  },
+  {
+    id: "moonn-cha-hae-in",
+    artist: "3Dmoonn",
+    series: "Solo Leveling",
+    title: "Cha Hae-in",
+    images: [
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-1.jpg",
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-2.jpg",
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-3.jpg",
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-4.jpg",
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-5.jpg",
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-6.jpg",
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-7.jpg",
+      "images/3dmoonn/solo-leveling/cha-hae-in/moonn-cha-hae-in-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Cha Hae-In, Solo Leveling's S-Rank sword hunter, sculpted mid-draw with the elegant lethality that makes her one of the strongest hunters in the series."
+  },
+  {
+    id: "moonn-stocking",
+    artist: "3Dmoonn",
+    series: "Panty & Stocking with Garterbelt",
+    title: "Stocking",
+    images: [
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-1.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-2.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-3.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-4.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-5.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-6.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-7.jpg",
+      "images/3dmoonn/panty-stocking-with-garterbelt/stocking/moonn-stocking-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Stocking, the other half of Panty & Stocking with Garterbelt's angel duo, sculpted with her striped thigh-highs and gothic-sweet aesthetic."
+  },
+  {
+    id: "moonn-sukuna",
+    artist: "3Dmoonn",
+    series: "Jujutsu Kaisen",
+    title: "Sukuna",
+    images: [
+      "images/3dmoonn/jujutsu-kaisen/sukuna/moonn-sukuna-1.jpg",
+      "images/3dmoonn/jujutsu-kaisen/sukuna/moonn-sukuna-2.jpg",
+      "images/3dmoonn/jujutsu-kaisen/sukuna/moonn-sukuna-3.jpg",
+      "images/3dmoonn/jujutsu-kaisen/sukuna/moonn-sukuna-4.jpg",
+      "images/3dmoonn/jujutsu-kaisen/sukuna/moonn-sukuna-5.jpg",
+      "images/3dmoonn/jujutsu-kaisen/sukuna/moonn-sukuna-6.jpg",
+      "images/3dmoonn/jujutsu-kaisen/sukuna/moonn-sukuna-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sukuna, Jujutsu Kaisen's King of Curses, sculpted with his signature markings and effortlessly cruel presence."
+  },
+  {
+    id: "moonn-talia-al-ghul",
+    artist: "3Dmoonn",
+    series: "Batman",
+    title: "Talia al Ghul",
+    images: [
+      "images/3dmoonn/batman/talia-al-ghul/moonn-talia-al-ghul-1.jpg",
+      "images/3dmoonn/batman/talia-al-ghul/moonn-talia-al-ghul-2.jpg",
+      "images/3dmoonn/batman/talia-al-ghul/moonn-talia-al-ghul-3.jpg",
+      "images/3dmoonn/batman/talia-al-ghul/moonn-talia-al-ghul-4.jpg",
+      "images/3dmoonn/batman/talia-al-ghul/moonn-talia-al-ghul-5.jpg",
+      "images/3dmoonn/batman/talia-al-ghul/moonn-talia-al-ghul-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Talia al Ghul, daughter of Ra's al Ghul and one of Batman's most complicated allies-turned-adversaries, sculpted with regal, assassin-trained poise."
+  },
+  {
+    id: "moonn-talia-yang",
+    artist: "3Dmoonn",
+    series: "Cyberpunk",
+    title: "Talia Yang",
+    images: [
+      "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-1.jpg",
+      "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-2.jpg",
+      "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-3.jpg",
+      "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-4.jpg",
+      "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-5.jpg",
+      "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-6.jpg",
+      "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Talia Yang, a Cyberpunk-world fixer sculpted with the neon-edged style the franchise is known for."
+  },
+  {
+    id: "moonn-tifa",
+    artist: "3Dmoonn",
+    series: "Final Fantasy",
+    title: "Tifa",
+    images: [
+      "images/3dmoonn/final-fantasy/tifa/moonn-tifa-1.jpg",
+      "images/3dmoonn/final-fantasy/tifa/moonn-tifa-2.jpg",
+      "images/3dmoonn/final-fantasy/tifa/moonn-tifa-3.jpg",
+      "images/3dmoonn/final-fantasy/tifa/moonn-tifa-4.jpg",
+      "images/3dmoonn/final-fantasy/tifa/moonn-tifa-5.jpg",
+      "images/3dmoonn/final-fantasy/tifa/moonn-tifa-6.jpg",
+      "images/3dmoonn/final-fantasy/tifa/moonn-tifa-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Tifa Lockhart, Final Fantasy VII's martial-arts bartender, sculpted mid-punch with her signature gloves and unshakable resolve."
+  },
+  {
+    id: "moonn-trish",
+    artist: "3Dmoonn",
+    series: "Devil May Cry",
+    title: "Trish",
+    images: [
+      "images/3dmoonn/devil-may-cry/trish/moonn-trish-1.jpg",
+      "images/3dmoonn/devil-may-cry/trish/moonn-trish-2.jpg",
+      "images/3dmoonn/devil-may-cry/trish/moonn-trish-3.jpg",
+      "images/3dmoonn/devil-may-cry/trish/moonn-trish-4.jpg",
+      "images/3dmoonn/devil-may-cry/trish/moonn-trish-5.jpg",
+      "images/3dmoonn/devil-may-cry/trish/moonn-trish-6.jpg",
+      "images/3dmoonn/devil-may-cry/trish/moonn-trish-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Trish, Devil May Cry's demon-hunting femme fatale, sculpted with her whip and effortlessly cool confidence."
+  },
+  {
+    id: "moonn-triss",
+    artist: "3Dmoonn",
+    series: "The Witcher",
+    title: "Triss",
+    images: [
+      "images/3dmoonn/the-witcher/triss/moonn-triss-1.jpg",
+      "images/3dmoonn/the-witcher/triss/moonn-triss-2.jpg",
+      "images/3dmoonn/the-witcher/triss/moonn-triss-3.jpg",
+      "images/3dmoonn/the-witcher/triss/moonn-triss-4.jpg",
+      "images/3dmoonn/the-witcher/triss/moonn-triss-5.jpg",
+      "images/3dmoonn/the-witcher/triss/moonn-triss-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Triss Merigold, The Witcher's fire-haired sorceress, sculpted with a spell forming at her fingertips."
+  },
+  {
+    id: "moonn-tsunade-senju",
+    artist: "3Dmoonn",
+    series: "Naruto",
+    title: "Tsunade Senju",
+    images: [
+      "images/3dmoonn/naruto/tsunade-senju/moonn-tsunade-senju-1.jpg",
+      "images/3dmoonn/naruto/tsunade-senju/moonn-tsunade-senju-2.jpg",
+      "images/3dmoonn/naruto/tsunade-senju/moonn-tsunade-senju-3.jpg",
+      "images/3dmoonn/naruto/tsunade-senju/moonn-tsunade-senju-4.jpg",
+      "images/3dmoonn/naruto/tsunade-senju/moonn-tsunade-senju-5.jpg",
+      "images/3dmoonn/naruto/tsunade-senju/moonn-tsunade-senju-6.jpg",
+      "images/3dmoonn/naruto/tsunade-senju/moonn-tsunade-senju-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Tsunade Senju, Naruto's legendary Sannin and Fifth Hokage, sculpted mid-punch with the monstrous strength she's famous for."
+  },
+  {
+    id: "moonn-ultimecia",
+    artist: "3Dmoonn",
+    series: "Final Fantasy",
+    title: "Ultimecia",
+    images: [
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-1.jpg",
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-2.jpg",
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-3.jpg",
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-4.jpg",
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-5.jpg",
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-6.jpg",
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-7.jpg",
+      "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ultimecia, Final Fantasy VIII's time-compressing sorceress, sculpted with dramatic, otherworldly regality."
+  },
+  {
+    id: "moonn-velma",
+    artist: "3Dmoonn",
+    series: "Scooby-Doo",
+    title: "Velma",
+    images: [
+      "images/3dmoonn/scooby-doo/velma/moonn-velma-1.jpg",
+      "images/3dmoonn/scooby-doo/velma/moonn-velma-2.jpg",
+      "images/3dmoonn/scooby-doo/velma/moonn-velma-3.jpg",
+      "images/3dmoonn/scooby-doo/velma/moonn-velma-4.jpg",
+      "images/3dmoonn/scooby-doo/velma/moonn-velma-5.jpg",
+      "images/3dmoonn/scooby-doo/velma/moonn-velma-6.jpg",
+      "images/3dmoonn/scooby-doo/velma/moonn-velma-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Velma Dinkley, Scooby-Doo's sharp-minded sleuth, sculpted mid-clue with her signature orange sweater and glasses."
+  },
+  {
+    id: "moonn-vex",
+    artist: "3Dmoonn",
+    series: "The Legend of Vox Machina",
+    title: "Vex",
+    images: [
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-1.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-2.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-3.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-4.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-5.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-6.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-7.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/vex/moonn-vex-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Vex'ahlia, The Legend of Vox Machina's ranger, sculpted with bow drawn and Trinket close by in spirit."
+  },
+  {
+    id: "moonn-keyleth",
+    artist: "3Dmoonn",
+    series: "The Legend of Vox Machina",
+    title: "Keyleth",
+    images: [
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-1.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-2.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-3.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-4.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-5.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-6.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-7.jpg",
+      "images/3dmoonn/the-legend-of-vox-machina/keyleth/moonn-keyleth-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Keyleth, The Legend of Vox Machina's druid, sculpted mid-shapeshift with elemental energy swirling around her."
+  },
+  {
+    id: "moonn-whip",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Whip",
+    images: [
+      "images/3dmoonn/king-of-fighters/whip/moonn-whip-1.jpg",
+      "images/3dmoonn/king-of-fighters/whip/moonn-whip-2.jpg",
+      "images/3dmoonn/king-of-fighters/whip/moonn-whip-3.jpg",
+      "images/3dmoonn/king-of-fighters/whip/moonn-whip-4.jpg",
+      "images/3dmoonn/king-of-fighters/whip/moonn-whip-5.jpg",
+      "images/3dmoonn/king-of-fighters/whip/moonn-whip-6.jpg",
+      "images/3dmoonn/king-of-fighters/whip/moonn-whip-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Whip, King of Fighters' NESTS enforcer, sculpted with her signature bladed whip coiled and ready to strike."
+  },
+  {
+    id: "moonn-yor-forger",
+    artist: "3Dmoonn",
+    series: "Spy x Family",
+    title: "Yor Forger",
+    images: [
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-1.jpg",
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-2.jpg",
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-3.jpg",
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-4.jpg",
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-5.jpg",
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-6.jpg",
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-7.jpg",
+      "images/3dmoonn/spy-x-family/yor-forger/moonn-yor-forger-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yor Forger, Spy x Family's assassin-in-disguise mother, sculpted mid-strike with the deadly grace she hides behind her domestic facade."
+  },
+  {
+    id: "moonn-yuri-sakazaki",
+    artist: "3Dmoonn",
+    series: "King of Fighters",
+    title: "Yuri Sakazaki",
+    images: [
+      "images/3dmoonn/king-of-fighters/yuri-sakazaki/moonn-yuri-sakazaki-1.jpg",
+      "images/3dmoonn/king-of-fighters/yuri-sakazaki/moonn-yuri-sakazaki-2.jpg",
+      "images/3dmoonn/king-of-fighters/yuri-sakazaki/moonn-yuri-sakazaki-3.jpg",
+      "images/3dmoonn/king-of-fighters/yuri-sakazaki/moonn-yuri-sakazaki-4.jpg",
+      "images/3dmoonn/king-of-fighters/yuri-sakazaki/moonn-yuri-sakazaki-5.jpg",
+      "images/3dmoonn/king-of-fighters/yuri-sakazaki/moonn-yuri-sakazaki-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yuri Sakazaki, King of Fighters' Kyokugen-style fighter, sculpted mid-Haoh Sho Ko Ken with fists blazing."
+  },
+  {
+    id: "moonn-yuzuriha",
+    artist: "3Dmoonn",
+    series: "Hell's Paradise",
+    title: "Yuzuriha",
+    images: [
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-1.jpg",
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-2.jpg",
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-3.jpg",
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-4.jpg",
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-5.jpg",
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-6.jpg",
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-7.jpg",
+      "images/3dmoonn/hells-paradise/yuzuriha/moonn-yuzuriha-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yuzuriha, Hell's Paradise's chain-and-sickle wielding shinobi, sculpted mid-strike with her weapon in a wide, sweeping arc."
   }
 ];
