@@ -107,6 +107,17 @@ nav {
     pointer-events: none;
 }
 
+.btn-outline {
+    background: transparent;
+    color: #d4a843;
+    border: 1px solid #d4a843;
+}
+
+.btn-outline:hover {
+    background: rgba(212, 168, 67, 0.12);
+    color: #e3b751;
+}
+
 /* ===== Content Sections ===== */
 
 .section {
@@ -505,6 +516,14 @@ nav {
 .product-info .model-specs {
     max-width: none;
     margin: 0 0 20px;
+}
+
+.render-note {
+    color: #9a9a9a;
+    font-size: 0.85rem;
+    font-style: italic;
+    margin: 0 0 20px;
+    line-height: 1.5;
 }
 
 /* ===== Mobile: Browse & Product Layouts ===== */

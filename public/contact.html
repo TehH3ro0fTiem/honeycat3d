@@ -26,11 +26,12 @@
     </header>
 
     <section class="section">
-        <h1>Contact</h1>
-        <p>Have a question about a model, a commission idea, or a custom order? Send us a message below.</p>
+        <h1 id="contact-heading">Contact</h1>
+        <p id="contact-intro">Have a question about a model, a commission idea, or a custom order? Send us a message below.</p>
 
         <form class="contact-form" action="https://formtorch.com/f/ctdcpohybp" method="POST">
             <input type="hidden" name="_redirect" value="https://tehh3ro0ftiem.github.io/honeycat-studios/thank-you.html">
+            <input type="hidden" id="model-field" name="model" value="">
 
             <label for="name">Name</label>
             <input type="text" id="name" name="name" required>
@@ -44,6 +45,20 @@
             <button type="submit" class="btn">Send Message</button>
         </form>
     </section>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const modelTitle = params.get("model");
+
+        if (modelTitle) {
+            document.getElementById("contact-heading").textContent = "Request a Custom Order";
+            document.getElementById("contact-intro").textContent =
+                `You're inquiring about a custom order/print of "${modelTitle}". Add any details below (color, scale, timeline, etc.) and we'll get back to you.`;
+            document.getElementById("model-field").value = modelTitle;
+            document.getElementById("message").value =
+                `I'd like to custom order/print "${modelTitle}". `;
+        }
+    </script>
 
     <div class="footer">
         © HoneyCat3D • Premium Resin Collectibles
