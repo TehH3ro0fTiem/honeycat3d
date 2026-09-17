@@ -173,6 +173,26 @@ nav {
     display: block;
 }
 
+.card-image-wrap {
+    position: relative;
+    width: 100%;
+}
+
+.version-badge {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+
+    background: rgba(18, 18, 18, 0.85);
+    color: #d4a843;
+    border: 1px solid #d4a843;
+
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 20px;
+}
+
 .card h3 {
     margin: 0;
     padding: 20px;
