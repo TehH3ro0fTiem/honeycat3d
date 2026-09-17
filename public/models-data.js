@@ -1,7 +1,7 @@
 const MODELS = [
   {
     id: "bulkamancer-malenia",
-    artist: "Bulkamancer",
+    artist: "Bulkamancer Sculpts",
     series: "Elden Ring",
     title: "Malenia, Blade of Miquella",
     images: [
