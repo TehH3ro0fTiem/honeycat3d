@@ -5,18 +5,18 @@ const MODELS = [
     series: "Elden Ring",
     title: "Malenia, Blade of Miquella",
     images: [
-      "images/bulkamancer/elden-ring/malenia/malenia-1.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-2.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-3.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-4.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-5.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-6.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-7.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-8.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-9.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-10.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-11.jpg",
-      "images/bulkamancer/elden-ring/malenia/malenia-12.jpg"
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-1.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-2.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-3.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-4.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-5.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-6.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-7.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-8.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-9.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-10.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-11.jpg",
+      "images/bulkamancer/elden-ring/malenia/bulka-malenia-12.jpg"
     ],
     scaleOptions: [
       { scale: "1/6 Scale", size: "Approx. 12 in (30 cm) tall", etsyUrl: "https://www.etsy.com/listing/4510471991/scarlet-lady-blade-of-rot-ring-of-elden" }
