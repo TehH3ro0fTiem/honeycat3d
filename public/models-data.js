@@ -11942,7 +11942,7 @@ const MODELS = [
     scaleOptions: [
       { scale: "1/8 Scale", size: "Approx. 8.5 in (21.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
     ],
-    description: "2B, the blade-wielding android of NieR: Automata, following orders she may not fully believe in."
+    description: "2B, the blade-wielding android of NieR: Automata, following orders she may not fully believe in. Available in two versions — full YoRHa dress with eye covering, or a more revealing variant without — let us know which you'd like when you order."
   },
   {
     id: "bulka-amaterasu",
