@@ -9425,5 +9425,3996 @@ const MODELS = [
       { scale: "1/6 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
     ],
     description: "Yuzuriha, Hell's Paradise's chain-and-sickle wielding shinobi, sculpted mid-strike with her weapon in a wide, sweeping arc."
+  },
+  {
+    id: "bulka-xenomorph",
+    artist: "Bulkamancer Sculpts",
+    series: "Alien",
+    title: "Xenomorph",
+    images: [
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-1.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-2.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-3.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-4.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-5.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-6.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-7.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-8.jpg",
+      "images/bulkamancer/alien/xenomorph/bulka-xenomorph-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 10.3 in (26.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The perfect organism from the Alien franchise, rendered in full biomechanical menace."
+  },
+  {
+    id: "bulka-alice-liddell",
+    artist: "Bulkamancer Sculpts",
+    series: "American McGee's Alice",
+    title: "Alice Liddell",
+    images: [
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-1.jpg",
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-2.jpg",
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-3.jpg",
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-4.jpg",
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-5.jpg",
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-6.jpg",
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-7.jpg",
+      "images/bulkamancer/american-mcgees-alice/alice-liddell/bulka-alice-liddell-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 7.9 in (20.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Wonderland's darker daughter, straight out of American McGee's twisted reimagining of Alice."
+  },
+  {
+    id: "bulka-nian",
+    artist: "Bulkamancer Sculpts",
+    series: "Arknights",
+    title: "Nian",
+    images: [
+      "images/bulkamancer/arknights/nian/bulka-nian-1.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-2.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-3.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-4.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-5.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-6.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-7.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-8.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-9.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-10.jpg",
+      "images/bulkamancer/arknights/nian/bulka-nian-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.5 in (24.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The dragon-blooded Operator from Arknights, caught in a quiet moment between missions."
+  },
+  {
+    id: "bulka-edward-kenway",
+    artist: "Bulkamancer Sculpts",
+    series: "Assassin's Creed",
+    title: "Edward Kenway",
+    images: [
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-1.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-2.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-3.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-4.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-5.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-6.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-7.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-8.jpg",
+      "images/bulkamancer/assassins-creed/edward-kenway/bulka-edward-kenway-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.4 in (31.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Pirate-turned-Assassin Edward Kenway, cutlass in hand and the Caribbean at his back."
+  },
+  {
+    id: "bulka-varang",
+    artist: "Bulkamancer Sculpts",
+    series: "Avatar",
+    title: "Varang",
+    images: [
+      "images/bulkamancer/avatar/varang/bulka-varang-1.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-2.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-3.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-4.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-5.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-6.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-7.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-8.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-9.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-10.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-11.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-12.jpg",
+      "images/bulkamancer/avatar/varang/bulka-varang-13.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 13.4 in (34.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Varang of Pandora, sculpted in the alien beauty of James Cameron's Avatar."
+  },
+  {
+    id: "bulka-toph-beifong",
+    artist: "Bulkamancer Sculpts",
+    series: "Avatar: The Last Airbender",
+    title: "Toph Beifong",
+    images: [
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-1.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-2.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-3.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-4.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-5.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-6.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-7.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-8.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-9.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-10.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-11.jpg",
+      "images/bulkamancer/avatar-the-last-airbender/toph-beifong/bulka-toph-beifong-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.3 in (26.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The blind earthbending prodigy Toph Beifong, immovable as the rock she commands."
+  },
+  {
+    id: "bulka-agir",
+    artist: "Bulkamancer Sculpts",
+    series: "Azure Lane",
+    title: "Agir",
+    images: [
+      "images/bulkamancer/azure-lane/agir/bulka-agir-1.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-2.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-3.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-4.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-5.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-6.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-7.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-8.jpg",
+      "images/bulkamancer/azure-lane/agir/bulka-agir-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.1 in (23.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The battleship-turned-shipgirl Agir, brought to life from Azur Lane."
+  },
+  {
+    id: "bulka-akagi",
+    artist: "Bulkamancer Sculpts",
+    series: "Azure Lane",
+    title: "Akagi",
+    images: [
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-1.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-2.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-3.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-4.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-5.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-6.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-7.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-8.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-9.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-10.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-11.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-12.jpg",
+      "images/bulkamancer/azure-lane/akagi/bulka-akagi-13.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 7.5 in (19.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Akagi of Azur Lane, carrier of the fleet reimagined as a graceful warrior-spirit."
+  },
+  {
+    id: "bulka-kaga",
+    artist: "Bulkamancer Sculpts",
+    series: "Azure Lane",
+    title: "Kaga",
+    images: [
+      "images/bulkamancer/azure-lane/kaga/bulka-kaga-1.jpg",
+      "images/bulkamancer/azure-lane/kaga/bulka-kaga-2.jpg",
+      "images/bulkamancer/azure-lane/kaga/bulka-kaga-3.jpg",
+      "images/bulkamancer/azure-lane/kaga/bulka-kaga-4.jpg",
+      "images/bulkamancer/azure-lane/kaga/bulka-kaga-5.jpg",
+      "images/bulkamancer/azure-lane/kaga/bulka-kaga-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.8 in (24.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kaga, Akagi's inseparable sister-in-arms from Azur Lane."
+  },
+  {
+    id: "bulka-astarion",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Astarion",
+    images: [
+      "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-1.jpg",
+      "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-2.jpg",
+      "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-3.jpg",
+      "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-4.jpg",
+      "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-5.jpg",
+      "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.6 in (24.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The centuries-old vampire spawn Astarion, all sharp wit and sharper fangs from Baldur's Gate 3."
+  },
+  {
+    id: "bulka-astarion-chibi",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Astarion (Chibi)",
+    images: [
+      "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-1.jpg",
+      "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-2.jpg",
+      "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-3.jpg",
+      "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Approx. 4.0 in (10.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A pint-sized take on Astarion, Baldur's Gate 3's scene-stealing vampire rogue."
+  },
+  {
+    id: "bulka-dame-aylin",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Dame Aylin",
+    images: [
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-1.jpg",
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-2.jpg",
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-3.jpg",
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-4.jpg",
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-5.jpg",
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-6.jpg",
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-7.jpg",
+      "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-18.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.7 in (29.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dame Aylin, the freed aasimar of Baldur's Gate 3, radiant with celestial fury."
+  },
+  {
+    id: "bulka-gale",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Gale",
+    images: [
+      "images/bulkamancer/baldurs-gate/gale/bulka-gale-1.jpg",
+      "images/bulkamancer/baldurs-gate/gale/bulka-gale-2.jpg",
+      "images/bulkamancer/baldurs-gate/gale/bulka-gale-3.jpg",
+      "images/bulkamancer/baldurs-gate/gale/bulka-gale-4.jpg",
+      "images/bulkamancer/baldurs-gate/gale/bulka-gale-5.jpg",
+      "images/bulkamancer/baldurs-gate/gale/bulka-gale-6.jpg",
+      "images/bulkamancer/baldurs-gate/gale/bulka-gale-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Gale of Waterdeep, Baldur's Gate 3's charming (and orb-afflicted) wizard."
+  },
+  {
+    id: "bulka-gale-chibi",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Gale (Chibi)",
+    images: [
+      "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-1.jpg",
+      "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-2.jpg",
+      "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-3.jpg",
+      "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Approx. 3.9 in (10.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A chibi rendition of Gale, Baldur's Gate 3's magic-loving, ever-explaining wizard."
+  },
+  {
+    id: "bulka-isobel",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Isobel",
+    images: [
+      "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-1.jpg",
+      "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-2.jpg",
+      "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-3.jpg",
+      "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-4.jpg",
+      "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-5.jpg",
+      "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.2 in (25.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Isobel, the cleric of Baldur's Gate 3 caught between duty and dark bargains."
+  },
+  {
+    id: "bulka-karlach",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Karlach",
+    images: [
+      "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-1.jpg",
+      "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-2.jpg",
+      "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-3.jpg",
+      "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-4.jpg",
+      "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-5.jpg",
+      "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-7.jpg",
+      "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-16.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Approx. 11.5 in (29.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Karlach the tiefling barbarian, Baldur's Gate 3's big-hearted engine of destruction."
+  },
+  {
+    id: "bulka-karlach-chibi",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Karlach (Chibi)",
+    images: [
+      "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-1.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-2.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-3.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Approx. 4.2 in (10.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A chibi Karlach, all the heart of Baldur's Gate 3's fan-favorite barbarian in miniature form."
+  },
+  {
+    id: "bulka-karlach-stylized",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Karlach (Stylized)",
+    images: [
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-1.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-2.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-3.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-4.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-5.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-6.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-7.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-8.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-9.jpg",
+      "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.4 in (28.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A stylized alternate take on Karlach, Baldur's Gate 3's infernal-engine-powered barbarian."
+  },
+  {
+    id: "bulka-laezel",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Laezel",
+    images: [
+      "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-1.jpg",
+      "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-2.jpg",
+      "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-3.jpg",
+      "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-4.jpg",
+      "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-5.jpg",
+      "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-6.jpg",
+      "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.9 in (27.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Laezel the githyanki warrior, Baldur's Gate 3's fiercest blade with something to prove."
+  },
+  {
+    id: "bulka-laezel-chibi",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Laezel (Chibi)",
+    images: [
+      "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-1.jpg",
+      "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-2.jpg",
+      "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-3.jpg",
+      "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Approx. 4.0 in (10.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A chibi Laezel, softening (just slightly) Baldur's Gate 3's githyanki warrior."
+  },
+  {
+    id: "bulka-minthara",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Minthara",
+    images: [
+      "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-1.jpg",
+      "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-2.jpg",
+      "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-3.jpg",
+      "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-4.jpg",
+      "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-16.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.4 in (24.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Minthara, the drow commander of Baldur's Gate 3, equal parts menace and magnetism."
+  },
+  {
+    id: "bulka-mizora",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Mizora",
+    images: [
+      "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-1.jpg",
+      "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-2.jpg",
+      "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-3.jpg",
+      "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-4.jpg",
+      "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-5.jpg",
+      "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-6.jpg",
+      "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-20.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.1 in (30.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mizora, Baldur's Gate 3's infernal patron with a contract you really shouldn't sign."
+  },
+  {
+    id: "bulka-raphael",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Raphael",
+    images: [
+      "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-1.jpg",
+      "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-2.jpg",
+      "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-3.jpg",
+      "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-4.jpg",
+      "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-5.jpg",
+      "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-18.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.9 in (27.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Raphael, the Cambion devil of Baldur's Gate 3, dressed to the nines and doom to deal with."
+  },
+  {
+    id: "bulka-shadowheart",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Shadowheart",
+    images: [
+      "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-1.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-2.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-3.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-4.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-5.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-18.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.8 in (25.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shadowheart, Baldur's Gate 3's guarded cleric with a secret worth a whole campaign."
+  },
+  {
+    id: "bulka-shadowheart-chibi",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Shadowheart (Chibi)",
+    images: [
+      "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-1.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-2.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-3.jpg",
+      "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A chibi Shadowheart, Baldur's Gate 3's secretive cleric in a softer, smaller form."
+  },
+  {
+    id: "bulka-shar",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Shar",
+    images: [
+      "images/bulkamancer/baldurs-gate/shar/bulka-shar-1.jpg",
+      "images/bulkamancer/baldurs-gate/shar/bulka-shar-2.jpg",
+      "images/bulkamancer/baldurs-gate/shar/bulka-shar-3.jpg",
+      "images/bulkamancer/baldurs-gate/shar/bulka-shar-4.jpg",
+      "images/bulkamancer/baldurs-gate/shar/bulka-shar-5.jpg",
+      "images/bulkamancer/baldurs-gate/shar/bulka-shar-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.5 in (24.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shar, the Mistress of Night and Baldur's Gate 3's goddess of loss and shadow."
+  },
+  {
+    id: "bulka-the-emperor",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "The Emperor",
+    images: [
+      "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-1.jpg",
+      "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-2.jpg",
+      "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-3.jpg",
+      "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-4.jpg",
+      "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-5.jpg",
+      "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 14.4 in (36.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The Emperor, Baldur's Gate 3's mind flayer ally of deeply questionable trustworthiness."
+  },
+  {
+    id: "bulka-wyll",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Wyll",
+    images: [
+      "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-1.jpg",
+      "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-2.jpg",
+      "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-3.jpg",
+      "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-4.jpg",
+      "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-5.jpg",
+      "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-6.jpg",
+      "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "235mm + bust 157mm", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Wyll the Blade of Frontiers, Baldur's Gate 3's warlock-hero with a demonic price on his soul."
+  },
+  {
+    id: "bulka-wyll-chibi",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Wyll (Chibi)",
+    images: [
+      "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-1.jpg",
+      "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-2.jpg",
+      "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-3.jpg",
+      "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Approx. 4.0 in (10.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A chibi Wyll, Baldur's Gate 3's heroic warlock scaled down to pocket size."
+  },
+  {
+    id: "bulka-catwoman",
+    artist: "Bulkamancer Sculpts",
+    series: "Batman",
+    title: "Catwoman",
+    images: [
+      "images/bulkamancer/batman/catwoman/bulka-catwoman-1.jpg",
+      "images/bulkamancer/batman/catwoman/bulka-catwoman-2.jpg",
+      "images/bulkamancer/batman/catwoman/bulka-catwoman-3.jpg",
+      "images/bulkamancer/batman/catwoman/bulka-catwoman-4.jpg",
+      "images/bulkamancer/batman/catwoman/bulka-catwoman-5.jpg",
+      "images/bulkamancer/batman/catwoman/bulka-catwoman-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 7.8 in (19.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Catwoman, Gotham's most iconic cat burglar, mid-heist as always."
+  },
+  {
+    id: "bulka-casca",
+    artist: "Bulkamancer Sculpts",
+    series: "Berserk",
+    title: "Casca",
+    images: [
+      "images/bulkamancer/berserk/casca/bulka-casca-1.jpg",
+      "images/bulkamancer/berserk/casca/bulka-casca-2.jpg",
+      "images/bulkamancer/berserk/casca/bulka-casca-3.jpg",
+      "images/bulkamancer/berserk/casca/bulka-casca-4.jpg",
+      "images/bulkamancer/berserk/casca/bulka-casca-5.jpg",
+      "images/bulkamancer/berserk/casca/bulka-casca-6.jpg",
+      "images/bulkamancer/berserk/casca/bulka-casca-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.6 in (24.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Casca of the Band of the Hawk, sculpted from the brutal world of Berserk."
+  },
+  {
+    id: "bulka-griffith",
+    artist: "Bulkamancer Sculpts",
+    series: "Berserk",
+    title: "Griffith",
+    images: [
+      "images/bulkamancer/berserk/griffith/bulka-griffith-1.jpg",
+      "images/bulkamancer/berserk/griffith/bulka-griffith-2.jpg",
+      "images/bulkamancer/berserk/griffith/bulka-griffith-3.jpg",
+      "images/bulkamancer/berserk/griffith/bulka-griffith-4.jpg",
+      "images/bulkamancer/berserk/griffith/bulka-griffith-5.jpg",
+      "images/bulkamancer/berserk/griffith/bulka-griffith-6.jpg",
+      "images/bulkamancer/berserk/griffith/bulka-griffith-7.jpg",
+      "images/bulkamancer/berserk/griffith/bulka-griffith-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.6 in (24.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Griffith, the Band of the Hawk's charismatic and ultimately catastrophic leader."
+  },
+  {
+    id: "bulka-guts",
+    artist: "Bulkamancer Sculpts",
+    series: "Berserk",
+    title: "Guts",
+    images: [
+      "images/bulkamancer/berserk/guts/bulka-guts-1.jpg",
+      "images/bulkamancer/berserk/guts/bulka-guts-2.jpg",
+      "images/bulkamancer/berserk/guts/bulka-guts-3.jpg",
+      "images/bulkamancer/berserk/guts/bulka-guts-4.jpg",
+      "images/bulkamancer/berserk/guts/bulka-guts-5.jpg",
+      "images/bulkamancer/berserk/guts/bulka-guts-6.jpg",
+      "images/bulkamancer/berserk/guts/bulka-guts-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.4 in (26.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Guts, the Black Swordsman, dragging his impossibly oversized blade out of Berserk."
+  },
+  {
+    id: "bulka-sun-wukong",
+    artist: "Bulkamancer Sculpts",
+    series: "Black Myth: Wukong",
+    title: "Sun Wukong",
+    images: [
+      "images/bulkamancer/black-myth-wukong/sun-wukong/bulka-sun-wukong-1.jpg",
+      "images/bulkamancer/black-myth-wukong/sun-wukong/bulka-sun-wukong-2.jpg",
+      "images/bulkamancer/black-myth-wukong/sun-wukong/bulka-sun-wukong-3.jpg",
+      "images/bulkamancer/black-myth-wukong/sun-wukong/bulka-sun-wukong-4.jpg",
+      "images/bulkamancer/black-myth-wukong/sun-wukong/bulka-sun-wukong-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.9 in (32.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The Monkey King himself, reimagined for the acclaimed Black Myth: Wukong."
+  },
+  {
+    id: "bulka-lady-maria",
+    artist: "Bulkamancer Sculpts",
+    series: "Bloodborne",
+    title: "Lady Maria",
+    images: [
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-1.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-2.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-3.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-4.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-5.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-6.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-7.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-8.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-9.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-10.jpg",
+      "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.0 in (30.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lady Maria of the Astral Clocktower, Bloodborne's tragic blade-wielding hunter."
+  },
+  {
+    id: "bulka-sakura-kinomoto",
+    artist: "Bulkamancer Sculpts",
+    series: "Cardcaptor Sakura",
+    title: "Sakura Kinomoto",
+    images: [
+      "images/bulkamancer/cardcaptor-sakura/sakura-kinomoto/bulka-sakura-kinomoto-1.jpg",
+      "images/bulkamancer/cardcaptor-sakura/sakura-kinomoto/bulka-sakura-kinomoto-2.jpg",
+      "images/bulkamancer/cardcaptor-sakura/sakura-kinomoto/bulka-sakura-kinomoto-3.jpg",
+      "images/bulkamancer/cardcaptor-sakura/sakura-kinomoto/bulka-sakura-kinomoto-4.jpg",
+      "images/bulkamancer/cardcaptor-sakura/sakura-kinomoto/bulka-sakura-kinomoto-5.jpg",
+      "images/bulkamancer/cardcaptor-sakura/sakura-kinomoto/bulka-sakura-kinomoto-6.jpg",
+      "images/bulkamancer/cardcaptor-sakura/sakura-kinomoto/bulka-sakura-kinomoto-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.7 in (22.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sakura Kinomoto, ready to seal another wayward Clow Card."
+  },
+  {
+    id: "bulka-alucard",
+    artist: "Bulkamancer Sculpts",
+    series: "Castlevania",
+    title: "Alucard",
+    images: [
+      "images/bulkamancer/castlevania/alucard/bulka-alucard-1.jpg",
+      "images/bulkamancer/castlevania/alucard/bulka-alucard-2.jpg",
+      "images/bulkamancer/castlevania/alucard/bulka-alucard-3.jpg",
+      "images/bulkamancer/castlevania/alucard/bulka-alucard-4.jpg",
+      "images/bulkamancer/castlevania/alucard/bulka-alucard-5.jpg",
+      "images/bulkamancer/castlevania/alucard/bulka-alucard-6.jpg",
+      "images/bulkamancer/castlevania/alucard/bulka-alucard-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.7 in (27.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Alucard, Dracula's son and Castlevania's tormented dhampir hero."
+  },
+  {
+    id: "bulka-richter-belmont",
+    artist: "Bulkamancer Sculpts",
+    series: "Castlevania",
+    title: "Richter Belmont",
+    images: [
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-1.jpg",
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-2.jpg",
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-3.jpg",
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-4.jpg",
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-5.jpg",
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-6.jpg",
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-7.jpg",
+      "images/bulkamancer/castlevania/richter-belmont/bulka-richter-belmont-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.2 in (31.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Richter Belmont, whip in hand and ready to reclaim Castlevania's cursed halls."
+  },
+  {
+    id: "bulka-esquie",
+    artist: "Bulkamancer Sculpts",
+    series: "Clair Obscur: Expedition 33",
+    title: "Esquie",
+    images: [
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-1.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-2.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-3.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-4.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-5.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-6.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-7.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-8.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/esquie/bulka-esquie-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "Scale not yet listed", size: "Approx. 11.8 in (30.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Esquie, the endearingly enormous flying companion of Clair Obscur: Expedition 33."
+  },
+  {
+    id: "bulka-lune",
+    artist: "Bulkamancer Sculpts",
+    series: "Clair Obscur: Expedition 33",
+    title: "Lune",
+    images: [
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-1.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-2.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-3.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-4.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-5.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-6.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-7.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/lune/bulka-lune-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.9 in (27.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lune, the elemental scholar of Clair Obscur: Expedition 33's doomed Expedition."
+  },
+  {
+    id: "bulka-maelle",
+    artist: "Bulkamancer Sculpts",
+    series: "Clair Obscur: Expedition 33",
+    title: "Maelle",
+    images: [
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-1.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-2.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-3.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-4.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-5.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-6.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-7.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-8.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-9.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle/bulka-maelle-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 13.4 in (34.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Maelle, Clair Obscur: Expedition 33's determined fencer facing down the Paintress."
+  },
+  {
+    id: "bulka-maelle-real-ver",
+    artist: "Bulkamancer Sculpts",
+    series: "Clair Obscur: Expedition 33",
+    title: "Maelle (Real Ver)",
+    images: [
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-1.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-2.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-3.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-4.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-5.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-6.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-7.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-8.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-15.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.6 in (21.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "An alternate take on Maelle, Clair Obscur: Expedition 33's fencer, outside her painted battle form."
+  },
+  {
+    id: "bulka-monoco",
+    artist: "Bulkamancer Sculpts",
+    series: "Clair Obscur: Expedition 33",
+    title: "Monoco",
+    images: [
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-1.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-2.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-3.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-4.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-5.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-6.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-7.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-8.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-9.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-10.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-11.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/monoco/bulka-monoco-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.9 in (27.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Monoco, the shapeshifting Nevron of Clair Obscur: Expedition 33."
+  },
+  {
+    id: "bulka-sciel",
+    artist: "Bulkamancer Sculpts",
+    series: "Clair Obscur: Expedition 33",
+    title: "Sciel",
+    images: [
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-1.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-2.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-3.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-4.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-5.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-6.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-7.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-8.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-9.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-10.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/sciel/bulka-sciel-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.5 in (26.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sciel, the card-wielding Gommage survivor of Clair Obscur: Expedition 33."
+  },
+  {
+    id: "bulka-verso",
+    artist: "Bulkamancer Sculpts",
+    series: "Clair Obscur: Expedition 33",
+    title: "Verso",
+    images: [
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-1.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-2.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-3.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-4.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-5.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-6.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-7.jpg",
+      "images/bulkamancer/clair-obscur-expedition-33/verso/bulka-verso-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.7 in (24.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Verso, the enigmatic swordsman at the heart of Clair Obscur: Expedition 33."
+  },
+  {
+    id: "bulka-empress-c-c",
+    artist: "Bulkamancer Sculpts",
+    series: "Code Geass",
+    title: "Empress C.C",
+    images: [
+      "images/bulkamancer/code-geass/empress-c-c/bulka-empress-c-c-1.jpg",
+      "images/bulkamancer/code-geass/empress-c-c/bulka-empress-c-c-2.jpg",
+      "images/bulkamancer/code-geass/empress-c-c/bulka-empress-c-c-3.jpg",
+      "images/bulkamancer/code-geass/empress-c-c/bulka-empress-c-c-4.jpg",
+      "images/bulkamancer/code-geass/empress-c-c/bulka-empress-c-c-5.jpg",
+      "images/bulkamancer/code-geass/empress-c-c/bulka-empress-c-c-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "C.C., the immortal, pizza-loving enigma behind Lelouch's rebellion in Code Geass."
+  },
+  {
+    id: "bulka-valerie",
+    artist: "Bulkamancer Sculpts",
+    series: "Cyberpunk",
+    title: "Valerie",
+    images: [
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-1.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-2.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-3.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-4.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-5.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-6.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-7.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-8.jpg",
+      "images/bulkamancer/cyberpunk/valerie/bulka-valerie-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.9 in (25.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "V, Night City's mercenary of choice, out of Cyberpunk 2077."
+  },
+  {
+    id: "bulka-lucy-and-david",
+    artist: "Bulkamancer Sculpts",
+    series: "Cyberpunk Edgerunners",
+    title: "Lucy and David",
+    images: [
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-1.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-2.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-3.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-4.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-5.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-6.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-7.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.4 in (26.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lucy and David, the star-crossed edgerunners of Cyberpunk: Edgerunners."
+  },
+  {
+    id: "bulka-rebecca",
+    artist: "Bulkamancer Sculpts",
+    series: "Cyberpunk Edgerunners",
+    title: "Rebecca",
+    images: [
+      "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-1.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-2.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-3.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-4.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-5.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-6.jpg",
+      "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/7 Scale", size: "Approx. 10.0 in (25.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rebecca, Cyberpunk: Edgerunners' pint-sized, big-gun-toting merc."
+  },
+  {
+    id: "bulka-aldrich",
+    artist: "Bulkamancer Sculpts",
+    series: "Dark Souls",
+    title: "Aldrich",
+    images: [
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-1.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-2.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-3.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-4.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-5.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-6.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-7.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-8.jpg",
+      "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.8 in (32.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Aldrich, Saint of the Deep, one of Dark Souls' most unsettling Lords of Cinder."
+  },
+  {
+    id: "bulka-fire-keeper",
+    artist: "Bulkamancer Sculpts",
+    series: "Dark Souls",
+    title: "Fire Keeper",
+    images: [
+      "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-1.jpg",
+      "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-2.jpg",
+      "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-3.jpg",
+      "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-4.jpg",
+      "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.3 in (23.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The Fire Keeper, tending Dark Souls' bonfires and the fate of the flame itself."
+  },
+  {
+    id: "bulka-nashandra",
+    artist: "Bulkamancer Sculpts",
+    series: "Dark Souls",
+    title: "Nashandra",
+    images: [
+      "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-1.jpg",
+      "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-2.jpg",
+      "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-3.jpg",
+      "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-4.jpg",
+      "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-5.jpg",
+      "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-6.jpg",
+      "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/16 Scale", size: "Approx. 12.6 in (32.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nashandra, the Queen whose ambition set Dark Souls II's tragedy in motion."
+  },
+  {
+    id: "bulka-priscilla",
+    artist: "Bulkamancer Sculpts",
+    series: "Dark Souls",
+    title: "Priscilla",
+    images: [
+      "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-1.jpg",
+      "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-2.jpg",
+      "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-3.jpg",
+      "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-4.jpg",
+      "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-5.jpg",
+      "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.8 in (24.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Priscilla, the crossbreed of Dark Souls, half-dragon and entirely tragic."
+  },
+  {
+    id: "bulka-the-plague",
+    artist: "Bulkamancer Sculpts",
+    series: "Dead by Daylight",
+    title: "The Plague",
+    images: [
+      "images/bulkamancer/dead-by-daylight/the-plague/bulka-the-plague-1.jpg",
+      "images/bulkamancer/dead-by-daylight/the-plague/bulka-the-plague-2.jpg",
+      "images/bulkamancer/dead-by-daylight/the-plague/bulka-the-plague-3.jpg",
+      "images/bulkamancer/dead-by-daylight/the-plague/bulka-the-plague-4.jpg",
+      "images/bulkamancer/dead-by-daylight/the-plague/bulka-the-plague-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.2 in (26.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Adiris, the Plague, spreading corruption through Dead by Daylight's fog."
+  },
+  {
+    id: "bulka-graves",
+    artist: "Bulkamancer Sculpts",
+    series: "Deadlock",
+    title: "Graves",
+    images: [
+      "images/bulkamancer/deadlock/graves/bulka-graves-1.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-2.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-3.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-4.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-5.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-6.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-7.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-8.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-9.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-10.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-11.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-12.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-13.jpg",
+      "images/bulkamancer/deadlock/graves/bulka-graves-15.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.8 in (27.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Graves, one of Deadlock's brawling, gadget-slinging combatants."
+  },
+  {
+    id: "bulka-sam-bridges",
+    artist: "Bulkamancer Sculpts",
+    series: "Death Stranding",
+    title: "Sam Bridges",
+    images: [
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-1.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-3.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-4.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-5.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-6.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-7.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-8.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-9.jpg",
+      "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.2 in (25.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sam Porter Bridges, delivering hope (and cargo) across Death Stranding's ruined America."
+  },
+  {
+    id: "bulka-tomorrow",
+    artist: "Bulkamancer Sculpts",
+    series: "Death Stranding",
+    title: "Tomorrow",
+    images: [
+      "images/bulkamancer/death-stranding/tomorrow/bulka-tomorrow-1.jpg",
+      "images/bulkamancer/death-stranding/tomorrow/bulka-tomorrow-2.jpg",
+      "images/bulkamancer/death-stranding/tomorrow/bulka-tomorrow-3.jpg",
+      "images/bulkamancer/death-stranding/tomorrow/bulka-tomorrow-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.6 in (26.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Tomorrow, Death Stranding's odd and endearing companion made real."
+  },
+  {
+    id: "bulka-marcille-donato",
+    artist: "Bulkamancer Sculpts",
+    series: "Delicious in Dungeon",
+    title: "Marcille Donato",
+    images: [
+      "images/bulkamancer/delicious-in-dungeon/marcille-donato/bulka-marcille-donato-1.jpg",
+      "images/bulkamancer/delicious-in-dungeon/marcille-donato/bulka-marcille-donato-2.jpg",
+      "images/bulkamancer/delicious-in-dungeon/marcille-donato/bulka-marcille-donato-3.jpg",
+      "images/bulkamancer/delicious-in-dungeon/marcille-donato/bulka-marcille-donato-4.jpg",
+      "images/bulkamancer/delicious-in-dungeon/marcille-donato/bulka-marcille-donato-5.jpg",
+      "images/bulkamancer/delicious-in-dungeon/marcille-donato/bulka-marcille-donato-6.jpg",
+      "images/bulkamancer/delicious-in-dungeon/marcille-donato/bulka-marcille-donato-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.4 in (21.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Marcille Donato, the elven mage of Delicious in Dungeon with a healthy fear of what's for dinner."
+  },
+  {
+    id: "bulka-shinobu-kocho",
+    artist: "Bulkamancer Sculpts",
+    series: "Demon Slayer",
+    title: "Shinobu Kocho",
+    images: [
+      "images/bulkamancer/demon-slayer/shinobu-kocho/bulka-shinobu-kocho-1.jpg",
+      "images/bulkamancer/demon-slayer/shinobu-kocho/bulka-shinobu-kocho-2.jpg",
+      "images/bulkamancer/demon-slayer/shinobu-kocho/bulka-shinobu-kocho-3.jpg",
+      "images/bulkamancer/demon-slayer/shinobu-kocho/bulka-shinobu-kocho-4.jpg",
+      "images/bulkamancer/demon-slayer/shinobu-kocho/bulka-shinobu-kocho-5.jpg",
+      "images/bulkamancer/demon-slayer/shinobu-kocho/bulka-shinobu-kocho-6.jpg",
+      "images/bulkamancer/demon-slayer/shinobu-kocho/bulka-shinobu-kocho-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.0 in (20.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Shinobu Kocho, the Insect Hallucination Hasira of Demon Slayer."
+  },
+  {
+    id: "bulka-dante",
+    artist: "Bulkamancer Sculpts",
+    series: "Devil May Cry",
+    title: "Dante",
+    images: [
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-1.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-2.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-3.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-4.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-5.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-6.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-7.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-8.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-9.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-10.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-11.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-12.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-13.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-14.jpg",
+      "images/bulkamancer/devil-may-cry/dante/bulka-dante-15.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.7 in (29.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dante, Devil May Cry's stylish, wisecracking demon hunter."
+  },
+  {
+    id: "bulka-lady",
+    artist: "Bulkamancer Sculpts",
+    series: "Devil May Cry",
+    title: "Lady",
+    images: [
+      "images/bulkamancer/devil-may-cry/lady/bulka-lady-1.jpg",
+      "images/bulkamancer/devil-may-cry/lady/bulka-lady-2.jpg",
+      "images/bulkamancer/devil-may-cry/lady/bulka-lady-3.jpg",
+      "images/bulkamancer/devil-may-cry/lady/bulka-lady-4.jpg",
+      "images/bulkamancer/devil-may-cry/lady/bulka-lady-5.jpg",
+      "images/bulkamancer/devil-may-cry/lady/bulka-lady-6.jpg",
+      "images/bulkamancer/devil-may-cry/lady/bulka-lady-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.1 in (23.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lady, the demon-hunting mercenary who keeps pace with Devil May Cry's Sons of Sparda."
+  },
+  {
+    id: "bulka-lilith",
+    artist: "Bulkamancer Sculpts",
+    series: "Diablo",
+    title: "Lilith",
+    images: [
+      "images/bulkamancer/diablo/lilith/bulka-lilith-1.jpg",
+      "images/bulkamancer/diablo/lilith/bulka-lilith-2.jpg",
+      "images/bulkamancer/diablo/lilith/bulka-lilith-3.jpg",
+      "images/bulkamancer/diablo/lilith/bulka-lilith-4.jpg",
+      "images/bulkamancer/diablo/lilith/bulka-lilith-5.jpg",
+      "images/bulkamancer/diablo/lilith/bulka-lilith-6.jpg",
+      "images/bulkamancer/diablo/lilith/bulka-lilith-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.0 in (30.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lilith, Diablo's Mother of Sanctuary and the driving terror of Diablo IV."
+  },
+  {
+    id: "bulka-doom-slayer",
+    artist: "Bulkamancer Sculpts",
+    series: "Doom",
+    title: "Doom Slayer",
+    images: [
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-1.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-2.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-3.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-4.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-5.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-6.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-7.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-8.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-9.jpg",
+      "images/bulkamancer/doom/doom-slayer/bulka-doom-slayer-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.8 in (29.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The Doom Slayer, locked, loaded, and ready to tear through Hell itself."
+  },
+  {
+    id: "bulka-eilistraee",
+    artist: "Bulkamancer Sculpts",
+    series: "Dungeons & Dragons",
+    title: "Eilistraee",
+    images: [
+      "images/bulkamancer/dungeons-and-dragons/eilistraee/bulka-eilistraee-1.jpg",
+      "images/bulkamancer/dungeons-and-dragons/eilistraee/bulka-eilistraee-2.jpg",
+      "images/bulkamancer/dungeons-and-dragons/eilistraee/bulka-eilistraee-3.jpg",
+      "images/bulkamancer/dungeons-and-dragons/eilistraee/bulka-eilistraee-4.jpg",
+      "images/bulkamancer/dungeons-and-dragons/eilistraee/bulka-eilistraee-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.3 in (26.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Eilistraee, the drow goddess of song and moonlight from Dungeons & Dragons lore."
+  },
+  {
+    id: "bulka-blaidd",
+    artist: "Bulkamancer Sculpts",
+    series: "Elden Ring",
+    title: "Blaidd",
+    images: [
+      "images/bulkamancer/elden-ring/blaidd/bulka-blaidd-1.jpg",
+      "images/bulkamancer/elden-ring/blaidd/bulka-blaidd-2.jpg",
+      "images/bulkamancer/elden-ring/blaidd/bulka-blaidd-3.jpg",
+      "images/bulkamancer/elden-ring/blaidd/bulka-blaidd-4.jpg",
+      "images/bulkamancer/elden-ring/blaidd/bulka-blaidd-5.jpg",
+      "images/bulkamancer/elden-ring/blaidd/bulka-blaidd-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Blaidd the Half-Wolf, Elden Ring's loyal and doomed hunter of Ranni's enemies."
+  },
+  {
+    id: "bulka-godfrey",
+    artist: "Bulkamancer Sculpts",
+    series: "Elden Ring",
+    title: "Godfrey",
+    images: [
+      "images/bulkamancer/elden-ring/godfrey/bulka-godfrey-1.jpg",
+      "images/bulkamancer/elden-ring/godfrey/bulka-godfrey-2.jpg",
+      "images/bulkamancer/elden-ring/godfrey/bulka-godfrey-3.jpg",
+      "images/bulkamancer/elden-ring/godfrey/bulka-godfrey-4.jpg",
+      "images/bulkamancer/elden-ring/godfrey/bulka-godfrey-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 13.1 in (33.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Godfrey, First Elden Lord, hefting his axe in Elden Ring's golden age made manifest."
+  },
+  {
+    id: "bulka-melina-and-torrent",
+    artist: "Bulkamancer Sculpts",
+    series: "Elden Ring",
+    title: "Melina and Torrent",
+    images: [
+      "images/bulkamancer/elden-ring/melina-and-torrent/bulka-melina-and-torrent-1.jpg",
+      "images/bulkamancer/elden-ring/melina-and-torrent/bulka-melina-and-torrent-2.jpg",
+      "images/bulkamancer/elden-ring/melina-and-torrent/bulka-melina-and-torrent-3.jpg",
+      "images/bulkamancer/elden-ring/melina-and-torrent/bulka-melina-and-torrent-4.jpg",
+      "images/bulkamancer/elden-ring/melina-and-torrent/bulka-melina-and-torrent-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Melina and Torrent, the Tarnished's guide and spectral steed through Elden Ring's Lands Between."
+  },
+  {
+    id: "bulka-needle-knight-leda",
+    artist: "Bulkamancer Sculpts",
+    series: "Elden Ring",
+    title: "Needle Knight Leda",
+    images: [
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-1.jpg",
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-2.jpg",
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-3.jpg",
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-4.jpg",
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-5.jpg",
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-6.jpg",
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-7.jpg",
+      "images/bulkamancer/elden-ring/needle-knight-leda/bulka-needle-knight-leda-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.7 in (22.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Needle Knight Leda, one of Elden Ring's fanatical Shadow of the Erdtree adversaries."
+  },
+  {
+    id: "bulka-re-l-mayer",
+    artist: "Bulkamancer Sculpts",
+    series: "Ergo Proxy",
+    title: "Re-l Mayer",
+    images: [
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-1.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-2.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-3.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-4.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-5.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-6.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-7.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-8.jpg",
+      "images/bulkamancer/ergo-proxy/re-l-mayer/bulka-re-l-mayer-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.6 in (24.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Re-l Mayer, the composed investigator unraveling Ergo Proxy's Romdeau mysteries."
+  },
+  {
+    id: "bulka-malice",
+    artist: "Bulkamancer Sculpts",
+    series: "Fantastic Four",
+    title: "Malice",
+    images: [
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-1.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-2.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-3.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-4.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-5.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-6.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-7.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-8.jpg",
+      "images/bulkamancer/fantastic-four/malice/bulka-malice-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.3 in (21.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Malice, the Marvel villainess who's crossed paths with more than one Fantastic Four."
+  },
+  {
+    id: "bulka-baobhan-sith",
+    artist: "Bulkamancer Sculpts",
+    series: "Fate/Grand Order",
+    title: "Baobhan Sith",
+    images: [
+      "images/bulkamancer/fate-grand-order/baobhan-sith/bulka-baobhan-sith-1.jpg",
+      "images/bulkamancer/fate-grand-order/baobhan-sith/bulka-baobhan-sith-2.jpg",
+      "images/bulkamancer/fate-grand-order/baobhan-sith/bulka-baobhan-sith-3.jpg",
+      "images/bulkamancer/fate-grand-order/baobhan-sith/bulka-baobhan-sith-4.jpg",
+      "images/bulkamancer/fate-grand-order/baobhan-sith/bulka-baobhan-sith-5.jpg",
+      "images/bulkamancer/fate-grand-order/baobhan-sith/bulka-baobhan-sith-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.4 in (26.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Baobhan Sith, the vampiric Servant summoned from Fate/Grand Order's roster."
+  },
+  {
+    id: "bulka-mordred",
+    artist: "Bulkamancer Sculpts",
+    series: "Fate/Grand Order",
+    title: "Mordred",
+    images: [
+      "images/bulkamancer/fate-grand-order/mordred/bulka-mordred-1.jpg",
+      "images/bulkamancer/fate-grand-order/mordred/bulka-mordred-2.jpg",
+      "images/bulkamancer/fate-grand-order/mordred/bulka-mordred-4.jpg",
+      "images/bulkamancer/fate-grand-order/mordred/bulka-mordred-5.jpg",
+      "images/bulkamancer/fate-grand-order/mordred/bulka-mordred-6.jpg",
+      "images/bulkamancer/fate-grand-order/mordred/bulka-mordred-7.jpg",
+      "images/bulkamancer/fate-grand-order/mordred/bulka-mordred-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.7 in (22.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mordred, the Knight of Treachery, Fate/Grand Order's fierce take on Arthurian legend."
+  },
+  {
+    id: "bulka-aerith-gainsborough",
+    artist: "Bulkamancer Sculpts",
+    series: "Final Fantasy",
+    title: "Aerith Gainsborough",
+    images: [
+      "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-1.jpg",
+      "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-2.jpg",
+      "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-3.jpg",
+      "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-4.jpg",
+      "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-5.jpg",
+      "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-6.jpg",
+      "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 7.0 in (17.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Aerith Gainsborough, the flower girl whose fate defines Final Fantasy VII."
+  },
+  {
+    id: "bulka-clive-rosfield",
+    artist: "Bulkamancer Sculpts",
+    series: "Final Fantasy",
+    title: "Clive Rosfield",
+    images: [
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-1.jpg",
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-2.jpg",
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-3.jpg",
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-4.jpg",
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-5.jpg",
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-6.jpg",
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-7.jpg",
+      "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.1 in (25.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Clive Rosfield, Dominant of the Phoenix and hero of Final Fantasy XVI."
+  },
+  {
+    id: "bulka-cloud-strife",
+    artist: "Bulkamancer Sculpts",
+    series: "Final Fantasy",
+    title: "Cloud Strife",
+    images: [
+      "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-1.jpg",
+      "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-2.jpg",
+      "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-3.jpg",
+      "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-4.jpg",
+      "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.4 in (21.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Cloud Strife, Buster Sword in hand, Final Fantasy VII's ex-SOLDIER mercenary."
+  },
+  {
+    id: "bulka-fran",
+    artist: "Bulkamancer Sculpts",
+    series: "Final Fantasy",
+    title: "Fran",
+    images: [
+      "images/bulkamancer/final-fantasy/fran/bulka-fran-1.jpg",
+      "images/bulkamancer/final-fantasy/fran/bulka-fran-2.jpg",
+      "images/bulkamancer/final-fantasy/fran/bulka-fran-3.jpg",
+      "images/bulkamancer/final-fantasy/fran/bulka-fran-4.jpg",
+      "images/bulkamancer/final-fantasy/fran/bulka-fran-5.jpg",
+      "images/bulkamancer/final-fantasy/fran/bulka-fran-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.0 in (28.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Fran, the sharp-eyed Viera sky pirate of Final Fantasy XII."
+  },
+  {
+    id: "bulka-tifa-lockhart",
+    artist: "Bulkamancer Sculpts",
+    series: "Final Fantasy",
+    title: "Tifa Lockhart",
+    images: [
+      "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-1.jpg",
+      "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-2.jpg",
+      "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-3.jpg",
+      "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-4.jpg",
+      "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-5.jpg",
+      "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-6.jpg",
+      "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Tifa Lockhart, Final Fantasy VII's martial-arts bartender with fists of steel."
+  },
+  {
+    id: "bulka-claude-von-riegan",
+    artist: "Bulkamancer Sculpts",
+    series: "Fire Emblem",
+    title: "Claude von Riegan",
+    images: [
+      "images/bulkamancer/fire-emblem/claude-von-riegan/bulka-claude-von-riegan-1.jpg",
+      "images/bulkamancer/fire-emblem/claude-von-riegan/bulka-claude-von-riegan-2.jpg",
+      "images/bulkamancer/fire-emblem/claude-von-riegan/bulka-claude-von-riegan-3.jpg",
+      "images/bulkamancer/fire-emblem/claude-von-riegan/bulka-claude-von-riegan-4.jpg",
+      "images/bulkamancer/fire-emblem/claude-von-riegan/bulka-claude-von-riegan-5.jpg",
+      "images/bulkamancer/fire-emblem/claude-von-riegan/bulka-claude-von-riegan-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.8 in (22.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Claude von Riegan, the cunning strategist leading the Golden Deer in Fire Emblem: Three Houses."
+  },
+  {
+    id: "bulka-dimitri-alexandre-blaiddyd",
+    artist: "Bulkamancer Sculpts",
+    series: "Fire Emblem",
+    title: "Dimitri Alexandre Blaiddyd",
+    images: [
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-1.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-2.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-3.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-4.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-5.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-6.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-7.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-8.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-9.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-10.jpg",
+      "images/bulkamancer/fire-emblem/dimitri-alexandre-blaiddyd/bulka-dimitri-alexandre-blaiddyd-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dimitri Alexandre Blaiddyd, the haunted prince of the Blue Lions in Fire Emblem: Three Houses."
+  },
+  {
+    id: "bulka-edelgard-von-hresvelg-student-ver",
+    artist: "Bulkamancer Sculpts",
+    series: "Fire Emblem",
+    title: "Edelgard von Hresvelg (Student Ver)",
+    images: [
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-1.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-2.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-3.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-4.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-5.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-6.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-7.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-8.jpg",
+      "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.2 in (20.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Edelgard von Hresvelg in her Garreg Mach academy uniform, before the Black Eagles' war began."
+  },
+  {
+    id: "bulka-lyn",
+    artist: "Bulkamancer Sculpts",
+    series: "Fire Emblem",
+    title: "Lyn",
+    images: [
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-1.jpg",
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-2.jpg",
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-3.jpg",
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-4.jpg",
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-5.jpg",
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-6.jpg",
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-7.jpg",
+      "images/bulkamancer/fire-emblem/lyn/bulka-lyn-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.8 in (22.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lyn of Caelin, the plains-bred swordmaster of Fire Emblem."
+  },
+  {
+    id: "bulka-saint-seiros",
+    artist: "Bulkamancer Sculpts",
+    series: "Fire Emblem",
+    title: "Saint Seiros",
+    images: [
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-1.jpg",
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-2.jpg",
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-3.jpg",
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-4.jpg",
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-5.jpg",
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-6.jpg",
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-7.jpg",
+      "images/bulkamancer/fire-emblem/saint-seiros/bulka-saint-seiros-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.4 in (26.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Saint Seiros, the legendary founder revered throughout Fire Emblem: Three Houses."
+  },
+  {
+    id: "bulka-fern",
+    artist: "Bulkamancer Sculpts",
+    series: "Frieren",
+    title: "Fern",
+    images: [
+      "images/bulkamancer/frieren/fern/bulka-fern-1.jpg",
+      "images/bulkamancer/frieren/fern/bulka-fern-2.jpg",
+      "images/bulkamancer/frieren/fern/bulka-fern-3.jpg",
+      "images/bulkamancer/frieren/fern/bulka-fern-4.jpg",
+      "images/bulkamancer/frieren/fern/bulka-fern-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.9 in (25.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Fern, the mage apprentice carrying Frieren's legacy forward one spell at a time."
+  },
+  {
+    id: "bulka-frieren",
+    artist: "Bulkamancer Sculpts",
+    series: "Frieren",
+    title: "Frieren",
+    images: [
+      "images/bulkamancer/frieren/frieren/bulka-frieren-1.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-2.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-3.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-4.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-5.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-6.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-7.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-8.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-9.jpg",
+      "images/bulkamancer/frieren/frieren/bulka-frieren-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.9 in (27.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Frieren, the elven mage slowly learning to live with mortal time in Frieren: Beyond Journey's End."
+  },
+  {
+    id: "bulka-frieren-white-dress",
+    artist: "Bulkamancer Sculpts",
+    series: "Frieren",
+    title: "Frieren (White Dress)",
+    images: [
+      "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-1.jpg",
+      "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-2.jpg",
+      "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-3.jpg",
+      "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-4.jpg",
+      "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-5.jpg",
+      "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-6.jpg",
+      "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 5.2 in (13.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Frieren in a rare formal moment, dressed down from her usual adventurer's robes."
+  },
+  {
+    id: "bulka-himmel-the-hero",
+    artist: "Bulkamancer Sculpts",
+    series: "Frieren",
+    title: "Himmel the Hero",
+    images: [
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-1.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-2.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-3.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-4.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-5.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-6.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-7.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-8.jpg",
+      "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.6 in (29.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Himmel the Hero, whose party's decade-old journey still echoes through Frieren."
+  },
+  {
+    id: "bulka-roy-mustang",
+    artist: "Bulkamancer Sculpts",
+    series: "Fullmetal Alchemist",
+    title: "Roy Mustang",
+    images: [
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-1.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-2.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-3.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-4.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-5.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-6.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-7.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang/bulka-roy-mustang-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.2 in (23.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Roy Mustang, the Flame Alchemist, snapping his gloved fingers toward the top in Fullmetal Alchemist."
+  },
+  {
+    id: "bulka-roy-mustang-battle-damaged",
+    artist: "Bulkamancer Sculpts",
+    series: "Fullmetal Alchemist",
+    title: "Roy Mustang (Battle Damaged)",
+    images: [
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-1.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-2.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-3.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-4.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-5.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-6.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-7.jpg",
+      "images/bulkamancer/fullmetal-alchemist/roy-mustang-battle-damaged/bulka-roy-mustang-battle-damaged-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.3 in (23.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Roy Mustang mid-battle, scorched and unbowed, from Fullmetal Alchemist's climactic fights."
+  },
+  {
+    id: "bulka-candace",
+    artist: "Bulkamancer Sculpts",
+    series: "Genshin Impact",
+    title: "Candace",
+    images: [
+      "images/bulkamancer/genshin-impact/candace/bulka-candace-1.jpg",
+      "images/bulkamancer/genshin-impact/candace/bulka-candace-2.jpg",
+      "images/bulkamancer/genshin-impact/candace/bulka-candace-3.jpg",
+      "images/bulkamancer/genshin-impact/candace/bulka-candace-4.jpg",
+      "images/bulkamancer/genshin-impact/candace/bulka-candace-5.jpg",
+      "images/bulkamancer/genshin-impact/candace/bulka-candace-13.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Candace, the Guardian of Sumeru's Aaru Village, ready for battle in Genshin Impact."
+  },
+  {
+    id: "bulka-motoko-kusanagi",
+    artist: "Bulkamancer Sculpts",
+    series: "Ghost in the Shell",
+    title: "Motoko Kusanagi",
+    images: [
+      "images/bulkamancer/ghost-in-the-shell/motoko-kusanagi/bulka-motoko-kusanagi-1.jpg",
+      "images/bulkamancer/ghost-in-the-shell/motoko-kusanagi/bulka-motoko-kusanagi-2.jpg",
+      "images/bulkamancer/ghost-in-the-shell/motoko-kusanagi/bulka-motoko-kusanagi-3.jpg",
+      "images/bulkamancer/ghost-in-the-shell/motoko-kusanagi/bulka-motoko-kusanagi-4.jpg",
+      "images/bulkamancer/ghost-in-the-shell/motoko-kusanagi/bulka-motoko-kusanagi-5.jpg",
+      "images/bulkamancer/ghost-in-the-shell/motoko-kusanagi/bulka-motoko-kusanagi-6.jpg",
+      "images/bulkamancer/ghost-in-the-shell/motoko-kusanagi/bulka-motoko-kusanagi-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.1 in (20.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Major Motoko Kusanagi, Ghost in the Shell's cybernetic investigator questioning what makes her human."
+  },
+  {
+    id: "bulka-atsu",
+    artist: "Bulkamancer Sculpts",
+    series: "Ghost of Yotei",
+    title: "Atsu",
+    images: [
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-1.jpg",
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-2.jpg",
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-3.jpg",
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-4.jpg",
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-5.jpg",
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-6.jpg",
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-7.jpg",
+      "images/bulkamancer/ghost-of-yotei/atsu/bulka-atsu-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.5 in (24.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Atsu, the vengeance-driven ronin at the center of Ghost of Yotei."
+  },
+  {
+    id: "bulka-high-elf-archer",
+    artist: "Bulkamancer Sculpts",
+    series: "Goblin Slayer",
+    title: "High-Elf Archer",
+    images: [
+      "images/bulkamancer/goblin-slayer/high-elf-archer/bulka-high-elf-archer-1.jpg",
+      "images/bulkamancer/goblin-slayer/high-elf-archer/bulka-high-elf-archer-2.jpg",
+      "images/bulkamancer/goblin-slayer/high-elf-archer/bulka-high-elf-archer-3.jpg",
+      "images/bulkamancer/goblin-slayer/high-elf-archer/bulka-high-elf-archer-4.jpg",
+      "images/bulkamancer/goblin-slayer/high-elf-archer/bulka-high-elf-archer-5.jpg",
+      "images/bulkamancer/goblin-slayer/high-elf-archer/bulka-high-elf-archer-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.8 in (25.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "High Elf Archer, Goblin Slayer's sharp-shooting and sharper-tongued party member."
+  },
+  {
+    id: "bulka-sword-maiden",
+    artist: "Bulkamancer Sculpts",
+    series: "Goblin Slayer",
+    title: "Sword Maiden",
+    images: [
+      "images/bulkamancer/goblin-slayer/sword-maiden/bulka-sword-maiden-1.jpg",
+      "images/bulkamancer/goblin-slayer/sword-maiden/bulka-sword-maiden-2.jpg",
+      "images/bulkamancer/goblin-slayer/sword-maiden/bulka-sword-maiden-3.jpg",
+      "images/bulkamancer/goblin-slayer/sword-maiden/bulka-sword-maiden-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.6 in (24.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sword Maiden, the Goblin Slayer ally carrying scars from her own goblin-slaying past."
+  },
+  {
+    id: "bulka-kratos",
+    artist: "Bulkamancer Sculpts",
+    series: "God of War",
+    title: "Kratos",
+    images: [
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-1.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-2.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-3.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-4.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-5.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-6.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-7.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-8.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-9.jpg",
+      "images/bulkamancer/god-of-war/kratos/bulka-kratos-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.3 in (31.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kratos, the Ghost of Sparta, carrying his axe (and his baggage) into God of War."
+  },
+  {
+    id: "bulka-kamina",
+    artist: "Bulkamancer Sculpts",
+    series: "Gurren Lagann",
+    title: "Kamina",
+    images: [
+      "images/bulkamancer/gurren-lagann/kamina/bulka-kamina-1.jpg",
+      "images/bulkamancer/gurren-lagann/kamina/bulka-kamina-2.jpg",
+      "images/bulkamancer/gurren-lagann/kamina/bulka-kamina-3.jpg",
+      "images/bulkamancer/gurren-lagann/kamina/bulka-kamina-4.jpg",
+      "images/bulkamancer/gurren-lagann/kamina/bulka-kamina-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kamina, Gurren Lagann's shades-wearing, spiral-powered symbol of defiance."
+  },
+  {
+    id: "bulka-artemis",
+    artist: "Bulkamancer Sculpts",
+    series: "Hades",
+    title: "Artemis",
+    images: [
+      "images/bulkamancer/hades/artemis/bulka-artemis-1.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-2.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-3.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-4.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-5.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-6.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-7.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-8.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-9.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-10.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-11.jpg",
+      "images/bulkamancer/hades/artemis/bulka-artemis-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.1 in (28.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Artemis, Hades' Olympian goddess of the hunt, lending Zagreus her bow."
+  },
+  {
+    id: "bulka-megaera",
+    artist: "Bulkamancer Sculpts",
+    series: "Hades",
+    title: "Megaera",
+    images: [
+      "images/bulkamancer/hades/megaera/bulka-megaera-1.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-2.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-3.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-4.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-5.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-6.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-7.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-8.jpg",
+      "images/bulkamancer/hades/megaera/bulka-megaera-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 13.6 in (34.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Megaera, the Fury who both hunts Zagreus and can't quite quit him, from Hades."
+  },
+  {
+    id: "bulka-melinoe",
+    artist: "Bulkamancer Sculpts",
+    series: "Hades",
+    title: "Melinoe",
+    images: [
+      "images/bulkamancer/hades/melinoe/bulka-melinoe-1.jpg",
+      "images/bulkamancer/hades/melinoe/bulka-melinoe-2.jpg",
+      "images/bulkamancer/hades/melinoe/bulka-melinoe-3.jpg",
+      "images/bulkamancer/hades/melinoe/bulka-melinoe-4.jpg",
+      "images/bulkamancer/hades/melinoe/bulka-melinoe-5.jpg",
+      "images/bulkamancer/hades/melinoe/bulka-melinoe-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.7 in (22.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Melinoe, Princess of the Underworld and playable heroine of Hades II."
+  },
+  {
+    id: "bulka-nemesis",
+    artist: "Bulkamancer Sculpts",
+    series: "Hades",
+    title: "Nemesis",
+    images: [
+      "images/bulkamancer/hades/nemesis/bulka-nemesis-1.jpg",
+      "images/bulkamancer/hades/nemesis/bulka-nemesis-2.jpg",
+      "images/bulkamancer/hades/nemesis/bulka-nemesis-3.jpg",
+      "images/bulkamancer/hades/nemesis/bulka-nemesis-4.jpg",
+      "images/bulkamancer/hades/nemesis/bulka-nemesis-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 13.2 in (33.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nemesis, Hades' Fury of retribution, meting out cosmic justice."
+  },
+  {
+    id: "bulka-nyx",
+    artist: "Bulkamancer Sculpts",
+    series: "Hades",
+    title: "Nyx",
+    images: [
+      "images/bulkamancer/hades/nyx/bulka-nyx-1.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-2.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-3.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-4.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-5.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-6.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-7.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-8.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-9.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-10.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-11.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-12.jpg",
+      "images/bulkamancer/hades/nyx/bulka-nyx-13.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.2 in (26.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nyx, primordial goddess of night and Zagreus's found mother-figure in Hades."
+  },
+  {
+    id: "bulka-thanatos",
+    artist: "Bulkamancer Sculpts",
+    series: "Hades",
+    title: "Thanatos",
+    images: [
+      "images/bulkamancer/hades/thanatos/bulka-thanatos-1.jpg",
+      "images/bulkamancer/hades/thanatos/bulka-thanatos-2.jpg",
+      "images/bulkamancer/hades/thanatos/bulka-thanatos-3.jpg",
+      "images/bulkamancer/hades/thanatos/bulka-thanatos-4.jpg",
+      "images/bulkamancer/hades/thanatos/bulka-thanatos-5.jpg",
+      "images/bulkamancer/hades/thanatos/bulka-thanatos-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.6 in (32.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Thanatos, Hades' death incarnate, doing his job with detached professionalism."
+  },
+  {
+    id: "bulka-zagreus",
+    artist: "Bulkamancer Sculpts",
+    series: "Hades",
+    title: "Zagreus",
+    images: [
+      "images/bulkamancer/hades/zagreus/bulka-zagreus-1.jpg",
+      "images/bulkamancer/hades/zagreus/bulka-zagreus-2.jpg",
+      "images/bulkamancer/hades/zagreus/bulka-zagreus-3.jpg",
+      "images/bulkamancer/hades/zagreus/bulka-zagreus-4.jpg",
+      "images/bulkamancer/hades/zagreus/bulka-zagreus-5.jpg",
+      "images/bulkamancer/hades/zagreus/bulka-zagreus-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Zagreus, the immortal prince of the Underworld, escaping Hades one run at a time."
+  },
+  {
+    id: "bulka-rena-ryugu",
+    artist: "Bulkamancer Sculpts",
+    series: "Higurashi: When They Cry",
+    title: "Rena Ryugu",
+    images: [
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-1.jpg",
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-2.jpg",
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-3.jpg",
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-4.jpg",
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-5.jpg",
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-6.jpg",
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-7.jpg",
+      "images/bulkamancer/higurashi-when-they-cry/rena-ryugu/bulka-rena-ryugu-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.6 in (21.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rena Ryugu, Higurashi: When They Cry's cheerful facade hiding something much darker."
+  },
+  {
+    id: "bulka-hornet",
+    artist: "Bulkamancer Sculpts",
+    series: "Hollow Knight",
+    title: "Hornet",
+    images: [
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-1.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-2.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-3.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-4.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-5.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-6.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-7.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-8.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-9.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-10.jpg",
+      "images/bulkamancer/hollow-knight/hornet/bulka-hornet-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.8 in (29.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hornet, the needle-wielding protector of Hallownest in Hollow Knight."
+  },
+  {
+    id: "bulka-aloy",
+    artist: "Bulkamancer Sculpts",
+    series: "Horizon",
+    title: "Aloy",
+    images: [
+      "images/bulkamancer/horizon/aloy/bulka-aloy-1.jpg",
+      "images/bulkamancer/horizon/aloy/bulka-aloy-2.jpg",
+      "images/bulkamancer/horizon/aloy/bulka-aloy-3.jpg",
+      "images/bulkamancer/horizon/aloy/bulka-aloy-4.jpg",
+      "images/bulkamancer/horizon/aloy/bulka-aloy-5.jpg",
+      "images/bulkamancer/horizon/aloy/bulka-aloy-6.jpg",
+      "images/bulkamancer/horizon/aloy/bulka-aloy-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 6.5 in (16.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Aloy, the machine-hunting outcast of the Horizon series."
+  },
+  {
+    id: "bulka-calcifer",
+    artist: "Bulkamancer Sculpts",
+    series: "Howl's Moving Castle",
+    title: "Calcifer",
+    images: [
+      "images/bulkamancer/howls-moving-castle/calcifer/bulka-calcifer-1.jpg",
+      "images/bulkamancer/howls-moving-castle/calcifer/bulka-calcifer-2.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 2.8 in (7.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Calcifer, the fire demon powering Howl's Moving Castle (and complaining about it)."
+  },
+  {
+    id: "bulka-dio-brando",
+    artist: "Bulkamancer Sculpts",
+    series: "JoJo's Bizarre Adventure",
+    title: "Dio Brando",
+    images: [
+      "images/bulkamancer/jojos-bizarre-adventure/dio-brando/bulka-dio-brando-1.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/dio-brando/bulka-dio-brando-2.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/dio-brando/bulka-dio-brando-3.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/dio-brando/bulka-dio-brando-4.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/dio-brando/bulka-dio-brando-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.5 in (29.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dio Brando, JoJo's Bizarre Adventure's eternally scheming, time-stopping vampire."
+  },
+  {
+    id: "bulka-ryomen-sukuna",
+    artist: "Bulkamancer Sculpts",
+    series: "Jujutsu Kaisen",
+    title: "Ryomen Sukuna",
+    images: [
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-1.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-2.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-3.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-4.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-5.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-6.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-7.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-8.jpg",
+      "images/bulkamancer/jujutsu-kaisen/ryomen-sukuna/bulka-ryomen-sukuna-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 13.0 in (33.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ryomen Sukuna, the King of Curses unleashed in Jujutsu Kaisen."
+  },
+  {
+    id: "bulka-ryuko-matoi",
+    artist: "Bulkamancer Sculpts",
+    series: "Kill la Kill",
+    title: "Ryuko Matoi",
+    images: [
+      "images/bulkamancer/kill-la-kill/ryuko-matoi/bulka-ryuko-matoi-1.jpg",
+      "images/bulkamancer/kill-la-kill/ryuko-matoi/bulka-ryuko-matoi-2.jpg",
+      "images/bulkamancer/kill-la-kill/ryuko-matoi/bulka-ryuko-matoi-3.jpg",
+      "images/bulkamancer/kill-la-kill/ryuko-matoi/bulka-ryuko-matoi-4.jpg",
+      "images/bulkamancer/kill-la-kill/ryuko-matoi/bulka-ryuko-matoi-5.jpg",
+      "images/bulkamancer/kill-la-kill/ryuko-matoi/bulka-ryuko-matoi-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 7.3 in (18.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ryuko Matoi, scissor blade in hand, cutting through Kill la Kill's Honnouji Academy."
+  },
+  {
+    id: "bulka-megumin",
+    artist: "Bulkamancer Sculpts",
+    series: "KonoSuba",
+    title: "Megumin",
+    images: [
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-1.jpg",
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-2.jpg",
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-3.jpg",
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-4.jpg",
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-5.jpg",
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-6.jpg",
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-7.jpg",
+      "images/bulkamancer/konosuba/megumin/bulka-megumin-13.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.0 in (20.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Megumin, KonoSuba's explosion-obsessed archwizard with exactly one spell (and no regrets)."
+  },
+  {
+    id: "bulka-mira",
+    artist: "Bulkamancer Sculpts",
+    series: "KPop Demon Hunters",
+    title: "Mira",
+    images: [
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-1.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-2.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-3.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-4.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-5.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-6.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-7.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-8.jpg",
+      "images/bulkamancer/kpop-demon-hunters/mira/bulka-mira-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mira of HUNTR/X, singing demons into submission in KPop Demon Hunters."
+  },
+  {
+    id: "bulka-rumi",
+    artist: "Bulkamancer Sculpts",
+    series: "KPop Demon Hunters",
+    title: "Rumi",
+    images: [
+      "images/bulkamancer/kpop-demon-hunters/rumi/bulka-rumi-1.jpg",
+      "images/bulkamancer/kpop-demon-hunters/rumi/bulka-rumi-2.jpg",
+      "images/bulkamancer/kpop-demon-hunters/rumi/bulka-rumi-3.jpg",
+      "images/bulkamancer/kpop-demon-hunters/rumi/bulka-rumi-4.jpg",
+      "images/bulkamancer/kpop-demon-hunters/rumi/bulka-rumi-5.jpg",
+      "images/bulkamancer/kpop-demon-hunters/rumi/bulka-rumi-6.jpg",
+      "images/bulkamancer/kpop-demon-hunters/rumi/bulka-rumi-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.6 in (24.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rumi of HUNTR/X, KPop Demon Hunters' idol with a secret she can't quite hide."
+  },
+  {
+    id: "bulka-zoey",
+    artist: "Bulkamancer Sculpts",
+    series: "KPop Demon Hunters",
+    title: "Zoey",
+    images: [
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-1.jpg",
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-2.jpg",
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-3.jpg",
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-4.jpg",
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-5.jpg",
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-6.jpg",
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-7.jpg",
+      "images/bulkamancer/kpop-demon-hunters/zoey/bulka-zoey-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Zoey of HUNTR/X, bringing rap verses and demon-slaying energy to KPop Demon Hunters."
+  },
+  {
+    id: "bulka-leona",
+    artist: "Bulkamancer Sculpts",
+    series: "League of Legends",
+    title: "Leona",
+    images: [
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-1.jpg",
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-2.jpg",
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-3.jpg",
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-4.jpg",
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-5.jpg",
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-6.jpg",
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-7.jpg",
+      "images/bulkamancer/league-of-legends/leona/bulka-leona-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.5 in (24.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Leona, the Radiant Dawn, standing as League of Legends' unbreakable solar sentinel."
+  },
+  {
+    id: "bulka-miss-fortune",
+    artist: "Bulkamancer Sculpts",
+    series: "League of Legends",
+    title: "Miss Fortune",
+    images: [
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-1.jpg",
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-2.jpg",
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-3.jpg",
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-4.jpg",
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-5.jpg",
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-6.jpg",
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-7.jpg",
+      "images/bulkamancer/league-of-legends/miss-fortune/bulka-miss-fortune-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.9 in (27.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Miss Fortune, the Bounty Hunter of League of Legends, pistols drawn."
+  },
+  {
+    id: "bulka-witch-king-of-angmar",
+    artist: "Bulkamancer Sculpts",
+    series: "Lord of the Rings",
+    title: "Witch King of Angmar",
+    images: [
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-1.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-2.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-3.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-4.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-5.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-6.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-7.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-8.jpg",
+      "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/20 Scale", size: "Approx. 12.4 in (31.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The Witch-king of Angmar, Lord of the Nazgul, looming over Middle-earth."
+  },
+  {
+    id: "bulka-lunk",
+    artist: "Bulkamancer Sculpts",
+    series: "Lunk's Adventures",
+    title: "Lunk",
+    images: [
+      "images/bulkamancer/lunks-adventures/lunk/bulka-lunk-1.jpg",
+      "images/bulkamancer/lunks-adventures/lunk/bulka-lunk-2.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 4.7 in (11.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lunk, the chibi hero of Lunk's Adventures, ready for whatever comes next."
+  },
+  {
+    id: "bulka-avacyn",
+    artist: "Bulkamancer Sculpts",
+    series: "Magic: The Gathering",
+    title: "Avacyn",
+    images: [
+      "images/bulkamancer/magic-the-gathering/avacyn/bulka-avacyn-1.jpg",
+      "images/bulkamancer/magic-the-gathering/avacyn/bulka-avacyn-2.jpg",
+      "images/bulkamancer/magic-the-gathering/avacyn/bulka-avacyn-3.jpg",
+      "images/bulkamancer/magic-the-gathering/avacyn/bulka-avacyn-4.jpg",
+      "images/bulkamancer/magic-the-gathering/avacyn/bulka-avacyn-5.jpg",
+      "images/bulkamancer/magic-the-gathering/avacyn/bulka-avacyn-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.4 in (31.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Avacyn, the Archangel of Magic: The Gathering's Innistrad, guardian against the horrors below."
+  },
+  {
+    id: "bulka-jeff-the-shark",
+    artist: "Bulkamancer Sculpts",
+    series: "Marvel Rivals",
+    title: "Jeff the Shark",
+    images: [
+      "images/bulkamancer/marvel-rivals/jeff-the-shark/bulka-jeff-the-shark-1.jpg",
+      "images/bulkamancer/marvel-rivals/jeff-the-shark/bulka-jeff-the-shark-2.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 3.3 in (8.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Jeff the Land Shark, Marvel Rivals' most beloved (and most huggable) combatant."
+  },
+  {
+    id: "bulka-jane-shepard",
+    artist: "Bulkamancer Sculpts",
+    series: "Mass Effect",
+    title: "Jane Shepard",
+    images: [
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-1.jpg",
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-2.jpg",
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-3.jpg",
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-4.jpg",
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-5.jpg",
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-6.jpg",
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-7.jpg",
+      "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.5 in (26.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Commander Jane Shepard, saving the galaxy one impossible decision at a time in Mass Effect."
+  },
+  {
+    id: "bulka-eva",
+    artist: "Bulkamancer Sculpts",
+    series: "Metal Gear Solid",
+    title: "EVA",
+    images: [
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-1.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-2.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-3.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-4.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-5.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-6.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-7.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-8.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-9.jpg",
+      "images/bulkamancer/metal-gear-solid/eva/bulka-eva-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "EVA, the double (triple?) agent of Metal Gear Solid 3, always one step ahead."
+  },
+  {
+    id: "bulka-hulkenberg",
+    artist: "Bulkamancer Sculpts",
+    series: "Metaphor: ReFantazio",
+    title: "Hulkenberg",
+    images: [
+      "images/bulkamancer/metaphor-refantazio/hulkenberg/bulka-hulkenberg-1.jpg",
+      "images/bulkamancer/metaphor-refantazio/hulkenberg/bulka-hulkenberg-2.jpg",
+      "images/bulkamancer/metaphor-refantazio/hulkenberg/bulka-hulkenberg-3.jpg",
+      "images/bulkamancer/metaphor-refantazio/hulkenberg/bulka-hulkenberg-4.jpg",
+      "images/bulkamancer/metaphor-refantazio/hulkenberg/bulka-hulkenberg-5.jpg",
+      "images/bulkamancer/metaphor-refantazio/hulkenberg/bulka-hulkenberg-6.jpg",
+      "images/bulkamancer/metaphor-refantazio/hulkenberg/bulka-hulkenberg-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hulkenberg of Erna, the stalwart knight of Metaphor: ReFantazio."
+  },
+  {
+    id: "bulka-samus-aran",
+    artist: "Bulkamancer Sculpts",
+    series: "Metroid",
+    title: "Samus Aran",
+    images: [
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-1.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-2.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-3.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-4.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-5.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-6.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-7.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-8.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-9.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-10.jpg",
+      "images/bulkamancer/metroid/samus-aran/bulka-samus-aran-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.8 in (25.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Samus Aran, bounty hunter extraordinaire, suited up in her Varia armor from Metroid."
+  },
+  {
+    id: "bulka-gemma",
+    artist: "Bulkamancer Sculpts",
+    series: "Monster Hunter",
+    title: "Gemma",
+    images: [
+      "images/bulkamancer/monster-hunter/gemma/bulka-gemma-1.jpg",
+      "images/bulkamancer/monster-hunter/gemma/bulka-gemma-2.jpg",
+      "images/bulkamancer/monster-hunter/gemma/bulka-gemma-3.jpg",
+      "images/bulkamancer/monster-hunter/gemma/bulka-gemma-4.jpg",
+      "images/bulkamancer/monster-hunter/gemma/bulka-gemma-5.jpg",
+      "images/bulkamancer/monster-hunter/gemma/bulka-gemma-6.jpg",
+      "images/bulkamancer/monster-hunter/gemma/bulka-gemma-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.5 in (21.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Gemma, the dependable Smithy fixture of the Monster Hunter series."
+  },
+  {
+    id: "bulka-kitana",
+    artist: "Bulkamancer Sculpts",
+    series: "Mortal Kombat",
+    title: "Kitana",
+    images: [
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-1.jpg",
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-2.jpg",
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-3.jpg",
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-4.jpg",
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-5.jpg",
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-6.jpg",
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-7.jpg",
+      "images/bulkamancer/mortal-kombat/kitana/bulka-kitana-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.3 in (26.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kitana, Edenian princess and fan-favorite fan-bladed fighter of Mortal Kombat."
+  },
+  {
+    id: "bulka-sylphiette",
+    artist: "Bulkamancer Sculpts",
+    series: "Mushoku Tensei",
+    title: "Sylphiette",
+    images: [
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-1.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-2.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-3.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-4.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-5.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-6.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-7.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-8.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-9.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-10.jpg",
+      "images/bulkamancer/mushoku-tensei/sylphiette/bulka-sylphiette-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.7 in (24.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sylphiette, Rudeus's devoted childhood friend from Mushoku Tensei."
+  },
+  {
+    id: "bulka-asuka-langley-soryu",
+    artist: "Bulkamancer Sculpts",
+    series: "Neon Genesis Evangelion",
+    title: "Asuka Langley Soryu",
+    images: [
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-1.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-2.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-3.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-4.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-5.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-6.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-7.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/asuka-langley-soryu/bulka-asuka-langley-soryu-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.8 in (30.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Asuka Langley Soryu, Evangelion's fiercely proud (and fiercely guarded) pilot."
+  },
+  {
+    id: "bulka-rei-ayanami",
+    artist: "Bulkamancer Sculpts",
+    series: "Neon Genesis Evangelion",
+    title: "Rei Ayanami",
+    images: [
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-1.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-2.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-3.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-4.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-5.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-6.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-7.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-8.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-9.jpg",
+      "images/bulkamancer/neon-genesis-evangelion/rei-ayanami/bulka-rei-ayanami-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.4 in (26.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Rei Ayanami, Neon Genesis Evangelion's enigmatic and quietly devastating pilot."
+  },
+  {
+    id: "bulka-2b",
+    artist: "Bulkamancer Sculpts",
+    series: "NieR: Automata",
+    title: "2B",
+    images: [
+      "images/bulkamancer/nier-automata/2b/bulka-2b-1.jpg",
+      "images/bulkamancer/nier-automata/2b/bulka-2b-2.jpg",
+      "images/bulkamancer/nier-automata/2b/bulka-2b-3.jpg",
+      "images/bulkamancer/nier-automata/2b/bulka-2b-4.jpg",
+      "images/bulkamancer/nier-automata/2b/bulka-2b-5.jpg",
+      "images/bulkamancer/nier-automata/2b/bulka-2b-6.jpg",
+      "images/bulkamancer/nier-automata/2b/bulka-2b-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.5 in (21.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "2B, the blade-wielding android of NieR: Automata, following orders she may not fully believe in."
+  },
+  {
+    id: "bulka-amaterasu",
+    artist: "Bulkamancer Sculpts",
+    series: "Okami",
+    title: "Amaterasu",
+    images: [
+      "images/bulkamancer/okami/amaterasu/bulka-amaterasu-1.jpg",
+      "images/bulkamancer/okami/amaterasu/bulka-amaterasu-2.jpg",
+      "images/bulkamancer/okami/amaterasu/bulka-amaterasu-3.jpg",
+      "images/bulkamancer/okami/amaterasu/bulka-amaterasu-4.jpg",
+      "images/bulkamancer/okami/amaterasu/bulka-amaterasu-5.jpg",
+      "images/bulkamancer/okami/amaterasu/bulka-amaterasu-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 7.2 in (18.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Amaterasu, the wolf goddess of the sun, painting the world back to life in Okami."
+  },
+  {
+    id: "bulka-nami",
+    artist: "Bulkamancer Sculpts",
+    series: "One Piece",
+    title: "Nami",
+    images: [
+      "images/bulkamancer/one-piece/nami/bulka-nami-1.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-2.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-3.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-4.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-5.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-6.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-7.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-8.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-9.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-10.jpg",
+      "images/bulkamancer/one-piece/nami/bulka-nami-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.9 in (27.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Nami, the Straw Hat Pirates' navigator, chart (and temper) in hand, from One Piece."
+  },
+  {
+    id: "bulka-fubuki-and-tatsumaki",
+    artist: "Bulkamancer Sculpts",
+    series: "One Punch Man",
+    title: "Fubuki and Tatsumaki",
+    images: [
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-1.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-2.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-3.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-4.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-5.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-6.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-7.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-8.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-9.jpg",
+      "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.3 in (28.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Fubuki and Tatsumaki, One Punch Man's esper sisters, rivalry and all."
+  },
+  {
+    id: "bulka-konoko",
+    artist: "Bulkamancer Sculpts",
+    series: "Oni",
+    title: "Konoko",
+    images: [
+      "images/bulkamancer/oni/konoko/bulka-konoko-1.jpg",
+      "images/bulkamancer/oni/konoko/bulka-konoko-2.jpg",
+      "images/bulkamancer/oni/konoko/bulka-konoko-3.jpg",
+      "images/bulkamancer/oni/konoko/bulka-konoko-4.jpg",
+      "images/bulkamancer/oni/konoko/bulka-konoko-5.jpg",
+      "images/bulkamancer/oni/konoko/bulka-konoko-6.jpg",
+      "images/bulkamancer/oni/konoko/bulka-konoko-7.jpg",
+      "images/bulkamancer/oni/konoko/bulka-konoko-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.8 in (22.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Konoko, the genetically-engineered agent at the heart of the cult classic game Oni."
+  },
+  {
+    id: "bulka-orin-the-red",
+    artist: "Bulkamancer Sculpts",
+    series: "Baldur's Gate",
+    title: "Orin the Red",
+    images: [
+      "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-1.jpg",
+      "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-2.jpg",
+      "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-3.jpg",
+      "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-4.jpg",
+      "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-5.jpg",
+      "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.0 in (20.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Orin the Red, Baldur's Gate 3's shapeshifting Bhaalist assassin hiding behind stolen faces."
+  },
+  {
+    id: "bulka-lily",
+    artist: "Bulkamancer Sculpts",
+    series: "Stellar Blade",
+    title: "Lily",
+    images: [
+      "images/bulkamancer/stellar-blade/lily/bulka-lily-1.jpg",
+      "images/bulkamancer/stellar-blade/lily/bulka-lily-2.jpg",
+      "images/bulkamancer/stellar-blade/lily/bulka-lily-3.jpg",
+      "images/bulkamancer/stellar-blade/lily/bulka-lily-4.jpg",
+      "images/bulkamancer/stellar-blade/lily/bulka-lily-5.jpg",
+      "images/bulkamancer/stellar-blade/lily/bulka-lily-6.jpg",
+      "images/bulkamancer/stellar-blade/lily/bulka-lily-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.1 in (20.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Lily, the tech-support drone pilot keeping EVE alive and well-armed in Stellar Blade."
+  },
+  {
+    id: "bulka-musashi",
+    artist: "Bulkamancer Sculpts",
+    series: "Azure Lane",
+    title: "Musashi",
+    images: [
+      "images/bulkamancer/azure-lane/musashi/bulka-musashi-1.jpg",
+      "images/bulkamancer/azure-lane/musashi/bulka-musashi-2.jpg",
+      "images/bulkamancer/azure-lane/musashi/bulka-musashi-3.jpg",
+      "images/bulkamancer/azure-lane/musashi/bulka-musashi-4.jpg",
+      "images/bulkamancer/azure-lane/musashi/bulka-musashi-5.jpg",
+      "images/bulkamancer/azure-lane/musashi/bulka-musashi-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.4 in (24.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Musashi, the proud Yamato-class battleship reborn as a shipgirl in Azur Lane."
+  },
+  {
+    id: "bulka-mayuri-shiina",
+    artist: "Bulkamancer Sculpts",
+    series: "Steins;Gate",
+    title: "Mayuri Shiina",
+    images: [
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-1.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-2.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-3.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-4.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-5.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-6.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-7.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-8.jpg",
+      "images/bulkamancer/steins-gate/mayuri-shiina/bulka-mayuri-shiina-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.0 in (20.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mayuri Shiina, Steins;Gate's gentle heart and the one whose fate drives the whole story."
+  },
+  {
+    id: "bulka-kaine",
+    artist: "Bulkamancer Sculpts",
+    series: "NieR Replicant",
+    title: "Kaine",
+    images: [
+      "images/bulkamancer/nier-replicant/kaine/bulka-kaine-1.jpg",
+      "images/bulkamancer/nier-replicant/kaine/bulka-kaine-2.jpg",
+      "images/bulkamancer/nier-replicant/kaine/bulka-kaine-3.jpg",
+      "images/bulkamancer/nier-replicant/kaine/bulka-kaine-4.jpg",
+      "images/bulkamancer/nier-replicant/kaine/bulka-kaine-5.jpg",
+      "images/bulkamancer/nier-replicant/kaine/bulka-kaine-6.jpg",
+      "images/bulkamancer/nier-replicant/kaine/bulka-kaine-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.4 in (21.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kaine, the foul-mouthed, half-Shade swordfighter of NieR Replicant."
+  },
+  {
+    id: "bulka-holo",
+    artist: "Bulkamancer Sculpts",
+    series: "Spice and Wolf",
+    title: "Holo",
+    images: [
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-1.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-2.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-3.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-4.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-5.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-6.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-7.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-8.jpg",
+      "images/bulkamancer/spice-and-wolf/holo/bulka-holo-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.6 in (21.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Holo the Wisewolf, centuries old and sharper-tongued than any merchant in Spice and Wolf."
+  },
+  {
+    id: "bulka-garrus-vakarian",
+    artist: "Bulkamancer Sculpts",
+    series: "Mass Effect",
+    title: "Garrus Vakarian",
+    images: [
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-1.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-2.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-3.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-4.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-5.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-6.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-7.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-8.jpg",
+      "images/bulkamancer/mass-effect/garrus-vakarian/bulka-garrus-vakarian-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 13.0 in (33.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Garrus Vakarian, the turian sharpshooter who never leaves Commander Shepard's side in Mass Effect."
+  },
+  {
+    id: "bulka-byleth-female",
+    artist: "Bulkamancer Sculpts",
+    series: "Fire Emblem",
+    title: "Byleth (Female)",
+    images: [
+      "images/bulkamancer/fire-emblem/byleth-female/bulka-byleth-female-1.jpg",
+      "images/bulkamancer/fire-emblem/byleth-female/bulka-byleth-female-2.jpg",
+      "images/bulkamancer/fire-emblem/byleth-female/bulka-byleth-female-3.jpg",
+      "images/bulkamancer/fire-emblem/byleth-female/bulka-byleth-female-4.jpg",
+      "images/bulkamancer/fire-emblem/byleth-female/bulka-byleth-female-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.1 in (23.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Byleth, the Ashen Demon turned professor, leading her students through Fire Emblem: Three Houses."
+  },
+  {
+    id: "bulka-malevola",
+    artist: "Bulkamancer Sculpts",
+    series: "Dispatch",
+    title: "Malevola",
+    images: [
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-1.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-2.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-3.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-4.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-5.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-6.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-7.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-8.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-9.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-10.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-11.jpg",
+      "images/bulkamancer/dispatch/malevola/bulka-malevola-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.8 in (27.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Malevola, one of the colorful supervillains reporting in from the animated series Dispatch."
+  },
+  {
+    id: "bulka-gyro-zeppeli",
+    artist: "Bulkamancer Sculpts",
+    series: "JoJo's Bizarre Adventure",
+    title: "Gyro Zeppeli",
+    images: [
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-1.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-2.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-3.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-4.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-5.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-6.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-7.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-8.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-9.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-10.jpg",
+      "images/bulkamancer/jojos-bizarre-adventure/gyro-zeppeli/bulka-gyro-zeppeli-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 15.2 in (38.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Gyro Zeppeli, the Spin-wielding executioner of JoJo's Bizarre Adventure: Steel Ball Run."
+  },
+  {
+    id: "bulka-sylvanas-windrunner",
+    artist: "Bulkamancer Sculpts",
+    series: "World of Warcraft",
+    title: "Sylvanas Windrunner",
+    images: [
+      "images/bulkamancer/world-of-warcraft/sylvanas-windrunner/bulka-sylvanas-windrunner-1.jpg",
+      "images/bulkamancer/world-of-warcraft/sylvanas-windrunner/bulka-sylvanas-windrunner-2.jpg",
+      "images/bulkamancer/world-of-warcraft/sylvanas-windrunner/bulka-sylvanas-windrunner-3.jpg",
+      "images/bulkamancer/world-of-warcraft/sylvanas-windrunner/bulka-sylvanas-windrunner-4.jpg",
+      "images/bulkamancer/world-of-warcraft/sylvanas-windrunner/bulka-sylvanas-windrunner-5.jpg",
+      "images/bulkamancer/world-of-warcraft/sylvanas-windrunner/bulka-sylvanas-windrunner-6.jpg",
+      "images/bulkamancer/world-of-warcraft/sylvanas-windrunner/bulka-sylvanas-windrunner-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.7 in (27.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sylvanas Windrunner, the Banshee Queen whose ambition reshaped Azeroth in World of Warcraft."
+  },
+  {
+    id: "bulka-ghislaine-dedoldia",
+    artist: "Bulkamancer Sculpts",
+    series: "Mushoku Tensei",
+    title: "Ghislaine Dedoldia",
+    images: [
+      "images/bulkamancer/mushoku-tensei/ghislaine-dedoldia/bulka-ghislaine-dedoldia-1.jpg",
+      "images/bulkamancer/mushoku-tensei/ghislaine-dedoldia/bulka-ghislaine-dedoldia-2.jpg",
+      "images/bulkamancer/mushoku-tensei/ghislaine-dedoldia/bulka-ghislaine-dedoldia-3.jpg",
+      "images/bulkamancer/mushoku-tensei/ghislaine-dedoldia/bulka-ghislaine-dedoldia-4.jpg",
+      "images/bulkamancer/mushoku-tensei/ghislaine-dedoldia/bulka-ghislaine-dedoldia-5.jpg",
+      "images/bulkamancer/mushoku-tensei/ghislaine-dedoldia/bulka-ghislaine-dedoldia-6.jpg",
+      "images/bulkamancer/mushoku-tensei/ghislaine-dedoldia/bulka-ghislaine-dedoldia-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.2 in (23.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ghislaine Dedoldia, the beastfolk swordmaster who trained Rudeus in Mushoku Tensei."
+  },
+  {
+    id: "bulka-albedo",
+    artist: "Bulkamancer Sculpts",
+    series: "Overlord",
+    title: "Albedo",
+    images: [
+      "images/bulkamancer/overlord/albedo/bulka-albedo-1.jpg",
+      "images/bulkamancer/overlord/albedo/bulka-albedo-2.jpg",
+      "images/bulkamancer/overlord/albedo/bulka-albedo-3.jpg",
+      "images/bulkamancer/overlord/albedo/bulka-albedo-4.jpg",
+      "images/bulkamancer/overlord/albedo/bulka-albedo-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.8 in (22.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Albedo, the fiercely devoted (and dangerously obsessive) guardian overseer of Overlord's Nazarick."
+  },
+  {
+    id: "bulka-mercy",
+    artist: "Bulkamancer Sculpts",
+    series: "Overwatch",
+    title: "Mercy",
+    images: [
+      "images/bulkamancer/overwatch/mercy/bulka-mercy-1.jpg",
+      "images/bulkamancer/overwatch/mercy/bulka-mercy-2.jpg",
+      "images/bulkamancer/overwatch/mercy/bulka-mercy-3.jpg",
+      "images/bulkamancer/overwatch/mercy/bulka-mercy-4.jpg",
+      "images/bulkamancer/overwatch/mercy/bulka-mercy-5.jpg",
+      "images/bulkamancer/overwatch/mercy/bulka-mercy-6.jpg",
+      "images/bulkamancer/overwatch/mercy/bulka-mercy-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.4 in (24.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mercy, Overwatch's guardian angel, healing staff raised over the battlefield."
+  },
+  {
+    id: "bulka-aigis",
+    artist: "Bulkamancer Sculpts",
+    series: "Persona",
+    title: "Aigis",
+    images: [
+      "images/bulkamancer/persona/aigis/bulka-aigis-1.jpg",
+      "images/bulkamancer/persona/aigis/bulka-aigis-2.jpg",
+      "images/bulkamancer/persona/aigis/bulka-aigis-3.jpg",
+      "images/bulkamancer/persona/aigis/bulka-aigis-4.jpg",
+      "images/bulkamancer/persona/aigis/bulka-aigis-5.jpg",
+      "images/bulkamancer/persona/aigis/bulka-aigis-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.6 in (21.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Aigis, the android Persona-user of Persona 3, guns built into her very arms."
+  },
+  {
+    id: "bulka-ann-takamaki",
+    artist: "Bulkamancer Sculpts",
+    series: "Persona",
+    title: "Ann Takamaki",
+    images: [
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-1.jpg",
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-2.jpg",
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-3.jpg",
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-4.jpg",
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-5.jpg",
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-6.jpg",
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-7.jpg",
+      "images/bulkamancer/persona/ann-takamaki/bulka-ann-takamaki-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.7 in (22.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ann Takamaki, the Phantom Thief known as Panther in Persona 5."
+  },
+  {
+    id: "bulka-makoto-niijima",
+    artist: "Bulkamancer Sculpts",
+    series: "Persona",
+    title: "Makoto Niijima",
+    images: [
+      "images/bulkamancer/persona/makoto-niijima/bulka-makoto-niijima-1.jpg",
+      "images/bulkamancer/persona/makoto-niijima/bulka-makoto-niijima-2.jpg",
+      "images/bulkamancer/persona/makoto-niijima/bulka-makoto-niijima-3.jpg",
+      "images/bulkamancer/persona/makoto-niijima/bulka-makoto-niijima-4.jpg",
+      "images/bulkamancer/persona/makoto-niijima/bulka-makoto-niijima-5.jpg",
+      "images/bulkamancer/persona/makoto-niijima/bulka-makoto-niijima-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.5 in (21.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Makoto Niijima, Persona 5's Student Council President turned Phantom Thief Queen."
+  },
+  {
+    id: "bulka-tae-takemi",
+    artist: "Bulkamancer Sculpts",
+    series: "Persona",
+    title: "Tae Takemi",
+    images: [
+      "images/bulkamancer/persona/tae-takemi/bulka-tae-takemi-1.jpg",
+      "images/bulkamancer/persona/tae-takemi/bulka-tae-takemi-2.jpg",
+      "images/bulkamancer/persona/tae-takemi/bulka-tae-takemi-3.jpg",
+      "images/bulkamancer/persona/tae-takemi/bulka-tae-takemi-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.1 in (23.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Tae Takemi, the unconventional back-alley doctor of Persona 5."
+  },
+  {
+    id: "bulka-diana",
+    artist: "Bulkamancer Sculpts",
+    series: "Pragmata",
+    title: "Diana",
+    images: [
+      "images/bulkamancer/pragmata/diana/bulka-diana-1.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-2.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-3.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-4.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-5.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-6.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-7.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-8.jpg",
+      "images/bulkamancer/pragmata/diana/bulka-diana-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 7.4 in (18.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Diana, the enigmatic AI companion at the center of Pragmata."
+  },
+  {
+    id: "bulka-hugh",
+    artist: "Bulkamancer Sculpts",
+    series: "Pragmata",
+    title: "Hugh",
+    images: [
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-1.jpg",
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-2.jpg",
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-3.jpg",
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-4.jpg",
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-5.jpg",
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-6.jpg",
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-7.jpg",
+      "images/bulkamancer/pragmata/hugh/bulka-hugh-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.2 in (25.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hugh, the astronaut protagonist navigating Pragmata's lunar mystery."
+  },
+  {
+    id: "bulka-san-and-moro",
+    artist: "Bulkamancer Sculpts",
+    series: "Princess Mononoke",
+    title: "San and Moro",
+    images: [
+      "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-1.jpg",
+      "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-2.jpg",
+      "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-3.jpg",
+      "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-4.jpg",
+      "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-5.jpg",
+      "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-6.jpg",
+      "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.7 in (22.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "San and Moro, Princess Mononoke's wolf-riding princess and her fierce wolf-god mother."
+  },
+  {
+    id: "bulka-arthur-morgan",
+    artist: "Bulkamancer Sculpts",
+    series: "Red Dead Redemption",
+    title: "Arthur Morgan",
+    images: [
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-1.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-2.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-3.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-4.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-5.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-6.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-7.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-8.jpg",
+      "images/bulkamancer/red-dead-redemption/arthur-morgan/bulka-arthur-morgan-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.8 in (32.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Arthur Morgan, the outlaw wrestling with his own legacy in Red Dead Redemption 2."
+  },
+  {
+    id: "bulka-claire-redfield",
+    artist: "Bulkamancer Sculpts",
+    series: "Resident Evil",
+    title: "Claire Redfield",
+    images: [
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-1.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-2.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-3.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-4.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-5.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-6.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-7.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-8.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-9.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-10.jpg",
+      "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.3 in (23.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Claire Redfield, Resident Evil's determined survivor and perennial zombie-outbreak veteran."
+  },
+  {
+    id: "bulka-grace-ashcroft",
+    artist: "Bulkamancer Sculpts",
+    series: "Resident Evil",
+    title: "Grace Ashcroft",
+    images: [
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-1.jpg",
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-2.jpg",
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-3.jpg",
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-4.jpg",
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-5.jpg",
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-6.jpg",
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-7.jpg",
+      "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.9 in (22.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Grace Ashcroft, the newest face investigating Resident Evil's ever-expanding horrors."
+  },
+  {
+    id: "bulka-hinako",
+    artist: "Bulkamancer Sculpts",
+    series: "Silent Hill",
+    title: "Hinako",
+    images: [
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-1.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-2.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-3.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-4.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-5.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-6.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-7.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-8.jpg",
+      "images/bulkamancer/silent-hill/hinako/bulka-hinako-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.5 in (21.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hinako, the tormented heroine navigating the nightmare of Silent Hill f."
+  },
+  {
+    id: "bulka-pyramid-head",
+    artist: "Bulkamancer Sculpts",
+    series: "Silent Hill",
+    title: "Pyramid Head",
+    images: [
+      "images/bulkamancer/silent-hill/pyramid-head/bulka-pyramid-head-1.jpg",
+      "images/bulkamancer/silent-hill/pyramid-head/bulka-pyramid-head-2.jpg",
+      "images/bulkamancer/silent-hill/pyramid-head/bulka-pyramid-head-3.jpg",
+      "images/bulkamancer/silent-hill/pyramid-head/bulka-pyramid-head-4.jpg",
+      "images/bulkamancer/silent-hill/pyramid-head/bulka-pyramid-head-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.8 in (32.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Pyramid Head, the towering, inescapable executioner of Silent Hill 2."
+  },
+  {
+    id: "bulka-kumoko",
+    artist: "Bulkamancer Sculpts",
+    series: "So I'm a Spider, So What?",
+    title: "Kumoko",
+    images: [
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-1.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-2.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-4.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-5.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-6.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-7.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-8.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-9.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-11.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-12.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-13.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-14.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko/bulka-kumoko-15.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.3 in (23.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kumoko, the reincarnated-as-a-spider heroine (and her brood) of So I'm a Spider, So What?"
+  },
+  {
+    id: "bulka-kumoko-chibi",
+    artist: "Bulkamancer Sculpts",
+    series: "So I'm a Spider, So What?",
+    title: "Kumoko (Chibi)",
+    images: [
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-1.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-2.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-3.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-4.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-5.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-6.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-7.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-8.jpg",
+      "images/bulkamancer/so-im-a-spider-so-what/kumoko-chibi/bulka-kumoko-chibi-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 2.8 in (7.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Kumoko's chibi spiderlings, the small but scrappy brood from So I'm a Spider, So What?"
+  },
+  {
+    id: "bulka-sung-jin-woo",
+    artist: "Bulkamancer Sculpts",
+    series: "Solo Leveling",
+    title: "Sung Jin-Woo",
+    images: [
+      "images/bulkamancer/solo-leveling/sung-jin-woo/bulka-sung-jin-woo-1.jpg",
+      "images/bulkamancer/solo-leveling/sung-jin-woo/bulka-sung-jin-woo-2.jpg",
+      "images/bulkamancer/solo-leveling/sung-jin-woo/bulka-sung-jin-woo-3.jpg",
+      "images/bulkamancer/solo-leveling/sung-jin-woo/bulka-sung-jin-woo-4.jpg",
+      "images/bulkamancer/solo-leveling/sung-jin-woo/bulka-sung-jin-woo-5.jpg",
+      "images/bulkamancer/solo-leveling/sung-jin-woo/bulka-sung-jin-woo-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.8 in (27.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sung Jin-Woo, the weakest hunter turned unstoppable Shadow Monarch in Solo Leveling."
+  },
+  {
+    id: "bulka-black-cat",
+    artist: "Bulkamancer Sculpts",
+    series: "Spider-Man",
+    title: "Black Cat",
+    images: [
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-1.jpg",
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-2.jpg",
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-3.jpg",
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-4.jpg",
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-5.jpg",
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-6.jpg",
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-7.jpg",
+      "images/bulkamancer/spider-man/black-cat/bulka-black-cat-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.4 in (24.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Black Cat, Spider-Man's cat-suited thief with a soft spot for the wall-crawler."
+  },
+  {
+    id: "bulka-gwen-stacy",
+    artist: "Bulkamancer Sculpts",
+    series: "Spider-Man",
+    title: "Gwen Stacy",
+    images: [
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-1.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-2.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-3.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-4.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-5.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-6.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-7.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-8.jpg",
+      "images/bulkamancer/spider-man/gwen-stacy/bulka-gwen-stacy-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.2 in (23.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Gwen Stacy as Spider-Gwen, swinging in from her own corner of the Spider-Verse."
+  },
+  {
+    id: "bulka-mio",
+    artist: "Bulkamancer Sculpts",
+    series: "Split Fiction",
+    title: "Mio",
+    images: [
+      "images/bulkamancer/split-fiction/mio/bulka-mio-1.jpg",
+      "images/bulkamancer/split-fiction/mio/bulka-mio-2.jpg",
+      "images/bulkamancer/split-fiction/mio/bulka-mio-3.jpg",
+      "images/bulkamancer/split-fiction/mio/bulka-mio-4.jpg",
+      "images/bulkamancer/split-fiction/mio/bulka-mio-5.jpg",
+      "images/bulkamancer/split-fiction/mio/bulka-mio-6.jpg",
+      "images/bulkamancer/split-fiction/mio/bulka-mio-7.jpg",
+      "images/bulkamancer/split-fiction/mio/bulka-mio-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.1 in (25.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Mio, one half of Split Fiction's mismatched co-op duo trapped between fantasy and sci-fi."
+  },
+  {
+    id: "bulka-zoe",
+    artist: "Bulkamancer Sculpts",
+    series: "Split Fiction",
+    title: "Zoe",
+    images: [
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-1.jpg",
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-2.jpg",
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-3.jpg",
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-4.jpg",
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-5.jpg",
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-6.jpg",
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-7.jpg",
+      "images/bulkamancer/split-fiction/zoe/bulka-zoe-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.9 in (25.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Zoe, the other half of Split Fiction's genre-clashing writing partnership."
+  },
+  {
+    id: "bulka-artanis",
+    artist: "Bulkamancer Sculpts",
+    series: "StarCraft",
+    title: "Artanis",
+    images: [
+      "images/bulkamancer/starcraft/artanis/bulka-artanis-1.jpg",
+      "images/bulkamancer/starcraft/artanis/bulka-artanis-2.jpg",
+      "images/bulkamancer/starcraft/artanis/bulka-artanis-3.jpg",
+      "images/bulkamancer/starcraft/artanis/bulka-artanis-4.jpg",
+      "images/bulkamancer/starcraft/artanis/bulka-artanis-5.jpg",
+      "images/bulkamancer/starcraft/artanis/bulka-artanis-6.jpg",
+      "images/bulkamancer/starcraft/artanis/bulka-artanis-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/10 Scale", size: "Approx. 12.6 in (32.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Artanis, Hierarch of the Protoss and StarCraft II's blade-wielding champion."
+  },
+  {
+    id: "bulka-sarah-kerrigan",
+    artist: "Bulkamancer Sculpts",
+    series: "StarCraft",
+    title: "Sarah Kerrigan",
+    images: [
+      "images/bulkamancer/starcraft/sarah-kerrigan/bulka-sarah-kerrigan-1.jpg",
+      "images/bulkamancer/starcraft/sarah-kerrigan/bulka-sarah-kerrigan-2.jpg",
+      "images/bulkamancer/starcraft/sarah-kerrigan/bulka-sarah-kerrigan-3.jpg",
+      "images/bulkamancer/starcraft/sarah-kerrigan/bulka-sarah-kerrigan-4.jpg",
+      "images/bulkamancer/starcraft/sarah-kerrigan/bulka-sarah-kerrigan-5.jpg",
+      "images/bulkamancer/starcraft/sarah-kerrigan/bulka-sarah-kerrigan-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.0 in (28.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Sarah Kerrigan, the Queen of Blades who reshaped the Zerg Swarm in StarCraft."
+  },
+  {
+    id: "bulka-ultralisk",
+    artist: "Bulkamancer Sculpts",
+    series: "StarCraft",
+    title: "Ultralisk",
+    images: [
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-1.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-2.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-3.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-4.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-5.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-6.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-7.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-8.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-9.jpg",
+      "images/bulkamancer/starcraft/ultralisk/bulka-ultralisk-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/90 Scale", size: "Approx. 11.8 in (30.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The Ultralisk, StarCraft's massive, scythe-armed Zerg juggernaut."
+  },
+  {
+    id: "bulka-eve",
+    artist: "Bulkamancer Sculpts",
+    series: "Stellar Blade",
+    title: "EVE",
+    images: [
+      "images/bulkamancer/stellar-blade/eve/bulka-eve-1.jpg",
+      "images/bulkamancer/stellar-blade/eve/bulka-eve-2.jpg",
+      "images/bulkamancer/stellar-blade/eve/bulka-eve-3.jpg",
+      "images/bulkamancer/stellar-blade/eve/bulka-eve-4.jpg",
+      "images/bulkamancer/stellar-blade/eve/bulka-eve-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.7 in (22.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "EVE, the sword-wielding agent battling the Naytiba to reclaim Earth in Stellar Blade."
+  },
+  {
+    id: "bulka-cammy-white",
+    artist: "Bulkamancer Sculpts",
+    series: "Street Fighter",
+    title: "Cammy White",
+    images: [
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-1.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-2.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-3.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-4.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-5.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-6.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-7.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-8.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-9.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-10.jpg",
+      "images/bulkamancer/street-fighter/cammy-white/bulka-cammy-white-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.9 in (25.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Cammy White, the Delta Red operative and Street Fighter's razor-sharp close-combat specialist."
+  },
+  {
+    id: "bulka-chun-li",
+    artist: "Bulkamancer Sculpts",
+    series: "Street Fighter",
+    title: "Chun-Li",
+    images: [
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-1.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-2.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-3.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-4.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-5.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-6.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-7.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-8.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-9.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-10.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-11.jpg",
+      "images/bulkamancer/street-fighter/chun-li/bulka-chun-li-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.8 in (24.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Chun-Li, the Strongest Woman in the World and Street Fighter's original queen of kicks."
+  },
+  {
+    id: "bulka-pauline",
+    artist: "Bulkamancer Sculpts",
+    series: "Super Mario Odyssey",
+    title: "Pauline",
+    images: [
+      "images/bulkamancer/super-mario-odyssey/pauline/bulka-pauline-1.jpg",
+      "images/bulkamancer/super-mario-odyssey/pauline/bulka-pauline-2.jpg",
+      "images/bulkamancer/super-mario-odyssey/pauline/bulka-pauline-3.jpg",
+      "images/bulkamancer/super-mario-odyssey/pauline/bulka-pauline-4.jpg",
+      "images/bulkamancer/super-mario-odyssey/pauline/bulka-pauline-5.jpg",
+      "images/bulkamancer/super-mario-odyssey/pauline/bulka-pauline-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.8 in (25.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Pauline, the mayor of New Donk City serenading Mario in Super Mario Odyssey."
+  },
+  {
+    id: "bulka-velvet-crowe",
+    artist: "Bulkamancer Sculpts",
+    series: "Tales of Berseria",
+    title: "Velvet Crowe",
+    images: [
+      "images/bulkamancer/tales-of-berseria/velvet-crowe/bulka-velvet-crowe-1.jpg",
+      "images/bulkamancer/tales-of-berseria/velvet-crowe/bulka-velvet-crowe-2.jpg",
+      "images/bulkamancer/tales-of-berseria/velvet-crowe/bulka-velvet-crowe-3.jpg",
+      "images/bulkamancer/tales-of-berseria/velvet-crowe/bulka-velvet-crowe-4.jpg",
+      "images/bulkamancer/tales-of-berseria/velvet-crowe/bulka-velvet-crowe-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.5 in (21.7 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Velvet Crowe, the vengeance-driven daemon of Tales of Berseria."
+  },
+  {
+    id: "bulka-reina",
+    artist: "Bulkamancer Sculpts",
+    series: "Tekken",
+    title: "Reina",
+    images: [
+      "images/bulkamancer/tekken/reina/bulka-reina-1.jpg",
+      "images/bulkamancer/tekken/reina/bulka-reina-2.jpg",
+      "images/bulkamancer/tekken/reina/bulka-reina-3.jpg",
+      "images/bulkamancer/tekken/reina/bulka-reina-4.jpg",
+      "images/bulkamancer/tekken/reina/bulka-reina-5.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/6 Scale", size: "Approx. 9.6 in (24.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Reina, the mysterious Mishima-blooded newcomer to the Tekken roster."
+  },
+  {
+    id: "bulka-jinshi",
+    artist: "Bulkamancer Sculpts",
+    series: "The Apothecary Diaries",
+    title: "Jinshi",
+    images: [
+      "images/bulkamancer/the-apothecary-diaries/jinshi/bulka-jinshi-1.jpg",
+      "images/bulkamancer/the-apothecary-diaries/jinshi/bulka-jinshi-2.jpg",
+      "images/bulkamancer/the-apothecary-diaries/jinshi/bulka-jinshi-3.jpg",
+      "images/bulkamancer/the-apothecary-diaries/jinshi/bulka-jinshi-4.jpg",
+      "images/bulkamancer/the-apothecary-diaries/jinshi/bulka-jinshi-5.jpg",
+      "images/bulkamancer/the-apothecary-diaries/jinshi/bulka-jinshi-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.5 in (24.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Jinshi, The Apothecary Diaries' eunuch official with more going on than he lets on."
+  },
+  {
+    id: "bulka-maomao",
+    artist: "Bulkamancer Sculpts",
+    series: "The Apothecary Diaries",
+    title: "Maomao",
+    images: [
+      "images/bulkamancer/the-apothecary-diaries/maomao/bulka-maomao-1.jpg",
+      "images/bulkamancer/the-apothecary-diaries/maomao/bulka-maomao-2.jpg",
+      "images/bulkamancer/the-apothecary-diaries/maomao/bulka-maomao-3.jpg",
+      "images/bulkamancer/the-apothecary-diaries/maomao/bulka-maomao-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.0 in (22.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Maomao, the apothecary whose curiosity keeps unraveling palace secrets in The Apothecary Diaries."
+  },
+  {
+    id: "bulka-link",
+    artist: "Bulkamancer Sculpts",
+    series: "The Legend of Zelda",
+    title: "Link",
+    images: [
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-1.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-2.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-3.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-4.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-5.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-6.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-7.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-8.jpg",
+      "images/bulkamancer/the-legend-of-zelda/link/bulka-link-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.2 in (23.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Link, the Legend of Zelda's ever-silent, ever-ready Hylian hero."
+  },
+  {
+    id: "bulka-zelda-breath-of-the-wild",
+    artist: "Bulkamancer Sculpts",
+    series: "The Legend of Zelda",
+    title: "Zelda (Breath of the Wild)",
+    images: [
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-1.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-2.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-3.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-4.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-5.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-6.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-7.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-8.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-9.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-10.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.2 in (20.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Princess Zelda as she appears in The Legend of Zelda: Breath of the Wild, burdened by a century-old duty."
+  },
+  {
+    id: "bulka-zelda-tears-of-the-kingdom",
+    artist: "Bulkamancer Sculpts",
+    series: "The Legend of Zelda",
+    title: "Zelda (Tears of the Kingdom)",
+    images: [
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-1.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-2.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-3.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-4.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-5.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-6.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-7.jpg",
+      "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.0 in (22.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Princess Zelda in her Tears of the Kingdom incarnation, tangled up in Hyrule's ancient past."
+  },
+  {
+    id: "bulka-ciri",
+    artist: "Bulkamancer Sculpts",
+    series: "The Witcher",
+    title: "Ciri",
+    images: [
+      "images/bulkamancer/the-witcher/ciri/bulka-ciri-1.jpg",
+      "images/bulkamancer/the-witcher/ciri/bulka-ciri-2.jpg",
+      "images/bulkamancer/the-witcher/ciri/bulka-ciri-3.jpg",
+      "images/bulkamancer/the-witcher/ciri/bulka-ciri-4.jpg",
+      "images/bulkamancer/the-witcher/ciri/bulka-ciri-5.jpg",
+      "images/bulkamancer/the-witcher/ciri/bulka-ciri-6.jpg",
+      "images/bulkamancer/the-witcher/ciri/bulka-ciri-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.0 in (22.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ciri, the Lion Cub of Cintra, Elder Blood running through her veins in The Witcher."
+  },
+  {
+    id: "bulka-ciri-stylized",
+    artist: "Bulkamancer Sculpts",
+    series: "The Witcher",
+    title: "Ciri (Stylized)",
+    images: [
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-1.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-2.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-3.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-4.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-5.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-6.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-7.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-8.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-9.jpg",
+      "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-16.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Size not yet listed", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "A stylized take on Ciri, The Witcher's world-hopping princess-turned-witcher."
+  },
+  {
+    id: "bulka-ciri-vs-manticore",
+    artist: "Bulkamancer Sculpts",
+    series: "The Witcher",
+    title: "Ciri vs Manticore",
+    images: [
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-1.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-2.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-3.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-4.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-5.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-6.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-7.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-8.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-9.jpg",
+      "images/bulkamancer/the-witcher/ciri-vs-manticore/bulka-ciri-vs-manticore-10.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 15.4 in (39.2 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Ciri locked in battle with a manticore, one of The Witcher's many monstrous hunts."
+  },
+  {
+    id: "bulka-geralt-of-rivia",
+    artist: "Bulkamancer Sculpts",
+    series: "The Witcher",
+    title: "Geralt of Rivia",
+    images: [
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-1.jpg",
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-2.jpg",
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-3.jpg",
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-4.jpg",
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-5.jpg",
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-6.jpg",
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-7.jpg",
+      "images/bulkamancer/the-witcher/geralt-of-rivia/bulka-geralt-of-rivia-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.9 in (25.1 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Geralt of Rivia, The Witcher's stoic monster hunter, silver sword drawn."
+  },
+  {
+    id: "bulka-triss-merigold",
+    artist: "Bulkamancer Sculpts",
+    series: "The Witcher",
+    title: "Triss Merigold",
+    images: [
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-1.jpg",
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-2.jpg",
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-3.jpg",
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-4.jpg",
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-5.jpg",
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-6.jpg",
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-7.jpg",
+      "images/bulkamancer/the-witcher/triss-merigold/bulka-triss-merigold-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.4 in (24.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Triss Merigold, The Witcher's fire-haired sorceress and Geralt's longtime ally."
+  },
+  {
+    id: "bulka-yennefer",
+    artist: "Bulkamancer Sculpts",
+    series: "The Witcher",
+    title: "Yennefer",
+    images: [
+      "images/bulkamancer/the-witcher/yennefer/bulka-yennefer-1.jpg",
+      "images/bulkamancer/the-witcher/yennefer/bulka-yennefer-2.jpg",
+      "images/bulkamancer/the-witcher/yennefer/bulka-yennefer-3.jpg",
+      "images/bulkamancer/the-witcher/yennefer/bulka-yennefer-4.jpg",
+      "images/bulkamancer/the-witcher/yennefer/bulka-yennefer-5.jpg",
+      "images/bulkamancer/the-witcher/yennefer/bulka-yennefer-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.6 in (24.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Yennefer of Vengerberg, The Witcher's formidable sorceress bound to Geralt by destiny."
+  },
+  {
+    id: "bulka-reimu-hakurei",
+    artist: "Bulkamancer Sculpts",
+    series: "Touhou Project",
+    title: "Reimu Hakurei",
+    images: [
+      "images/bulkamancer/touhou-project/reimu-hakurei/bulka-reimu-hakurei-1.jpg",
+      "images/bulkamancer/touhou-project/reimu-hakurei/bulka-reimu-hakurei-2.jpg",
+      "images/bulkamancer/touhou-project/reimu-hakurei/bulka-reimu-hakurei-3.jpg",
+      "images/bulkamancer/touhou-project/reimu-hakurei/bulka-reimu-hakurei-4.jpg",
+      "images/bulkamancer/touhou-project/reimu-hakurei/bulka-reimu-hakurei-5.jpg",
+      "images/bulkamancer/touhou-project/reimu-hakurei/bulka-reimu-hakurei-6.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 8.6 in (21.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Reimu Hakurei, the shrine maiden keeping Gensokyo's chaos in check in Touhou Project."
+  },
+  {
+    id: "bulka-artillery-witch",
+    artist: "Bulkamancer Sculpts",
+    series: "Trench Crusade",
+    title: "Artillery Witch",
+    images: [
+      "images/bulkamancer/trench-crusade/artillery-witch/bulka-artillery-witch-1.jpg",
+      "images/bulkamancer/trench-crusade/artillery-witch/bulka-artillery-witch-2.jpg",
+      "images/bulkamancer/trench-crusade/artillery-witch/bulka-artillery-witch-3.jpg",
+      "images/bulkamancer/trench-crusade/artillery-witch/bulka-artillery-witch-4.jpg",
+      "images/bulkamancer/trench-crusade/artillery-witch/bulka-artillery-witch-5.jpg",
+      "images/bulkamancer/trench-crusade/artillery-witch/bulka-artillery-witch-6.jpg",
+      "images/bulkamancer/trench-crusade/artillery-witch/bulka-artillery-witch-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 14.2 in (36.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "The Artillery Witch, bringing dark, grim-dark firepower to the Trench Crusade tabletop setting."
+  },
+  {
+    id: "bulka-penelope-eckhart",
+    artist: "Bulkamancer Sculpts",
+    series: "Villains Are Destined to Die",
+    title: "Penelope Eckhart",
+    images: [
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-1.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-2.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-3.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-4.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-5.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-6.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-7.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-8.jpg",
+      "images/bulkamancer/villains-are-destined-to-die/penelope-eckhart/bulka-penelope-eckhart-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.4 in (26.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Penelope Eckhart, the scheming (or misunderstood?) noblewoman of Villains Are Destined to Die."
+  },
+  {
+    id: "bulka-hatsune-miku",
+    artist: "Bulkamancer Sculpts",
+    series: "Vocaloid",
+    title: "Hatsune Miku",
+    images: [
+      "images/bulkamancer/vocaloid/hatsune-miku/bulka-hatsune-miku-1.jpg",
+      "images/bulkamancer/vocaloid/hatsune-miku/bulka-hatsune-miku-2.jpg",
+      "images/bulkamancer/vocaloid/hatsune-miku/bulka-hatsune-miku-3.jpg",
+      "images/bulkamancer/vocaloid/hatsune-miku/bulka-hatsune-miku-4.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.2 in (23.3 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Hatsune Miku, the turquoise-haired digital diva who needs no introduction."
+  },
+  {
+    id: "bulka-morticia-addams",
+    artist: "Bulkamancer Sculpts",
+    series: "Wednesday",
+    title: "Morticia Addams",
+    images: [
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-1.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-2.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-3.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-4.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-5.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-6.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-7.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-8.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-9.jpg",
+      "images/bulkamancer/wednesday/morticia-addams/bulka-morticia-addams-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.0 in (28.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Morticia Addams, gliding through Nevermore's halls with her trademark deadpan elegance."
+  },
+  {
+    id: "bulka-morticia-and-wednesday",
+    artist: "Bulkamancer Sculpts",
+    series: "Wednesday",
+    title: "Morticia and Wednesday",
+    images: [
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-1.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-2.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-3.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-4.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-5.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-6.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-7.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-8.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-9.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-10.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-11.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-12.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-13.jpg",
+      "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-14.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.0 in (28.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Morticia and Wednesday Addams, a rare mother-daughter moment from the Addams family."
+  },
+  {
+    id: "bulka-wednesday-addams",
+    artist: "Bulkamancer Sculpts",
+    series: "Wednesday",
+    title: "Wednesday Addams",
+    images: [
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-1.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-2.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-3.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-4.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-5.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-6.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-7.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-8.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-9.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-10.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-11.jpg",
+      "images/bulkamancer/wednesday/wednesday-addams/bulka-wednesday-addams-12.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Wednesday Addams, Nevermore Academy's least impressed (and most dangerous) student."
+  },
+  {
+    id: "bulka-coco",
+    artist: "Bulkamancer Sculpts",
+    series: "Witch Hat Atelier",
+    title: "Coco",
+    images: [
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-1.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-2.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-3.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-4.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-5.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-6.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-7.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-8.jpg",
+      "images/bulkamancer/witch-hat-atelier/coco/bulka-coco-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 9.3 in (23.5 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Coco, the aspiring witch chasing her dream of magic in Witch Hat Atelier."
+  },
+  {
+    id: "bulka-master-qifrey",
+    artist: "Bulkamancer Sculpts",
+    series: "Witch Hat Atelier",
+    title: "Master Qifrey",
+    images: [
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-1.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-2.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-3.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-4.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-5.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-6.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-7.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-8.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-9.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-10.jpg",
+      "images/bulkamancer/witch-hat-atelier/master-qifrey/bulka-master-qifrey-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.3 in (28.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Master Qifrey, the gentle but secretive mentor of Witch Hat Atelier."
+  },
+  {
+    id: "bulka-alexstrasza",
+    artist: "Bulkamancer Sculpts",
+    series: "World of Warcraft",
+    title: "Alexstrasza",
+    images: [
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-1.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-2.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-3.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-4.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-5.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-6.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-7.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-8.jpg",
+      "images/bulkamancer/world-of-warcraft/alexstrasza/bulka-alexstrasza-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 13.2 in (33.6 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Alexstrasza the Life-Binder, Aspect of the red dragonflight in World of Warcraft."
+  },
+  {
+    id: "bulka-arthas-menethil",
+    artist: "Bulkamancer Sculpts",
+    series: "World of Warcraft",
+    title: "Arthas Menethil",
+    images: [
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-1.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-2.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-3.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-4.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-5.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-6.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-7.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-8.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-9.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-10.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-11.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-12.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-13.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-14.jpg",
+      "images/bulkamancer/world-of-warcraft/arthas-menethil/bulka-arthas-menethil-17.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.2 in (28.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Arthas Menethil, the fallen prince turned Lich King of World of Warcraft."
+  },
+  {
+    id: "bulka-tyrande-whisperwind",
+    artist: "Bulkamancer Sculpts",
+    series: "World of Warcraft",
+    title: "Tyrande Whisperwind",
+    images: [
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-1.jpg",
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-2.jpg",
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-3.jpg",
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-4.jpg",
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-5.jpg",
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-6.jpg",
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-7.jpg",
+      "images/bulkamancer/world-of-warcraft/tyrande-whisperwind/bulka-tyrande-whisperwind-8.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.8 in (27.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Tyrande Whisperwind, High Priestess of Elune and World of Warcraft's night elf champion."
+  },
+  {
+    id: "bulka-valeera-sanguinar",
+    artist: "Bulkamancer Sculpts",
+    series: "World of Warcraft",
+    title: "Valeera Sanguinar",
+    images: [
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-1.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-2.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-3.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-4.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-5.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-6.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-7.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-8.jpg",
+      "images/bulkamancer/world-of-warcraft/valeera-sanguinar/bulka-valeera-sanguinar-18.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.8 in (29.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Valeera Sanguinar, the blade-dancing rogue of World of Warcraft."
+  },
+  {
+    id: "bulka-xalatath",
+    artist: "Bulkamancer Sculpts",
+    series: "World of Warcraft",
+    title: "Xalatath",
+    images: [
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-1.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-2.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-3.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-4.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-5.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-6.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-7.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-8.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-9.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-10.jpg",
+      "images/bulkamancer/world-of-warcraft/xalatath/bulka-xalatath-11.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 11.8 in (30.0 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Xal'atath, the whispering blade-turned-godqueen of World of Warcraft's Void."
+  },
+  {
+    id: "bulka-dark-phoenix",
+    artist: "Bulkamancer Sculpts",
+    series: "X-Men",
+    title: "Dark Phoenix",
+    images: [
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-1.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-2.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-3.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-4.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-5.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-6.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-7.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-8.jpg",
+      "images/bulkamancer/x-men/dark-phoenix/bulka-dark-phoenix-9.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 12.5 in (31.8 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Dark Phoenix, Jean Grey consumed by cosmic power beyond her control."
+  },
+  {
+    id: "bulka-emma-frost",
+    artist: "Bulkamancer Sculpts",
+    series: "X-Men",
+    title: "Emma Frost",
+    images: [
+      "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-1.jpg",
+      "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-2.jpg",
+      "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-3.jpg",
+      "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-4.jpg",
+      "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-5.jpg",
+      "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-6.jpg",
+      "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-7.jpg"
+    ],
+    scaleOptions: [
+      { scale: "1/8 Scale", size: "Approx. 10.0 in (25.4 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+    ],
+    description: "Emma Frost, the diamond-skinned telepath of the X-Men."
   }
 ];
