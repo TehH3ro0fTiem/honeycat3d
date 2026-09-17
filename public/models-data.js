@@ -11457,7 +11457,7 @@ const MODELS = [
       "images/bulkamancer/hollow-knight/hornet/bulka-hornet-11.jpg"
     ],
     scaleOptions: [
-      { scale: "1/8 Scale", size: "Approx. 11.8 in (29.9 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+      { scale: "1/8 Scale", size: "Approx. 11.8 in (29.9 cm) tall", etsyUrl: "https://www.etsy.com/listing/4577291984/crimson-caped-huntress-needle-silk" }
     ],
     description: "Hornet, the needle-wielding protector of Hallownest in Hollow Knight."
   },
