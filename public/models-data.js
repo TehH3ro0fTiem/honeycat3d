@@ -848,7 +848,7 @@ const MODELS = [
       "images/kc-studio/bloodborne/lady-maria/lady-maria-7.jpg"
     ],
     scaleOptions: [
-      { scale: "1/6 Scale", size: "Approx. 15 in (38 cm) tall", etsyUrl: "LINK_GOES_HERE" }
+      { scale: "1/6 Scale", size: "Approx. 15 in (38 cm) tall", etsyUrl: "https://honeycat3d.etsy.com/listing/4577542663/bloodstained-huntress-gothic-throne-o" }
     ],
     description: "Twin Rakuyo blades drawn mid-duel, this Lady Maria sculpt balances elegance and violence the same way the Astral Clocktower's finest hunter does."
   },
