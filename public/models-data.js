@@ -1372,7 +1372,7 @@ const MODELS = [
   "id": "tanuki-leon",
   "artist": "Tanuki Figures",
   "series": "Resident Evil",
-  "title": "Leon S. Kennedy [Resident Evil 9: Requiem]",
+  "title": "Leon S. Kennedy",
   "images": [
    "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-1.jpg",
    "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-2.jpg",
@@ -16749,7 +16749,7 @@ const MODELS = [
   "id": "tanuki-itachi",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Itachi - Naruto",
+  "title": "Itachi",
   "images": [
    "images/tanuki-figures/naruto/itachi/itachi-1.jpg",
    "images/tanuki-figures/naruto/itachi/itachi-2.jpg",
@@ -16772,7 +16772,7 @@ const MODELS = [
   "id": "tanuki-venom",
   "artist": "Tanuki Figures",
   "series": "Spider-Man",
-  "title": "Venom - Spider-Man",
+  "title": "Venom",
   "images": [
    "images/tanuki-figures/spider-man/venom/venom-1.jpg",
    "images/tanuki-figures/spider-man/venom/venom-2.jpg",
@@ -16796,7 +16796,7 @@ const MODELS = [
   "id": "tanuki-griffith",
   "artist": "Tanuki Figures",
   "series": "Berserk",
-  "title": "Griffith - Berserk",
+  "title": "Griffith",
   "images": [
    "images/tanuki-figures/berserk/griffith/griffith-1.jpg",
    "images/tanuki-figures/berserk/griffith/griffith-2.jpg",
@@ -16820,7 +16820,7 @@ const MODELS = [
   "id": "tanuki-fury",
   "artist": "Tanuki Figures",
   "series": "Darksiders",
-  "title": "Fury - Darksiders",
+  "title": "Fury",
   "images": [
    "images/tanuki-figures/darksiders/fury/fury-1.jpg",
    "images/tanuki-figures/darksiders/fury/fury-2.jpg",
@@ -16844,7 +16844,7 @@ const MODELS = [
   "id": "tanuki-ornstein",
   "artist": "Tanuki Figures",
   "series": "Dark Souls",
-  "title": "Ornstein - Dark Souls",
+  "title": "Ornstein",
   "images": [
    "images/tanuki-figures/dark-souls/ornstein/ornstein-1.jpg",
    "images/tanuki-figures/dark-souls/ornstein/ornstein-2.jpg",
@@ -16868,7 +16868,7 @@ const MODELS = [
   "id": "tanuki-vault-boy-extra",
   "artist": "Tanuki Figures",
   "series": "Fallout",
-  "title": "Vault Boy- Fallout",
+  "title": "Vault Boy",
   "images": [
    "images/tanuki-figures/fallout/vault-boy-extra/vault-boy-extra-1.jpg",
    "images/tanuki-figures/fallout/vault-boy-extra/vault-boy-extra-2.jpg",
@@ -16887,7 +16887,7 @@ const MODELS = [
   "id": "tanuki-basil-hawkins",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Basil Hawkins - One Piece",
+  "title": "Basil Hawkins",
   "images": [
    "images/tanuki-figures/one-piece/basil-hawkins/basil-hawkins-1.jpg",
    "images/tanuki-figures/one-piece/basil-hawkins/basil-hawkins-2.jpg",
@@ -16906,7 +16906,7 @@ const MODELS = [
   "id": "tanuki-white-beard-chibi",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "White Beard - One Piece - Chibi",
+  "title": "White Beard [Chibi ver]",
   "images": [
    "images/tanuki-figures/one-piece/white-beard-chibi/white-beard-chibi-1.jpg",
    "images/tanuki-figures/one-piece/white-beard-chibi/white-beard-chibi-2.jpg",
@@ -16944,7 +16944,7 @@ const MODELS = [
   "id": "tanuki-marco",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Marco - One Piece",
+  "title": "Marco",
   "images": [
    "images/tanuki-figures/one-piece/marco/marco-1.jpg",
    "images/tanuki-figures/one-piece/marco/marco-2.jpg",
@@ -16965,7 +16965,7 @@ const MODELS = [
   "id": "tanuki-frank-one-piece-chibi",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Frank One Piece - Chibi",
+  "title": "Frank One Piece [Chibi ver]",
   "images": [
    "images/tanuki-figures/one-piece/frank-one-piece-chibi/frank-one-piece-chibi-1.jpg",
    "images/tanuki-figures/one-piece/frank-one-piece-chibi/frank-one-piece-chibi-2.jpg",
@@ -16986,7 +16986,7 @@ const MODELS = [
   "id": "tanuki-majin-boo-chibi",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball Z",
-  "title": "Majin Boo - Dragon Ball Z - Chibi",
+  "title": "Majin Boo [Chibi ver]",
   "images": [
    "images/tanuki-figures/dragon-ball-z/majin-boo-chibi/majin-boo-chibi-1.jpg",
    "images/tanuki-figures/dragon-ball-z/majin-boo-chibi/majin-boo-chibi-2.jpg",
@@ -17027,7 +17027,7 @@ const MODELS = [
   "id": "tanuki-goku-and-bulma",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball",
-  "title": "Goku and Bulma - Dragon Ball - Diorama",
+  "title": "Goku and Bulma - Diorama",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-and-bulma/goku-and-bulma-1.jpg",
    "images/tanuki-figures/dragon-ball/goku-and-bulma/goku-and-bulma-2.jpg"
@@ -17045,7 +17045,7 @@ const MODELS = [
   "id": "tanuki-endeavor",
   "artist": "Tanuki Figures",
   "series": "My Hero Academia",
-  "title": "Endeavor - My Hero Academia",
+  "title": "Endeavor",
   "images": [
    "images/tanuki-figures/my-hero-academia/endeavor/endeavor-1.jpg",
    "images/tanuki-figures/my-hero-academia/endeavor/endeavor-2.jpg",
@@ -17066,7 +17066,7 @@ const MODELS = [
   "id": "tanuki-master-roshi",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball",
-  "title": "Master Roshi - Dragon Ball",
+  "title": "Master Roshi",
   "images": [
    "images/tanuki-figures/dragon-ball/master-roshi/master-roshi-1.jpg",
    "images/tanuki-figures/dragon-ball/master-roshi/master-roshi-2.jpg",
@@ -17106,7 +17106,7 @@ const MODELS = [
   "id": "tanuki-kakashi-chibi",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Kakashi Chibi - Naruto",
+  "title": "Kakashi Chibi",
   "images": [
    "images/tanuki-figures/naruto/kakashi-chibi/kakashi-chibi-1.jpg",
    "images/tanuki-figures/naruto/kakashi-chibi/kakashi-chibi-2.jpg",
@@ -17127,7 +17127,7 @@ const MODELS = [
   "id": "tanuki-guts-chibi",
   "artist": "Tanuki Figures",
   "series": "Berserk",
-  "title": "Guts Chibi - Berserk",
+  "title": "Guts Chibi",
   "images": [
    "images/tanuki-figures/berserk/guts-chibi/guts-chibi-1.jpg",
    "images/tanuki-figures/berserk/guts-chibi/guts-chibi-2.jpg",
@@ -17147,7 +17147,7 @@ const MODELS = [
   "id": "tanuki-chibi-satoru-gojo",
   "artist": "Tanuki Figures",
   "series": "Jujutsu Kaisen",
-  "title": "Chibi Satoru Gojo - Jujutsu Kaisen",
+  "title": "Chibi Satoru Gojo",
   "images": [
    "images/tanuki-figures/jujutsu-kaisen/chibi-satoru-gojo/chibi-satoru-gojo-1.jpg",
    "images/tanuki-figures/jujutsu-kaisen/chibi-satoru-gojo/chibi-satoru-gojo-2.jpg",
@@ -17168,7 +17168,7 @@ const MODELS = [
   "id": "tanuki-zaraki-kenpachi",
   "artist": "Tanuki Figures",
   "series": "Bleach",
-  "title": "Zaraki Kenpachi - Bleach",
+  "title": "Zaraki Kenpachi",
   "images": [
    "images/tanuki-figures/bleach/zaraki-kenpachi/zaraki-kenpachi-1.jpg",
    "images/tanuki-figures/bleach/zaraki-kenpachi/zaraki-kenpachi-2.jpg",
@@ -17188,7 +17188,7 @@ const MODELS = [
   "id": "tanuki-shikamaru-nara",
   "artist": "Tanuki Figures",
   "series": "Naruto Shippuden",
-  "title": "Shikamaru Nara - Naruto Shippuden",
+  "title": "Shikamaru Nara",
   "images": [
    "images/tanuki-figures/naruto-shippuden/shikamaru-nara/shikamaru-nara-1.jpg",
    "images/tanuki-figures/naruto-shippuden/shikamaru-nara/shikamaru-nara-2.jpg",
@@ -17209,7 +17209,7 @@ const MODELS = [
   "id": "tanuki-tony-tony-chopper",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Tony Tony Chopper - One Piece",
+  "title": "Tony Tony Chopper",
   "images": [
    "images/tanuki-figures/one-piece/tony-tony-chopper/tony-tony-chopper-1.jpg",
    "images/tanuki-figures/one-piece/tony-tony-chopper/tony-tony-chopper-2.jpg",
@@ -17230,7 +17230,7 @@ const MODELS = [
   "id": "tanuki-agumon-extra",
   "artist": "Tanuki Figures",
   "series": "Digimon",
-  "title": "Agumon - Digimon",
+  "title": "Agumon",
   "images": [
    "images/tanuki-figures/digimon/agumon-extra/agumon-extra-1.jpg",
    "images/tanuki-figures/digimon/agumon-extra/agumon-extra-2.jpg",
@@ -17251,7 +17251,7 @@ const MODELS = [
   "id": "tanuki-deadpool-chibi",
   "artist": "Tanuki Figures",
   "series": "Deadpool",
-  "title": "Deadpool - Chibi",
+  "title": "Deadpool [Chibi ver]",
   "images": [
    "images/tanuki-figures/deadpool/deadpool-chibi/deadpool-chibi-1.jpg",
    "images/tanuki-figures/deadpool/deadpool-chibi/deadpool-chibi-2.jpg",
@@ -17271,7 +17271,7 @@ const MODELS = [
   "id": "tanuki-freeza",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball Z",
-  "title": "Freeza - Dragon Ball Z",
+  "title": "Freeza",
   "images": [
    "images/tanuki-figures/dragon-ball-z/freeza/freeza-1.jpg",
    "images/tanuki-figures/dragon-ball-z/freeza/freeza-2.jpg",
@@ -17292,7 +17292,7 @@ const MODELS = [
   "id": "tanuki-guile",
   "artist": "Tanuki Figures",
   "series": "Street Fighter",
-  "title": "Guile - Street Fighter",
+  "title": "Guile",
   "images": [
    "images/tanuki-figures/street-fighter/guile/guile-1.jpg",
    "images/tanuki-figures/street-fighter/guile/guile-2.jpg",
@@ -17333,7 +17333,7 @@ const MODELS = [
   "id": "tanuki-all-might",
   "artist": "Tanuki Figures",
   "series": "Boku no Hero Academia",
-  "title": "All Might - Boku no Hero Academia",
+  "title": "All Might",
   "images": [
    "images/tanuki-figures/boku-no-hero-academia/all-might/all-might-1.jpg",
    "images/tanuki-figures/boku-no-hero-academia/all-might/all-might-2.jpg",
@@ -17418,7 +17418,7 @@ const MODELS = [
   "id": "tanuki-ryuk-chibi",
   "artist": "Tanuki Figures",
   "series": "Death Note",
-  "title": "Ryuk - Death Note - Chibi",
+  "title": "Ryuk [Chibi ver]",
   "images": [
    "images/tanuki-figures/death-note/ryuk-chibi/ryuk-chibi-1.jpg",
    "images/tanuki-figures/death-note/ryuk-chibi/ryuk-chibi-2.jpg",
@@ -17441,7 +17441,7 @@ const MODELS = [
   "id": "tanuki-pyramid-head",
   "artist": "Tanuki Figures",
   "series": "Silent Hill",
-  "title": "Pyramid Head - Silent Hill",
+  "title": "Pyramid Head",
   "images": [
    "images/tanuki-figures/silent-hill/pyramid-head/pyramid-head-1.jpg",
    "images/tanuki-figures/silent-hill/pyramid-head/pyramid-head-2.jpg",
@@ -17486,7 +17486,7 @@ const MODELS = [
   "id": "tanuki-zodd",
   "artist": "Tanuki Figures",
   "series": "Berserk",
-  "title": "Zodd - Berserk",
+  "title": "Zodd",
   "images": [
    "images/tanuki-figures/berserk/zodd/zodd-1.jpg",
    "images/tanuki-figures/berserk/zodd/zodd-2.jpg",
@@ -17553,7 +17553,7 @@ const MODELS = [
   "id": "tanuki-luffy",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Luffy - One Piece",
+  "title": "Luffy",
   "images": [
    "images/tanuki-figures/one-piece/luffy/luffy-1.jpg",
    "images/tanuki-figures/one-piece/luffy/luffy-2.jpg",
@@ -17594,7 +17594,7 @@ const MODELS = [
   "id": "tanuki-okarun-chibi",
   "artist": "Tanuki Figures",
   "series": "Dandandan",
-  "title": "Okarun - Dandandan - Chibi",
+  "title": "Okarun [Chibi ver]",
   "images": [
    "images/tanuki-figures/dandandan/okarun-chibi/okarun-chibi-1.jpg",
    "images/tanuki-figures/dandandan/okarun-chibi/okarun-chibi-2.jpg",
@@ -17615,7 +17615,7 @@ const MODELS = [
   "id": "tanuki-goku-saiyuki",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball",
-  "title": "Goku Saiyuki - Dragon Ball",
+  "title": "Goku Saiyuki",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-saiyuki/goku-saiyuki-1.jpg",
    "images/tanuki-figures/dragon-ball/goku-saiyuki/goku-saiyuki-2.jpg",
@@ -17654,7 +17654,7 @@ const MODELS = [
   "id": "tanuki-mugman-extra",
   "artist": "Tanuki Figures",
   "series": "Cuphead",
-  "title": "Mugman - Cuphead",
+  "title": "Mugman",
   "images": [
    "images/tanuki-figures/cuphead/mugman-extra/mugman-extra-1.jpg",
    "images/tanuki-figures/cuphead/mugman-extra/mugman-extra-2.jpg",
@@ -17677,7 +17677,7 @@ const MODELS = [
   "id": "tanuki-sabo",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Sabo - One Piece",
+  "title": "Sabo",
   "images": [
    "images/tanuki-figures/one-piece/sabo/sabo-1.jpg",
    "images/tanuki-figures/one-piece/sabo/sabo-2.jpg",
@@ -17696,7 +17696,7 @@ const MODELS = [
   "id": "tanuki-raziel",
   "artist": "Tanuki Figures",
   "series": "Soul Reaver",
-  "title": "Raziel - Soul Reaver",
+  "title": "Raziel",
   "images": [
    "images/tanuki-figures/soul-reaver/raziel/raziel-1.jpg",
    "images/tanuki-figures/soul-reaver/raziel/raziel-2.jpg",
@@ -17744,7 +17744,7 @@ const MODELS = [
   "id": "tanuki-rhino",
   "artist": "Tanuki Figures",
   "series": "Spider-Man",
-  "title": "Rhino - Spider-Man",
+  "title": "Rhino",
   "images": [
    "images/tanuki-figures/spider-man/rhino/rhino-1.jpg",
    "images/tanuki-figures/spider-man/rhino/rhino-2.jpg",
@@ -17787,7 +17787,7 @@ const MODELS = [
   "id": "tanuki-saitama-vs-boros",
   "artist": "Tanuki Figures",
   "series": "One Punch Man",
-  "title": "Saitama vs Boros - One Punch Man - Diorama",
+  "title": "Saitama vs Boros - Diorama",
   "images": [
    "images/tanuki-figures/one-punch-man/saitama-vs-boros/saitama-vs-boros-1.jpg"
   ],
@@ -17828,7 +17828,7 @@ const MODELS = [
   "id": "tanuki-light-chibi",
   "artist": "Tanuki Figures",
   "series": "Death Note",
-  "title": "Light - Death Note – Chibi",
+  "title": "Light [Chibi ver]",
   "images": [
    "images/tanuki-figures/death-note/light-chibi/light-chibi-1.jpg",
    "images/tanuki-figures/death-note/light-chibi/light-chibi-2.jpg",
@@ -17852,7 +17852,7 @@ const MODELS = [
   "id": "tanuki-bluto",
   "artist": "Tanuki Figures",
   "series": "Popeye",
-  "title": "Bluto - Popeye",
+  "title": "Bluto",
   "images": [
    "images/tanuki-figures/popeye/bluto/bluto-1.jpg",
    "images/tanuki-figures/popeye/bluto/bluto-2.jpg",
@@ -17898,7 +17898,7 @@ const MODELS = [
   "id": "tanuki-itadori-sukuna",
   "artist": "Tanuki Figures",
   "series": "Jujutsu Kaisen",
-  "title": "Itadori/Sukuna - Jujutsu",
+  "title": "Itadori/Sukuna",
   "images": [
    "images/tanuki-figures/jujutsu-kaisen/itadori-sukuna/itadori-sukuna-1.jpg",
    "images/tanuki-figures/jujutsu-kaisen/itadori-sukuna/itadori-sukuna-2.jpg",
@@ -17922,7 +17922,7 @@ const MODELS = [
   "id": "tanuki-frieren-chibi",
   "artist": "Tanuki Figures",
   "series": "Frieren: Beyond Journey's End",
-  "title": "Frieren - Chibi",
+  "title": "Frieren [Chibi ver]",
   "images": [
    "images/tanuki-figures/frieren-beyond-journeys-end/frieren-chibi/frieren-chibi-1.jpg",
    "images/tanuki-figures/frieren-beyond-journeys-end/frieren-chibi/frieren-chibi-2.jpg",
@@ -17946,7 +17946,7 @@ const MODELS = [
   "id": "tanuki-goku-ssj4",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball",
-  "title": "Goku SSJ4 - Dragon Ball",
+  "title": "Goku SSJ4",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-ssj4/goku-ssj4-1.jpg",
    "images/tanuki-figures/dragon-ball/goku-ssj4/goku-ssj4-2.jpg",
@@ -17970,7 +17970,7 @@ const MODELS = [
   "id": "tanuki-puri-puri",
   "artist": "Tanuki Figures",
   "series": "One Punch Man",
-  "title": "Puri-Puri - One Punch Man",
+  "title": "Puri-Puri",
   "images": [
    "images/tanuki-figures/one-punch-man/puri-puri/puri-puri-1.jpg",
    "images/tanuki-figures/one-punch-man/puri-puri/puri-puri-2.jpg",
@@ -17992,7 +17992,7 @@ const MODELS = [
   "id": "tanuki-sandman",
   "artist": "Tanuki Figures",
   "series": "Spider-Man",
-  "title": "Sandman - Spider-Man",
+  "title": "Sandman",
   "images": [
    "images/tanuki-figures/spider-man/sandman/sandman-1.jpg",
    "images/tanuki-figures/spider-man/sandman/sandman-2.jpg",
@@ -18016,7 +18016,7 @@ const MODELS = [
   "id": "tanuki-ciri",
   "artist": "Tanuki Figures",
   "series": "The Witcher",
-  "title": "Ciri - The Witcher 4",
+  "title": "Ciri",
   "images": [
    "images/tanuki-figures/the-witcher/ciri/ciri-1.jpg",
    "images/tanuki-figures/the-witcher/ciri/ciri-2.jpg",
@@ -18040,7 +18040,7 @@ const MODELS = [
   "id": "tanuki-sung-jin-woo",
   "artist": "Tanuki Figures",
   "series": "Solo Leveling",
-  "title": "Sung Jin-Woo - Solo Leveling",
+  "title": "Sung Jin-Woo",
   "images": [
    "images/tanuki-figures/solo-leveling/sung-jin-woo/sung-jin-woo-1.jpg",
    "images/tanuki-figures/solo-leveling/sung-jin-woo/sung-jin-woo-2.jpg",
@@ -18064,7 +18064,7 @@ const MODELS = [
   "id": "tanuki-eddy-extra",
   "artist": "Tanuki Figures",
   "series": "Ed, Edd n Eddy",
-  "title": "Eddy - Ed Edd n Eddy",
+  "title": "Eddy",
   "images": [
    "images/tanuki-figures/ed-edd-n-eddy/eddy-extra/eddy-extra-1.jpg",
    "images/tanuki-figures/ed-edd-n-eddy/eddy-extra/eddy-extra-2.jpg",
@@ -18084,7 +18084,7 @@ const MODELS = [
   "id": "tanuki-momo-ayase-chibi",
   "artist": "Tanuki Figures",
   "series": "Dandandan",
-  "title": "Momo Ayase - Dandandan - Chibi",
+  "title": "Momo Ayase [Chibi ver]",
   "images": [
    "images/tanuki-figures/dandandan/momo-ayase-chibi/momo-ayase-chibi-1.jpg",
    "images/tanuki-figures/dandandan/momo-ayase-chibi/momo-ayase-chibi-2.jpg",
@@ -18104,7 +18104,7 @@ const MODELS = [
   "id": "tanuki-vegeta-ssj3",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball",
-  "title": "Vegeta SSJ3 - Dragon Ball",
+  "title": "Vegeta SSJ3",
   "images": [
    "images/tanuki-figures/dragon-ball/vegeta-ssj3/vegeta-ssj3-1.jpg",
    "images/tanuki-figures/dragon-ball/vegeta-ssj3/vegeta-ssj3-2.jpg",
@@ -18126,7 +18126,7 @@ const MODELS = [
   "id": "tanuki-goliath",
   "artist": "Tanuki Figures",
   "series": "Gargoyles",
-  "title": "Goliath - Gargoyles",
+  "title": "Goliath",
   "images": [
    "images/tanuki-figures/gargoyles/goliath/goliath-1.jpg",
    "images/tanuki-figures/gargoyles/goliath/goliath-2.jpg",
@@ -18150,7 +18150,7 @@ const MODELS = [
   "id": "tanuki-bridget",
   "artist": "Tanuki Figures",
   "series": "Guilty Gear",
-  "title": "Bridget - Guilty Gear",
+  "title": "Bridget",
   "images": [
    "images/tanuki-figures/guilty-gear/bridget/bridget-1.jpg",
    "images/tanuki-figures/guilty-gear/bridget/bridget-2.jpg",
@@ -18174,7 +18174,7 @@ const MODELS = [
   "id": "tanuki-thomas-wayne",
   "artist": "Tanuki Figures",
   "series": "Flashpoint",
-  "title": "Thomas Wayne - Flashpoint",
+  "title": "Thomas Wayne",
   "images": [
    "images/tanuki-figures/flashpoint/thomas-wayne/thomas-wayne-1.jpg",
    "images/tanuki-figures/flashpoint/thomas-wayne/thomas-wayne-2.jpg",
@@ -18197,7 +18197,7 @@ const MODELS = [
   "id": "tanuki-tanjiro",
   "artist": "Tanuki Figures",
   "series": "Demon Slayer",
-  "title": "Tanjiro - Demon Slayer",
+  "title": "Tanjiro",
   "images": [
    "images/tanuki-figures/demon-slayer/tanjiro/tanjiro-1.jpg",
    "images/tanuki-figures/demon-slayer/tanjiro/tanjiro-2.jpg",
@@ -18219,7 +18219,7 @@ const MODELS = [
   "id": "tanuki-kratos-v1",
   "artist": "Tanuki Figures",
   "series": "God of War",
-  "title": "Kratos - God of War",
+  "title": "Kratos",
   "images": [
    "images/tanuki-figures/god-of-war/kratos-v1/kratos-v1-1.jpg",
    "images/tanuki-figures/god-of-war/kratos-v1/kratos-v1-2.jpg",
@@ -18240,7 +18240,7 @@ const MODELS = [
   "id": "tanuki-sanji-chibi",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Sanji - One Piece - Chibi",
+  "title": "Sanji [Chibi ver]",
   "images": [
    "images/tanuki-figures/one-piece/sanji-chibi/sanji-chibi-1.jpg",
    "images/tanuki-figures/one-piece/sanji-chibi/sanji-chibi-2.jpg",
@@ -18264,7 +18264,7 @@ const MODELS = [
   "id": "tanuki-gaara",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Gaara - Naruto",
+  "title": "Gaara",
   "images": [
    "images/tanuki-figures/naruto/gaara/gaara-1.jpg",
    "images/tanuki-figures/naruto/gaara/gaara-2.jpg",
@@ -18288,7 +18288,7 @@ const MODELS = [
   "id": "tanuki-krusty-the-clown-extra",
   "artist": "Tanuki Figures",
   "series": "The Simpsons",
-  "title": "Krusty the Clown - The Simpsons",
+  "title": "Krusty the Clown",
   "images": [
    "images/tanuki-figures/the-simpsons/krusty-the-clown-extra/krusty-the-clown-extra-1.jpg",
    "images/tanuki-figures/the-simpsons/krusty-the-clown-extra/krusty-the-clown-extra-2.jpg",
@@ -18308,7 +18308,7 @@ const MODELS = [
   "id": "tanuki-eren-chibi",
   "artist": "Tanuki Figures",
   "series": "Attack on Titan",
-  "title": "Eren - Attack on Titan – Chibi",
+  "title": "Eren [Chibi ver]",
   "images": [
    "images/tanuki-figures/attack-on-titan/eren-chibi/eren-chibi-1.jpg",
    "images/tanuki-figures/attack-on-titan/eren-chibi/eren-chibi-2.jpg",
@@ -18353,7 +18353,7 @@ const MODELS = [
   "id": "tanuki-morrigan",
   "artist": "Tanuki Figures",
   "series": "Darkstalkers",
-  "title": "Morrigan - Darkstalkers",
+  "title": "Morrigan",
   "images": [
    "images/tanuki-figures/darkstalkers/morrigan/morrigan-1.jpg",
    "images/tanuki-figures/darkstalkers/morrigan/morrigan-2.jpg",
@@ -18375,7 +18375,7 @@ const MODELS = [
   "id": "tanuki-rock-lee",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Rock Lee - Naruto",
+  "title": "Rock Lee",
   "images": [
    "images/tanuki-figures/naruto/rock-lee/rock-lee-1.jpg",
    "images/tanuki-figures/naruto/rock-lee/rock-lee-2.jpg",
@@ -18397,7 +18397,7 @@ const MODELS = [
   "id": "tanuki-zoro",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Zoro - One Piece",
+  "title": "Zoro",
   "images": [
    "images/tanuki-figures/one-piece/zoro/zoro-1.jpg",
    "images/tanuki-figures/one-piece/zoro/zoro-2.jpg",
@@ -18420,7 +18420,7 @@ const MODELS = [
   "id": "tanuki-battle-beast",
   "artist": "Tanuki Figures",
   "series": "Invincible",
-  "title": "Battle Beast - Invincible",
+  "title": "Battle Beast",
   "images": [
    "images/tanuki-figures/invincible/battle-beast/battle-beast-1.jpg",
    "images/tanuki-figures/invincible/battle-beast/battle-beast-2.jpg",
@@ -18444,7 +18444,7 @@ const MODELS = [
   "id": "tanuki-2b",
   "artist": "Tanuki Figures",
   "series": "NieR: Automata",
-  "title": "2B - NieR: Automata",
+  "title": "2B",
   "images": [
    "images/tanuki-figures/nier-automata/2b/2b-1.jpg",
    "images/tanuki-figures/nier-automata/2b/2b-2.jpg",
@@ -18468,7 +18468,7 @@ const MODELS = [
   "id": "tanuki-ed-extra",
   "artist": "Tanuki Figures",
   "series": "Ed, Edd n Eddy",
-  "title": "Ed - Ed, Edd n Eddy",
+  "title": "Ed",
   "images": [
    "images/tanuki-figures/ed-edd-n-eddy/ed-extra/ed-extra-1.jpg",
    "images/tanuki-figures/ed-edd-n-eddy/ed-extra/ed-extra-2.jpg",
@@ -18488,7 +18488,7 @@ const MODELS = [
   "id": "tanuki-galacta",
   "artist": "Tanuki Figures",
   "series": "Marvel Rivals",
-  "title": "Galacta - Marvel Rivals",
+  "title": "Galacta",
   "images": [
    "images/tanuki-figures/marvel-rivals/galacta/galacta-1.jpg",
    "images/tanuki-figures/marvel-rivals/galacta/galacta-2.jpg",
@@ -18509,7 +18509,7 @@ const MODELS = [
   "id": "tanuki-chihiro-and-haku",
   "artist": "Tanuki Figures",
   "series": "Spirited Away",
-  "title": "Chihiro & Haku - Spirited Away",
+  "title": "Chihiro & Haku",
   "images": [
    "images/tanuki-figures/spirited-away/chihiro-and-haku/chihiro-and-haku-1.jpg",
    "images/tanuki-figures/spirited-away/chihiro-and-haku/chihiro-and-haku-2.jpg",
@@ -18531,7 +18531,7 @@ const MODELS = [
   "id": "tanuki-tarma-roving",
   "artist": "Tanuki Figures",
   "series": "Metal Slug",
-  "title": "Tarma Roving - Metal Slug",
+  "title": "Tarma Roving",
   "images": [
    "images/tanuki-figures/metal-slug/tarma-roving/tarma-roving-1.jpg",
    "images/tanuki-figures/metal-slug/tarma-roving/tarma-roving-2.jpg",
@@ -18552,7 +18552,7 @@ const MODELS = [
   "id": "tanuki-rudo",
   "artist": "Tanuki Figures",
   "series": "Gachiakuta",
-  "title": "Rudo - Gachiakuta",
+  "title": "Rudo",
   "images": [
    "images/tanuki-figures/gachiakuta/rudo/rudo-1.jpg",
    "images/tanuki-figures/gachiakuta/rudo/rudo-2.jpg",
@@ -18576,7 +18576,7 @@ const MODELS = [
   "id": "tanuki-sora",
   "artist": "Tanuki Figures",
   "series": "Kingdom Hearts",
-  "title": "Sora - Kingdom Hearts",
+  "title": "Sora",
   "images": [
    "images/tanuki-figures/kingdom-hearts/sora/sora-1.jpg",
    "images/tanuki-figures/kingdom-hearts/sora/sora-2.jpg",
@@ -18623,7 +18623,7 @@ const MODELS = [
   "id": "tanuki-ori-extra",
   "artist": "Tanuki Figures",
   "series": "Ori and the Blind Forest",
-  "title": "Ori - Ori and the Blind Forest",
+  "title": "Ori",
   "images": [
    "images/tanuki-figures/ori-and-the-blind-forest/ori-extra/ori-extra-1.jpg",
    "images/tanuki-figures/ori-and-the-blind-forest/ori-extra/ori-extra-2.jpg",
@@ -18645,7 +18645,7 @@ const MODELS = [
   "id": "tanuki-itachi-chibi",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Itachi - Naruto - Chibi",
+  "title": "Itachi [Chibi ver]",
   "images": [
    "images/tanuki-figures/naruto/itachi-chibi/itachi-chibi-1.jpg",
    "images/tanuki-figures/naruto/itachi-chibi/itachi-chibi-2.jpg",
@@ -18665,7 +18665,7 @@ const MODELS = [
   "id": "tanuki-joker-persona-5",
   "artist": "Tanuki Figures",
   "series": "Persona 5",
-  "title": "Joker - Persona 5",
+  "title": "Joker",
   "images": [
    "images/tanuki-figures/persona-5/joker-persona-5/joker-persona-5-1.jpg",
    "images/tanuki-figures/persona-5/joker-persona-5/joker-persona-5-2.jpg",
@@ -18688,7 +18688,7 @@ const MODELS = [
   "id": "tanuki-zenitsu",
   "artist": "Tanuki Figures",
   "series": "Demon Slayer",
-  "title": "Zenitsu - Kimetsu no Yaiba (Demon Slayer)",
+  "title": "Zenitsu",
   "images": [
    "images/tanuki-figures/demon-slayer/zenitsu/zenitsu-1.jpg",
    "images/tanuki-figures/demon-slayer/zenitsu/zenitsu-2.jpg",
@@ -18712,7 +18712,7 @@ const MODELS = [
   "id": "tanuki-zagreus",
   "artist": "Tanuki Figures",
   "series": "Hades",
-  "title": "Zagreus - Hades",
+  "title": "Zagreus",
   "images": [
    "images/tanuki-figures/hades/zagreus/zagreus-1.jpg",
    "images/tanuki-figures/hades/zagreus/zagreus-2.jpg",
@@ -18736,7 +18736,7 @@ const MODELS = [
   "id": "tanuki-cyclops",
   "artist": "Tanuki Figures",
   "series": "X-Men",
-  "title": "Cyclops - X-Men",
+  "title": "Cyclops",
   "images": [
    "images/tanuki-figures/x-men/cyclops/cyclops-1.jpg",
    "images/tanuki-figures/x-men/cyclops/cyclops-2.jpg",
@@ -18760,7 +18760,7 @@ const MODELS = [
   "id": "tanuki-yamato",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Yamato - One Piece",
+  "title": "Yamato",
   "images": [
    "images/tanuki-figures/one-piece/yamato/yamato-1.jpg",
    "images/tanuki-figures/one-piece/yamato/yamato-2.jpg",
@@ -18781,7 +18781,7 @@ const MODELS = [
   "id": "tanuki-war",
   "artist": "Tanuki Figures",
   "series": "Darksiders",
-  "title": "War - Darksiders",
+  "title": "War",
   "images": [
    "images/tanuki-figures/darksiders/war/war-1.jpg",
    "images/tanuki-figures/darksiders/war/war-2.jpg",
@@ -18805,7 +18805,7 @@ const MODELS = [
   "id": "tanuki-hornet",
   "artist": "Tanuki Figures",
   "series": "Hollow Knight",
-  "title": "Hornet - Hollow Knight: Silksong",
+  "title": "Hornet",
   "images": [
    "images/tanuki-figures/hollow-knight/hornet/hornet-1.jpg",
    "images/tanuki-figures/hollow-knight/hornet/hornet-2.jpg",
@@ -18827,7 +18827,7 @@ const MODELS = [
   "id": "tanuki-lord-death-extra",
   "artist": "Tanuki Figures",
   "series": "Soul Eater",
-  "title": "Lord Death - Soul Eater",
+  "title": "Lord Death",
   "images": [
    "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-1.jpg",
    "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-2.jpg",
@@ -18849,7 +18849,7 @@ const MODELS = [
   "id": "tanuki-pennywise-chibi",
   "artist": "Tanuki Figures",
   "series": "It",
-  "title": "Pennywise - It - Chibi",
+  "title": "Pennywise [Chibi ver]",
   "images": [
    "images/tanuki-figures/it/pennywise-chibi/pennywise-chibi-1.jpg",
    "images/tanuki-figures/it/pennywise-chibi/pennywise-chibi-2.jpg",
@@ -18869,7 +18869,7 @@ const MODELS = [
   "id": "tanuki-nemesis",
   "artist": "Tanuki Figures",
   "series": "Resident Evil",
-  "title": "Nemesis - Resident Evil",
+  "title": "Nemesis",
   "images": [
    "images/tanuki-figures/resident-evil/nemesis/nemesis-1.jpg",
    "images/tanuki-figures/resident-evil/nemesis/nemesis-2.jpg",
@@ -18965,7 +18965,7 @@ const MODELS = [
   "id": "tanuki-orochimaru",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Orochimaru - Naruto",
+  "title": "Orochimaru",
   "images": [
    "images/tanuki-figures/naruto/orochimaru/orochimaru-1.jpg",
    "images/tanuki-figures/naruto/orochimaru/orochimaru-2.jpg",
@@ -18987,7 +18987,7 @@ const MODELS = [
   "id": "tanuki-kaido",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Kaido - One Piece",
+  "title": "Kaido",
   "images": [
    "images/tanuki-figures/one-piece/kaido/kaido-1.jpg",
    "images/tanuki-figures/one-piece/kaido/kaido-2.jpg",
@@ -19031,7 +19031,7 @@ const MODELS = [
   "id": "tanuki-anya-chibi",
   "artist": "Tanuki Figures",
   "series": "Spy x Family",
-  "title": "Anya - Spy x Family - Chibi",
+  "title": "Anya [Chibi ver]",
   "images": [
    "images/tanuki-figures/spy-x-family/anya-chibi/anya-chibi-1.jpg",
    "images/tanuki-figures/spy-x-family/anya-chibi/anya-chibi-2.jpg",
@@ -19052,7 +19052,7 @@ const MODELS = [
   "id": "tanuki-guts",
   "artist": "Tanuki Figures",
   "series": "Berserk",
-  "title": "Guts - Berserk",
+  "title": "Guts",
   "images": [
    "images/tanuki-figures/berserk/guts/guts-1.jpg",
    "images/tanuki-figures/berserk/guts/guts-2.jpg",
@@ -19076,7 +19076,7 @@ const MODELS = [
   "id": "tanuki-tifa",
   "artist": "Tanuki Figures",
   "series": "Final Fantasy VII",
-  "title": "Tifa - Final Fantasy VII",
+  "title": "Tifa",
   "images": [
    "images/tanuki-figures/final-fantasy-vii/tifa/tifa-1.jpg",
    "images/tanuki-figures/final-fantasy-vii/tifa/tifa-2.jpg",
@@ -19100,7 +19100,7 @@ const MODELS = [
   "id": "tanuki-ichigo",
   "artist": "Tanuki Figures",
   "series": "Bleach",
-  "title": "Ichigo - Bleach",
+  "title": "Ichigo",
   "images": [
    "images/tanuki-figures/bleach/ichigo/ichigo-1.jpg",
    "images/tanuki-figures/bleach/ichigo/ichigo-2.jpg",
@@ -19121,7 +19121,7 @@ const MODELS = [
   "id": "tanuki-green-ranger",
   "artist": "Tanuki Figures",
   "series": "Power Rangers",
-  "title": "Green Ranger - Power Rangers",
+  "title": "Green Ranger",
   "images": [
    "images/tanuki-figures/power-rangers/green-ranger/green-ranger-1.jpg",
    "images/tanuki-figures/power-rangers/green-ranger/green-ranger-2.jpg",
@@ -19142,7 +19142,7 @@ const MODELS = [
   "id": "tanuki-m-bison",
   "artist": "Tanuki Figures",
   "series": "Street Fighter",
-  "title": "M. Bison - Street Fighter",
+  "title": "M. Bison",
   "images": [
    "images/tanuki-figures/street-fighter/m-bison/m-bison-1.jpg",
    "images/tanuki-figures/street-fighter/m-bison/m-bison-2.jpg",
@@ -19164,7 +19164,7 @@ const MODELS = [
   "id": "tanuki-kokushibo",
   "artist": "Tanuki Figures",
   "series": "Demon Slayer",
-  "title": "Kokushibo - Demon Slayer",
+  "title": "Kokushibo",
   "images": [
    "images/tanuki-figures/demon-slayer/kokushibo/kokushibo-1.jpg",
    "images/tanuki-figures/demon-slayer/kokushibo/kokushibo-2.jpg",
@@ -19186,7 +19186,7 @@ const MODELS = [
   "id": "tanuki-death-extra",
   "artist": "Tanuki Figures",
   "series": "Puss in Boots",
-  "title": "Death - Puss in Boots",
+  "title": "Death",
   "images": [
    "images/tanuki-figures/puss-in-boots/death-extra/death-extra-1.jpg",
    "images/tanuki-figures/puss-in-boots/death-extra/death-extra-2.jpg",
@@ -19207,7 +19207,7 @@ const MODELS = [
   "id": "tanuki-grinch-chibi",
   "artist": "Tanuki Figures",
   "series": "The Grinch",
-  "title": "Grinch – Chibi",
+  "title": "Grinch [Chibi ver]",
   "images": [
    "images/tanuki-figures/the-grinch/grinch-chibi/grinch-chibi-1.jpg",
    "images/tanuki-figures/the-grinch/grinch-chibi/grinch-chibi-2.jpg",
@@ -19228,7 +19228,7 @@ const MODELS = [
   "id": "tanuki-shiryu",
   "artist": "Tanuki Figures",
   "series": "Saint Seiya",
-  "title": "Shiryu - Saint Seiya",
+  "title": "Shiryu",
   "images": [
    "images/tanuki-figures/saint-seiya/shiryu/shiryu-1.jpg",
    "images/tanuki-figures/saint-seiya/shiryu/shiryu-2.jpg",
@@ -19250,7 +19250,7 @@ const MODELS = [
   "id": "tanuki-archer",
   "artist": "Tanuki Figures",
   "series": "Fate/stay night",
-  "title": "Archer - Fate/stay night",
+  "title": "Archer",
   "images": [
    "images/tanuki-figures/fate-stay-night/archer/archer-1.jpg",
    "images/tanuki-figures/fate-stay-night/archer/archer-2.jpg",
@@ -19272,7 +19272,7 @@ const MODELS = [
   "id": "tanuki-zangief",
   "artist": "Tanuki Figures",
   "series": "Street Fighter",
-  "title": "Zangief - Street Fighter",
+  "title": "Zangief",
   "images": [
    "images/tanuki-figures/street-fighter/zangief/zangief-1.jpg",
    "images/tanuki-figures/street-fighter/zangief/zangief-2.jpg",
@@ -19295,7 +19295,7 @@ const MODELS = [
   "id": "tanuki-nappa",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball Z",
-  "title": "Nappa - Dragon Ball Z",
+  "title": "Nappa",
   "images": [
    "images/tanuki-figures/dragon-ball-z/nappa/nappa-1.jpg",
    "images/tanuki-figures/dragon-ball-z/nappa/nappa-2.jpg",
@@ -19316,7 +19316,7 @@ const MODELS = [
   "id": "tanuki-mark",
   "artist": "Tanuki Figures",
   "series": "Invincible",
-  "title": "Mark - Invincible",
+  "title": "Mark",
   "images": [
    "images/tanuki-figures/invincible/mark/mark-1.jpg",
    "images/tanuki-figures/invincible/mark/mark-2.jpg",
@@ -19340,7 +19340,7 @@ const MODELS = [
   "id": "tanuki-inosuke",
   "artist": "Tanuki Figures",
   "series": "Demon Slayer",
-  "title": "Inosuke - Demon Slayer",
+  "title": "Inosuke",
   "images": [
    "images/tanuki-figures/demon-slayer/inosuke/inosuke-1.jpg",
    "images/tanuki-figures/demon-slayer/inosuke/inosuke-2.jpg",
@@ -19364,7 +19364,7 @@ const MODELS = [
   "id": "tanuki-edd-double-d-extra",
   "artist": "Tanuki Figures",
   "series": "Ed, Edd n Eddy",
-  "title": "Edd (Double D) - Ed, Edd n Eddy",
+  "title": "Edd (Double D)",
   "images": [
    "images/tanuki-figures/ed-edd-n-eddy/edd-double-d-extra/edd-double-d-extra-1.jpg",
    "images/tanuki-figures/ed-edd-n-eddy/edd-double-d-extra/edd-double-d-extra-2.jpg",
@@ -19384,7 +19384,7 @@ const MODELS = [
   "id": "tanuki-nezuko-chibi",
   "artist": "Tanuki Figures",
   "series": "Demon Slayer",
-  "title": "Nezuko - Demon Slayer – Chibi",
+  "title": "Nezuko [Chibi ver]",
   "images": [
    "images/tanuki-figures/demon-slayer/nezuko-chibi/nezuko-chibi-1.jpg",
    "images/tanuki-figures/demon-slayer/nezuko-chibi/nezuko-chibi-2.jpg",
@@ -19406,7 +19406,7 @@ const MODELS = [
   "id": "tanuki-voldemort",
   "artist": "Tanuki Figures",
   "series": "Harry Potter",
-  "title": "Voldemort - Harry Potter",
+  "title": "Voldemort",
   "images": [
    "images/tanuki-figures/harry-potter/voldemort/voldemort-1.jpg",
    "images/tanuki-figures/harry-potter/voldemort/voldemort-2.jpg",
@@ -19452,7 +19452,7 @@ const MODELS = [
   "id": "tanuki-electro",
   "artist": "Tanuki Figures",
   "series": "Spider-Man",
-  "title": "Electro – Spider-Man",
+  "title": "Electro",
   "images": [
    "images/tanuki-figures/spider-man/electro/electro-1.jpg",
    "images/tanuki-figures/spider-man/electro/electro-2.jpg",
@@ -19475,7 +19475,7 @@ const MODELS = [
   "id": "tanuki-satoru-gojo",
   "artist": "Tanuki Figures",
   "series": "Jujutsu Kaisen",
-  "title": "Satoru Gojo - Jujutsu Kaisen",
+  "title": "Satoru Gojo",
   "images": [
    "images/tanuki-figures/jujutsu-kaisen/satoru-gojo/satoru-gojo-1.jpg",
    "images/tanuki-figures/jujutsu-kaisen/satoru-gojo/satoru-gojo-2.jpg",
@@ -19497,7 +19497,7 @@ const MODELS = [
   "id": "tanuki-geralt",
   "artist": "Tanuki Figures",
   "series": "The Witcher",
-  "title": "Geralt - The Witcher 3",
+  "title": "Geralt",
   "images": [
    "images/tanuki-figures/the-witcher/geralt/geralt-1.jpg",
    "images/tanuki-figures/the-witcher/geralt/geralt-2.jpg",
@@ -19520,7 +19520,7 @@ const MODELS = [
   "id": "tanuki-dante",
   "artist": "Tanuki Figures",
   "series": "Devil May Cry 3",
-  "title": "Dante - Devil May Cry 3",
+  "title": "Dante",
   "images": [
    "images/tanuki-figures/devil-may-cry-3/dante/dante-1.jpg",
    "images/tanuki-figures/devil-may-cry-3/dante/dante-2.jpg",
@@ -19544,7 +19544,7 @@ const MODELS = [
   "id": "tanuki-goku-chibi",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball",
-  "title": "Goku - Dragon Ball - Chibi",
+  "title": "Goku [Chibi ver]",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-chibi/goku-chibi-1.jpg",
    "images/tanuki-figures/dragon-ball/goku-chibi/goku-chibi-2.jpg",
@@ -19565,7 +19565,7 @@ const MODELS = [
   "id": "tanuki-meruem",
   "artist": "Tanuki Figures",
   "series": "Hunter × Hunter",
-  "title": "Meruem - Hunter × Hunter",
+  "title": "Meruem",
   "images": [
    "images/tanuki-figures/hunter-hunter/meruem/meruem-1.jpg",
    "images/tanuki-figures/hunter-hunter/meruem/meruem-2.jpg",
@@ -19588,7 +19588,7 @@ const MODELS = [
   "id": "tanuki-jiraiya",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Jiraiya - Naruto",
+  "title": "Jiraiya",
   "images": [
    "images/tanuki-figures/naruto/jiraiya/jiraiya-1.jpg",
    "images/tanuki-figures/naruto/jiraiya/jiraiya-2.jpg",
@@ -19612,7 +19612,7 @@ const MODELS = [
   "id": "tanuki-colossus",
   "artist": "Tanuki Figures",
   "series": "X-Men",
-  "title": "Colossus - X-men",
+  "title": "Colossus",
   "images": [
    "images/tanuki-figures/x-men/colossus/colossus-1.jpg",
    "images/tanuki-figures/x-men/colossus/colossus-2.jpg",
@@ -19636,7 +19636,7 @@ const MODELS = [
   "id": "tanuki-allen-the-alien",
   "artist": "Tanuki Figures",
   "series": "Invincible",
-  "title": "Allen the Alien – Invincible",
+  "title": "Allen the Alien",
   "images": [
    "images/tanuki-figures/invincible/allen-the-alien/allen-the-alien-1.jpg",
    "images/tanuki-figures/invincible/allen-the-alien/allen-the-alien-2.jpg",
@@ -19660,7 +19660,7 @@ const MODELS = [
   "id": "tanuki-chun-li",
   "artist": "Tanuki Figures",
   "series": "Street Fighter",
-  "title": "Chun-Li – Street Fighter",
+  "title": "Chun-Li",
   "images": [
    "images/tanuki-figures/street-fighter/chun-li/chun-li-1.jpg",
    "images/tanuki-figures/street-fighter/chun-li/chun-li-2.jpg",
@@ -19706,7 +19706,7 @@ const MODELS = [
   "id": "tanuki-may",
   "artist": "Tanuki Figures",
   "series": "It Takes Two",
-  "title": "May - It Takes Two",
+  "title": "May",
   "images": [
    "images/tanuki-figures/it-takes-two/may/may-1.jpg",
    "images/tanuki-figures/it-takes-two/may/may-2.jpg",
@@ -19728,7 +19728,7 @@ const MODELS = [
   "id": "tanuki-luffy-chibi",
   "artist": "Tanuki Figures",
   "series": "One Piece",
-  "title": "Luffy - One Piece - Chibi",
+  "title": "Luffy [Chibi ver]",
   "images": [
    "images/tanuki-figures/one-piece/luffy-chibi/luffy-chibi-1.jpg",
    "images/tanuki-figures/one-piece/luffy-chibi/luffy-chibi-2.jpg",
@@ -19748,7 +19748,7 @@ const MODELS = [
   "id": "tanuki-sesshomaru",
   "artist": "Tanuki Figures",
   "series": "Inuyasha",
-  "title": "Sesshomaru - Inuyasha",
+  "title": "Sesshomaru",
   "images": [
    "images/tanuki-figures/inuyasha/sesshomaru/sesshomaru-1.jpg",
    "images/tanuki-figures/inuyasha/sesshomaru/sesshomaru-2.jpg",
@@ -19772,7 +19772,7 @@ const MODELS = [
   "id": "tanuki-magneto",
   "artist": "Tanuki Figures",
   "series": "X-Men",
-  "title": "Magneto - X-Men",
+  "title": "Magneto",
   "images": [
    "images/tanuki-figures/x-men/magneto/magneto-1.jpg",
    "images/tanuki-figures/x-men/magneto/magneto-2.jpg",
@@ -19793,7 +19793,7 @@ const MODELS = [
   "id": "tanuki-motoko",
   "artist": "Tanuki Figures",
   "series": "Ghost in the Shell",
-  "title": "Motoko – Ghost in the Shell",
+  "title": "Motoko",
   "images": [
    "images/tanuki-figures/ghost-in-the-shell/motoko/motoko-1.jpg",
    "images/tanuki-figures/ghost-in-the-shell/motoko/motoko-2.jpg",
@@ -19841,7 +19841,7 @@ const MODELS = [
   "id": "tanuki-death",
   "artist": "Tanuki Figures",
   "series": "Darksiders",
-  "title": "Death - Darksiders II",
+  "title": "Death",
   "images": [
    "images/tanuki-figures/darksiders/death/death-1.jpg",
    "images/tanuki-figures/darksiders/death/death-2.jpg",
@@ -19865,7 +19865,7 @@ const MODELS = [
   "id": "tanuki-kon-extra",
   "artist": "Tanuki Figures",
   "series": "Bleach",
-  "title": "Kon - Bleach",
+  "title": "Kon",
   "images": [
    "images/tanuki-figures/bleach/kon-extra/kon-extra-1.jpg",
    "images/tanuki-figures/bleach/kon-extra/kon-extra-2.jpg",
@@ -19886,7 +19886,7 @@ const MODELS = [
   "id": "tanuki-chocobo-chibi",
   "artist": "Tanuki Figures",
   "series": "Final Fantasy",
-  "title": "Chocobo - Final Fantasy - Chibi",
+  "title": "Chocobo [Chibi ver]",
   "images": [
    "images/tanuki-figures/final-fantasy/chocobo-chibi/chocobo-chibi-1.jpg",
    "images/tanuki-figures/final-fantasy/chocobo-chibi/chocobo-chibi-2.jpg",
@@ -19908,7 +19908,7 @@ const MODELS = [
   "id": "tanuki-gohan-ssj2",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball Z",
-  "title": "Gohan SSJ2 - Dragon Ball Z",
+  "title": "Gohan SSJ2",
   "images": [
    "images/tanuki-figures/dragon-ball-z/gohan-ssj2/gohan-ssj2-1.jpg",
    "images/tanuki-figures/dragon-ball-z/gohan-ssj2/gohan-ssj2-2.jpg",
@@ -19932,7 +19932,7 @@ const MODELS = [
   "id": "tanuki-juggernaut",
   "artist": "Tanuki Figures",
   "series": "X-Men",
-  "title": "Juggernaut - X-Men",
+  "title": "Juggernaut",
   "images": [
    "images/tanuki-figures/x-men/juggernaut/juggernaut-1.jpg",
    "images/tanuki-figures/x-men/juggernaut/juggernaut-2.jpg",
@@ -19953,7 +19953,7 @@ const MODELS = [
   "id": "tanuki-minato",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Minato - Naruto",
+  "title": "Minato",
   "images": [
    "images/tanuki-figures/naruto/minato/minato-1.jpg",
    "images/tanuki-figures/naruto/minato/minato-2.jpg",
@@ -19977,7 +19977,7 @@ const MODELS = [
   "id": "tanuki-dovahkiin",
   "artist": "Tanuki Figures",
   "series": "Skyrim",
-  "title": "Dovahkiin - Skyrim",
+  "title": "Dovahkiin",
   "images": [
    "images/tanuki-figures/skyrim/dovahkiin/dovahkiin-1.jpg",
    "images/tanuki-figures/skyrim/dovahkiin/dovahkiin-2.jpg",
@@ -20000,7 +20000,7 @@ const MODELS = [
   "id": "tanuki-maki",
   "artist": "Tanuki Figures",
   "series": "Jujutsu Kaisen",
-  "title": "Maki - Jujutsu Kaisen",
+  "title": "Maki",
   "images": [
    "images/tanuki-figures/jujutsu-kaisen/maki/maki-1.jpg",
    "images/tanuki-figures/jujutsu-kaisen/maki/maki-2.jpg",
@@ -20024,7 +20024,7 @@ const MODELS = [
   "id": "tanuki-big-boss",
   "artist": "Tanuki Figures",
   "series": "Metal Gear",
-  "title": "Big Boss - Metal Gear",
+  "title": "Big Boss",
   "images": [
    "images/tanuki-figures/metal-gear/big-boss/big-boss-1.jpg",
    "images/tanuki-figures/metal-gear/big-boss/big-boss-2.jpg",
@@ -20048,7 +20048,7 @@ const MODELS = [
   "id": "tanuki-cody",
   "artist": "Tanuki Figures",
   "series": "It Takes Two",
-  "title": "Cody - It Takes Two",
+  "title": "Cody",
   "images": [
    "images/tanuki-figures/it-takes-two/cody/cody-1.jpg",
    "images/tanuki-figures/it-takes-two/cody/cody-2.jpg",
@@ -20070,7 +20070,7 @@ const MODELS = [
   "id": "tanuki-deidara-chibi",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Deidara - Naruto – Chibi",
+  "title": "Deidara [Chibi ver]",
   "images": [
    "images/tanuki-figures/naruto/deidara-chibi/deidara-chibi-1.jpg",
    "images/tanuki-figures/naruto/deidara-chibi/deidara-chibi-2.jpg",
@@ -20091,7 +20091,7 @@ const MODELS = [
   "id": "tanuki-phoenix-ikki",
   "artist": "Tanuki Figures",
   "series": "Saint Seiya",
-  "title": "Phoenix Ikki - Saint Seiya",
+  "title": "Phoenix Ikki",
   "images": [
    "images/tanuki-figures/saint-seiya/phoenix-ikki/phoenix-ikki-1.jpg",
    "images/tanuki-figures/saint-seiya/phoenix-ikki/phoenix-ikki-2.jpg",
@@ -20112,7 +20112,7 @@ const MODELS = [
   "id": "tanuki-darth-vader",
   "artist": "Tanuki Figures",
   "series": "Star Wars",
-  "title": "Darth Vader - Star Wars",
+  "title": "Darth Vader",
   "images": [
    "images/tanuki-figures/star-wars/darth-vader/darth-vader-1.jpg",
    "images/tanuki-figures/star-wars/darth-vader/darth-vader-2.jpg",
@@ -20134,7 +20134,7 @@ const MODELS = [
   "id": "tanuki-master-chief",
   "artist": "Tanuki Figures",
   "series": "Halo 4",
-  "title": "Master Chief - Halo 4",
+  "title": "Master Chief",
   "images": [
    "images/tanuki-figures/halo-4/master-chief/master-chief-1.jpg",
    "images/tanuki-figures/halo-4/master-chief/master-chief-2.jpg",
@@ -20158,7 +20158,7 @@ const MODELS = [
   "id": "tanuki-kratos-v2",
   "artist": "Tanuki Figures",
   "series": "God of War",
-  "title": "Kratos - God of War (2018)",
+  "title": "Kratos",
   "images": [
    "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-1.jpg",
    "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-2.jpg",
@@ -20182,7 +20182,7 @@ const MODELS = [
   "id": "tanuki-malenia",
   "artist": "Tanuki Figures",
   "series": "Elden Ring",
-  "title": "Malenia - Elden Ring",
+  "title": "Malenia",
   "images": [
    "images/tanuki-figures/elden-ring/malenia/malenia-1.jpg",
    "images/tanuki-figures/elden-ring/malenia/malenia-2.jpg",
@@ -20206,7 +20206,7 @@ const MODELS = [
   "id": "tanuki-android-18",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball Z",
-  "title": "Android 18 - Dragon Ball Z",
+  "title": "Android 18",
   "images": [
    "images/tanuki-figures/dragon-ball-z/android-18/android-18-1.jpg",
    "images/tanuki-figures/dragon-ball-z/android-18/android-18-2.jpg",
@@ -20230,7 +20230,7 @@ const MODELS = [
   "id": "tanuki-pakkun",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Pakkun - Naruto",
+  "title": "Pakkun",
   "images": [
    "images/tanuki-figures/naruto/pakkun/pakkun-1.jpg",
    "images/tanuki-figures/naruto/pakkun/pakkun-2.jpg",
@@ -20251,7 +20251,7 @@ const MODELS = [
   "id": "tanuki-goblin-slayer-chibi",
   "artist": "Tanuki Figures",
   "series": "Goblin Slayer",
-  "title": "Goblin Slayer - Chibi",
+  "title": "Goblin Slayer [Chibi ver]",
   "images": [
    "images/tanuki-figures/goblin-slayer/goblin-slayer-chibi/goblin-slayer-chibi-1.jpg",
    "images/tanuki-figures/goblin-slayer/goblin-slayer-chibi/goblin-slayer-chibi-2.jpg",
@@ -20271,7 +20271,7 @@ const MODELS = [
   "id": "tanuki-jin-kazama",
   "artist": "Tanuki Figures",
   "series": "Tekken",
-  "title": "Jin Kazama - Tekken",
+  "title": "Jin Kazama",
   "images": [
    "images/tanuki-figures/tekken/jin-kazama/jin-kazama-1.jpg",
    "images/tanuki-figures/tekken/jin-kazama/jin-kazama-2.jpg",
@@ -20295,7 +20295,7 @@ const MODELS = [
   "id": "tanuki-dr-octopus",
   "artist": "Tanuki Figures",
   "series": "Spider-Man",
-  "title": "Dr. Octopus - Spider-man",
+  "title": "Dr. Octopus",
   "images": [
    "images/tanuki-figures/spider-man/dr-octopus/dr-octopus-1.jpg",
    "images/tanuki-figures/spider-man/dr-octopus/dr-octopus-2.jpg",
@@ -20319,7 +20319,7 @@ const MODELS = [
   "id": "tanuki-faye",
   "artist": "Tanuki Figures",
   "series": "Cowboy Bebop",
-  "title": "Faye - Cowboy Bebop",
+  "title": "Faye",
   "images": [
    "images/tanuki-figures/cowboy-bebop/faye/faye-1.jpg",
    "images/tanuki-figures/cowboy-bebop/faye/faye-2.jpg",
@@ -20342,7 +20342,7 @@ const MODELS = [
   "id": "tanuki-yennefer",
   "artist": "Tanuki Figures",
   "series": "The Witcher",
-  "title": "Yennefer - The Witcher",
+  "title": "Yennefer",
   "images": [
    "images/tanuki-figures/the-witcher/yennefer/yennefer-1.jpg",
    "images/tanuki-figures/the-witcher/yennefer/yennefer-2.jpg",
@@ -20366,7 +20366,7 @@ const MODELS = [
   "id": "tanuki-san",
   "artist": "Tanuki Figures",
   "series": "Princess Mononoke",
-  "title": "San - Princess Mononoke",
+  "title": "San",
   "images": [
    "images/tanuki-figures/princess-mononoke/san/san-1.jpg",
    "images/tanuki-figures/princess-mononoke/san/san-2.jpg",
@@ -20413,7 +20413,7 @@ const MODELS = [
   "id": "tanuki-mr-burns",
   "artist": "Tanuki Figures",
   "series": "The Simpsons",
-  "title": "Mr. Burns - The Simpsons",
+  "title": "Mr. Burns",
   "images": [
    "images/tanuki-figures/the-simpsons/mr-burns/mr-burns-1.jpg",
    "images/tanuki-figures/the-simpsons/mr-burns/mr-burns-2.jpg",
@@ -20433,7 +20433,7 @@ const MODELS = [
   "id": "tanuki-ghost-rider-chibi",
   "artist": "Tanuki Figures",
   "series": "Ghost Rider",
-  "title": "Ghost Rider - Chibi",
+  "title": "Ghost Rider [Chibi ver]",
   "images": [
    "images/tanuki-figures/ghost-rider/ghost-rider-chibi/ghost-rider-chibi-1.jpg",
    "images/tanuki-figures/ghost-rider/ghost-rider-chibi/ghost-rider-chibi-2.jpg",
@@ -20455,7 +20455,7 @@ const MODELS = [
   "id": "tanuki-eva-01",
   "artist": "Tanuki Figures",
   "series": "Neon Genesis Evangelion",
-  "title": "Eva 01 - Neon Genesis Evangelion",
+  "title": "Eva 01",
   "images": [
    "images/tanuki-figures/neon-genesis-evangelion/eva-01/eva-01-1.jpg",
    "images/tanuki-figures/neon-genesis-evangelion/eva-01/eva-01-2.jpg",
@@ -20479,7 +20479,7 @@ const MODELS = [
   "id": "tanuki-albedo",
   "artist": "Tanuki Figures",
   "series": "Overlord",
-  "title": "Albedo - Overlord",
+  "title": "Albedo",
   "images": [
    "images/tanuki-figures/overlord/albedo/albedo-1.jpg",
    "images/tanuki-figures/overlord/albedo/albedo-2.jpg",
@@ -20503,7 +20503,7 @@ const MODELS = [
   "id": "tanuki-sagat",
   "artist": "Tanuki Figures",
   "series": "Street Fighter",
-  "title": "Sagat - Street Fighter",
+  "title": "Sagat",
   "images": [
    "images/tanuki-figures/street-fighter/sagat/sagat-1.jpg",
    "images/tanuki-figures/street-fighter/sagat/sagat-2.jpg",
@@ -20527,7 +20527,7 @@ const MODELS = [
   "id": "tanuki-vincent-valentine",
   "artist": "Tanuki Figures",
   "series": "Final Fantasy VII",
-  "title": "Vincent Valentine - Final Fantasy VII",
+  "title": "Vincent Valentine",
   "images": [
    "images/tanuki-figures/final-fantasy-vii/vincent-valentine/vincent-valentine-1.jpg",
    "images/tanuki-figures/final-fantasy-vii/vincent-valentine/vincent-valentine-2.jpg",
@@ -20551,7 +20551,7 @@ const MODELS = [
   "id": "tanuki-wolverine",
   "artist": "Tanuki Figures",
   "series": "X-Men",
-  "title": "Wolverine - X-Men",
+  "title": "Wolverine",
   "images": [
    "images/tanuki-figures/x-men/wolverine/wolverine-1.jpg",
    "images/tanuki-figures/x-men/wolverine/wolverine-2.jpg",
@@ -20574,7 +20574,7 @@ const MODELS = [
   "id": "tanuki-edward",
   "artist": "Tanuki Figures",
   "series": "Assassin's Creed",
-  "title": "Edward - Assassin's Creed Black Flag",
+  "title": "Edward",
   "images": [
    "images/tanuki-figures/assassins-creed/edward/edward-1.jpg",
    "images/tanuki-figures/assassins-creed/edward/edward-2.jpg",
@@ -20598,7 +20598,7 @@ const MODELS = [
   "id": "tanuki-moogle",
   "artist": "Tanuki Figures",
   "series": "Final Fantasy",
-  "title": "Moogle - Final Fantasy",
+  "title": "Moogle",
   "images": [
    "images/tanuki-figures/final-fantasy/moogle/moogle-1.jpg",
    "images/tanuki-figures/final-fantasy/moogle/moogle-2.jpg",
@@ -20622,7 +20622,7 @@ const MODELS = [
   "id": "tanuki-kisame-chibi",
   "artist": "Tanuki Figures",
   "series": "Naruto",
-  "title": "Kisame - Naruto - Chibi",
+  "title": "Kisame [Chibi ver]",
   "images": [
    "images/tanuki-figures/naruto/kisame-chibi/kisame-chibi-1.jpg",
    "images/tanuki-figures/naruto/kisame-chibi/kisame-chibi-2.jpg",
@@ -20643,7 +20643,7 @@ const MODELS = [
   "id": "tanuki-musashi",
   "artist": "Tanuki Figures",
   "series": "Vagabond",
-  "title": "Musashi - Vagabond",
+  "title": "Musashi",
   "images": [
    "images/tanuki-figures/vagabond/musashi/musashi-1.jpg",
    "images/tanuki-figures/vagabond/musashi/musashi-2.jpg",
