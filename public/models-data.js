@@ -807,7 +807,7 @@ const MODELS = [
   "id": "kc-fem-shepard",
   "artist": "KcStudio",
   "series": "Mass Effect",
-  "title": "Commander Shepard [Fem Ver]",
+  "title": "CDR Jane Shepard",
   "images": [
    "images/kc-studio/mass-effect/fem-shep/shepard-1.jpg",
    "images/kc-studio/mass-effect/fem-shep/shepard-2.jpg",
@@ -1346,7 +1346,7 @@ const MODELS = [
  {
   "id": "kc-venom",
   "artist": "KcStudio",
-  "series": "Venom",
+  "series": "Spider-Man",
   "title": "Venom",
   "images": [
    "images/kc-studio/venom/venom/venom-1.jpg",
@@ -2112,7 +2112,7 @@ const MODELS = [
   "id": "abe-jessica-cruz-green-lantern",
   "artist": "Abe3D",
   "series": "Green Lantern",
-  "title": "Jessica Cruz Green Lantern",
+  "title": "Jessica Cruz | Green Lantern",
   "images": [
    "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-1.jpg",
    "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-2.jpg",
@@ -2394,7 +2394,7 @@ const MODELS = [
   "id": "abe-star-sapphire",
   "artist": "Abe3D",
   "series": "Green Lantern",
-  "title": "Star Sapphire",
+  "title": "Carol Ferris | Star Sapphire",
   "images": [
    "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-1.jpg",
    "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-2.jpg",
@@ -3065,7 +3065,7 @@ const MODELS = [
  {
   "id": "abe-cortana",
   "artist": "Abe3D",
-  "series": "Halo",
+  "series": "Halo 4",
   "title": "Cortana",
   "images": [
    "images/abe3d/halo/cortana/abe-cortana-1.jpg",
@@ -5169,7 +5169,7 @@ const MODELS = [
  {
   "id": "abe-quiet",
   "artist": "Abe3D",
-  "series": "Metal Gear Solid",
+  "series": "Metal Gear Solid 5",
   "title": "Quiet",
   "images": [
    "images/abe3d/metal-gear-solid/quiet/abe-quiet-1.jpg",
@@ -6045,8 +6045,8 @@ const MODELS = [
  {
   "id": "abe-pyramid-head",
   "artist": "Abe3D",
-  "series": "Silent Hill",
-  "title": "Pyramid Head",
+  "series": "Silent Hill 2",
+  "title": "Pyramid Head [F]",
   "images": [
    "images/abe3d/silent-hill/pyramid-head/abe-pyramid-head-1.jpg",
    "images/abe3d/silent-hill/pyramid-head/abe-pyramid-head-2.jpg",
@@ -7029,7 +7029,7 @@ const MODELS = [
  {
   "id": "abe-april-oneil",
   "artist": "Abe3D",
-  "series": "TMNT",
+  "series": "Teenage Mutant Ninja Turtles",
   "title": "April O'Neil",
   "images": [
    "images/abe3d/tmnt/april-oneil/abe-april-oneil-1.jpg",
@@ -9652,7 +9652,7 @@ const MODELS = [
  {
   "id": "moonn-april-oneil",
   "artist": "3Dmoonn",
-  "series": "TMNT",
+  "series": "Teenage Mutant Ninja Turtles",
   "title": "April O'Neil",
   "images": [
    "images/3dmoonn/tmnt/april-oneil/moonn-april-oneil-1.jpg",
@@ -10312,7 +10312,7 @@ const MODELS = [
  {
   "id": "moonn-jessica-cruz",
   "artist": "3Dmoonn",
-  "series": "Green Lantern",
+  "series": "Jessica Cruz | Green Lantern",
   "title": "Jessica Cruz",
   "images": [
    "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-1.jpg",
@@ -11376,7 +11376,7 @@ const MODELS = [
  {
   "id": "moonn-sango",
   "artist": "3Dmoonn",
-  "series": "InuYasha",
+  "series": "Inuyasha",
   "title": "Sango",
   "images": [
    "images/3dmoonn/inuyasha/sango/moonn-sango-1.jpg",
@@ -14163,7 +14163,7 @@ const MODELS = [
  {
   "id": "bulka-artemis",
   "artist": "Bulkamancer Sculpts",
-  "series": "Hades",
+  "series": "Hades II",
   "title": "Artemis",
   "images": [
    "images/bulkamancer/hades/artemis/bulka-artemis-1.jpg",
@@ -14216,7 +14216,7 @@ const MODELS = [
  {
   "id": "bulka-melinoe",
   "artist": "Bulkamancer Sculpts",
-  "series": "Hades",
+  "series": "Hades II",
   "title": "Melinoe",
   "images": [
    "images/bulkamancer/hades/melinoe/bulka-melinoe-1.jpg",
@@ -14238,7 +14238,7 @@ const MODELS = [
  {
   "id": "bulka-nemesis",
   "artist": "Bulkamancer Sculpts",
-  "series": "Hades",
+  "series": "Hades II",
   "title": "Nemesis",
   "images": [
    "images/bulkamancer/hades/nemesis/bulka-nemesis-1.jpg",
@@ -14383,7 +14383,7 @@ const MODELS = [
  {
   "id": "bulka-aloy",
   "artist": "Bulkamancer Sculpts",
-  "series": "Horizon",
+  "series": "Horizon Zero Dawn",
   "title": "Aloy",
   "images": [
    "images/bulkamancer/horizon/aloy/bulka-aloy-1.jpg",
@@ -14720,7 +14720,7 @@ const MODELS = [
   "id": "bulka-jane-shepard",
   "artist": "Bulkamancer Sculpts",
   "series": "Mass Effect",
-  "title": "Jane Shepard",
+  "title": "CDR Jane Shepard",
   "images": [
    "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-1.jpg",
    "images/bulkamancer/mass-effect/jane-shepard/bulka-jane-shepard-2.jpg",
@@ -14743,7 +14743,7 @@ const MODELS = [
  {
   "id": "bulka-eva",
   "artist": "Bulkamancer Sculpts",
-  "series": "Metal Gear Solid",
+  "series": "Metal Gear Solid 3",
   "title": "EVA",
   "images": [
    "images/bulkamancer/metal-gear-solid/eva/bulka-eva-1.jpg",
@@ -14819,7 +14819,7 @@ const MODELS = [
  {
   "id": "bulka-gemma",
   "artist": "Bulkamancer Sculpts",
-  "series": "Monster Hunter",
+  "series": "Monster Hunter Wilds",
   "title": "Gemma",
   "images": [
    "images/bulkamancer/monster-hunter/gemma/bulka-gemma-1.jpg",
@@ -15581,7 +15581,7 @@ const MODELS = [
  {
   "id": "bulka-claire-redfield",
   "artist": "Bulkamancer Sculpts",
-  "series": "Resident Evil: Requiem",
+  "series": "Resident Evil 2",
   "title": "Claire Redfield",
   "images": [
    "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-1.jpg",
@@ -15632,7 +15632,7 @@ const MODELS = [
  {
   "id": "bulka-hinako",
   "artist": "Bulkamancer Sculpts",
-  "series": "Silent Hill",
+  "series": "Silent Hill f",
   "title": "Hinako",
   "images": [
    "images/bulkamancer/silent-hill/hinako/bulka-hinako-1.jpg",
@@ -15657,7 +15657,7 @@ const MODELS = [
  {
   "id": "bulka-pyramid-head",
   "artist": "Bulkamancer Sculpts",
-  "series": "Silent Hill",
+  "series": "Silent Hill 2",
   "title": "Pyramid Head",
   "images": [
    "images/bulkamancer/silent-hill/pyramid-head/bulka-pyramid-head-1.jpg",
@@ -17423,7 +17423,7 @@ const MODELS = [
  {
   "id": "tanuki-pyramid-head",
   "artist": "Tanuki Figures",
-  "series": "Silent Hill",
+  "series": "Silent Hill 2",
   "title": "Pyramid Head",
   "images": [
    "images/tanuki-figures/silent-hill/pyramid-head/pyramid-head-1.jpg",
@@ -18312,7 +18312,7 @@ const MODELS = [
   "id": "tanuki-green-lantern",
   "artist": "Tanuki Figures",
   "series": "Green Lantern",
-  "title": "Green Lantern",
+  "title": "John Stweart | Green Lantern",
   "images": [
    "images/tanuki-figures/green-lantern/green-lantern/green-lantern-1.jpg",
    "images/tanuki-figures/green-lantern/green-lantern/green-lantern-2.jpg",
@@ -18805,28 +18805,6 @@ const MODELS = [
    }
   ],
   "description": "Original resin sculpt of Hornet from Hollow Knight."
- },
- {
-  "id": "tanuki-lord-death-extra",
-  "artist": "Tanuki Figures",
-  "series": "Soul Eater",
-  "title": "Lord Death",
-  "images": [
-   "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-1.jpg",
-   "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-2.jpg",
-   "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-3.jpg",
-   "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-4.jpg",
-   "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-5.jpg",
-   "images/tanuki-figures/soul-eater/lord-death-extra/lord-death-extra-6.jpg"
-  ],
-  "scaleOptions": [
-   {
-    "scale": "Scale not yet listed",
-    "size": "Approx. 5.8 in (14.8 cm) tall",
-    "etsyUrl": "LINK_GOES_HERE"
-   }
-  ],
-  "description": "A resin sculpt of Lord Death from Soul Eater."
  },
  {
   "id": "tanuki-pennywise-chibi",
@@ -19547,7 +19525,7 @@ const MODELS = [
  {
   "id": "tanuki-meruem",
   "artist": "Tanuki Figures",
-  "series": "Hunter × Hunter",
+  "series": "Hunter x Hunter",
   "title": "Meruem",
   "images": [
    "images/tanuki-figures/hunter-hunter/meruem/meruem-1.jpg",
@@ -21117,7 +21095,7 @@ const MODELS = [
   "id": "ca3d-alucard-hellsing",
   "artist": "CA3D Studios",
   "series": "Hellsing",
-  "title": "Alucard (Hellsing)",
+  "title": "Alucard",
   "images": [
    "images/ca3d/hellsing/alucard-hellsing/alucard-hellsing-1.jpg",
    "images/ca3d/hellsing/alucard-hellsing/alucard-hellsing-2.jpg",
@@ -21336,7 +21314,7 @@ const MODELS = [
  {
   "id": "ca3d-balrog-vs-gandalf",
   "artist": "CA3D Studios",
-  "series": "The Lord of the Rings",
+  "series": "Lord of the Rings",
   "title": "Balrog vs Gandalf",
   "images": [
    "images/ca3d/the-lord-of-the-rings/balrog-vs-gandalf/balrog-vs-gandalf-1.jpg"
@@ -22604,15 +22582,15 @@ const MODELS = [
  {
   "id": "ca3d-eve",
   "artist": "CA3D Studios",
-  "series": "Shin Megami Tensei / Generic",
+  "series": "Stellar Blade",
   "title": "Eve",
   "images": [
-   "images/ca3d/shin-megami-tensei-generic/eve/eve-1.jpg",
-   "images/ca3d/shin-megami-tensei-generic/eve/eve-2.jpg",
-   "images/ca3d/shin-megami-tensei-generic/eve/eve-3.jpg",
-   "images/ca3d/shin-megami-tensei-generic/eve/eve-4.jpg",
-   "images/ca3d/shin-megami-tensei-generic/eve/eve-5.jpg",
-   "images/ca3d/shin-megami-tensei-generic/eve/eve-6.jpg"
+   "images/ca3d/stellar-blade/eve/eve-1.jpg",
+   "images/ca3d/stellar-blade/eve/eve-2.jpg",
+   "images/ca3d/stellar-blade/eve/eve-3.jpg",
+   "images/ca3d/stellar-blade/eve/eve-4.jpg",
+   "images/ca3d/stellar-blade/eve/eve-5.jpg",
+   "images/ca3d/stellar-blade/eve/eve-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -22875,33 +22853,6 @@ const MODELS = [
    }
   ],
   "description": "Original resin sculpt of Frankenstein Bride from Classic Horror."
- },
- {
-  "id": "ca3d-freyja",
-  "artist": "CA3D Studios",
-  "series": "Norse Mythology",
-  "title": "Freyja",
-  "images": [
-   "images/ca3d/norse-mythology/freyja/freyja-1.jpg",
-   "images/ca3d/norse-mythology/freyja/freyja-2.jpg",
-   "images/ca3d/norse-mythology/freyja/freyja-3.jpg",
-   "images/ca3d/norse-mythology/freyja/freyja-4.jpg",
-   "images/ca3d/norse-mythology/freyja/freyja-5.jpg",
-   "images/ca3d/norse-mythology/freyja/freyja-6.jpg"
-  ],
-  "scaleOptions": [
-   {
-    "scale": "1/6 Scale",
-    "size": "Size not specified by designer",
-    "etsyUrl": "LINK_GOES_HERE"
-   },
-   {
-    "scale": "1/9 Scale",
-    "size": "Size not specified by designer",
-    "etsyUrl": "LINK_GOES_HERE"
-   }
-  ],
-  "description": "Original resin sculpt of Freyja from Norse Mythology."
  },
  {
   "id": "ca3d-gambit",
@@ -23530,8 +23481,8 @@ const MODELS = [
  {
   "id": "ca3d-jinx-2",
   "artist": "CA3D Studios",
-  "series": "League of Legends / Arcane",
-  "title": "Jinx - 2",
+  "series": "League of Legends",
+  "title": "Jinx",
   "images": [
    "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-1.jpg",
    "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-2.jpg",
@@ -23999,7 +23950,7 @@ const MODELS = [
   "id": "ca3d-kratos-v1-nordic-era",
   "artist": "CA3D Studios",
   "series": "God of War (2018)",
-  "title": "Kratos (v1 - Nordic era)",
+  "title": "Kratos",
   "images": [
    "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-1.jpg",
    "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-2.jpg",
@@ -24032,7 +23983,7 @@ const MODELS = [
   "id": "ca3d-kratos-v2-greek-era",
   "artist": "CA3D Studios",
   "series": "God of War",
-  "title": "Kratos (v2 - Greek era)",
+  "title": "Kratos",
   "images": [
    "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-1.jpg",
    "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-2.jpg",
@@ -24462,7 +24413,7 @@ const MODELS = [
  {
   "id": "ca3d-lord-drakkon",
   "artist": "CA3D Studios",
-  "series": "Power Rangers (comics)",
+  "series": "Power Rangers",
   "title": "Lord Drakkon",
   "images": [
    "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-1.jpg",
@@ -25569,8 +25520,8 @@ const MODELS = [
  {
   "id": "ca3d-princess-mononoke",
   "artist": "CA3D Studios",
-  "series": "Studio Ghibli",
-  "title": "Princess Mononoke",
+  "series": "Princess Mononoke",
+  "title": "San and Moro",
   "images": [
    "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-1.jpg",
    "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-2.jpg",
@@ -25712,7 +25663,7 @@ const MODELS = [
  {
   "id": "ca3d-quiet",
   "artist": "CA3D Studios",
-  "series": "Metal Gear Solid V",
+  "series": "Metal Gear Solid 5",
   "title": "Quiet",
   "images": [
    "images/ca3d/metal-gear-solid-v/quiet/quiet-1.jpg",
