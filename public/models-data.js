@@ -480,7 +480,7 @@ const MODELS = [
   "id": "jts-robin",
   "artist": "Jace the Sculptor",
   "series": "Batman",
-  "title": "Robin [Damian Wayne ver]",
+  "title": "Robin [Damian Wayne]",
   "images": [
    "images/jace-the-sculptor/batman/robin/jts-robin-1.jpg",
    "images/jace-the-sculptor/batman/robin/jts-robin-2.jpg",
@@ -762,7 +762,7 @@ const MODELS = [
   "id": "kc-batman-chair",
   "artist": "KcStudio",
   "series": "Batman",
-  "title": "Batman on the Throne",
+  "title": "Batman",
   "images": [
    "images/kc-studio/batman/batman-chair/batman-1.jpg",
    "images/kc-studio/batman/batman-chair/batman-2.jpg",
@@ -1304,7 +1304,7 @@ const MODELS = [
   "id": "kc-hunter",
   "artist": "KcStudio",
   "series": "Bloodborne",
-  "title": "The Hunter",
+  "title": "Hunter",
   "images": [
    "images/kc-studio/bloodborne/hunter/hunter-bloodborne-1.jpg",
    "images/kc-studio/bloodborne/hunter/hunter-bloodborne-2.jpg"
@@ -1509,8 +1509,8 @@ const MODELS = [
  {
   "id": "vm-duchess",
   "artist": "Volition Miniatures",
-  "series": "Elden Ring",
-  "title": "Duchess [Nightreign]",
+  "series": "Elden Ring: Nightreign",
+  "title": "Duchess",
   "images": [
    "images/volition-miniatures/elden-ring/duchess/vm-duchess-1.jpg",
    "images/volition-miniatures/elden-ring/duchess/vm-duchess-2.jpg",
@@ -1665,8 +1665,8 @@ const MODELS = [
  {
   "id": "vm-rev-seb",
   "artist": "Volition Miniatures",
-  "series": "Elden Ring",
-  "title": "Revenant & Sebastian Diorama [Nightreign]",
+  "series": "Elden Ring: Nightreign",
+  "title": "Revenant & Sebastian Diorama",
   "images": [
    "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-1.jpg",
    "images/volition-miniatures/elden-ring/revenant+sebastian-diorama/vm-rev+seb-dio-2.jpg",
@@ -1735,8 +1735,8 @@ const MODELS = [
  {
   "id": "vm-wylder",
   "artist": "Volition Miniatures",
-  "series": "Elden Ring",
-  "title": "Wylder [Nightreign]",
+  "series": "Elden Ring: Nightreign",
+  "title": "Wylder",
   "images": [
    "images/volition-miniatures/elden-ring/wylder/vm-wylder-1.jpg",
    "images/volition-miniatures/elden-ring/wylder/vm-wylder-2.jpg",
@@ -1805,7 +1805,7 @@ const MODELS = [
   "id": "abe-bayonetta",
   "artist": "Abe3D",
   "series": "Bayonetta",
-  "title": "Bayonetta by Davi",
+  "title": "Bayonetta",
   "images": [
    "images/abe3d/bayonetta/bayonetta/abe-bayonetta-1.jpg",
    "images/abe3d/bayonetta/bayonetta/abe-bayonetta-2.jpg",
@@ -2031,7 +2031,7 @@ const MODELS = [
   "id": "abe-harley-quinn-classic",
   "artist": "Abe3D",
   "series": "Batman",
-  "title": "Harley Quinn Classic",
+  "title": "Harley Quinn [Classic Outfit]",
   "images": [
    "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-1.jpg",
    "images/abe3d/batman/harley-quinn-classic/abe-harley-quinn-classic-2.jpg",
@@ -2060,15 +2060,15 @@ const MODELS = [
   "id": "abe-harley-quinn-pine",
   "artist": "Abe3D",
   "series": "Batman",
-  "title": "Harley Quinn pine",
+  "title": "Harley Quinn [The Dark Prince Charming]",
   "images": [
-   "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-1.jpg",
-   "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-2.jpg",
-   "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-3.jpg",
-   "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-4.jpg",
-   "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-5.jpg",
-   "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-6.jpg",
-   "images/abe3d/batman/harley-quinn-pine/abe-harley-quinn-pine-7.jpg"
+   "images/abe3d/batman/harley-quinn/abe-harley-quinn-pine-1.jpg",
+   "images/abe3d/batman/harley-quinn/abe-harley-quinn-pine-2.jpg",
+   "images/abe3d/batman/harley-quinn/abe-harley-quinn-pine-3.jpg",
+   "images/abe3d/batman/harley-quinn/abe-harley-quinn-pine-4.jpg",
+   "images/abe3d/batman/harley-quinn/abe-harley-quinn-pine-5.jpg",
+   "images/abe3d/batman/harley-quinn/abe-harley-quinn-pine-6.jpg",
+   "images/abe3d/batman/harley-quinn/abe-harley-quinn-pine-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -2744,7 +2744,7 @@ const MODELS = [
  {
   "id": "abe-ariel-mermaid",
   "artist": "Abe3D",
-  "series": "Disney",
+  "series": "Disney's The Little Mermaid",
   "title": "Ariel - The Little Mermaid",
   "images": [
    "images/abe3d/disney/ariel-mermaid/abe-ariel-mermaid-1.jpg",
@@ -2771,26 +2771,9 @@ const MODELS = [
   "description": "A mermaid sculpt inspired by Disney's Ariel, flowing tail and hair rendered in fine detail."
  },
  {
-  "id": "abe-tinker-bell",
-  "artist": "Abe3D",
-  "series": "Disney",
-  "title": "Tinker Bell",
-  "images": [
-   "images/abe3d/disney/tinker-bell/abe-tinker-bell-1.png"
-  ],
-  "scaleOptions": [
-   {
-    "scale": "1/6 Scale",
-    "size": "Size not yet listed",
-    "etsyUrl": "LINK_GOES_HERE"
-   }
-  ],
-  "description": "Tinker Bell, Peter Pan's pixie companion, sculpted with the delicate wings and pixie-dust charm she's known for."
- },
- {
   "id": "abe-android-18",
   "artist": "Abe3D",
-  "series": "Dragon Ball",
+  "series": "Dragon Ball Z",
   "title": "Android 18",
   "images": [
    "images/abe3d/dragon-ball/android-18/abe-android-18-1.jpg",
@@ -3369,14 +3352,14 @@ const MODELS = [
   "series": "Avengers",
   "title": "Black Widow",
   "images": [
-   "images/abe3d/avengers/black-widow/abe-black-widow-1.jpg",
-   "images/abe3d/avengers/black-widow/abe-black-widow-2.jpg",
-   "images/abe3d/avengers/black-widow/abe-black-widow-3.jpg",
-   "images/abe3d/avengers/black-widow/abe-black-widow-4.jpg",
-   "images/abe3d/avengers/black-widow/abe-black-widow-5.jpg",
-   "images/abe3d/avengers/black-widow/abe-black-widow-6.jpg",
-   "images/abe3d/avengers/black-widow/abe-black-widow-7.jpg",
-   "images/abe3d/avengers/black-widow/abe-black-widow-8.jpg"
+   "images/abe3d/black-widow/black-widow/abe-black-widow-1.jpg",
+   "images/abe3d/black-widow/black-widow/abe-black-widow-2.jpg",
+   "images/abe3d/black-widow/black-widow/abe-black-widow-3.jpg",
+   "images/abe3d/black-widow/black-widow/abe-black-widow-4.jpg",
+   "images/abe3d/black-widow/black-widow/abe-black-widow-5.jpg",
+   "images/abe3d/black-widow/black-widow/abe-black-widow-6.jpg",
+   "images/abe3d/black-widow/black-widow/abe-black-widow-7.jpg",
+   "images/abe3d/black-widow/black-widow/abe-black-widow-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -3512,7 +3495,7 @@ const MODELS = [
   "id": "abe-elektra-abe",
   "artist": "Abe3D",
   "series": "Daredevil",
-  "title": "Elektra abe",
+  "title": "Elektra",
   "images": [
    "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-1.jpg",
    "images/abe3d/daredevil/elektra-abe/abe-elektra-abe-2.jpg",
@@ -3541,7 +3524,7 @@ const MODELS = [
   "id": "abe-elektra-lt3d",
   "artist": "Abe3D",
   "series": "Daredevil",
-  "title": "Elektra lt3d",
+  "title": "Elektra",
   "images": [
    "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-1.jpg",
    "images/abe3d/daredevil/elektra-lt3d/abe-elektra-lt3d-2.jpg",
@@ -4999,7 +4982,7 @@ const MODELS = [
   "id": "abe-sue-storm-jungles",
   "artist": "Abe3D",
   "series": "Fantastic Four",
-  "title": "Sue Storm jungles",
+  "title": "Sue Storm",
   "images": [
    "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-1.jpg",
    "images/abe3d/fantastic-four/sue-storm-jungles/abe-sue-storm-jungles-2.jpg",
@@ -7710,7 +7693,7 @@ const MODELS = [
  {
   "id": "moonn-dante",
   "artist": "3Dmoonn",
-  "series": "Devil May Cry",
+  "series": "Devil May Cry 5",
   "title": "Dante",
   "images": [
    "images/3dmoonn/devil-may-cry/dante/moonn-dante-1.jpg",
@@ -7962,7 +7945,7 @@ const MODELS = [
  {
   "id": "moonn-fern",
   "artist": "3Dmoonn",
-  "series": "Frieren",
+  "series": "Frieren: Beyond Journey's End",
   "title": "Fern",
   "images": [
    "images/3dmoonn/frieren/fern/moonn-fern-1.jpg",
@@ -7986,7 +7969,7 @@ const MODELS = [
  {
   "id": "moonn-frieren",
   "artist": "3Dmoonn",
-  "series": "Frieren",
+  "series": "Frieren: Beyond Journey's End",
   "title": "Frieren",
   "images": [
    "images/3dmoonn/frieren/frieren/moonn-frieren-1.jpg",
@@ -8260,7 +8243,7 @@ const MODELS = [
  {
   "id": "moonn-lady",
   "artist": "3Dmoonn",
-  "series": "Devil May Cry",
+  "series": "Devil May Cry 3",
   "title": "Lady",
   "images": [
    "images/3dmoonn/devil-may-cry/lady/moonn-lady-1.jpg",
@@ -9330,7 +9313,7 @@ const MODELS = [
  {
   "id": "moonn-vergil",
   "artist": "3Dmoonn",
-  "series": "Devil May Cry",
+  "series": "Devil May Cry 5",
   "title": "Vergil",
   "images": [
    "images/3dmoonn/devil-may-cry/vergil/moonn-vergil-1.jpg",
@@ -9600,7 +9583,7 @@ const MODELS = [
  {
   "id": "moonn-android-21",
   "artist": "3Dmoonn",
-  "series": "Dragon Ball",
+  "series": "Dragon Ball Fighter Z",
   "title": "Android 21",
   "images": [
    "images/3dmoonn/dragon-ball/android-21/moonn-android-21-1.jpg",
@@ -9942,7 +9925,7 @@ const MODELS = [
  {
   "id": "moonn-elektra",
   "artist": "3Dmoonn",
-  "series": "Elektra",
+  "series": "Daredevil",
   "title": "Elektra",
   "images": [
    "images/3dmoonn/elektra/elektra/moonn-elektra-1.jpg",
@@ -10946,7 +10929,7 @@ const MODELS = [
  {
   "id": "moonn-nero",
   "artist": "3Dmoonn",
-  "series": "Devil May Cry",
+  "series": "Devil May Cry 5",
   "title": "Nero",
   "images": [
    "images/3dmoonn/devil-may-cry/nero/moonn-nero-1.jpg",
@@ -13105,7 +13088,7 @@ const MODELS = [
   "id": "bulka-aldrich",
   "artist": "Bulkamancer Sculpts",
   "series": "Dark Souls III",
-  "title": "Aldrich",
+  "title": "Aldrich, Devourer of Gods",
   "images": [
    "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-1.jpg",
    "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-2.jpg",
@@ -13151,7 +13134,7 @@ const MODELS = [
   "id": "bulka-nashandra",
   "artist": "Bulkamancer Sculpts",
   "series": "Dark Souls II",
-  "title": "Nashandra",
+  "title": "Queen Nashandra",
   "images": [
    "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-1.jpg",
    "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-2.jpg",
@@ -13174,7 +13157,7 @@ const MODELS = [
   "id": "bulka-priscilla",
   "artist": "Bulkamancer Sculpts",
   "series": "Dark Souls",
-  "title": "Priscilla",
+  "title": "Crossbreed Priscilla",
   "images": [
    "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-1.jpg",
    "images/bulkamancer/dark-souls/priscilla/bulka-priscilla-2.jpg",
@@ -13247,7 +13230,7 @@ const MODELS = [
   "id": "bulka-sam-bridges",
   "artist": "Bulkamancer Sculpts",
   "series": "Death Stranding",
-  "title": "Sam Bridges",
+  "title": "Sam Porter Bridges ",
   "images": [
    "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-1.jpg",
    "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-3.jpg",
@@ -13368,7 +13351,7 @@ const MODELS = [
  {
   "id": "bulka-lady",
   "artist": "Bulkamancer Sculpts",
-  "series": "Devil May Cry",
+  "series": "Devil May Cry 3",
   "title": "Lady",
   "images": [
    "images/bulkamancer/devil-may-cry/lady/bulka-lady-1.jpg",
@@ -13879,7 +13862,7 @@ const MODELS = [
  {
   "id": "bulka-fern",
   "artist": "Bulkamancer Sculpts",
-  "series": "Frieren",
+  "series": "Frieren: Beyond Journey's End",
   "title": "Fern",
   "images": [
    "images/bulkamancer/frieren/fern/bulka-fern-1.jpg",
@@ -13900,7 +13883,7 @@ const MODELS = [
  {
   "id": "bulka-frieren",
   "artist": "Bulkamancer Sculpts",
-  "series": "Frieren",
+  "series": "Frieren: Beyond Journey's End",
   "title": "Frieren",
   "images": [
    "images/bulkamancer/frieren/frieren/bulka-frieren-1.jpg",
@@ -13926,7 +13909,7 @@ const MODELS = [
  {
   "id": "bulka-frieren-white-dress",
   "artist": "Bulkamancer Sculpts",
-  "series": "Frieren",
+  "series": "Frieren: Beyond Journey's End",
   "title": "Frieren (White Dress)",
   "images": [
    "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-1.jpg",
@@ -13949,7 +13932,7 @@ const MODELS = [
  {
   "id": "bulka-himmel-the-hero",
   "artist": "Bulkamancer Sculpts",
-  "series": "Frieren",
+  "series": "Frieren: Beyond Journey's End",
   "title": "Himmel the Hero",
   "images": [
    "images/bulkamancer/frieren/himmel-the-hero/bulka-himmel-the-hero-1.jpg",
@@ -16844,7 +16827,7 @@ const MODELS = [
   "id": "tanuki-ornstein",
   "artist": "Tanuki Figures",
   "series": "Dark Souls",
-  "title": "Ornstein",
+  "title": "Dragon Slayer Ornstein",
   "images": [
    "images/tanuki-figures/dark-souls/ornstein/ornstein-1.jpg",
    "images/tanuki-figures/dark-souls/ornstein/ornstein-2.jpg",
@@ -17332,7 +17315,7 @@ const MODELS = [
  {
   "id": "tanuki-all-might",
   "artist": "Tanuki Figures",
-  "series": "Boku no Hero Academia",
+  "series": "My Hero Academia",
   "title": "All Might",
   "images": [
    "images/tanuki-figures/boku-no-hero-academia/all-might/all-might-1.jpg",
@@ -17614,8 +17597,8 @@ const MODELS = [
  {
   "id": "tanuki-goku-saiyuki",
   "artist": "Tanuki Figures",
-  "series": "Dragon Ball",
-  "title": "Goku Saiyuki",
+  "series": "Dragon Ball Z",
+  "title": "Goku [Saiyuki]",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-saiyuki/goku-saiyuki-1.jpg",
    "images/tanuki-figures/dragon-ball/goku-saiyuki/goku-saiyuki-2.jpg",
@@ -17629,7 +17612,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Goku Saiyuki from Dragon Ball."
+  "description": "A fullsize resin sculpt of Goku in his Saiyuki (Hourney to the West) outfit from Dragon Ball."
  },
  {
   "id": "tanuki-omni-man",
@@ -17828,7 +17811,7 @@ const MODELS = [
   "id": "tanuki-light-chibi",
   "artist": "Tanuki Figures",
   "series": "Death Note",
-  "title": "Light (Chibi)",
+  "title": "Light Yagami (Chibi)",
   "images": [
    "images/tanuki-figures/death-note/light-chibi/light-chibi-1.jpg",
    "images/tanuki-figures/death-note/light-chibi/light-chibi-2.jpg",
@@ -17945,7 +17928,7 @@ const MODELS = [
  {
   "id": "tanuki-goku-ssj4",
   "artist": "Tanuki Figures",
-  "series": "Dragon Ball",
+  "series": "Dragon Ball DAIMA",
   "title": "Goku SSJ4",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-ssj4/goku-ssj4-1.jpg",
@@ -18103,7 +18086,7 @@ const MODELS = [
  {
   "id": "tanuki-vegeta-ssj3",
   "artist": "Tanuki Figures",
-  "series": "Dragon Ball",
+  "series": "Dragon Ball DAIMA",
   "title": "Vegeta SSJ3",
   "images": [
    "images/tanuki-figures/dragon-ball/vegeta-ssj3/vegeta-ssj3-1.jpg",
@@ -18125,7 +18108,7 @@ const MODELS = [
  {
   "id": "tanuki-goliath",
   "artist": "Tanuki Figures",
-  "series": "Gargoyles",
+  "series": "Disney's Gargoyles",
   "title": "Goliath",
   "images": [
    "images/tanuki-figures/gargoyles/goliath/goliath-1.jpg",
@@ -19793,7 +19776,7 @@ const MODELS = [
   "id": "tanuki-motoko",
   "artist": "Tanuki Figures",
   "series": "Ghost in the Shell",
-  "title": "Motoko",
+  "title": "Motoko Kusanagi",
   "images": [
    "images/tanuki-figures/ghost-in-the-shell/motoko/motoko-1.jpg",
    "images/tanuki-figures/ghost-in-the-shell/motoko/motoko-2.jpg",
@@ -19840,7 +19823,7 @@ const MODELS = [
  {
   "id": "tanuki-death",
   "artist": "Tanuki Figures",
-  "series": "Darksiders",
+  "series": "Darksiders II",
   "title": "Death",
   "images": [
    "images/tanuki-figures/darksiders/death/death-1.jpg",
@@ -21435,7 +21418,7 @@ const MODELS = [
   "id": "ca3d-batgirl",
   "artist": "CA3D Studios",
   "series": "Batman",
-  "title": "BatGirl",
+  "title": "Batgirl",
   "images": [
    "images/ca3d/batman/batgirl/batgirl-1.jpg",
    "images/ca3d/batman/batgirl/batgirl-2.jpg",
@@ -22349,8 +22332,8 @@ const MODELS = [
  {
   "id": "ca3d-death-darksiders",
   "artist": "CA3D Studios",
-  "series": "Darksiders",
-  "title": "Death (Darksiders)",
+  "series": "Darksiders II",
+  "title": "Death",
   "images": [
    "images/ca3d/darksiders/death-darksiders/death-darksiders-1.jpg",
    "images/ca3d/darksiders/death-darksiders/death-darksiders-2.jpg",
@@ -22413,7 +22396,7 @@ const MODELS = [
  {
   "id": "ca3d-demona-and-goliath",
   "artist": "CA3D Studios",
-  "series": "Gargoyles (Disney)",
+  "series": "Disney's Gargoyles",
   "title": "Demona and Goliath",
   "images": [
    "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-1.jpg",
@@ -22671,7 +22654,7 @@ const MODELS = [
  {
   "id": "ca3d-evil-queen",
   "artist": "CA3D Studios",
-  "series": "Disney Snow White",
+  "series": "Disney's Snow White",
   "title": "Evil Queen",
   "images": [
    "images/ca3d/disney-snow-white/evil-queen/evil-queen-1.jpg",
@@ -23453,7 +23436,7 @@ const MODELS = [
  {
   "id": "ca3d-jasmine",
   "artist": "CA3D Studios",
-  "series": "Disney Aladdin",
+  "series": "Disney's Aladdin",
   "title": "Jasmine",
   "images": [
    "images/ca3d/disney-aladdin/jasmine/jasmine-1.jpg",
@@ -23887,7 +23870,7 @@ const MODELS = [
  {
   "id": "ca3d-kida",
   "artist": "CA3D Studios",
-  "series": "Disney Atlantis: The Lost Empire",
+  "series": "Disney's Atlantis: The Lost Empire",
   "title": "Kida",
   "images": [
    "images/ca3d/disney-atlantis-the-lost-empire/kida/kida-1.jpg",
@@ -24502,17 +24485,17 @@ const MODELS = [
  {
   "id": "ca3d-lucy",
   "artist": "CA3D Studios",
-  "series": "Elfen Lied",
+  "series": "Cyberpunk: Edgerunners",
   "title": "Lucy",
   "images": [
-   "images/ca3d/elfen-lied/lucy/lucy-1.jpg",
-   "images/ca3d/elfen-lied/lucy/lucy-2.jpg",
-   "images/ca3d/elfen-lied/lucy/lucy-3.jpg",
-   "images/ca3d/elfen-lied/lucy/lucy-4.jpg",
-   "images/ca3d/elfen-lied/lucy/lucy-5.jpg",
-   "images/ca3d/elfen-lied/lucy/lucy-6.jpg",
-   "images/ca3d/elfen-lied/lucy/lucy-7.jpg",
-   "images/ca3d/elfen-lied/lucy/lucy-8.jpg"
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-1.jpg",
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-2.jpg",
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-3.jpg",
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-4.jpg",
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-5.jpg",
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-6.jpg",
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-7.jpg",
+   "images/ca3d/cyberpunk-edgerunners/lucy/lucy-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -24759,7 +24742,7 @@ const MODELS = [
  {
   "id": "ca3d-maleficent",
   "artist": "CA3D Studios",
-  "series": "Disney Sleeping Beauty",
+  "series": "Disney's Sleeping Beauty",
   "title": "Maleficent",
   "images": [
    "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-1.jpg",
@@ -25082,7 +25065,7 @@ const MODELS = [
   "id": "ca3d-morrigan-dragon-age",
   "artist": "CA3D Studios",
   "series": "Dragon Age",
-  "title": "Morrigan (Dragon Age)",
+  "title": "Morrigan",
   "images": [
    "images/ca3d/dragon-age/morrigan-dragon-age/morrigan-dragon-age-1.jpg"
   ],
@@ -25099,14 +25082,14 @@ const MODELS = [
   "id": "ca3d-morrigan-aensland-darkstalkers",
   "artist": "CA3D Studios",
   "series": "Darkstalkers",
-  "title": "Morrigan Aensland (Darkstalkers)",
+  "title": "Morrigan",
   "images": [
-   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-1.jpg",
-   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-2.jpg",
-   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-3.jpg",
-   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-4.jpg",
-   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-5.jpg",
-   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-6.jpg"
+   "images/ca3d/darkstalkers/morrigan/morrigan-1.jpg",
+   "images/ca3d/darkstalkers/morrigan/morrigan-2.jpg",
+   "images/ca3d/darkstalkers/morrigan/morrigan-3.jpg",
+   "images/ca3d/darkstalkers/morrigan/morrigan-4.jpg",
+   "images/ca3d/darkstalkers/morrigan/morrigan-5.jpg",
+   "images/ca3d/darkstalkers/morrigan/morrigan-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -25131,7 +25114,7 @@ const MODELS = [
   "id": "ca3d-motoko-v1",
   "artist": "CA3D Studios",
   "series": "Ghost in the Shell",
-  "title": "Motoko (v1)",
+  "title": "Motoko Kusanagi",
   "images": [
    "images/ca3d/ghost-in-the-shell/motoko-v1/motoko-v1-1.jpg",
    "images/ca3d/ghost-in-the-shell/motoko-v1/motoko-v1-2.jpg",
@@ -25162,7 +25145,7 @@ const MODELS = [
   "id": "ca3d-motoko-v2",
   "artist": "CA3D Studios",
   "series": "Ghost in the Shell",
-  "title": "Motoko (v2)",
+  "title": "Motoko Kusanagi",
   "images": [
    "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-1.jpg",
    "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-2.jpg",
@@ -25190,7 +25173,7 @@ const MODELS = [
  {
   "id": "ca3d-mulan",
   "artist": "CA3D Studios",
-  "series": "Disney Mulan",
+  "series": "Disney's Mulan",
   "title": "Mulan",
   "images": [
    "images/ca3d/disney-mulan/mulan/mulan-1.jpg",
@@ -25513,11 +25496,11 @@ const MODELS = [
   "id": "ca3d-power-chainsawman",
   "artist": "CA3D Studios",
   "series": "Chainsaw Man",
-  "title": "Power - Chainsawman",
+  "title": "Power",
   "images": [
-   "images/ca3d/chainsaw-man/power-chainsawman/power-chainsawman-1.jpg",
-   "images/ca3d/chainsaw-man/power-chainsawman/power-chainsawman-2.jpg",
-   "images/ca3d/chainsaw-man/power-chainsawman/power-chainsawman-3.jpg"
+   "images/ca3d/chainsaw-man/power/power-chainsawman-1.jpg",
+   "images/ca3d/chainsaw-man/power/power-chainsawman-2.jpg",
+   "images/ca3d/chainsaw-man/power/power-chainsawman-3.jpg"
   ],
   "scaleOptions": [
    {
@@ -25849,7 +25832,7 @@ const MODELS = [
  {
   "id": "ca3d-rapunzel",
   "artist": "CA3D Studios",
-  "series": "Disney Tangled",
+  "series": "Disney's Tangled",
   "title": "Rapunzel",
   "images": [
    "images/ca3d/disney-tangled/rapunzel/rapunzel-1.jpg",
@@ -27434,16 +27417,16 @@ const MODELS = [
   "id": "ca3d-the-hunter",
   "artist": "CA3D Studios",
   "series": "Bloodborne",
-  "title": "The Hunter",
+  "title": "Hunter",
   "images": [
-   "images/ca3d/bloodborne/the-hunter/the-hunter-1.jpg",
-   "images/ca3d/bloodborne/the-hunter/the-hunter-2.jpg",
-   "images/ca3d/bloodborne/the-hunter/the-hunter-3.jpg",
-   "images/ca3d/bloodborne/the-hunter/the-hunter-4.jpg",
-   "images/ca3d/bloodborne/the-hunter/the-hunter-5.jpg",
-   "images/ca3d/bloodborne/the-hunter/the-hunter-6.jpg",
-   "images/ca3d/bloodborne/the-hunter/the-hunter-7.jpg",
-   "images/ca3d/bloodborne/the-hunter/the-hunter-8.jpg"
+   "images/ca3d/bloodborne/hunter/the-hunter-1.jpg",
+   "images/ca3d/bloodborne/hunter/the-hunter-2.jpg",
+   "images/ca3d/bloodborne/hunter/the-hunter-3.jpg",
+   "images/ca3d/bloodborne/hunter/the-hunter-4.jpg",
+   "images/ca3d/bloodborne/hunter/the-hunter-5.jpg",
+   "images/ca3d/bloodborne/hunter/the-hunter-6.jpg",
+   "images/ca3d/bloodborne/hunter/the-hunter-7.jpg",
+   "images/ca3d/bloodborne/hunter/the-hunter-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -27662,7 +27645,7 @@ const MODELS = [
  {
   "id": "ca3d-ursula",
   "artist": "CA3D Studios",
-  "series": "Disney The Little Mermaid",
+  "series": "Disney's The Little Mermaid",
   "title": "Ursula",
   "images": [
    "images/ca3d/disney-the-little-mermaid/ursula/ursula-1.jpg",
