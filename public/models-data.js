@@ -161,7 +161,7 @@ const MODELS = [
  {
   "id": "jts-conan",
   "artist": "Jace the Sculptor",
-  "series": "Conan",
+  "series": "Conan the Barbarian",
   "title": "Conan the Barbarian",
   "images": [
    "images/jace-the-sculptor/conan/conan/jts-conan-1.jpg",
@@ -8694,7 +8694,7 @@ const MODELS = [
  {
   "id": "moonn-rebecca",
   "artist": "3Dmoonn",
-  "series": "Cyberpunk Edgerunners",
+  "series": "Cyberpunk: Edgerunners",
   "title": "Rebecca",
   "images": [
    "images/3dmoonn/cyberpunk-edgerunners/rebecca/moonn-rebecca-1.jpg",
@@ -8711,7 +8711,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Rebecca, Cyberpunk Edgerunners' trigger-happy mercenary, sculpted small and vicious with her oversized revolver in hand."
+  "description": "Rebecca, Cyberpunk: Edgerunners' trigger-happy mercenary, sculpted small and vicious with her oversized revolver in hand."
  },
  {
   "id": "moonn-red-sonja",
@@ -9354,7 +9354,7 @@ const MODELS = [
  {
   "id": "moonn-weak-kingsley",
   "artist": "3Dmoonn",
-  "series": "Cyberpunk",
+  "series": "Cyberpunk: Edgerunners 2",
   "title": "Weak Kingsley",
   "images": [
    "images/3dmoonn/cyberpunk/weak-kingsley/moonn-weak-kingsley-1.jpg",
@@ -10621,7 +10621,7 @@ const MODELS = [
  {
   "id": "moonn-lucy",
   "artist": "3Dmoonn",
-  "series": "Cyberpunk Edgerunners",
+  "series": "Cyberpunk: Edgerunners",
   "title": "Lucy",
   "images": [
    "images/3dmoonn/cyberpunk-edgerunners/lucy/moonn-lucy-1.jpg",
@@ -11647,7 +11647,7 @@ const MODELS = [
  {
   "id": "moonn-talia-yang",
   "artist": "3Dmoonn",
-  "series": "Cyberpunk",
+  "series": "Cyberpunk: Edgerunners 2",
   "title": "Talia Yang",
   "images": [
    "images/3dmoonn/cyberpunk/talia-yang/moonn-talia-yang-1.jpg",
@@ -13032,7 +13032,7 @@ const MODELS = [
  {
   "id": "bulka-valerie",
   "artist": "Bulkamancer Sculpts",
-  "series": "Cyberpunk",
+  "series": "Cyberpunk 2077",
   "title": "Valerie",
   "images": [
    "images/bulkamancer/cyberpunk/valerie/bulka-valerie-1.jpg",
@@ -13057,7 +13057,7 @@ const MODELS = [
  {
   "id": "bulka-lucy-and-david",
   "artist": "Bulkamancer Sculpts",
-  "series": "Cyberpunk Edgerunners",
+  "series": "Cyberpunk: Edgerunners",
   "title": "Lucy and David",
   "images": [
    "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-1.jpg",
@@ -13081,7 +13081,7 @@ const MODELS = [
  {
   "id": "bulka-rebecca",
   "artist": "Bulkamancer Sculpts",
-  "series": "Cyberpunk Edgerunners",
+  "series": "Cyberpunk: Edgerunners",
   "title": "Rebecca",
   "images": [
    "images/bulkamancer/cyberpunk-edgerunners/rebecca/bulka-rebecca-1.jpg",
@@ -17593,14 +17593,14 @@ const MODELS = [
  {
   "id": "tanuki-okarun-chibi",
   "artist": "Tanuki Figures",
-  "series": "Dandandan",
+  "series": "Dandadan",
   "title": "Okarun (Chibi)",
   "images": [
-   "images/tanuki-figures/dandandan/okarun-chibi/okarun-chibi-1.jpg",
-   "images/tanuki-figures/dandandan/okarun-chibi/okarun-chibi-2.jpg",
-   "images/tanuki-figures/dandandan/okarun-chibi/okarun-chibi-3.jpg",
-   "images/tanuki-figures/dandandan/okarun-chibi/okarun-chibi-4.jpg",
-   "images/tanuki-figures/dandandan/okarun-chibi/okarun-chibi-5.jpg"
+   "images/tanuki-figures/dandadan/okarun-chibi/okarun-chibi-1.jpg",
+   "images/tanuki-figures/dandadan/okarun-chibi/okarun-chibi-2.jpg",
+   "images/tanuki-figures/dandadan/okarun-chibi/okarun-chibi-3.jpg",
+   "images/tanuki-figures/dandadan/okarun-chibi/okarun-chibi-4.jpg",
+   "images/tanuki-figures/dandadan/okarun-chibi/okarun-chibi-5.jpg"
   ],
   "scaleOptions": [
    {
@@ -17609,7 +17609,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A chibi-style resin sculpt of Okarun from Dandandan."
+  "description": "A chibi-style resin sculpt of Okarun from Dan Da Dan."
  },
  {
   "id": "tanuki-goku-saiyuki",
@@ -18083,13 +18083,13 @@ const MODELS = [
  {
   "id": "tanuki-momo-ayase-chibi",
   "artist": "Tanuki Figures",
-  "series": "Dandandan",
+  "series": "Dandadan",
   "title": "Momo Ayase (Chibi)",
   "images": [
-   "images/tanuki-figures/dandandan/momo-ayase-chibi/momo-ayase-chibi-1.jpg",
-   "images/tanuki-figures/dandandan/momo-ayase-chibi/momo-ayase-chibi-2.jpg",
-   "images/tanuki-figures/dandandan/momo-ayase-chibi/momo-ayase-chibi-3.jpg",
-   "images/tanuki-figures/dandandan/momo-ayase-chibi/momo-ayase-chibi-4.jpg"
+   "images/tanuki-figures/dandadan/momo-ayase-chibi/momo-ayase-chibi-1.jpg",
+   "images/tanuki-figures/dandadan/momo-ayase-chibi/momo-ayase-chibi-2.jpg",
+   "images/tanuki-figures/dandadan/momo-ayase-chibi/momo-ayase-chibi-3.jpg",
+   "images/tanuki-figures/dandadan/momo-ayase-chibi/momo-ayase-chibi-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -18098,7 +18098,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A chibi-style resin sculpt of Momo Ayase from Dandandan."
+  "description": "A chibi-style resin sculpt of Momo Ayase from Dan Da Dan."
  },
  {
   "id": "tanuki-vegeta-ssj3",
@@ -18308,7 +18308,7 @@ const MODELS = [
   "id": "tanuki-eren-chibi",
   "artist": "Tanuki Figures",
   "series": "Attack on Titan",
-  "title": "Eren (Chibi)",
+  "title": "Eren Yeager (Chibi)",
   "images": [
    "images/tanuki-figures/attack-on-titan/eren-chibi/eren-chibi-1.jpg",
    "images/tanuki-figures/attack-on-titan/eren-chibi/eren-chibi-2.jpg",
@@ -18323,7 +18323,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A chibi-style resin sculpt of Eren from Attack on Titan."
+  "description": "A chibi-style resin sculpt of Eren Yeager from Attack on Titan."
  },
  {
   "id": "tanuki-green-lantern",
@@ -20319,7 +20319,7 @@ const MODELS = [
   "id": "tanuki-faye",
   "artist": "Tanuki Figures",
   "series": "Cowboy Bebop",
-  "title": "Faye",
+  "title": "Faye Valentine",
   "images": [
    "images/tanuki-figures/cowboy-bebop/faye/faye-1.jpg",
    "images/tanuki-figures/cowboy-bebop/faye/faye-2.jpg",
@@ -20901,7 +20901,7 @@ const MODELS = [
  {
   "id": "ca3d-akame",
   "artist": "CA3D Studios",
-  "series": "Akame ga Kill",
+  "series": "Akame ga Kill!",
   "title": "Akame",
   "images": [
    "images/ca3d/akame-ga-kill/akame/akame-1.jpg",
@@ -20925,7 +20925,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Akame from Akame ga Kill."
+  "description": "Original resin sculpt of Akame from Akame ga Kill!."
  },
  {
   "id": "ca3d-akuma",
@@ -23809,11 +23809,11 @@ const MODELS = [
   "series": "Baldur's Gate 3",
   "title": "Karlach",
   "images": [
-   "images/ca3d/baldur-s-gate-3/karlach/karlach-1.jpg",
-   "images/ca3d/baldur-s-gate-3/karlach/karlach-2.jpg",
-   "images/ca3d/baldur-s-gate-3/karlach/karlach-3.jpg",
-   "images/ca3d/baldur-s-gate-3/karlach/karlach-4.jpg",
-   "images/ca3d/baldur-s-gate-3/karlach/karlach-5.jpg"
+   "images/ca3d/baldurs-gate-3/karlach/karlach-1.jpg",
+   "images/ca3d/baldurs-gate-3/karlach/karlach-2.jpg",
+   "images/ca3d/baldurs-gate-3/karlach/karlach-3.jpg",
+   "images/ca3d/baldurs-gate-3/karlach/karlach-4.jpg",
+   "images/ca3d/baldurs-gate-3/karlach/karlach-5.jpg"
   ],
   "scaleOptions": [
    {
@@ -23984,7 +23984,7 @@ const MODELS = [
  {
   "id": "ca3d-korra",
   "artist": "CA3D Studios",
-  "series": "The Legend of Korra",
+  "series": "Avatar: The Legend of Korra",
   "title": "Korra",
   "images": [
    "images/ca3d/the-legend-of-korra/korra/korra-1.jpg",
@@ -24010,7 +24010,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Korra from The Legend of Korra."
+  "description": "Original resin sculpt of Korra from Avatar: The Legend of Korra."
  },
  {
   "id": "ca3d-kratos-v1-nordic-era",
@@ -24186,33 +24186,6 @@ const MODELS = [
    }
   ],
   "description": "Original resin sculpt of Lady Maria from Bloodborne."
- },
- {
-  "id": "ca3d-lady-of-the-lake",
-  "artist": "CA3D Studios",
-  "series": "Arthurian Legend",
-  "title": "Lady of the Lake",
-  "images": [
-   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-1.jpg",
-   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-2.jpg",
-   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-3.jpg",
-   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-4.jpg",
-   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-5.jpg",
-   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-6.jpg"
-  ],
-  "scaleOptions": [
-   {
-    "scale": "1/9 Scale",
-    "size": "Size not specified by designer",
-    "etsyUrl": "LINK_GOES_HERE"
-   },
-   {
-    "scale": "1/6 Scale",
-    "size": "Size not specified by designer",
-    "etsyUrl": "LINK_GOES_HERE"
-   }
-  ],
-  "description": "Original resin sculpt of Lady of the Lake from Arthurian Legend."
  },
  {
   "id": "ca3d-lady-thor",
@@ -24909,32 +24882,10 @@ const MODELS = [
   "description": "Original resin sculpt of Mercury from Sailor Moon."
  },
  {
-  "id": "ca3d-merlin",
-  "artist": "CA3D Studios",
-  "series": "Arthurian Legend",
-  "title": "Merlin",
-  "images": [
-   "images/ca3d/arthurian-legend/merlin/merlin-1.jpg",
-   "images/ca3d/arthurian-legend/merlin/merlin-2.jpg",
-   "images/ca3d/arthurian-legend/merlin/merlin-3.jpg",
-   "images/ca3d/arthurian-legend/merlin/merlin-4.jpg",
-   "images/ca3d/arthurian-legend/merlin/merlin-5.jpg",
-   "images/ca3d/arthurian-legend/merlin/merlin-6.jpg"
-  ],
-  "scaleOptions": [
-   {
-    "scale": "Scale not yet listed",
-    "size": "Size not specified by designer",
-    "etsyUrl": "LINK_GOES_HERE"
-   }
-  ],
-  "description": "Original resin sculpt of Merlin from Arthurian Legend."
- },
- {
   "id": "ca3d-mikasa",
   "artist": "CA3D Studios",
   "series": "Attack on Titan",
-  "title": "Mikasa",
+  "title": "Mikasa Ackerman",
   "images": [
    "images/ca3d/attack-on-titan/mikasa/mikasa-1.jpg",
    "images/ca3d/attack-on-titan/mikasa/mikasa-2.jpg",
@@ -25015,16 +24966,16 @@ const MODELS = [
   "id": "ca3d-minthara-baldurs-gate-3",
   "artist": "CA3D Studios",
   "series": "Baldur's Gate 3",
-  "title": "Minthara-Baldurs Gate 3",
+  "title": "Minthara",
   "images": [
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-1.jpg",
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-2.jpg",
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-3.jpg",
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-4.jpg",
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-5.jpg",
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-6.jpg",
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-7.jpg",
-   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-8.jpg"
+   "images/ca3d/baldurs-gate-3/minthara/minthara-1.jpg",
+   "images/ca3d/baldurs-gate-3/minthara/minthara-2.jpg",
+   "images/ca3d/baldurs-gate-3/minthara/minthara-3.jpg",
+   "images/ca3d/baldurs-gate-3/minthara/minthara-4.jpg",
+   "images/ca3d/baldurs-gate-3/minthara/minthara-5.jpg",
+   "images/ca3d/baldurs-gate-3/minthara/minthara-6.jpg",
+   "images/ca3d/baldurs-gate-3/minthara/minthara-7.jpg",
+   "images/ca3d/baldurs-gate-3/minthara/minthara-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -25486,12 +25437,12 @@ const MODELS = [
   "series": "Baldur's Gate 3",
   "title": "Orin the Red",
   "images": [
-   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-1.jpg",
-   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-2.jpg",
-   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-3.jpg",
-   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-4.jpg",
-   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-5.jpg",
-   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-6.jpg"
+   "images/ca3d/baldurs-gate-3/orin-the-red/orin-the-red-1.jpg",
+   "images/ca3d/baldurs-gate-3/orin-the-red/orin-the-red-2.jpg",
+   "images/ca3d/baldurs-gate-3/orin-the-red/orin-the-red-3.jpg",
+   "images/ca3d/baldurs-gate-3/orin-the-red/orin-the-red-4.jpg",
+   "images/ca3d/baldurs-gate-3/orin-the-red/orin-the-red-5.jpg",
+   "images/ca3d/baldurs-gate-3/orin-the-red/orin-the-red-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -26711,14 +26662,14 @@ const MODELS = [
   "series": "Baldur's Gate 3",
   "title": "Shadowheart",
   "images": [
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-1.jpg",
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-2.jpg",
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-3.jpg",
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-4.jpg",
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-5.jpg",
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-6.jpg",
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-7.jpg",
-   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-8.jpg"
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-1.jpg",
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-2.jpg",
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-3.jpg",
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-4.jpg",
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-5.jpg",
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-6.jpg",
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-7.jpg",
+   "images/ca3d/baldurs-gate-3/shadowheart/shadowheart-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -27031,7 +26982,7 @@ const MODELS = [
   "id": "ca3d-spike",
   "artist": "CA3D Studios",
   "series": "Cowboy Bebop",
-  "title": "Spike",
+  "title": "Spike Spiegel",
   "images": [
    "images/ca3d/cowboy-bebop/spike/spike-1.jpg",
    "images/ca3d/cowboy-bebop/spike/spike-2.jpg",
