@@ -783,16 +783,16 @@ const MODELS = [
  {
   "id": "kc-cloud-strife",
   "artist": "KcStudio",
-  "series": "Final Fantasy VII",
+  "series": "Final Fantasy",
   "title": "Cloud Strife",
   "images": [
-   "images/kc-studio/final-fantasy-vii/cloud-strife/cloud-strife-1.jpg",
-   "images/kc-studio/final-fantasy-vii/cloud-strife/cloud-strife-2.jpg",
-   "images/kc-studio/final-fantasy-vii/cloud-strife/cloud-strife-3.jpg",
-   "images/kc-studio/final-fantasy-vii/cloud-strife/cloud-strife-4.jpg",
-   "images/kc-studio/final-fantasy-vii/cloud-strife/cloud-strife-5.jpg",
-   "images/kc-studio/final-fantasy-vii/cloud-strife/cloud-strife-6.jpg",
-   "images/kc-studio/final-fantasy-vii/cloud-strife/cloud-strife-7.jpg"
+   "images/kc-studio/final-fantasy/cloud-strife/cloud-strife-1.jpg",
+   "images/kc-studio/final-fantasy/cloud-strife/cloud-strife-2.jpg",
+   "images/kc-studio/final-fantasy/cloud-strife/cloud-strife-3.jpg",
+   "images/kc-studio/final-fantasy/cloud-strife/cloud-strife-4.jpg",
+   "images/kc-studio/final-fantasy/cloud-strife/cloud-strife-5.jpg",
+   "images/kc-studio/final-fantasy/cloud-strife/cloud-strife-6.jpg",
+   "images/kc-studio/final-fantasy/cloud-strife/cloud-strife-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -1053,18 +1053,18 @@ const MODELS = [
  {
   "id": "kc-leon",
   "artist": "KcStudio",
-  "series": "Resident Evil: Requiem",
+  "series": "Resident Evil",
   "title": "Leon Kennedy",
   "images": [
-   "images/kc-studio/resident-evil-requiem/leon/leon-1.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-2.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-3.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-4.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-5.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-6.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-7.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-8.jpg",
-   "images/kc-studio/resident-evil-requiem/leon/leon-9.jpg"
+   "images/kc-studio/resident-evil/leon/leon-1.jpg",
+   "images/kc-studio/resident-evil/leon/leon-2.jpg",
+   "images/kc-studio/resident-evil/leon/leon-3.jpg",
+   "images/kc-studio/resident-evil/leon/leon-4.jpg",
+   "images/kc-studio/resident-evil/leon/leon-5.jpg",
+   "images/kc-studio/resident-evil/leon/leon-6.jpg",
+   "images/kc-studio/resident-evil/leon/leon-7.jpg",
+   "images/kc-studio/resident-evil/leon/leon-8.jpg",
+   "images/kc-studio/resident-evil/leon/leon-9.jpg"
   ],
   "scaleOptions": [
    {
@@ -1238,14 +1238,14 @@ const MODELS = [
  {
   "id": "kc-squall-leonhart",
   "artist": "KcStudio",
-  "series": "Final Fantasy VIII",
+  "series": "Final Fantasy",
   "title": "Squall Leonhart",
   "images": [
-   "images/kc-studio/final-fantasy-viii/squall-leonhart/squall-1.jpg",
-   "images/kc-studio/final-fantasy-viii/squall-leonhart/squall-2.jpg",
-   "images/kc-studio/final-fantasy-viii/squall-leonhart/squall-3.jpg",
-   "images/kc-studio/final-fantasy-viii/squall-leonhart/squall-4.jpg",
-   "images/kc-studio/final-fantasy-viii/squall-leonhart/squall-5.jpg"
+   "images/kc-studio/final-fantasy/squall-leonhart/squall-1.jpg",
+   "images/kc-studio/final-fantasy/squall-leonhart/squall-2.jpg",
+   "images/kc-studio/final-fantasy/squall-leonhart/squall-3.jpg",
+   "images/kc-studio/final-fantasy/squall-leonhart/squall-4.jpg",
+   "images/kc-studio/final-fantasy/squall-leonhart/squall-5.jpg"
   ],
   "scaleOptions": [
    {
@@ -1371,19 +1371,19 @@ const MODELS = [
  {
   "id": "tanuki-leon",
   "artist": "Tanuki Figures",
-  "series": "Resident Evil: Requiem",
+  "series": "Resident Evil",
   "title": "Leon S. Kennedy",
   "images": [
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-1.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-2.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-3.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-4.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-5.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-6.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-7.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-8.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-9.jpg",
-   "images/tanuki-figures/resident-evil-requiem/leon-kennedy/leon-kennedy-10.jpg"
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-1.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-2.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-3.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-4.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-5.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-6.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-7.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-8.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-9.jpg",
+   "images/tanuki-figures/resident-evil/leon-kennedy/leon-kennedy-10.jpg"
   ],
   "scaleOptions": [
    {
@@ -1464,16 +1464,16 @@ const MODELS = [
  {
   "id": "vm-friede",
   "artist": "Volition Miniatures",
-  "series": "Dark Souls III",
+  "series": "Dark Souls",
   "title": "Blackflame Sister Friede",
   "images": [
-   "images/volition-miniatures/dark-souls-iii/sister-friede/vm-friede-1.jpg",
-   "images/volition-miniatures/dark-souls-iii/sister-friede/vm-friede-2.jpg",
-   "images/volition-miniatures/dark-souls-iii/sister-friede/vm-friede-3.jpg",
-   "images/volition-miniatures/dark-souls-iii/sister-friede/vm-friede-4.jpg",
-   "images/volition-miniatures/dark-souls-iii/sister-friede/vm-friede-5.jpg",
-   "images/volition-miniatures/dark-souls-iii/sister-friede/vm-friede-6.jpg",
-   "images/volition-miniatures/dark-souls-iii/sister-friede/vm-friede-7.jpg"
+   "images/volition-miniatures/dark-souls/sister-friede/vm-friede-1.jpg",
+   "images/volition-miniatures/dark-souls/sister-friede/vm-friede-2.jpg",
+   "images/volition-miniatures/dark-souls/sister-friede/vm-friede-3.jpg",
+   "images/volition-miniatures/dark-souls/sister-friede/vm-friede-4.jpg",
+   "images/volition-miniatures/dark-souls/sister-friede/vm-friede-5.jpg",
+   "images/volition-miniatures/dark-souls/sister-friede/vm-friede-6.jpg",
+   "images/volition-miniatures/dark-souls/sister-friede/vm-friede-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -1487,15 +1487,15 @@ const MODELS = [
  {
   "id": "vm-dotbv",
   "artist": "Volition Miniatures",
-  "series": "Dark Souls III",
+  "series": "Dark Souls",
   "title": "Dancer of the Boreal Valley",
   "images": [
-   "images/volition-miniatures/dark-souls-iii/dotbv/vm-dotbv-1.jpg",
-   "images/volition-miniatures/dark-souls-iii/dotbv/vm-dotbv-2.jpg",
-   "images/volition-miniatures/dark-souls-iii/dotbv/vm-dotbv-3.jpg",
-   "images/volition-miniatures/dark-souls-iii/dotbv/vm-dotbv-4.jpg",
-   "images/volition-miniatures/dark-souls-iii/dotbv/vm-dotbv-5.jpg",
-   "images/volition-miniatures/dark-souls-iii/dotbv/vm-dotbv-6.jpg"
+   "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-1.jpg",
+   "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-2.jpg",
+   "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-3.jpg",
+   "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-4.jpg",
+   "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-5.jpg",
+   "images/volition-miniatures/dark-souls/dotbv/vm-dotbv-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -1690,16 +1690,16 @@ const MODELS = [
  {
   "id": "vm-gael",
   "artist": "Volition Miniatures",
-  "series": "Dark Souls III",
+  "series": "Dark Souls",
   "title": "Slave Knight Gael",
   "images": [
-   "images/volition-miniatures/dark-souls-iii/gael/vm-gael-1.jpg",
-   "images/volition-miniatures/dark-souls-iii/gael/vm-gael-2.jpg",
-   "images/volition-miniatures/dark-souls-iii/gael/vm-gael-3.jpg",
-   "images/volition-miniatures/dark-souls-iii/gael/vm-gael-4.jpg",
-   "images/volition-miniatures/dark-souls-iii/gael/vm-gael-5.jpg",
-   "images/volition-miniatures/dark-souls-iii/gael/vm-gael-6.jpg",
-   "images/volition-miniatures/dark-souls-iii/gael/vm-gael-7.jpg"
+   "images/volition-miniatures/dark-souls/gael/vm-gael-1.jpg",
+   "images/volition-miniatures/dark-souls/gael/vm-gael-2.jpg",
+   "images/volition-miniatures/dark-souls/gael/vm-gael-3.jpg",
+   "images/volition-miniatures/dark-souls/gael/vm-gael-4.jpg",
+   "images/volition-miniatures/dark-souls/gael/vm-gael-5.jpg",
+   "images/volition-miniatures/dark-souls/gael/vm-gael-6.jpg",
+   "images/volition-miniatures/dark-souls/gael/vm-gael-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -1781,16 +1781,16 @@ const MODELS = [
  {
   "id": "abe-karlach",
   "artist": "Abe3D",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Karlach",
   "images": [
-   "images/abe3d/baldur-s-gate-3/karlach/abe-karlach-1.jpg",
-   "images/abe3d/baldur-s-gate-3/karlach/abe-karlach-2.jpg",
-   "images/abe3d/baldur-s-gate-3/karlach/abe-karlach-3.jpg",
-   "images/abe3d/baldur-s-gate-3/karlach/abe-karlach-4.jpg",
-   "images/abe3d/baldur-s-gate-3/karlach/abe-karlach-5.jpg",
-   "images/abe3d/baldur-s-gate-3/karlach/abe-karlach-6.jpg",
-   "images/abe3d/baldur-s-gate-3/karlach/abe-karlach-7.jpg"
+   "images/abe3d/baulders-gate/karlach/abe-karlach-1.jpg",
+   "images/abe3d/baulders-gate/karlach/abe-karlach-2.jpg",
+   "images/abe3d/baulders-gate/karlach/abe-karlach-3.jpg",
+   "images/abe3d/baulders-gate/karlach/abe-karlach-4.jpg",
+   "images/abe3d/baulders-gate/karlach/abe-karlach-5.jpg",
+   "images/abe3d/baulders-gate/karlach/abe-karlach-6.jpg",
+   "images/abe3d/baulders-gate/karlach/abe-karlach-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -2857,17 +2857,17 @@ const MODELS = [
  {
   "id": "abe-aerith",
   "artist": "Abe3D",
-  "series": "Final Fantasy VII",
+  "series": "Final Fantasy",
   "title": "Aerith",
   "images": [
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-1.jpg",
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-2.jpg",
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-3.jpg",
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-4.jpg",
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-5.jpg",
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-6.jpg",
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-7.jpg",
-   "images/abe3d/final-fantasy-vii/aerith/abe-aerith-8.jpg"
+   "images/abe3d/final-fantasy/aerith/abe-aerith-1.jpg",
+   "images/abe3d/final-fantasy/aerith/abe-aerith-2.jpg",
+   "images/abe3d/final-fantasy/aerith/abe-aerith-3.jpg",
+   "images/abe3d/final-fantasy/aerith/abe-aerith-4.jpg",
+   "images/abe3d/final-fantasy/aerith/abe-aerith-5.jpg",
+   "images/abe3d/final-fantasy/aerith/abe-aerith-6.jpg",
+   "images/abe3d/final-fantasy/aerith/abe-aerith-7.jpg",
+   "images/abe3d/final-fantasy/aerith/abe-aerith-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -2886,17 +2886,17 @@ const MODELS = [
  {
   "id": "abe-tifa-lockhart",
   "artist": "Abe3D",
-  "series": "Final Fantasy VII",
+  "series": "Final Fantasy",
   "title": "Tifa Lockhart",
   "images": [
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-1.jpg",
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-2.jpg",
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-3.jpg",
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-4.jpg",
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-5.jpg",
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-6.jpg",
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-7.jpg",
-   "images/abe3d/final-fantasy-vii/tifa-lockhart/abe-tifa-lockhart-8.jpg"
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-1.jpg",
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-2.jpg",
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-3.jpg",
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-4.jpg",
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-5.jpg",
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-6.jpg",
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-7.jpg",
+   "images/abe3d/final-fantasy/tifa-lockhart/abe-tifa-lockhart-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -3961,11 +3961,11 @@ const MODELS = [
  {
   "id": "abe-luna-snow",
   "artist": "Abe3D",
-  "series": "Luna Snow",
+  "series": "Marvel",
   "title": "Luna Snow",
   "images": [
-   "images/abe3d/luna-snow/luna-snow/abe-luna-snow-1.jpg",
-   "images/abe3d/luna-snow/luna-snow/abe-luna-snow-2.jpg"
+   "images/abe3d/marvel/luna-snow/abe-luna-snow-1.jpg",
+   "images/abe3d/marvel/luna-snow/abe-luna-snow-2.jpg"
   ],
   "scaleOptions": [
    {
@@ -4605,17 +4605,17 @@ const MODELS = [
  {
   "id": "abe-satana-hellstrom",
   "artist": "Abe3D",
-  "series": "Satana",
+  "series": "Marvel",
   "title": "Satana Hellstrom",
   "images": [
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-1.jpg",
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-2.jpg",
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-3.jpg",
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-4.jpg",
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-5.jpg",
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-6.jpg",
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-7.jpg",
-   "images/abe3d/satana/satana-hellstrom/abe-satana-hellstrom-8.jpg"
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-1.jpg",
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-2.jpg",
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-3.jpg",
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-4.jpg",
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-5.jpg",
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-6.jpg",
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-7.jpg",
+   "images/abe3d/marvel/satana-hellstrom/abe-satana-hellstrom-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -5773,17 +5773,17 @@ const MODELS = [
  {
   "id": "abe-ada-wong",
   "artist": "Abe3D",
-  "series": "Resident Evil 4",
+  "series": "Resident Evil",
   "title": "Ada Wong",
   "images": [
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-1.jpg",
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-2.jpg",
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-3.jpg",
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-4.jpg",
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-5.jpg",
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-6.jpg",
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-7.jpg",
-   "images/abe3d/resident-evil-4/ada-wong/abe-ada-wong-8.jpg"
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-1.jpg",
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-2.jpg",
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-3.jpg",
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-4.jpg",
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-5.jpg",
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-6.jpg",
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-7.jpg",
+   "images/abe3d/resident-evil/ada-wong/abe-ada-wong-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -5802,17 +5802,17 @@ const MODELS = [
  {
   "id": "abe-ashley-graham",
   "artist": "Abe3D",
-  "series": "Resident Evil 4",
+  "series": "Resident Evil",
   "title": "Ashley Graham",
   "images": [
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-1.jpg",
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-2.jpg",
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-3.jpg",
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-4.jpg",
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-5.jpg",
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-6.jpg",
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-7.jpg",
-   "images/abe3d/resident-evil-4/ashley-graham/abe-ashley-graham-8.jpg"
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-1.jpg",
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-2.jpg",
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-3.jpg",
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-4.jpg",
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-5.jpg",
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-6.jpg",
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-7.jpg",
+   "images/abe3d/resident-evil/ashley-graham/abe-ashley-graham-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -5831,17 +5831,17 @@ const MODELS = [
  {
   "id": "abe-claire-redfield",
   "artist": "Abe3D",
-  "series": "Resident Evil 2",
+  "series": "Resident Evil",
   "title": "Claire Redfield",
   "images": [
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-1.jpg",
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-2.jpg",
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-3.jpg",
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-4.jpg",
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-5.jpg",
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-6.jpg",
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-7.jpg",
-   "images/abe3d/resident-evil-2/claire-redfield/abe-claire-redfield-8.jpg"
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-1.jpg",
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-2.jpg",
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-3.jpg",
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-4.jpg",
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-5.jpg",
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-6.jpg",
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-7.jpg",
+   "images/abe3d/resident-evil/claire-redfield/abe-claire-redfield-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -5860,17 +5860,17 @@ const MODELS = [
  {
   "id": "abe-grace-ashcroft",
   "artist": "Abe3D",
-  "series": "Resident Evil: Requiem",
+  "series": "Resident Evil",
   "title": "Grace Ashcroft",
   "images": [
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-1.jpg",
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-2.jpg",
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-3.jpg",
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-4.jpg",
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-5.jpg",
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-6.jpg",
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-7.jpg",
-   "images/abe3d/resident-evil-requiem/grace-ashcroft/abe-grace-ashcroft-8.jpg"
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-1.jpg",
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-2.jpg",
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-3.jpg",
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-4.jpg",
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-5.jpg",
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-6.jpg",
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-7.jpg",
+   "images/abe3d/resident-evil/grace-ashcroft/abe-grace-ashcroft-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -5889,17 +5889,17 @@ const MODELS = [
  {
   "id": "abe-jill-valentine",
   "artist": "Abe3D",
-  "series": "Resident Evil 3",
+  "series": "Resident Evil",
   "title": "Jill Valentine",
   "images": [
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-1.jpg",
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-2.jpg",
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-3.jpg",
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-4.jpg",
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-5.jpg",
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-6.jpg",
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-7.jpg",
-   "images/abe3d/resident-evil-3/jill-valentine/abe-jill-valentine-8.jpg"
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-1.jpg",
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-2.jpg",
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-3.jpg",
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-4.jpg",
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-5.jpg",
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-6.jpg",
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-7.jpg",
+   "images/abe3d/resident-evil/jill-valentine/abe-jill-valentine-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -5918,17 +5918,17 @@ const MODELS = [
  {
   "id": "abe-lady-dimitrescu",
   "artist": "Abe3D",
-  "series": "Resident Evil Village",
+  "series": "Resident Evil",
   "title": "Lady Dimitrescu",
   "images": [
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-1.jpg",
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-2.jpg",
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-3.jpg",
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-4.jpg",
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-5.jpg",
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-6.jpg",
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-7.jpg",
-   "images/abe3d/resident-evil-village/lady-dimitrescu/abe-lady-dimitrescu-8.jpg"
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-1.jpg",
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-2.jpg",
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-3.jpg",
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-4.jpg",
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-5.jpg",
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-6.jpg",
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-7.jpg",
+   "images/abe3d/resident-evil/lady-dimitrescu/abe-lady-dimitrescu-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -5976,17 +5976,17 @@ const MODELS = [
  {
   "id": "abe-sheva-alomar",
   "artist": "Abe3D",
-  "series": "Resident Evil 5",
+  "series": "Resident Evil",
   "title": "Sheva Alomar",
   "images": [
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-1.jpg",
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-2.jpg",
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-3.jpg",
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-4.jpg",
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-5.jpg",
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-6.jpg",
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-7.jpg",
-   "images/abe3d/resident-evil-5/sheva-alomar/abe-sheva-alomar-8.jpg"
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-1.jpg",
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-2.jpg",
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-3.jpg",
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-4.jpg",
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-5.jpg",
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-6.jpg",
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-7.jpg",
+   "images/abe3d/resident-evil/sheva-alomar/abe-sheva-alomar-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -7532,17 +7532,17 @@ const MODELS = [
  {
   "id": "moonn-black-widow-white-widow",
   "artist": "3Dmoonn",
-  "series": "Black Widow",
+  "series": "Marvel",
   "title": "Black Widow / White Widow",
   "images": [
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-1.jpg",
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-2.jpg",
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-3.jpg",
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-4.jpg",
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-5.jpg",
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-6.jpg",
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-7.jpg",
-   "images/3dmoonn/black-widow/black-widow-white-widow/moonn-black-widow-white-widow-8.jpg"
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-1.jpg",
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-2.jpg",
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-3.jpg",
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-4.jpg",
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-5.jpg",
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-6.jpg",
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-7.jpg",
+   "images/3dmoonn/marvel/black-widow-white-widow/moonn-black-widow-white-widow-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -7668,13 +7668,13 @@ const MODELS = [
  {
   "id": "moonn-cindy",
   "artist": "3Dmoonn",
-  "series": "Final Fantasy XV",
+  "series": "Final Fantasy",
   "title": "Cindy",
   "images": [
-   "images/3dmoonn/final-fantasy-xv/cindy/moonn-cindy-1.jpg",
-   "images/3dmoonn/final-fantasy-xv/cindy/moonn-cindy-2.jpg",
-   "images/3dmoonn/final-fantasy-xv/cindy/moonn-cindy-3.jpg",
-   "images/3dmoonn/final-fantasy-xv/cindy/moonn-cindy-4.jpg"
+   "images/3dmoonn/final-fantasy/cindy/moonn-cindy-1.jpg",
+   "images/3dmoonn/final-fantasy/cindy/moonn-cindy-2.jpg",
+   "images/3dmoonn/final-fantasy/cindy/moonn-cindy-3.jpg",
+   "images/3dmoonn/final-fantasy/cindy/moonn-cindy-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -8922,17 +8922,17 @@ const MODELS = [
  {
   "id": "moonn-satana",
   "artist": "3Dmoonn",
-  "series": "Satana",
+  "series": "Marvel",
   "title": "Satana",
   "images": [
-   "images/3dmoonn/satana/satana/moonn-satana-1.jpg",
-   "images/3dmoonn/satana/satana/moonn-satana-2.jpg",
-   "images/3dmoonn/satana/satana/moonn-satana-3.jpg",
-   "images/3dmoonn/satana/satana/moonn-satana-4.jpg",
-   "images/3dmoonn/satana/satana/moonn-satana-5.jpg",
-   "images/3dmoonn/satana/satana/moonn-satana-6.jpg",
-   "images/3dmoonn/satana/satana/moonn-satana-7.jpg",
-   "images/3dmoonn/satana/satana/moonn-satana-8.jpg"
+   "images/3dmoonn/marvel/satana/moonn-satana-1.jpg",
+   "images/3dmoonn/marvel/satana/moonn-satana-2.jpg",
+   "images/3dmoonn/marvel/satana/moonn-satana-3.jpg",
+   "images/3dmoonn/marvel/satana/moonn-satana-4.jpg",
+   "images/3dmoonn/marvel/satana/moonn-satana-5.jpg",
+   "images/3dmoonn/marvel/satana/moonn-satana-6.jpg",
+   "images/3dmoonn/marvel/satana/moonn-satana-7.jpg",
+   "images/3dmoonn/marvel/satana/moonn-satana-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -8993,17 +8993,17 @@ const MODELS = [
  {
   "id": "moonn-shanna",
   "artist": "3Dmoonn",
-  "series": "Shanna",
+  "series": "Marvel",
   "title": "Shanna",
   "images": [
-   "images/3dmoonn/shanna/shanna/moonn-shanna-1.jpg",
-   "images/3dmoonn/shanna/shanna/moonn-shanna-2.jpg",
-   "images/3dmoonn/shanna/shanna/moonn-shanna-3.jpg",
-   "images/3dmoonn/shanna/shanna/moonn-shanna-4.jpg",
-   "images/3dmoonn/shanna/shanna/moonn-shanna-5.jpg",
-   "images/3dmoonn/shanna/shanna/moonn-shanna-6.jpg",
-   "images/3dmoonn/shanna/shanna/moonn-shanna-7.jpg",
-   "images/3dmoonn/shanna/shanna/moonn-shanna-8.jpg"
+   "images/3dmoonn/marvel/shanna/moonn-shanna-1.jpg",
+   "images/3dmoonn/marvel/shanna/moonn-shanna-2.jpg",
+   "images/3dmoonn/marvel/shanna/moonn-shanna-3.jpg",
+   "images/3dmoonn/marvel/shanna/moonn-shanna-4.jpg",
+   "images/3dmoonn/marvel/shanna/moonn-shanna-5.jpg",
+   "images/3dmoonn/marvel/shanna/moonn-shanna-6.jpg",
+   "images/3dmoonn/marvel/shanna/moonn-shanna-7.jpg",
+   "images/3dmoonn/marvel/shanna/moonn-shanna-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -9491,13 +9491,13 @@ const MODELS = [
  {
   "id": "moonn-yuna",
   "artist": "3Dmoonn",
-  "series": "Final Fantasy X",
+  "series": "Final Fantasy",
   "title": "Yuna",
   "images": [
-   "images/3dmoonn/final-fantasy-x/yuna/moonn-yuna-1.jpg",
-   "images/3dmoonn/final-fantasy-x/yuna/moonn-yuna-2.jpg",
-   "images/3dmoonn/final-fantasy-x/yuna/moonn-yuna-3.jpg",
-   "images/3dmoonn/final-fantasy-x/yuna/moonn-yuna-4.jpg"
+   "images/3dmoonn/final-fantasy/yuna/moonn-yuna-1.jpg",
+   "images/3dmoonn/final-fantasy/yuna/moonn-yuna-2.jpg",
+   "images/3dmoonn/final-fantasy/yuna/moonn-yuna-3.jpg",
+   "images/3dmoonn/final-fantasy/yuna/moonn-yuna-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -9782,15 +9782,15 @@ const MODELS = [
  {
   "id": "moonn-black-cat",
   "artist": "3Dmoonn",
-  "series": "Spider-Man",
+  "series": "Marvel",
   "title": "Black Cat",
   "images": [
-   "images/3dmoonn/spider-man/black-cat/moonn-black-cat-1.jpg",
-   "images/3dmoonn/spider-man/black-cat/moonn-black-cat-2.jpg",
-   "images/3dmoonn/spider-man/black-cat/moonn-black-cat-3.jpg",
-   "images/3dmoonn/spider-man/black-cat/moonn-black-cat-4.jpg",
-   "images/3dmoonn/spider-man/black-cat/moonn-black-cat-5.jpg",
-   "images/3dmoonn/spider-man/black-cat/moonn-black-cat-6.jpg"
+   "images/3dmoonn/marvel/black-cat/moonn-black-cat-1.jpg",
+   "images/3dmoonn/marvel/black-cat/moonn-black-cat-2.jpg",
+   "images/3dmoonn/marvel/black-cat/moonn-black-cat-3.jpg",
+   "images/3dmoonn/marvel/black-cat/moonn-black-cat-4.jpg",
+   "images/3dmoonn/marvel/black-cat/moonn-black-cat-5.jpg",
+   "images/3dmoonn/marvel/black-cat/moonn-black-cat-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -9848,17 +9848,17 @@ const MODELS = [
  {
   "id": "moonn-clea",
   "artist": "3Dmoonn",
-  "series": "Doctor Strange",
+  "series": "Marvel",
   "title": "Clea",
   "images": [
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-1.jpg",
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-2.jpg",
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-3.jpg",
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-4.jpg",
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-5.jpg",
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-6.jpg",
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-7.jpg",
-   "images/3dmoonn/doctor-strange/clea/moonn-clea-8.jpg"
+   "images/3dmoonn/marvel/clea/moonn-clea-1.jpg",
+   "images/3dmoonn/marvel/clea/moonn-clea-2.jpg",
+   "images/3dmoonn/marvel/clea/moonn-clea-3.jpg",
+   "images/3dmoonn/marvel/clea/moonn-clea-4.jpg",
+   "images/3dmoonn/marvel/clea/moonn-clea-5.jpg",
+   "images/3dmoonn/marvel/clea/moonn-clea-6.jpg",
+   "images/3dmoonn/marvel/clea/moonn-clea-7.jpg",
+   "images/3dmoonn/marvel/clea/moonn-clea-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -9942,15 +9942,15 @@ const MODELS = [
  {
   "id": "moonn-elektra",
   "artist": "3Dmoonn",
-  "series": "Elektra",
+  "series": "Marvel",
   "title": "Elektra",
   "images": [
-   "images/3dmoonn/elektra/elektra/moonn-elektra-1.jpg",
-   "images/3dmoonn/elektra/elektra/moonn-elektra-2.jpg",
-   "images/3dmoonn/elektra/elektra/moonn-elektra-3.jpg",
-   "images/3dmoonn/elektra/elektra/moonn-elektra-4.jpg",
-   "images/3dmoonn/elektra/elektra/moonn-elektra-5.jpg",
-   "images/3dmoonn/elektra/elektra/moonn-elektra-6.jpg"
+   "images/3dmoonn/marvel/elektra/moonn-elektra-1.jpg",
+   "images/3dmoonn/marvel/elektra/moonn-elektra-2.jpg",
+   "images/3dmoonn/marvel/elektra/moonn-elektra-3.jpg",
+   "images/3dmoonn/marvel/elektra/moonn-elektra-4.jpg",
+   "images/3dmoonn/marvel/elektra/moonn-elektra-5.jpg",
+   "images/3dmoonn/marvel/elektra/moonn-elektra-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -10509,17 +10509,17 @@ const MODELS = [
  {
   "id": "moonn-lady-loki",
   "artist": "3Dmoonn",
-  "series": "Loki",
+  "series": "Marvel",
   "title": "Lady Loki",
   "images": [
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-1.jpg",
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-2.jpg",
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-3.jpg",
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-4.jpg",
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-5.jpg",
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-6.jpg",
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-7.jpg",
-   "images/3dmoonn/loki/lady-loki/moonn-lady-loki-8.jpg"
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-1.jpg",
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-2.jpg",
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-3.jpg",
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-4.jpg",
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-5.jpg",
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-6.jpg",
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-7.jpg",
+   "images/3dmoonn/marvel/lady-loki/moonn-lady-loki-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -10554,15 +10554,15 @@ const MODELS = [
  {
   "id": "moonn-lightning",
   "artist": "3Dmoonn",
-  "series": "Final Fantasy XIII",
+  "series": "Final Fantasy",
   "title": "Lightning",
   "images": [
-   "images/3dmoonn/final-fantasy-xiii/lightning/moonn-lightning-1.jpg",
-   "images/3dmoonn/final-fantasy-xiii/lightning/moonn-lightning-2.jpg",
-   "images/3dmoonn/final-fantasy-xiii/lightning/moonn-lightning-3.jpg",
-   "images/3dmoonn/final-fantasy-xiii/lightning/moonn-lightning-4.jpg",
-   "images/3dmoonn/final-fantasy-xiii/lightning/moonn-lightning-5.jpg",
-   "images/3dmoonn/final-fantasy-xiii/lightning/moonn-lightning-6.jpg"
+   "images/3dmoonn/final-fantasy/lightning/moonn-lightning-1.jpg",
+   "images/3dmoonn/final-fantasy/lightning/moonn-lightning-2.jpg",
+   "images/3dmoonn/final-fantasy/lightning/moonn-lightning-3.jpg",
+   "images/3dmoonn/final-fantasy/lightning/moonn-lightning-4.jpg",
+   "images/3dmoonn/final-fantasy/lightning/moonn-lightning-5.jpg",
+   "images/3dmoonn/final-fantasy/lightning/moonn-lightning-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -10740,17 +10740,17 @@ const MODELS = [
  {
   "id": "moonn-squirrel-girl",
   "artist": "3Dmoonn",
-  "series": "Squirrel Girl",
+  "series": "Marvel",
   "title": "Squirrel Girl",
   "images": [
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-1.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-2.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-3.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-4.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-5.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-6.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-7.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-8.jpg"
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-1.jpg",
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-2.jpg",
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-3.jpg",
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-4.jpg",
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-5.jpg",
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-6.jpg",
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-7.jpg",
+   "images/3dmoonn/marvel/squirrel-girl/moonn-squirrel-girl-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -11230,17 +11230,17 @@ const MODELS = [
  {
   "id": "moonn-rinoa-heartilly",
   "artist": "3Dmoonn",
-  "series": "Final Fantasy VIII",
+  "series": "Final Fantasy",
   "title": "Rinoa Heartilly",
   "images": [
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-1.jpg",
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-2.jpg",
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-3.jpg",
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-4.jpg",
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-5.jpg",
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-6.jpg",
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-7.jpg",
-   "images/3dmoonn/final-fantasy-viii/rinoa-heartilly/moonn-rinoa-heartilly-8.jpg"
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-1.jpg",
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-2.jpg",
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-3.jpg",
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-4.jpg",
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-5.jpg",
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-6.jpg",
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-7.jpg",
+   "images/3dmoonn/final-fantasy/rinoa-heartilly/moonn-rinoa-heartilly-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -11530,17 +11530,17 @@ const MODELS = [
  {
   "id": "moonn-silk",
   "artist": "3Dmoonn",
-  "series": "Spider-Man",
+  "series": "Marvel",
   "title": "Silk",
   "images": [
-   "images/3dmoonn/spider-man/silk/moonn-silk-1.jpg",
-   "images/3dmoonn/spider-man/silk/moonn-silk-2.jpg",
-   "images/3dmoonn/spider-man/silk/moonn-silk-3.jpg",
-   "images/3dmoonn/spider-man/silk/moonn-silk-4.jpg",
-   "images/3dmoonn/spider-man/silk/moonn-silk-5.jpg",
-   "images/3dmoonn/spider-man/silk/moonn-silk-6.jpg",
-   "images/3dmoonn/spider-man/silk/moonn-silk-7.jpg",
-   "images/3dmoonn/spider-man/silk/moonn-silk-8.jpg"
+   "images/3dmoonn/marvel/silk/moonn-silk-1.jpg",
+   "images/3dmoonn/marvel/silk/moonn-silk-2.jpg",
+   "images/3dmoonn/marvel/silk/moonn-silk-3.jpg",
+   "images/3dmoonn/marvel/silk/moonn-silk-4.jpg",
+   "images/3dmoonn/marvel/silk/moonn-silk-5.jpg",
+   "images/3dmoonn/marvel/silk/moonn-silk-6.jpg",
+   "images/3dmoonn/marvel/silk/moonn-silk-7.jpg",
+   "images/3dmoonn/marvel/silk/moonn-silk-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -11670,16 +11670,16 @@ const MODELS = [
  {
   "id": "moonn-tifa",
   "artist": "3Dmoonn",
-  "series": "Final Fantasy VII",
+  "series": "Final Fantasy",
   "title": "Tifa",
   "images": [
-   "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-1.jpg",
-   "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-2.jpg",
-   "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-3.jpg",
-   "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-4.jpg",
-   "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-5.jpg",
-   "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-6.jpg",
-   "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-7.jpg"
+   "images/3dmoonn/final-fantasy/tifa/moonn-tifa-1.jpg",
+   "images/3dmoonn/final-fantasy/tifa/moonn-tifa-2.jpg",
+   "images/3dmoonn/final-fantasy/tifa/moonn-tifa-3.jpg",
+   "images/3dmoonn/final-fantasy/tifa/moonn-tifa-4.jpg",
+   "images/3dmoonn/final-fantasy/tifa/moonn-tifa-5.jpg",
+   "images/3dmoonn/final-fantasy/tifa/moonn-tifa-6.jpg",
+   "images/3dmoonn/final-fantasy/tifa/moonn-tifa-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -11761,17 +11761,17 @@ const MODELS = [
  {
   "id": "moonn-ultimecia",
   "artist": "3Dmoonn",
-  "series": "Final Fantasy VIII",
+  "series": "Final Fantasy",
   "title": "Ultimecia",
   "images": [
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-1.jpg",
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-2.jpg",
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-3.jpg",
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-4.jpg",
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-5.jpg",
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-6.jpg",
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-7.jpg",
-   "images/3dmoonn/final-fantasy-viii/ultimecia/moonn-ultimecia-8.jpg"
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-1.jpg",
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-2.jpg",
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-3.jpg",
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-4.jpg",
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-5.jpg",
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-6.jpg",
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-7.jpg",
+   "images/3dmoonn/final-fantasy/ultimecia/moonn-ultimecia-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -12183,15 +12183,15 @@ const MODELS = [
  {
   "id": "bulka-astarion",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Astarion",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/astarion/bulka-astarion-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion/bulka-astarion-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion/bulka-astarion-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion/bulka-astarion-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion/bulka-astarion-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion/bulka-astarion-6.jpg"
+   "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-1.jpg",
+   "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-2.jpg",
+   "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-3.jpg",
+   "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-4.jpg",
+   "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-5.jpg",
+   "images/bulkamancer/baldurs-gate/astarion/bulka-astarion-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -12205,13 +12205,13 @@ const MODELS = [
  {
   "id": "bulka-astarion-chibi",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Astarion (Chibi)",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/astarion-chibi/bulka-astarion-chibi-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion-chibi/bulka-astarion-chibi-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion-chibi/bulka-astarion-chibi-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/astarion-chibi/bulka-astarion-chibi-4.jpg"
+   "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-1.jpg",
+   "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-2.jpg",
+   "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-3.jpg",
+   "images/bulkamancer/baldurs-gate/astarion-chibi/bulka-astarion-chibi-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -12225,17 +12225,17 @@ const MODELS = [
  {
   "id": "bulka-dame-aylin",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Dame Aylin",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-6.jpg",
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-7.jpg",
-   "images/bulkamancer/baldur-s-gate-3/dame-aylin/bulka-dame-aylin-18.jpg"
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-1.jpg",
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-2.jpg",
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-3.jpg",
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-4.jpg",
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-5.jpg",
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-6.jpg",
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-7.jpg",
+   "images/bulkamancer/baldurs-gate/dame-aylin/bulka-dame-aylin-18.jpg"
   ],
   "scaleOptions": [
    {
@@ -12249,16 +12249,16 @@ const MODELS = [
  {
   "id": "bulka-gale",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Gale",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/gale/bulka-gale-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale/bulka-gale-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale/bulka-gale-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale/bulka-gale-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale/bulka-gale-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale/bulka-gale-6.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale/bulka-gale-7.jpg"
+   "images/bulkamancer/baldurs-gate/gale/bulka-gale-1.jpg",
+   "images/bulkamancer/baldurs-gate/gale/bulka-gale-2.jpg",
+   "images/bulkamancer/baldurs-gate/gale/bulka-gale-3.jpg",
+   "images/bulkamancer/baldurs-gate/gale/bulka-gale-4.jpg",
+   "images/bulkamancer/baldurs-gate/gale/bulka-gale-5.jpg",
+   "images/bulkamancer/baldurs-gate/gale/bulka-gale-6.jpg",
+   "images/bulkamancer/baldurs-gate/gale/bulka-gale-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -12272,13 +12272,13 @@ const MODELS = [
  {
   "id": "bulka-gale-chibi",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Gale (Chibi)",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/gale-chibi/bulka-gale-chibi-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale-chibi/bulka-gale-chibi-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale-chibi/bulka-gale-chibi-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/gale-chibi/bulka-gale-chibi-4.jpg"
+   "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-1.jpg",
+   "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-2.jpg",
+   "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-3.jpg",
+   "images/bulkamancer/baldurs-gate/gale-chibi/bulka-gale-chibi-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -12292,15 +12292,15 @@ const MODELS = [
  {
   "id": "bulka-isobel",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Isobel",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/isobel/bulka-isobel-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/isobel/bulka-isobel-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/isobel/bulka-isobel-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/isobel/bulka-isobel-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/isobel/bulka-isobel-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/isobel/bulka-isobel-6.jpg"
+   "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-1.jpg",
+   "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-2.jpg",
+   "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-3.jpg",
+   "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-4.jpg",
+   "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-5.jpg",
+   "images/bulkamancer/baldurs-gate/isobel/bulka-isobel-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -12314,16 +12314,16 @@ const MODELS = [
  {
   "id": "bulka-karlach",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Karlach",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/karlach/bulka-karlach-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach/bulka-karlach-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach/bulka-karlach-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach/bulka-karlach-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach/bulka-karlach-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach/bulka-karlach-7.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach/bulka-karlach-16.jpg"
+   "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-1.jpg",
+   "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-2.jpg",
+   "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-3.jpg",
+   "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-4.jpg",
+   "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-5.jpg",
+   "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-7.jpg",
+   "images/bulkamancer/baldurs-gate/karlach/bulka-karlach-16.jpg"
   ],
   "scaleOptions": [
    {
@@ -12337,13 +12337,13 @@ const MODELS = [
  {
   "id": "bulka-karlach-chibi",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Karlach (Chibi)",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/karlach-chibi/bulka-karlach-chibi-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-chibi/bulka-karlach-chibi-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-chibi/bulka-karlach-chibi-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-chibi/bulka-karlach-chibi-4.jpg"
+   "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-1.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-2.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-3.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-chibi/bulka-karlach-chibi-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -12357,19 +12357,19 @@ const MODELS = [
  {
   "id": "bulka-karlach-stylized",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Karlach (Stylized)",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-6.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-7.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-8.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-9.jpg",
-   "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-10.jpg"
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-1.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-2.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-3.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-4.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-5.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-6.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-7.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-8.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-9.jpg",
+   "images/bulkamancer/baldurs-gate/karlach-stylized/bulka-karlach-stylized-10.jpg"
   ],
   "scaleOptions": [
    {
@@ -12383,16 +12383,16 @@ const MODELS = [
  {
   "id": "bulka-laezel",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Laezel",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-6.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-7.jpg"
+   "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-1.jpg",
+   "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-2.jpg",
+   "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-3.jpg",
+   "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-4.jpg",
+   "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-5.jpg",
+   "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-6.jpg",
+   "images/bulkamancer/baldurs-gate/laezel/bulka-laezel-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -12406,13 +12406,13 @@ const MODELS = [
  {
   "id": "bulka-laezel-chibi",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Laezel (Chibi)",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/laezel-chibi/bulka-laezel-chibi-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel-chibi/bulka-laezel-chibi-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel-chibi/bulka-laezel-chibi-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/laezel-chibi/bulka-laezel-chibi-4.jpg"
+   "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-1.jpg",
+   "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-2.jpg",
+   "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-3.jpg",
+   "images/bulkamancer/baldurs-gate/laezel-chibi/bulka-laezel-chibi-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -12426,14 +12426,14 @@ const MODELS = [
  {
   "id": "bulka-minthara",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Minthara",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/minthara/bulka-minthara-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/minthara/bulka-minthara-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/minthara/bulka-minthara-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/minthara/bulka-minthara-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/minthara/bulka-minthara-16.jpg"
+   "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-1.jpg",
+   "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-2.jpg",
+   "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-3.jpg",
+   "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-4.jpg",
+   "images/bulkamancer/baldurs-gate/minthara/bulka-minthara-16.jpg"
   ],
   "scaleOptions": [
    {
@@ -12447,16 +12447,16 @@ const MODELS = [
  {
   "id": "bulka-mizora",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Mizora",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/mizora/bulka-mizora-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/mizora/bulka-mizora-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/mizora/bulka-mizora-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/mizora/bulka-mizora-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/mizora/bulka-mizora-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/mizora/bulka-mizora-6.jpg",
-   "images/bulkamancer/baldur-s-gate-3/mizora/bulka-mizora-20.jpg"
+   "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-1.jpg",
+   "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-2.jpg",
+   "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-3.jpg",
+   "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-4.jpg",
+   "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-5.jpg",
+   "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-6.jpg",
+   "images/bulkamancer/baldurs-gate/mizora/bulka-mizora-20.jpg"
   ],
   "scaleOptions": [
    {
@@ -12470,15 +12470,15 @@ const MODELS = [
  {
   "id": "bulka-raphael",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Raphael",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/raphael/bulka-raphael-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/raphael/bulka-raphael-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/raphael/bulka-raphael-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/raphael/bulka-raphael-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/raphael/bulka-raphael-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/raphael/bulka-raphael-18.jpg"
+   "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-1.jpg",
+   "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-2.jpg",
+   "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-3.jpg",
+   "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-4.jpg",
+   "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-5.jpg",
+   "images/bulkamancer/baldurs-gate/raphael/bulka-raphael-18.jpg"
   ],
   "scaleOptions": [
    {
@@ -12492,15 +12492,15 @@ const MODELS = [
  {
   "id": "bulka-shadowheart",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Shadowheart",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/shadowheart/bulka-shadowheart-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart/bulka-shadowheart-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart/bulka-shadowheart-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart/bulka-shadowheart-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart/bulka-shadowheart-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart/bulka-shadowheart-18.jpg"
+   "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-1.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-2.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-3.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-4.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-5.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart/bulka-shadowheart-18.jpg"
   ],
   "scaleOptions": [
    {
@@ -12514,13 +12514,13 @@ const MODELS = [
  {
   "id": "bulka-shadowheart-chibi",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Shadowheart (Chibi)",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/shadowheart-chibi/bulka-shadowheart-chibi-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart-chibi/bulka-shadowheart-chibi-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart-chibi/bulka-shadowheart-chibi-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shadowheart-chibi/bulka-shadowheart-chibi-4.jpg"
+   "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-1.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-2.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-3.jpg",
+   "images/bulkamancer/baldurs-gate/shadowheart-chibi/bulka-shadowheart-chibi-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -12534,15 +12534,15 @@ const MODELS = [
  {
   "id": "bulka-shar",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Shar",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/shar/bulka-shar-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shar/bulka-shar-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shar/bulka-shar-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shar/bulka-shar-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shar/bulka-shar-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/shar/bulka-shar-6.jpg"
+   "images/bulkamancer/baldurs-gate/shar/bulka-shar-1.jpg",
+   "images/bulkamancer/baldurs-gate/shar/bulka-shar-2.jpg",
+   "images/bulkamancer/baldurs-gate/shar/bulka-shar-3.jpg",
+   "images/bulkamancer/baldurs-gate/shar/bulka-shar-4.jpg",
+   "images/bulkamancer/baldurs-gate/shar/bulka-shar-5.jpg",
+   "images/bulkamancer/baldurs-gate/shar/bulka-shar-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -12556,15 +12556,15 @@ const MODELS = [
  {
   "id": "bulka-the-emperor",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "The Emperor",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/the-emperor/bulka-the-emperor-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/the-emperor/bulka-the-emperor-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/the-emperor/bulka-the-emperor-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/the-emperor/bulka-the-emperor-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/the-emperor/bulka-the-emperor-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/the-emperor/bulka-the-emperor-6.jpg"
+   "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-1.jpg",
+   "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-2.jpg",
+   "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-3.jpg",
+   "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-4.jpg",
+   "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-5.jpg",
+   "images/bulkamancer/baldurs-gate/the-emperor/bulka-the-emperor-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -12578,16 +12578,16 @@ const MODELS = [
  {
   "id": "bulka-wyll",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Wyll",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/wyll/bulka-wyll-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll/bulka-wyll-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll/bulka-wyll-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll/bulka-wyll-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll/bulka-wyll-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll/bulka-wyll-6.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll/bulka-wyll-11.jpg"
+   "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-1.jpg",
+   "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-2.jpg",
+   "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-3.jpg",
+   "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-4.jpg",
+   "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-5.jpg",
+   "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-6.jpg",
+   "images/bulkamancer/baldurs-gate/wyll/bulka-wyll-11.jpg"
   ],
   "scaleOptions": [
    {
@@ -12601,13 +12601,13 @@ const MODELS = [
  {
   "id": "bulka-wyll-chibi",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Wyll (Chibi)",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/wyll-chibi/bulka-wyll-chibi-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll-chibi/bulka-wyll-chibi-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll-chibi/bulka-wyll-chibi-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/wyll-chibi/bulka-wyll-chibi-6.jpg"
+   "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-1.jpg",
+   "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-2.jpg",
+   "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-3.jpg",
+   "images/bulkamancer/baldurs-gate/wyll-chibi/bulka-wyll-chibi-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -13104,18 +13104,18 @@ const MODELS = [
  {
   "id": "bulka-aldrich",
   "artist": "Bulkamancer Sculpts",
-  "series": "Dark Souls III",
+  "series": "Dark Souls",
   "title": "Aldrich",
   "images": [
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-1.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-2.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-3.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-4.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-5.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-6.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-7.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-8.jpg",
-   "images/bulkamancer/dark-souls-iii/aldrich/bulka-aldrich-9.jpg"
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-1.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-2.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-3.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-4.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-5.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-6.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-7.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-8.jpg",
+   "images/bulkamancer/dark-souls/aldrich/bulka-aldrich-9.jpg"
   ],
   "scaleOptions": [
    {
@@ -13129,14 +13129,14 @@ const MODELS = [
  {
   "id": "bulka-fire-keeper",
   "artist": "Bulkamancer Sculpts",
-  "series": "Dark Souls III",
+  "series": "Dark Souls",
   "title": "Fire Keeper",
   "images": [
-   "images/bulkamancer/dark-souls-iii/fire-keeper/bulka-fire-keeper-1.jpg",
-   "images/bulkamancer/dark-souls-iii/fire-keeper/bulka-fire-keeper-2.jpg",
-   "images/bulkamancer/dark-souls-iii/fire-keeper/bulka-fire-keeper-3.jpg",
-   "images/bulkamancer/dark-souls-iii/fire-keeper/bulka-fire-keeper-4.jpg",
-   "images/bulkamancer/dark-souls-iii/fire-keeper/bulka-fire-keeper-5.jpg"
+   "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-1.jpg",
+   "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-2.jpg",
+   "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-3.jpg",
+   "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-4.jpg",
+   "images/bulkamancer/dark-souls/fire-keeper/bulka-fire-keeper-5.jpg"
   ],
   "scaleOptions": [
    {
@@ -13150,16 +13150,16 @@ const MODELS = [
  {
   "id": "bulka-nashandra",
   "artist": "Bulkamancer Sculpts",
-  "series": "Dark Souls II",
+  "series": "Dark Souls",
   "title": "Nashandra",
   "images": [
-   "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-1.jpg",
-   "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-2.jpg",
-   "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-3.jpg",
-   "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-4.jpg",
-   "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-5.jpg",
-   "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-6.jpg",
-   "images/bulkamancer/dark-souls-ii/nashandra/bulka-nashandra-7.jpg"
+   "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-1.jpg",
+   "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-2.jpg",
+   "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-3.jpg",
+   "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-4.jpg",
+   "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-5.jpg",
+   "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-6.jpg",
+   "images/bulkamancer/dark-souls/nashandra/bulka-nashandra-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -13644,16 +13644,16 @@ const MODELS = [
  {
   "id": "bulka-aerith-gainsborough",
   "artist": "Bulkamancer Sculpts",
-  "series": "Final Fantasy VII",
+  "series": "Final Fantasy",
   "title": "Aerith Gainsborough",
   "images": [
-   "images/bulkamancer/final-fantasy-vii/aerith-gainsborough/bulka-aerith-gainsborough-1.jpg",
-   "images/bulkamancer/final-fantasy-vii/aerith-gainsborough/bulka-aerith-gainsborough-2.jpg",
-   "images/bulkamancer/final-fantasy-vii/aerith-gainsborough/bulka-aerith-gainsborough-3.jpg",
-   "images/bulkamancer/final-fantasy-vii/aerith-gainsborough/bulka-aerith-gainsborough-4.jpg",
-   "images/bulkamancer/final-fantasy-vii/aerith-gainsborough/bulka-aerith-gainsborough-5.jpg",
-   "images/bulkamancer/final-fantasy-vii/aerith-gainsborough/bulka-aerith-gainsborough-6.jpg",
-   "images/bulkamancer/final-fantasy-vii/aerith-gainsborough/bulka-aerith-gainsborough-7.jpg"
+   "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-1.jpg",
+   "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-2.jpg",
+   "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-3.jpg",
+   "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-4.jpg",
+   "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-5.jpg",
+   "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-6.jpg",
+   "images/bulkamancer/final-fantasy/aerith-gainsborough/bulka-aerith-gainsborough-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -13667,17 +13667,17 @@ const MODELS = [
  {
   "id": "bulka-clive-rosfield",
   "artist": "Bulkamancer Sculpts",
-  "series": "Final Fantasy XVI",
+  "series": "Final Fantasy",
   "title": "Clive Rosfield",
   "images": [
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-1.jpg",
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-2.jpg",
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-3.jpg",
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-4.jpg",
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-5.jpg",
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-6.jpg",
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-7.jpg",
-   "images/bulkamancer/final-fantasy-xvi/clive-rosfield/bulka-clive-rosfield-8.jpg"
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-1.jpg",
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-2.jpg",
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-3.jpg",
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-4.jpg",
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-5.jpg",
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-6.jpg",
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-7.jpg",
+   "images/bulkamancer/final-fantasy/clive-rosfield/bulka-clive-rosfield-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -13691,14 +13691,14 @@ const MODELS = [
  {
   "id": "bulka-cloud-strife",
   "artist": "Bulkamancer Sculpts",
-  "series": "Final Fantasy VII",
+  "series": "Final Fantasy",
   "title": "Cloud Strife",
   "images": [
-   "images/bulkamancer/final-fantasy-vii/cloud-strife/bulka-cloud-strife-1.jpg",
-   "images/bulkamancer/final-fantasy-vii/cloud-strife/bulka-cloud-strife-2.jpg",
-   "images/bulkamancer/final-fantasy-vii/cloud-strife/bulka-cloud-strife-3.jpg",
-   "images/bulkamancer/final-fantasy-vii/cloud-strife/bulka-cloud-strife-4.jpg",
-   "images/bulkamancer/final-fantasy-vii/cloud-strife/bulka-cloud-strife-9.jpg"
+   "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-1.jpg",
+   "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-2.jpg",
+   "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-3.jpg",
+   "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-4.jpg",
+   "images/bulkamancer/final-fantasy/cloud-strife/bulka-cloud-strife-9.jpg"
   ],
   "scaleOptions": [
    {
@@ -13712,15 +13712,15 @@ const MODELS = [
  {
   "id": "bulka-fran",
   "artist": "Bulkamancer Sculpts",
-  "series": "Final Fantasy XII",
+  "series": "Final Fantasy",
   "title": "Fran",
   "images": [
-   "images/bulkamancer/final-fantasy-xii/fran/bulka-fran-1.jpg",
-   "images/bulkamancer/final-fantasy-xii/fran/bulka-fran-2.jpg",
-   "images/bulkamancer/final-fantasy-xii/fran/bulka-fran-3.jpg",
-   "images/bulkamancer/final-fantasy-xii/fran/bulka-fran-4.jpg",
-   "images/bulkamancer/final-fantasy-xii/fran/bulka-fran-5.jpg",
-   "images/bulkamancer/final-fantasy-xii/fran/bulka-fran-6.jpg"
+   "images/bulkamancer/final-fantasy/fran/bulka-fran-1.jpg",
+   "images/bulkamancer/final-fantasy/fran/bulka-fran-2.jpg",
+   "images/bulkamancer/final-fantasy/fran/bulka-fran-3.jpg",
+   "images/bulkamancer/final-fantasy/fran/bulka-fran-4.jpg",
+   "images/bulkamancer/final-fantasy/fran/bulka-fran-5.jpg",
+   "images/bulkamancer/final-fantasy/fran/bulka-fran-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -13734,16 +13734,16 @@ const MODELS = [
  {
   "id": "bulka-tifa-lockhart",
   "artist": "Bulkamancer Sculpts",
-  "series": "Final Fantasy VII",
+  "series": "Final Fantasy",
   "title": "Tifa Lockhart",
   "images": [
-   "images/bulkamancer/final-fantasy-vii/tifa-lockhart/bulka-tifa-lockhart-1.jpg",
-   "images/bulkamancer/final-fantasy-vii/tifa-lockhart/bulka-tifa-lockhart-2.jpg",
-   "images/bulkamancer/final-fantasy-vii/tifa-lockhart/bulka-tifa-lockhart-3.jpg",
-   "images/bulkamancer/final-fantasy-vii/tifa-lockhart/bulka-tifa-lockhart-4.jpg",
-   "images/bulkamancer/final-fantasy-vii/tifa-lockhart/bulka-tifa-lockhart-5.jpg",
-   "images/bulkamancer/final-fantasy-vii/tifa-lockhart/bulka-tifa-lockhart-6.jpg",
-   "images/bulkamancer/final-fantasy-vii/tifa-lockhart/bulka-tifa-lockhart-7.jpg"
+   "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-1.jpg",
+   "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-2.jpg",
+   "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-3.jpg",
+   "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-4.jpg",
+   "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-5.jpg",
+   "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-6.jpg",
+   "images/bulkamancer/final-fantasy/tifa-lockhart/bulka-tifa-lockhart-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -14133,19 +14133,19 @@ const MODELS = [
  {
   "id": "bulka-kratos",
   "artist": "Bulkamancer Sculpts",
-  "series": "God of War (2018)",
+  "series": "God of War",
   "title": "Kratos",
   "images": [
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-1.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-2.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-3.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-4.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-5.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-6.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-7.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-8.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-9.jpg",
-   "images/bulkamancer/god-of-war-2018/kratos/bulka-kratos-10.jpg"
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-1.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-2.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-3.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-4.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-5.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-6.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-7.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-8.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-9.jpg",
+   "images/bulkamancer/god-of-war/kratos/bulka-kratos-10.jpg"
   ],
   "scaleOptions": [
    {
@@ -15082,15 +15082,15 @@ const MODELS = [
  {
   "id": "bulka-orin-the-red",
   "artist": "Bulkamancer Sculpts",
-  "series": "Baldur's Gate 3",
+  "series": "Baldur's Gate",
   "title": "Orin the Red",
   "images": [
-   "images/bulkamancer/baldur-s-gate-3/orin-the-red/bulka-orin-the-red-1.jpg",
-   "images/bulkamancer/baldur-s-gate-3/orin-the-red/bulka-orin-the-red-2.jpg",
-   "images/bulkamancer/baldur-s-gate-3/orin-the-red/bulka-orin-the-red-3.jpg",
-   "images/bulkamancer/baldur-s-gate-3/orin-the-red/bulka-orin-the-red-4.jpg",
-   "images/bulkamancer/baldur-s-gate-3/orin-the-red/bulka-orin-the-red-5.jpg",
-   "images/bulkamancer/baldur-s-gate-3/orin-the-red/bulka-orin-the-red-6.jpg"
+   "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-1.jpg",
+   "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-2.jpg",
+   "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-3.jpg",
+   "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-4.jpg",
+   "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-5.jpg",
+   "images/bulkamancer/baldurs-gate/orin-the-red/bulka-orin-the-red-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -15598,20 +15598,20 @@ const MODELS = [
  {
   "id": "bulka-claire-redfield",
   "artist": "Bulkamancer Sculpts",
-  "series": "Resident Evil: Requiem",
+  "series": "Resident Evil",
   "title": "Claire Redfield",
   "images": [
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-1.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-2.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-3.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-4.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-5.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-6.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-7.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-8.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-9.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-10.jpg",
-   "images/bulkamancer/resident-evil-requiem/claire-redfield/bulka-claire-redfield-11.jpg"
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-1.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-2.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-3.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-4.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-5.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-6.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-7.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-8.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-9.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-10.jpg",
+   "images/bulkamancer/resident-evil/claire-redfield/bulka-claire-redfield-11.jpg"
   ],
   "scaleOptions": [
    {
@@ -15625,17 +15625,17 @@ const MODELS = [
  {
   "id": "bulka-grace-ashcroft",
   "artist": "Bulkamancer Sculpts",
-  "series": "Resident Evil: Requiem",
+  "series": "Resident Evil",
   "title": "Grace Ashcroft",
   "images": [
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-1.jpg",
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-2.jpg",
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-3.jpg",
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-4.jpg",
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-5.jpg",
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-6.jpg",
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-7.jpg",
-   "images/bulkamancer/resident-evil-requiem/grace-ashcroft/bulka-grace-ashcroft-8.jpg"
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-1.jpg",
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-2.jpg",
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-3.jpg",
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-4.jpg",
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-5.jpg",
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-6.jpg",
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-7.jpg",
+   "images/bulkamancer/resident-evil/grace-ashcroft/bulka-grace-ashcroft-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -18868,17 +18868,17 @@ const MODELS = [
  {
   "id": "tanuki-nemesis",
   "artist": "Tanuki Figures",
-  "series": "Resident Evil 3",
+  "series": "Resident Evil",
   "title": "Nemesis",
   "images": [
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-1.jpg",
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-2.jpg",
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-3.jpg",
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-4.jpg",
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-5.jpg",
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-6.jpg",
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-7.jpg",
-   "images/tanuki-figures/resident-evil-3/nemesis/nemesis-8.jpg"
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-1.jpg",
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-2.jpg",
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-3.jpg",
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-4.jpg",
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-5.jpg",
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-6.jpg",
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-7.jpg",
+   "images/tanuki-figures/resident-evil/nemesis/nemesis-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -20157,17 +20157,17 @@ const MODELS = [
  {
   "id": "tanuki-kratos-v2",
   "artist": "Tanuki Figures",
-  "series": "God of War (2018)",
+  "series": "God of War",
   "title": "Kratos",
   "images": [
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-1.jpg",
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-2.jpg",
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-3.jpg",
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-4.jpg",
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-5.jpg",
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-6.jpg",
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-7.jpg",
-   "images/tanuki-figures/god-of-war-2018/kratos-v2/kratos-v2-8.jpg"
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-1.jpg",
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-2.jpg",
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-3.jpg",
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-4.jpg",
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-5.jpg",
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-6.jpg",
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-7.jpg",
+   "images/tanuki-figures/god-of-war/kratos-v2/kratos-v2-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -20758,15 +20758,15 @@ const MODELS = [
  {
   "id": "ca3d-ada-wong",
   "artist": "CA3D Studios",
-  "series": "Resident Evil 4",
+  "series": "Resident Evil",
   "title": "Ada Wong",
   "images": [
-   "images/ca3d/resident-evil-4/ada-wong/ada-wong-1.jpg",
-   "images/ca3d/resident-evil-4/ada-wong/ada-wong-2.jpg",
-   "images/ca3d/resident-evil-4/ada-wong/ada-wong-3.jpg",
-   "images/ca3d/resident-evil-4/ada-wong/ada-wong-4.jpg",
-   "images/ca3d/resident-evil-4/ada-wong/ada-wong-5.jpg",
-   "images/ca3d/resident-evil-4/ada-wong/ada-wong-6.jpg"
+   "images/ca3d/resident-evil/ada-wong/ada-wong-1.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-2.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-3.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-4.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-5.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-6.jpg"
   ],
   "scaleOptions": [
    {
@@ -20959,17 +20959,17 @@ const MODELS = [
  {
   "id": "ca3d-albert-wesker",
   "artist": "CA3D Studios",
-  "series": "Resident Evil 5",
+  "series": "Resident Evil",
   "title": "Albert Wesker",
   "images": [
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-1.jpg",
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-2.jpg",
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-3.jpg",
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-4.jpg",
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-5.jpg",
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-6.jpg",
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-7.jpg",
-   "images/ca3d/resident-evil-5/albert-wesker/albert-wesker-8.jpg"
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-1.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-2.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-3.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-4.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-5.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-6.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-7.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -22729,16 +22729,16 @@ const MODELS = [
  {
   "id": "ca3d-faye-laufey",
   "artist": "CA3D Studios",
-  "series": "God of War (2018)",
+  "series": "God of War",
   "title": "Faye / Laufey",
   "images": [
-   "images/ca3d/god-of-war-2018/faye-laufey/faye-laufey-1.jpg",
-   "images/ca3d/god-of-war-2018/faye-laufey/faye-laufey-2.jpg",
-   "images/ca3d/god-of-war-2018/faye-laufey/faye-laufey-3.jpg",
-   "images/ca3d/god-of-war-2018/faye-laufey/faye-laufey-4.jpg",
-   "images/ca3d/god-of-war-2018/faye-laufey/faye-laufey-5.jpg",
-   "images/ca3d/god-of-war-2018/faye-laufey/faye-laufey-6.jpg",
-   "images/ca3d/god-of-war-2018/faye-laufey/faye-laufey-7.jpg"
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-1.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-2.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-3.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-4.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-5.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-6.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -24015,16 +24015,16 @@ const MODELS = [
  {
   "id": "ca3d-kratos-v1-nordic-era",
   "artist": "CA3D Studios",
-  "series": "God of War (2018)",
+  "series": "God of War",
   "title": "Kratos (v1 - Nordic era)",
   "images": [
-   "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-1.jpg",
-   "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-2.jpg",
-   "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-3.jpg",
-   "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-4.jpg",
-   "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-5.jpg",
-   "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-6.jpg",
-   "images/ca3d/god-of-war-2018/kratos-v1-nordic-era/kratos-v1-nordic-era-7.jpg"
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-1.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-2.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-3.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-4.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-5.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-6.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-7.jpg"
   ],
   "scaleOptions": [
    {
