@@ -20662,5 +20662,7373 @@ const MODELS = [
    }
   ],
   "description": "Original resin sculpt of Musashi from Vagabond."
+ },
+ {
+  "id": "ca3d-2b-v1",
+  "artist": "CA3D Studios",
+  "series": "NieR: Automata",
+  "title": "2B (v1)",
+  "images": [
+   "images/ca3d/nier-automata/2b-v1/2b-v1-1.jpg",
+   "images/ca3d/nier-automata/2b-v1/2b-v1-2.jpg",
+   "images/ca3d/nier-automata/2b-v1/2b-v1-3.jpg",
+   "images/ca3d/nier-automata/2b-v1/2b-v1-4.jpg",
+   "images/ca3d/nier-automata/2b-v1/2b-v1-5.jpg",
+   "images/ca3d/nier-automata/2b-v1/2b-v1-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of 2B from NieR: Automata."
+ },
+ {
+  "id": "ca3d-2b-v2",
+  "artist": "CA3D Studios",
+  "series": "NieR: Automata",
+  "title": "2B (v2)",
+  "images": [
+   "images/ca3d/nier-automata/2b-v2/2b-v2-1.jpg",
+   "images/ca3d/nier-automata/2b-v2/2b-v2-2.jpg",
+   "images/ca3d/nier-automata/2b-v2/2b-v2-3.jpg",
+   "images/ca3d/nier-automata/2b-v2/2b-v2-4.jpg",
+   "images/ca3d/nier-automata/2b-v2/2b-v2-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of 2B from NieR: Automata."
+ },
+ {
+  "id": "ca3d-a2",
+  "artist": "CA3D Studios",
+  "series": "NieR: Automata",
+  "title": "A2",
+  "images": [
+   "images/ca3d/nier-automata/a2/a2-1.jpg",
+   "images/ca3d/nier-automata/a2/a2-2.jpg",
+   "images/ca3d/nier-automata/a2/a2-3.jpg",
+   "images/ca3d/nier-automata/a2/a2-4.jpg",
+   "images/ca3d/nier-automata/a2/a2-5.jpg",
+   "images/ca3d/nier-automata/a2/a2-6.jpg",
+   "images/ca3d/nier-automata/a2/a2-7.jpg",
+   "images/ca3d/nier-automata/a2/a2-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of A2 from NieR: Automata."
+ },
+ {
+  "id": "ca3d-ada-wong",
+  "artist": "CA3D Studios",
+  "series": "Resident Evil",
+  "title": "Ada Wong",
+  "images": [
+   "images/ca3d/resident-evil/ada-wong/ada-wong-1.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-2.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-3.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-4.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-5.jpg",
+   "images/ca3d/resident-evil/ada-wong/ada-wong-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Ada Wong from Resident Evil."
+ },
+ {
+  "id": "ca3d-afro-samurai",
+  "artist": "CA3D Studios",
+  "series": "Afro Samurai",
+  "title": "Afro Samurai",
+  "images": [
+   "images/ca3d/afro-samurai/afro-samurai/afro-samurai-1.jpg",
+   "images/ca3d/afro-samurai/afro-samurai/afro-samurai-2.jpg",
+   "images/ca3d/afro-samurai/afro-samurai/afro-samurai-3.jpg",
+   "images/ca3d/afro-samurai/afro-samurai/afro-samurai-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Afro Samurai from Afro Samurai."
+ },
+ {
+  "id": "ca3d-ahsoka-tano",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Ahsoka Tano",
+  "images": [
+   "images/ca3d/star-wars/ahsoka-tano/ahsoka-tano-1.jpg",
+   "images/ca3d/star-wars/ahsoka-tano/ahsoka-tano-2.jpg",
+   "images/ca3d/star-wars/ahsoka-tano/ahsoka-tano-3.jpg",
+   "images/ca3d/star-wars/ahsoka-tano/ahsoka-tano-4.jpg",
+   "images/ca3d/star-wars/ahsoka-tano/ahsoka-tano-5.jpg",
+   "images/ca3d/star-wars/ahsoka-tano/ahsoka-tano-6.jpg",
+   "images/ca3d/star-wars/ahsoka-tano/ahsoka-tano-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Ahsoka Tano from Star Wars."
+ },
+ {
+  "id": "ca3d-ahsoka-tano-vs-darth-maul",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Ahsoka Tano vs Darth Maul",
+  "images": [
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-1.jpg",
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-2.jpg",
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-3.jpg",
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-4.jpg",
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-5.jpg",
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-6.jpg",
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-7.jpg",
+   "images/ca3d/star-wars/ahsoka-tano-vs-darth-maul/ahsoka-tano-vs-darth-maul-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Ahsoka Tano vs Darth Maul from Star Wars."
+ },
+ {
+  "id": "ca3d-akali",
+  "artist": "CA3D Studios",
+  "series": "League of Legends",
+  "title": "Akali",
+  "images": [
+   "images/ca3d/league-of-legends/akali/akali-1.jpg",
+   "images/ca3d/league-of-legends/akali/akali-2.jpg",
+   "images/ca3d/league-of-legends/akali/akali-3.jpg",
+   "images/ca3d/league-of-legends/akali/akali-4.jpg",
+   "images/ca3d/league-of-legends/akali/akali-5.jpg",
+   "images/ca3d/league-of-legends/akali/akali-6.jpg",
+   "images/ca3d/league-of-legends/akali/akali-7.jpg",
+   "images/ca3d/league-of-legends/akali/akali-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Akali from League of Legends."
+ },
+ {
+  "id": "ca3d-akame",
+  "artist": "CA3D Studios",
+  "series": "Akame ga Kill",
+  "title": "Akame",
+  "images": [
+   "images/ca3d/akame-ga-kill/akame/akame-1.jpg",
+   "images/ca3d/akame-ga-kill/akame/akame-2.jpg",
+   "images/ca3d/akame-ga-kill/akame/akame-3.jpg",
+   "images/ca3d/akame-ga-kill/akame/akame-4.jpg",
+   "images/ca3d/akame-ga-kill/akame/akame-5.jpg",
+   "images/ca3d/akame-ga-kill/akame/akame-6.jpg",
+   "images/ca3d/akame-ga-kill/akame/akame-7.jpg",
+   "images/ca3d/akame-ga-kill/akame/akame-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Akame from Akame ga Kill."
+ },
+ {
+  "id": "ca3d-akuma",
+  "artist": "CA3D Studios",
+  "series": "Street Fighter",
+  "title": "Akuma",
+  "images": [
+   "images/ca3d/street-fighter/akuma/akuma-1.jpg",
+   "images/ca3d/street-fighter/akuma/akuma-2.jpg",
+   "images/ca3d/street-fighter/akuma/akuma-3.jpg",
+   "images/ca3d/street-fighter/akuma/akuma-4.jpg",
+   "images/ca3d/street-fighter/akuma/akuma-5.jpg",
+   "images/ca3d/street-fighter/akuma/akuma-6.jpg",
+   "images/ca3d/street-fighter/akuma/akuma-7.jpg",
+   "images/ca3d/street-fighter/akuma/akuma-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Akuma from Street Fighter."
+ },
+ {
+  "id": "ca3d-albert-wesker",
+  "artist": "CA3D Studios",
+  "series": "Resident Evil",
+  "title": "Albert Wesker",
+  "images": [
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-1.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-2.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-3.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-4.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-5.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-6.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-7.jpg",
+   "images/ca3d/resident-evil/albert-wesker/albert-wesker-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Albert Wesker from Resident Evil."
+ },
+ {
+  "id": "ca3d-alice",
+  "artist": "CA3D Studios",
+  "series": "Alice in Wonderland",
+  "title": "Alice",
+  "images": [
+   "images/ca3d/alice-in-wonderland/alice/alice-1.jpg",
+   "images/ca3d/alice-in-wonderland/alice/alice-2.jpg",
+   "images/ca3d/alice-in-wonderland/alice/alice-3.jpg",
+   "images/ca3d/alice-in-wonderland/alice/alice-4.jpg",
+   "images/ca3d/alice-in-wonderland/alice/alice-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Alice from Alice in Wonderland."
+ },
+ {
+  "id": "ca3d-alien",
+  "artist": "CA3D Studios",
+  "series": "Alien",
+  "title": "Alien",
+  "images": [
+   "images/ca3d/alien/alien/alien-1.jpg",
+   "images/ca3d/alien/alien/alien-2.jpg",
+   "images/ca3d/alien/alien/alien-3.jpg",
+   "images/ca3d/alien/alien/alien-4.jpg",
+   "images/ca3d/alien/alien/alien-5.jpg",
+   "images/ca3d/alien/alien/alien-6.jpg",
+   "images/ca3d/alien/alien/alien-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Alien from Alien."
+ },
+ {
+  "id": "ca3d-alita",
+  "artist": "CA3D Studios",
+  "series": "Alita: Battle Angel",
+  "title": "Alita",
+  "images": [
+   "images/ca3d/alita-battle-angel/alita/alita-1.jpg",
+   "images/ca3d/alita-battle-angel/alita/alita-2.jpg",
+   "images/ca3d/alita-battle-angel/alita/alita-3.jpg",
+   "images/ca3d/alita-battle-angel/alita/alita-4.jpg",
+   "images/ca3d/alita-battle-angel/alita/alita-5.jpg",
+   "images/ca3d/alita-battle-angel/alita/alita-6.jpg",
+   "images/ca3d/alita-battle-angel/alita/alita-7.jpg",
+   "images/ca3d/alita-battle-angel/alita/alita-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Alita from Alita: Battle Angel."
+ },
+ {
+  "id": "ca3d-aloy",
+  "artist": "CA3D Studios",
+  "series": "Horizon Zero Dawn",
+  "title": "Aloy",
+  "images": [
+   "images/ca3d/horizon-zero-dawn/aloy/aloy-1.jpg",
+   "images/ca3d/horizon-zero-dawn/aloy/aloy-2.jpg",
+   "images/ca3d/horizon-zero-dawn/aloy/aloy-3.jpg",
+   "images/ca3d/horizon-zero-dawn/aloy/aloy-4.jpg",
+   "images/ca3d/horizon-zero-dawn/aloy/aloy-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Aloy from Horizon Zero Dawn."
+ },
+ {
+  "id": "ca3d-alucard",
+  "artist": "CA3D Studios",
+  "series": "Castlevania",
+  "title": "Alucard",
+  "images": [
+   "images/ca3d/castlevania/alucard/alucard-1.jpg",
+   "images/ca3d/castlevania/alucard/alucard-2.jpg",
+   "images/ca3d/castlevania/alucard/alucard-3.jpg",
+   "images/ca3d/castlevania/alucard/alucard-4.jpg",
+   "images/ca3d/castlevania/alucard/alucard-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Alucard from Castlevania."
+ },
+ {
+  "id": "ca3d-alucard-hellsing",
+  "artist": "CA3D Studios",
+  "series": "Hellsing",
+  "title": "Alucard (Hellsing)",
+  "images": [
+   "images/ca3d/hellsing/alucard-hellsing/alucard-hellsing-1.jpg",
+   "images/ca3d/hellsing/alucard-hellsing/alucard-hellsing-2.jpg",
+   "images/ca3d/hellsing/alucard-hellsing/alucard-hellsing-3.jpg",
+   "images/ca3d/hellsing/alucard-hellsing/alucard-hellsing-4.jpg",
+   "images/ca3d/hellsing/alucard-hellsing/alucard-hellsing-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Alucard from Hellsing."
+ },
+ {
+  "id": "ca3d-anakin",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Anakin",
+  "images": [
+   "images/ca3d/star-wars/anakin/anakin-1.jpg",
+   "images/ca3d/star-wars/anakin/anakin-2.jpg",
+   "images/ca3d/star-wars/anakin/anakin-3.jpg",
+   "images/ca3d/star-wars/anakin/anakin-4.jpg",
+   "images/ca3d/star-wars/anakin/anakin-5.jpg",
+   "images/ca3d/star-wars/anakin/anakin-6.jpg",
+   "images/ca3d/star-wars/anakin/anakin-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Anakin from Star Wars."
+ },
+ {
+  "id": "ca3d-android-21",
+  "artist": "CA3D Studios",
+  "series": "Dragon Ball FighterZ",
+  "title": "Android 21",
+  "images": [
+   "images/ca3d/dragon-ball-fighterz/android-21/android-21-1.jpg",
+   "images/ca3d/dragon-ball-fighterz/android-21/android-21-2.jpg",
+   "images/ca3d/dragon-ball-fighterz/android-21/android-21-3.jpg",
+   "images/ca3d/dragon-ball-fighterz/android-21/android-21-4.jpg",
+   "images/ca3d/dragon-ball-fighterz/android-21/android-21-5.jpg",
+   "images/ca3d/dragon-ball-fighterz/android-21/android-21-6.jpg",
+   "images/ca3d/dragon-ball-fighterz/android-21/android-21-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Android 21 from Dragon Ball FighterZ."
+ },
+ {
+  "id": "ca3d-asterix",
+  "artist": "CA3D Studios",
+  "series": "Asterix",
+  "title": "Asterix",
+  "images": [
+   "images/ca3d/asterix/asterix/asterix-1.jpg",
+   "images/ca3d/asterix/asterix/asterix-2.jpg",
+   "images/ca3d/asterix/asterix/asterix-3.jpg",
+   "images/ca3d/asterix/asterix/asterix-4.jpg",
+   "images/ca3d/asterix/asterix/asterix-5.jpg",
+   "images/ca3d/asterix/asterix/asterix-6.jpg",
+   "images/ca3d/asterix/asterix/asterix-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Asterix from Asterix."
+ },
+ {
+  "id": "ca3d-asuka-eva-diorama",
+  "artist": "CA3D Studios",
+  "series": "Neon Genesis Evangelion",
+  "title": "Asuka + Eva diorama",
+  "images": [
+   "images/ca3d/neon-genesis-evangelion/asuka-eva-diorama/asuka-eva-diorama-1.jpg",
+   "images/ca3d/neon-genesis-evangelion/asuka-eva-diorama/asuka-eva-diorama-2.jpg",
+   "images/ca3d/neon-genesis-evangelion/asuka-eva-diorama/asuka-eva-diorama-3.jpg",
+   "images/ca3d/neon-genesis-evangelion/asuka-eva-diorama/asuka-eva-diorama-4.jpg",
+   "images/ca3d/neon-genesis-evangelion/asuka-eva-diorama/asuka-eva-diorama-5.jpg",
+   "images/ca3d/neon-genesis-evangelion/asuka-eva-diorama/asuka-eva-diorama-6.jpg",
+   "images/ca3d/neon-genesis-evangelion/asuka-eva-diorama/asuka-eva-diorama-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Asuka + Eva diorama from Neon Genesis Evangelion."
+ },
+ {
+  "id": "ca3d-atom-eve",
+  "artist": "CA3D Studios",
+  "series": "Invincible",
+  "title": "Atom Eve",
+  "images": [
+   "images/ca3d/invincible/atom-eve/atom-eve-1.jpg",
+   "images/ca3d/invincible/atom-eve/atom-eve-2.jpg",
+   "images/ca3d/invincible/atom-eve/atom-eve-3.jpg",
+   "images/ca3d/invincible/atom-eve/atom-eve-4.jpg",
+   "images/ca3d/invincible/atom-eve/atom-eve-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Atom Eve from Invincible."
+ },
+ {
+  "id": "ca3d-azashara-the-drowned-princess",
+  "artist": "CA3D Studios",
+  "series": "World of Warcraft",
+  "title": "Azashara The Drowned Princess",
+  "images": [
+   "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-1.jpg",
+   "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-2.jpg",
+   "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-3.jpg",
+   "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-4.jpg",
+   "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-5.jpg",
+   "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-6.jpg",
+   "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Azashara The Drowned Princess from World of Warcraft."
+ },
+ {
+  "id": "ca3d-azula",
+  "artist": "CA3D Studios",
+  "series": "Avatar: The Last Airbender",
+  "title": "Azula",
+  "images": [
+   "images/ca3d/avatar-the-last-airbender/azula/azula-1.jpg",
+   "images/ca3d/avatar-the-last-airbender/azula/azula-2.jpg",
+   "images/ca3d/avatar-the-last-airbender/azula/azula-3.jpg",
+   "images/ca3d/avatar-the-last-airbender/azula/azula-4.jpg",
+   "images/ca3d/avatar-the-last-airbender/azula/azula-5.jpg",
+   "images/ca3d/avatar-the-last-airbender/azula/azula-6.jpg",
+   "images/ca3d/avatar-the-last-airbender/azula/azula-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Azula from Avatar: The Last Airbender."
+ },
+ {
+  "id": "ca3d-balrog-vs-gandalf",
+  "artist": "CA3D Studios",
+  "series": "The Lord of the Rings",
+  "title": "Balrog vs Gandalf",
+  "images": [
+   "images/ca3d/the-lord-of-the-rings/balrog-vs-gandalf/balrog-vs-gandalf-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Balrog vs Gandalf from The Lord of the Rings."
+ },
+ {
+  "id": "ca3d-barbarian-thor",
+  "artist": "CA3D Studios",
+  "series": "Thor",
+  "title": "Barbarian Thor",
+  "images": [
+   "images/ca3d/thor/barbarian-thor/barbarian-thor-1.jpg",
+   "images/ca3d/thor/barbarian-thor/barbarian-thor-2.jpg",
+   "images/ca3d/thor/barbarian-thor/barbarian-thor-3.jpg",
+   "images/ca3d/thor/barbarian-thor/barbarian-thor-4.jpg",
+   "images/ca3d/thor/barbarian-thor/barbarian-thor-5.jpg",
+   "images/ca3d/thor/barbarian-thor/barbarian-thor-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Barbarian Thor from Thor."
+ },
+ {
+  "id": "ca3d-bastila-shan",
+  "artist": "CA3D Studios",
+  "series": "Star Wars: KOTOR",
+  "title": "Bastila Shan",
+  "images": [
+   "images/ca3d/star-wars-kotor/bastila-shan/bastila-shan-1.jpg",
+   "images/ca3d/star-wars-kotor/bastila-shan/bastila-shan-2.jpg",
+   "images/ca3d/star-wars-kotor/bastila-shan/bastila-shan-3.jpg",
+   "images/ca3d/star-wars-kotor/bastila-shan/bastila-shan-4.jpg",
+   "images/ca3d/star-wars-kotor/bastila-shan/bastila-shan-5.jpg",
+   "images/ca3d/star-wars-kotor/bastila-shan/bastila-shan-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Bastila Shan from Star Wars: KOTOR."
+ },
+ {
+  "id": "ca3d-batgirl",
+  "artist": "CA3D Studios",
+  "series": "Batman",
+  "title": "BatGirl",
+  "images": [
+   "images/ca3d/batman/batgirl/batgirl-1.jpg",
+   "images/ca3d/batman/batgirl/batgirl-2.jpg",
+   "images/ca3d/batman/batgirl/batgirl-3.jpg",
+   "images/ca3d/batman/batgirl/batgirl-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of BatGirl from Batman."
+ },
+ {
+  "id": "ca3d-batman-vampire",
+  "artist": "CA3D Studios",
+  "series": "Batman",
+  "title": "Batman Vampire",
+  "images": [
+   "images/ca3d/batman/batman-vampire/batman-vampire-1.jpg",
+   "images/ca3d/batman/batman-vampire/batman-vampire-2.jpg",
+   "images/ca3d/batman/batman-vampire/batman-vampire-3.jpg",
+   "images/ca3d/batman/batman-vampire/batman-vampire-4.jpg",
+   "images/ca3d/batman/batman-vampire/batman-vampire-5.jpg",
+   "images/ca3d/batman/batman-vampire/batman-vampire-6.jpg",
+   "images/ca3d/batman/batman-vampire/batman-vampire-7.jpg",
+   "images/ca3d/batman/batman-vampire/batman-vampire-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Batman Vampire from Batman."
+ },
+ {
+  "id": "ca3d-big-daddy-and-little-sister",
+  "artist": "CA3D Studios",
+  "series": "BioShock",
+  "title": "Big Daddy and Little Sister",
+  "images": [
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-1.jpg",
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-2.jpg",
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-3.jpg",
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-4.jpg",
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-5.jpg",
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-6.jpg",
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-7.jpg",
+   "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Big Daddy and Little Sister from BioShock."
+ },
+ {
+  "id": "ca3d-blade",
+  "artist": "CA3D Studios",
+  "series": "Blade",
+  "title": "Blade",
+  "images": [
+   "images/ca3d/blade/blade/blade-1.jpg",
+   "images/ca3d/blade/blade/blade-2.jpg",
+   "images/ca3d/blade/blade/blade-3.jpg",
+   "images/ca3d/blade/blade/blade-4.jpg",
+   "images/ca3d/blade/blade/blade-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Blade from Blade."
+ },
+ {
+  "id": "ca3d-blaidd",
+  "artist": "CA3D Studios",
+  "series": "Elden Ring",
+  "title": "Blaidd",
+  "images": [
+   "images/ca3d/elden-ring/blaidd/blaidd-1.jpg",
+   "images/ca3d/elden-ring/blaidd/blaidd-2.jpg",
+   "images/ca3d/elden-ring/blaidd/blaidd-3.jpg",
+   "images/ca3d/elden-ring/blaidd/blaidd-4.jpg",
+   "images/ca3d/elden-ring/blaidd/blaidd-5.jpg",
+   "images/ca3d/elden-ring/blaidd/blaidd-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Blaidd from Elden Ring."
+ },
+ {
+  "id": "ca3d-blood-moon-diana",
+  "artist": "CA3D Studios",
+  "series": "League of Legends",
+  "title": "Blood Moon Diana",
+  "images": [
+   "images/ca3d/league-of-legends/blood-moon-diana/blood-moon-diana-1.jpg",
+   "images/ca3d/league-of-legends/blood-moon-diana/blood-moon-diana-2.jpg",
+   "images/ca3d/league-of-legends/blood-moon-diana/blood-moon-diana-3.jpg",
+   "images/ca3d/league-of-legends/blood-moon-diana/blood-moon-diana-4.jpg",
+   "images/ca3d/league-of-legends/blood-moon-diana/blood-moon-diana-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Blood Moon Diana from League of Legends."
+ },
+ {
+  "id": "ca3d-bulma",
+  "artist": "CA3D Studios",
+  "series": "Dragon Ball",
+  "title": "Bulma",
+  "images": [
+   "images/ca3d/dragon-ball/bulma/bulma-1.jpg",
+   "images/ca3d/dragon-ball/bulma/bulma-2.jpg",
+   "images/ca3d/dragon-ball/bulma/bulma-3.jpg",
+   "images/ca3d/dragon-ball/bulma/bulma-4.jpg",
+   "images/ca3d/dragon-ball/bulma/bulma-5.jpg",
+   "images/ca3d/dragon-ball/bulma/bulma-6.jpg",
+   "images/ca3d/dragon-ball/bulma/bulma-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Bulma from Dragon Ball."
+ },
+ {
+  "id": "ca3d-cable",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Cable",
+  "images": [
+   "images/ca3d/x-men/cable/cable-1.jpg",
+   "images/ca3d/x-men/cable/cable-2.jpg",
+   "images/ca3d/x-men/cable/cable-3.jpg",
+   "images/ca3d/x-men/cable/cable-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Cable from X-Men."
+ },
+ {
+  "id": "ca3d-caitlyn",
+  "artist": "CA3D Studios",
+  "series": "League of Legends / Arcane",
+  "title": "Caitlyn",
+  "images": [
+   "images/ca3d/league-of-legends-arcane/caitlyn/caitlyn-1.jpg",
+   "images/ca3d/league-of-legends-arcane/caitlyn/caitlyn-2.jpg",
+   "images/ca3d/league-of-legends-arcane/caitlyn/caitlyn-3.jpg",
+   "images/ca3d/league-of-legends-arcane/caitlyn/caitlyn-4.jpg",
+   "images/ca3d/league-of-legends-arcane/caitlyn/caitlyn-5.jpg",
+   "images/ca3d/league-of-legends-arcane/caitlyn/caitlyn-6.jpg",
+   "images/ca3d/league-of-legends-arcane/caitlyn/caitlyn-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Caitlyn from League of Legends / Arcane."
+ },
+ {
+  "id": "ca3d-cammy-v1-unpainted",
+  "artist": "CA3D Studios",
+  "series": "Street Fighter",
+  "title": "Cammy (v1 - unpainted)",
+  "images": [
+   "images/ca3d/street-fighter/cammy-v1-unpainted/cammy-v1-unpainted-1.jpg",
+   "images/ca3d/street-fighter/cammy-v1-unpainted/cammy-v1-unpainted-2.jpg",
+   "images/ca3d/street-fighter/cammy-v1-unpainted/cammy-v1-unpainted-3.jpg",
+   "images/ca3d/street-fighter/cammy-v1-unpainted/cammy-v1-unpainted-4.jpg",
+   "images/ca3d/street-fighter/cammy-v1-unpainted/cammy-v1-unpainted-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Cammy from Street Fighter, unpainted variant."
+ },
+ {
+  "id": "ca3d-cammy-v2-alt-outfit",
+  "artist": "CA3D Studios",
+  "series": "Street Fighter",
+  "title": "Cammy (v2 - alt outfit)",
+  "images": [
+   "images/ca3d/street-fighter/cammy-v2-alt-outfit/cammy-v2-alt-outfit-1.jpg",
+   "images/ca3d/street-fighter/cammy-v2-alt-outfit/cammy-v2-alt-outfit-2.jpg",
+   "images/ca3d/street-fighter/cammy-v2-alt-outfit/cammy-v2-alt-outfit-3.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Cammy from Street Fighter, alt outfit variant."
+ },
+ {
+  "id": "ca3d-carnage-mary-jane",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Carnage Mary Jane",
+  "images": [
+   "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-1.jpg",
+   "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-2.jpg",
+   "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-3.jpg",
+   "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-4.jpg",
+   "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-5.jpg",
+   "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-6.jpg",
+   "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Carnage Mary Jane from Spider-Man."
+ },
+ {
+  "id": "ca3d-carter-slade",
+  "artist": "CA3D Studios",
+  "series": "Ghost Rider",
+  "title": "Carter Slade",
+  "images": [
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-1.jpg",
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-2.jpg",
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-3.jpg",
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-4.jpg",
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-5.jpg",
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-6.jpg",
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-7.jpg",
+   "images/ca3d/ghost-rider/carter-slade/carter-slade-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Carter Slade from Ghost Rider."
+ },
+ {
+  "id": "ca3d-casca",
+  "artist": "CA3D Studios",
+  "series": "Berserk",
+  "title": "Casca",
+  "images": [
+   "images/ca3d/berserk/casca/casca-1.jpg",
+   "images/ca3d/berserk/casca/casca-2.jpg",
+   "images/ca3d/berserk/casca/casca-3.jpg",
+   "images/ca3d/berserk/casca/casca-4.jpg",
+   "images/ca3d/berserk/casca/casca-5.jpg",
+   "images/ca3d/berserk/casca/casca-6.jpg",
+   "images/ca3d/berserk/casca/casca-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Casca from Berserk."
+ },
+ {
+  "id": "ca3d-cha-hae-in",
+  "artist": "CA3D Studios",
+  "series": "Solo Leveling",
+  "title": "Cha Hae-in",
+  "images": [
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-1.jpg",
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-2.jpg",
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-3.jpg",
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-4.jpg",
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-5.jpg",
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-6.jpg",
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-7.jpg",
+   "images/ca3d/solo-leveling/cha-hae-in/cha-hae-in-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Cha Hae-in from Solo Leveling."
+ },
+ {
+  "id": "ca3d-chandra",
+  "artist": "CA3D Studios",
+  "series": "Magic: The Gathering",
+  "title": "Chandra",
+  "images": [
+   "images/ca3d/magic-the-gathering/chandra/chandra-1.jpg",
+   "images/ca3d/magic-the-gathering/chandra/chandra-2.jpg",
+   "images/ca3d/magic-the-gathering/chandra/chandra-3.jpg",
+   "images/ca3d/magic-the-gathering/chandra/chandra-4.jpg",
+   "images/ca3d/magic-the-gathering/chandra/chandra-5.jpg",
+   "images/ca3d/magic-the-gathering/chandra/chandra-6.jpg",
+   "images/ca3d/magic-the-gathering/chandra/chandra-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Chandra from Magic: The Gathering."
+ },
+ {
+  "id": "ca3d-chel",
+  "artist": "CA3D Studios",
+  "series": "The Road to El Dorado",
+  "title": "Chel",
+  "images": [
+   "images/ca3d/the-road-to-el-dorado/chel/chel-1.jpg",
+   "images/ca3d/the-road-to-el-dorado/chel/chel-2.jpg",
+   "images/ca3d/the-road-to-el-dorado/chel/chel-3.jpg",
+   "images/ca3d/the-road-to-el-dorado/chel/chel-4.jpg",
+   "images/ca3d/the-road-to-el-dorado/chel/chel-5.jpg",
+   "images/ca3d/the-road-to-el-dorado/chel/chel-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Chel from The Road to El Dorado."
+ },
+ {
+  "id": "ca3d-chun-li",
+  "artist": "CA3D Studios",
+  "series": "Street Fighter",
+  "title": "Chun Li",
+  "images": [
+   "images/ca3d/street-fighter/chun-li/chun-li-1.jpg",
+   "images/ca3d/street-fighter/chun-li/chun-li-2.jpg",
+   "images/ca3d/street-fighter/chun-li/chun-li-3.jpg",
+   "images/ca3d/street-fighter/chun-li/chun-li-4.jpg",
+   "images/ca3d/street-fighter/chun-li/chun-li-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Chun Li from Street Fighter."
+ },
+ {
+  "id": "ca3d-cloak-and-dagger",
+  "artist": "CA3D Studios",
+  "series": "Cloak and Dagger",
+  "title": "Cloak and Dagger",
+  "images": [
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-1.jpg",
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-2.jpg",
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-3.jpg",
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-4.jpg",
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-5.jpg",
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-6.jpg",
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-7.jpg",
+   "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Cloak and Dagger from Cloak and Dagger."
+ },
+ {
+  "id": "ca3d-conan",
+  "artist": "CA3D Studios",
+  "series": "Conan the Barbarian",
+  "title": "Conan",
+  "images": [
+   "images/ca3d/conan-the-barbarian/conan/conan-1.jpg",
+   "images/ca3d/conan-the-barbarian/conan/conan-2.jpg",
+   "images/ca3d/conan-the-barbarian/conan/conan-3.jpg",
+   "images/ca3d/conan-the-barbarian/conan/conan-4.jpg",
+   "images/ca3d/conan-the-barbarian/conan/conan-5.jpg",
+   "images/ca3d/conan-the-barbarian/conan/conan-6.jpg",
+   "images/ca3d/conan-the-barbarian/conan/conan-7.jpg",
+   "images/ca3d/conan-the-barbarian/conan/conan-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Conan from Conan the Barbarian."
+ },
+ {
+  "id": "ca3d-cowgirl-rogue",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Cowgirl Rogue",
+  "images": [
+   "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-1.jpg",
+   "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-2.jpg",
+   "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-3.jpg",
+   "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-4.jpg",
+   "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-5.jpg",
+   "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-6.jpg",
+   "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Cowgirl Rogue from X-Men."
+ },
+ {
+  "id": "ca3d-cyclops",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Cyclops",
+  "images": [
+   "images/ca3d/x-men/cyclops/cyclops-1.jpg",
+   "images/ca3d/x-men/cyclops/cyclops-2.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Cyclops from X-Men."
+ },
+ {
+  "id": "ca3d-dabi",
+  "artist": "CA3D Studios",
+  "series": "My Hero Academia",
+  "title": "Dabi",
+  "images": [
+   "images/ca3d/my-hero-academia/dabi/dabi-1.jpg",
+   "images/ca3d/my-hero-academia/dabi/dabi-2.jpg",
+   "images/ca3d/my-hero-academia/dabi/dabi-3.jpg",
+   "images/ca3d/my-hero-academia/dabi/dabi-4.jpg",
+   "images/ca3d/my-hero-academia/dabi/dabi-5.jpg",
+   "images/ca3d/my-hero-academia/dabi/dabi-6.jpg",
+   "images/ca3d/my-hero-academia/dabi/dabi-7.jpg",
+   "images/ca3d/my-hero-academia/dabi/dabi-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Dabi from My Hero Academia."
+ },
+ {
+  "id": "ca3d-dani-moonstar-mirage",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Dani Moonstar Mirage",
+  "images": [
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-1.jpg",
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-2.jpg",
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-3.jpg",
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-4.jpg",
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-5.jpg",
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-6.jpg",
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-7.jpg",
+   "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Dani Moonstar Mirage from X-Men."
+ },
+ {
+  "id": "ca3d-dante",
+  "artist": "CA3D Studios",
+  "series": "Devil May Cry",
+  "title": "Dante",
+  "images": [
+   "images/ca3d/devil-may-cry/dante/dante-1.jpg",
+   "images/ca3d/devil-may-cry/dante/dante-2.jpg",
+   "images/ca3d/devil-may-cry/dante/dante-3.jpg",
+   "images/ca3d/devil-may-cry/dante/dante-4.jpg",
+   "images/ca3d/devil-may-cry/dante/dante-5.jpg",
+   "images/ca3d/devil-may-cry/dante/dante-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Dante from Devil May Cry."
+ },
+ {
+  "id": "ca3d-dante-inferno",
+  "artist": "CA3D Studios",
+  "series": "Dante's Inferno (EA)",
+  "title": "Dante Inferno",
+  "images": [
+   "images/ca3d/dante-s-inferno-ea/dante-inferno/dante-inferno-1.jpg",
+   "images/ca3d/dante-s-inferno-ea/dante-inferno/dante-inferno-2.jpg",
+   "images/ca3d/dante-s-inferno-ea/dante-inferno/dante-inferno-3.jpg",
+   "images/ca3d/dante-s-inferno-ea/dante-inferno/dante-inferno-4.jpg",
+   "images/ca3d/dante-s-inferno-ea/dante-inferno/dante-inferno-5.jpg",
+   "images/ca3d/dante-s-inferno-ea/dante-inferno/dante-inferno-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Dante Inferno from Dante's Inferno (EA)."
+ },
+ {
+  "id": "ca3d-darth-talon",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Darth Talon",
+  "images": [
+   "images/ca3d/star-wars/darth-talon/darth-talon-1.jpg",
+   "images/ca3d/star-wars/darth-talon/darth-talon-2.jpg",
+   "images/ca3d/star-wars/darth-talon/darth-talon-3.jpg",
+   "images/ca3d/star-wars/darth-talon/darth-talon-4.jpg",
+   "images/ca3d/star-wars/darth-talon/darth-talon-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Darth Talon from Star Wars."
+ },
+ {
+  "id": "ca3d-darth-vader-diorama",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Darth Vader Diorama",
+  "images": [
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-1.jpg",
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-2.jpg",
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-3.jpg",
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-4.jpg",
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-5.jpg",
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-6.jpg",
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-7.jpg",
+   "images/ca3d/star-wars/darth-vader-diorama/darth-vader-diorama-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Darth Vader Diorama from Star Wars."
+ },
+ {
+  "id": "ca3d-darth-vader-samurai",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Darth Vader Samurai",
+  "images": [
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-1.jpg",
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-2.jpg",
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-3.jpg",
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-4.jpg",
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-5.jpg",
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-6.jpg",
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-7.jpg",
+   "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Darth Vader Samurai from Star Wars."
+ },
+ {
+  "id": "ca3d-darth-yoda",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Darth Yoda",
+  "images": [
+   "images/ca3d/star-wars/darth-yoda/darth-yoda-1.jpg",
+   "images/ca3d/star-wars/darth-yoda/darth-yoda-2.jpg",
+   "images/ca3d/star-wars/darth-yoda/darth-yoda-3.jpg",
+   "images/ca3d/star-wars/darth-yoda/darth-yoda-4.jpg",
+   "images/ca3d/star-wars/darth-yoda/darth-yoda-5.jpg",
+   "images/ca3d/star-wars/darth-yoda/darth-yoda-6.jpg",
+   "images/ca3d/star-wars/darth-yoda/darth-yoda-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Darth Yoda from Star Wars."
+ },
+ {
+  "id": "ca3d-david-martinez",
+  "artist": "CA3D Studios",
+  "series": "Cyberpunk: Edgerunners",
+  "title": "David Martinez",
+  "images": [
+   "images/ca3d/cyberpunk-edgerunners/david-martinez/david-martinez-1.jpg",
+   "images/ca3d/cyberpunk-edgerunners/david-martinez/david-martinez-2.jpg",
+   "images/ca3d/cyberpunk-edgerunners/david-martinez/david-martinez-3.jpg",
+   "images/ca3d/cyberpunk-edgerunners/david-martinez/david-martinez-4.jpg",
+   "images/ca3d/cyberpunk-edgerunners/david-martinez/david-martinez-5.jpg",
+   "images/ca3d/cyberpunk-edgerunners/david-martinez/david-martinez-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of David Martinez from Cyberpunk: Edgerunners."
+ },
+ {
+  "id": "ca3d-davy-jones",
+  "artist": "CA3D Studios",
+  "series": "Pirates of the Caribbean",
+  "title": "Davy Jones",
+  "images": [
+   "images/ca3d/pirates-of-the-caribbean/davy-jones/davy-jones-1.jpg",
+   "images/ca3d/pirates-of-the-caribbean/davy-jones/davy-jones-2.jpg",
+   "images/ca3d/pirates-of-the-caribbean/davy-jones/davy-jones-3.jpg",
+   "images/ca3d/pirates-of-the-caribbean/davy-jones/davy-jones-4.jpg",
+   "images/ca3d/pirates-of-the-caribbean/davy-jones/davy-jones-5.jpg",
+   "images/ca3d/pirates-of-the-caribbean/davy-jones/davy-jones-6.jpg",
+   "images/ca3d/pirates-of-the-caribbean/davy-jones/davy-jones-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Davy Jones from Pirates of the Caribbean."
+ },
+ {
+  "id": "ca3d-deadpool",
+  "artist": "CA3D Studios",
+  "series": "Deadpool",
+  "title": "Deadpool",
+  "images": [
+   "images/ca3d/deadpool/deadpool/deadpool-1.jpg",
+   "images/ca3d/deadpool/deadpool/deadpool-2.jpg",
+   "images/ca3d/deadpool/deadpool/deadpool-3.jpg",
+   "images/ca3d/deadpool/deadpool/deadpool-4.jpg",
+   "images/ca3d/deadpool/deadpool/deadpool-5.jpg",
+   "images/ca3d/deadpool/deadpool/deadpool-6.jpg",
+   "images/ca3d/deadpool/deadpool/deadpool-7.jpg",
+   "images/ca3d/deadpool/deadpool/deadpool-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Deadpool from Deadpool."
+ },
+ {
+  "id": "ca3d-death-darksiders",
+  "artist": "CA3D Studios",
+  "series": "Darksiders",
+  "title": "Death (Darksiders)",
+  "images": [
+   "images/ca3d/darksiders/death-darksiders/death-darksiders-1.jpg",
+   "images/ca3d/darksiders/death-darksiders/death-darksiders-2.jpg",
+   "images/ca3d/darksiders/death-darksiders/death-darksiders-3.jpg",
+   "images/ca3d/darksiders/death-darksiders/death-darksiders-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Death from Darksiders."
+ },
+ {
+  "id": "ca3d-death-the-sandman",
+  "artist": "CA3D Studios",
+  "series": "The Sandman",
+  "title": "Death (The Sandman)",
+  "images": [
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-1.jpg",
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-2.jpg",
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-3.jpg",
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-4.jpg",
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-5.jpg",
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-6.jpg",
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-7.jpg",
+   "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Death from The Sandman."
+ },
+ {
+  "id": "ca3d-demona-and-goliath",
+  "artist": "CA3D Studios",
+  "series": "Gargoyles (Disney)",
+  "title": "Demona and Goliath",
+  "images": [
+   "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-1.jpg",
+   "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-2.jpg",
+   "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-3.jpg",
+   "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-4.jpg",
+   "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Demona and Goliath from Gargoyles (Disney)."
+ },
+ {
+  "id": "ca3d-doctor-strange",
+  "artist": "CA3D Studios",
+  "series": "Doctor Strange",
+  "title": "Doctor Strange",
+  "images": [
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-1.jpg",
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-2.jpg",
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-3.jpg",
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-4.jpg",
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-5.jpg",
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-6.jpg",
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-7.jpg",
+   "images/ca3d/doctor-strange/doctor-strange/doctor-strange-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Doctor Strange from Doctor Strange."
+ },
+ {
+  "id": "ca3d-domino",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Domino",
+  "images": [
+   "images/ca3d/x-men/domino/domino-1.jpg",
+   "images/ca3d/x-men/domino/domino-2.jpg",
+   "images/ca3d/x-men/domino/domino-3.jpg",
+   "images/ca3d/x-men/domino/domino-4.jpg",
+   "images/ca3d/x-men/domino/domino-5.jpg",
+   "images/ca3d/x-men/domino/domino-6.jpg",
+   "images/ca3d/x-men/domino/domino-7.jpg",
+   "images/ca3d/x-men/domino/domino-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Domino from X-Men."
+ },
+ {
+  "id": "ca3d-dr-doom",
+  "artist": "CA3D Studios",
+  "series": "Fantastic Four",
+  "title": "Dr Doom",
+  "images": [
+   "images/ca3d/fantastic-four/dr-doom/dr-doom-1.jpg",
+   "images/ca3d/fantastic-four/dr-doom/dr-doom-2.jpg",
+   "images/ca3d/fantastic-four/dr-doom/dr-doom-3.jpg",
+   "images/ca3d/fantastic-four/dr-doom/dr-doom-4.jpg",
+   "images/ca3d/fantastic-four/dr-doom/dr-doom-5.jpg",
+   "images/ca3d/fantastic-four/dr-doom/dr-doom-6.jpg",
+   "images/ca3d/fantastic-four/dr-doom/dr-doom-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Dr Doom from Fantastic Four."
+ },
+ {
+  "id": "ca3d-dracula",
+  "artist": "CA3D Studios",
+  "series": "Classic Horror",
+  "title": "Dracula",
+  "images": [
+   "images/ca3d/classic-horror/dracula/dracula-1.jpg",
+   "images/ca3d/classic-horror/dracula/dracula-2.jpg",
+   "images/ca3d/classic-horror/dracula/dracula-3.jpg",
+   "images/ca3d/classic-horror/dracula/dracula-4.jpg",
+   "images/ca3d/classic-horror/dracula/dracula-5.jpg",
+   "images/ca3d/classic-horror/dracula/dracula-6.jpg",
+   "images/ca3d/classic-horror/dracula/dracula-7.jpg",
+   "images/ca3d/classic-horror/dracula/dracula-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Dracula from Classic Horror."
+ },
+ {
+  "id": "ca3d-edward-elric",
+  "artist": "CA3D Studios",
+  "series": "Fullmetal Alchemist",
+  "title": "EDWARD ELRIC",
+  "images": [
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-1.jpg",
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-2.jpg",
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-3.jpg",
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-4.jpg",
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-5.jpg",
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-6.jpg",
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-7.jpg",
+   "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of EDWARD ELRIC from Fullmetal Alchemist."
+ },
+ {
+  "id": "ca3d-emma-frost",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Emma Frost",
+  "images": [
+   "images/ca3d/x-men/emma-frost/emma-frost-1.jpg",
+   "images/ca3d/x-men/emma-frost/emma-frost-2.jpg",
+   "images/ca3d/x-men/emma-frost/emma-frost-3.jpg",
+   "images/ca3d/x-men/emma-frost/emma-frost-4.jpg",
+   "images/ca3d/x-men/emma-frost/emma-frost-5.jpg",
+   "images/ca3d/x-men/emma-frost/emma-frost-6.jpg",
+   "images/ca3d/x-men/emma-frost/emma-frost-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Emma Frost from X-Men."
+ },
+ {
+  "id": "ca3d-eve",
+  "artist": "CA3D Studios",
+  "series": "Shin Megami Tensei / Generic",
+  "title": "Eve",
+  "images": [
+   "images/ca3d/shin-megami-tensei-generic/eve/eve-1.jpg",
+   "images/ca3d/shin-megami-tensei-generic/eve/eve-2.jpg",
+   "images/ca3d/shin-megami-tensei-generic/eve/eve-3.jpg",
+   "images/ca3d/shin-megami-tensei-generic/eve/eve-4.jpg",
+   "images/ca3d/shin-megami-tensei-generic/eve/eve-5.jpg",
+   "images/ca3d/shin-megami-tensei-generic/eve/eve-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Eve from Shin Megami Tensei / Generic."
+ },
+ {
+  "id": "ca3d-evie",
+  "artist": "CA3D Studios",
+  "series": "Stellar Blade: Blood Rain",
+  "title": "Evie",
+  "images": [
+   "images/ca3d/stellar-blade-blood-rain/evie/evie-1.jpg",
+   "images/ca3d/stellar-blade-blood-rain/evie/evie-2.jpg",
+   "images/ca3d/stellar-blade-blood-rain/evie/evie-3.jpg",
+   "images/ca3d/stellar-blade-blood-rain/evie/evie-4.jpg",
+   "images/ca3d/stellar-blade-blood-rain/evie/evie-5.jpg",
+   "images/ca3d/stellar-blade-blood-rain/evie/evie-6.jpg",
+   "images/ca3d/stellar-blade-blood-rain/evie/evie-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Evie from Stellar Blade: Blood Rain."
+ },
+ {
+  "id": "ca3d-evil-queen",
+  "artist": "CA3D Studios",
+  "series": "Disney Snow White",
+  "title": "Evil Queen",
+  "images": [
+   "images/ca3d/disney-snow-white/evil-queen/evil-queen-1.jpg",
+   "images/ca3d/disney-snow-white/evil-queen/evil-queen-2.jpg",
+   "images/ca3d/disney-snow-white/evil-queen/evil-queen-3.jpg",
+   "images/ca3d/disney-snow-white/evil-queen/evil-queen-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Evil Queen from Disney Snow White."
+ },
+ {
+  "id": "ca3d-ezio",
+  "artist": "CA3D Studios",
+  "series": "Assassin's Creed",
+  "title": "Ezio",
+  "images": [
+   "images/ca3d/assassin-s-creed/ezio/ezio-1.jpg",
+   "images/ca3d/assassin-s-creed/ezio/ezio-2.jpg",
+   "images/ca3d/assassin-s-creed/ezio/ezio-3.jpg",
+   "images/ca3d/assassin-s-creed/ezio/ezio-4.jpg",
+   "images/ca3d/assassin-s-creed/ezio/ezio-5.jpg",
+   "images/ca3d/assassin-s-creed/ezio/ezio-6.jpg",
+   "images/ca3d/assassin-s-creed/ezio/ezio-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Ezio from Assassin's Creed."
+ },
+ {
+  "id": "ca3d-faye-laufey",
+  "artist": "CA3D Studios",
+  "series": "God of War",
+  "title": "Faye / Laufey",
+  "images": [
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-1.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-2.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-3.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-4.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-5.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-6.jpg",
+   "images/ca3d/god-of-war/faye-laufey/faye-laufey-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Faye / Laufey from God of War."
+ },
+ {
+  "id": "ca3d-faye-valentine",
+  "artist": "CA3D Studios",
+  "series": "Cowboy Bebop",
+  "title": "Faye Valentine",
+  "images": [
+   "images/ca3d/cowboy-bebop/faye-valentine/faye-valentine-1.jpg",
+   "images/ca3d/cowboy-bebop/faye-valentine/faye-valentine-2.jpg",
+   "images/ca3d/cowboy-bebop/faye-valentine/faye-valentine-3.jpg",
+   "images/ca3d/cowboy-bebop/faye-valentine/faye-valentine-4.jpg",
+   "images/ca3d/cowboy-bebop/faye-valentine/faye-valentine-5.jpg",
+   "images/ca3d/cowboy-bebop/faye-valentine/faye-valentine-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+ },
+ {
+  "id": "ca3d-felicia",
+  "artist": "CA3D Studios",
+  "series": "Darkstalkers",
+  "title": "Felicia",
+  "images": [
+   "images/ca3d/darkstalkers/felicia/felicia-1.jpg",
+   "images/ca3d/darkstalkers/felicia/felicia-2.jpg",
+   "images/ca3d/darkstalkers/felicia/felicia-3.jpg",
+   "images/ca3d/darkstalkers/felicia/felicia-4.jpg",
+   "images/ca3d/darkstalkers/felicia/felicia-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Felicia from Darkstalkers."
+ },
+ {
+  "id": "ca3d-frank-dux",
+  "artist": "CA3D Studios",
+  "series": "Bloodsport",
+  "title": "Frank Dux",
+  "images": [
+   "images/ca3d/bloodsport/frank-dux/frank-dux-1.jpg",
+   "images/ca3d/bloodsport/frank-dux/frank-dux-2.jpg",
+   "images/ca3d/bloodsport/frank-dux/frank-dux-3.jpg",
+   "images/ca3d/bloodsport/frank-dux/frank-dux-4.jpg",
+   "images/ca3d/bloodsport/frank-dux/frank-dux-5.jpg",
+   "images/ca3d/bloodsport/frank-dux/frank-dux-6.jpg",
+   "images/ca3d/bloodsport/frank-dux/frank-dux-7.jpg",
+   "images/ca3d/bloodsport/frank-dux/frank-dux-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Frank Dux from Bloodsport."
+ },
+ {
+  "id": "ca3d-frankenstein",
+  "artist": "CA3D Studios",
+  "series": "Classic Horror",
+  "title": "Frankenstein",
+  "images": [
+   "images/ca3d/classic-horror/frankenstein/frankenstein-1.jpg",
+   "images/ca3d/classic-horror/frankenstein/frankenstein-2.jpg",
+   "images/ca3d/classic-horror/frankenstein/frankenstein-3.jpg",
+   "images/ca3d/classic-horror/frankenstein/frankenstein-4.jpg",
+   "images/ca3d/classic-horror/frankenstein/frankenstein-5.jpg",
+   "images/ca3d/classic-horror/frankenstein/frankenstein-6.jpg",
+   "images/ca3d/classic-horror/frankenstein/frankenstein-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Frankenstein from Classic Horror."
+ },
+ {
+  "id": "ca3d-frankenstein-bride",
+  "artist": "CA3D Studios",
+  "series": "Classic Horror",
+  "title": "Frankenstein Bride",
+  "images": [
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-1.jpg",
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-2.jpg",
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-3.jpg",
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-4.jpg",
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-5.jpg",
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-6.jpg",
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-7.jpg",
+   "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Frankenstein Bride from Classic Horror."
+ },
+ {
+  "id": "ca3d-freyja",
+  "artist": "CA3D Studios",
+  "series": "Norse Mythology",
+  "title": "Freyja",
+  "images": [
+   "images/ca3d/norse-mythology/freyja/freyja-1.jpg",
+   "images/ca3d/norse-mythology/freyja/freyja-2.jpg",
+   "images/ca3d/norse-mythology/freyja/freyja-3.jpg",
+   "images/ca3d/norse-mythology/freyja/freyja-4.jpg",
+   "images/ca3d/norse-mythology/freyja/freyja-5.jpg",
+   "images/ca3d/norse-mythology/freyja/freyja-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Freyja from Norse Mythology."
+ },
+ {
+  "id": "ca3d-gambit",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Gambit",
+  "images": [
+   "images/ca3d/x-men/gambit/gambit-1.jpg",
+   "images/ca3d/x-men/gambit/gambit-2.jpg",
+   "images/ca3d/x-men/gambit/gambit-3.jpg",
+   "images/ca3d/x-men/gambit/gambit-4.jpg",
+   "images/ca3d/x-men/gambit/gambit-5.jpg",
+   "images/ca3d/x-men/gambit/gambit-6.jpg",
+   "images/ca3d/x-men/gambit/gambit-7.jpg",
+   "images/ca3d/x-men/gambit/gambit-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Gambit from X-Men."
+ },
+ {
+  "id": "ca3d-geralt",
+  "artist": "CA3D Studios",
+  "series": "The Witcher",
+  "title": "Geralt",
+  "images": [
+   "images/ca3d/the-witcher/geralt/geralt-1.jpg",
+   "images/ca3d/the-witcher/geralt/geralt-2.jpg",
+   "images/ca3d/the-witcher/geralt/geralt-3.jpg",
+   "images/ca3d/the-witcher/geralt/geralt-4.jpg",
+   "images/ca3d/the-witcher/geralt/geralt-5.jpg",
+   "images/ca3d/the-witcher/geralt/geralt-6.jpg",
+   "images/ca3d/the-witcher/geralt/geralt-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Geralt from The Witcher."
+ },
+ {
+  "id": "ca3d-gladiator-hulk",
+  "artist": "CA3D Studios",
+  "series": "Hulk",
+  "title": "Gladiator Hulk",
+  "images": [
+   "images/ca3d/hulk/gladiator-hulk/gladiator-hulk-1.jpg",
+   "images/ca3d/hulk/gladiator-hulk/gladiator-hulk-2.jpg",
+   "images/ca3d/hulk/gladiator-hulk/gladiator-hulk-3.jpg",
+   "images/ca3d/hulk/gladiator-hulk/gladiator-hulk-4.jpg",
+   "images/ca3d/hulk/gladiator-hulk/gladiator-hulk-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Gladiator Hulk from Hulk."
+ },
+ {
+  "id": "ca3d-goku",
+  "artist": "CA3D Studios",
+  "series": "Dragon Ball Z",
+  "title": "Goku",
+  "images": [
+   "images/ca3d/dragon-ball-z/goku/goku-1.jpg",
+   "images/ca3d/dragon-ball-z/goku/goku-2.jpg",
+   "images/ca3d/dragon-ball-z/goku/goku-3.jpg",
+   "images/ca3d/dragon-ball-z/goku/goku-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Goku from Dragon Ball Z."
+ },
+ {
+  "id": "ca3d-griffith",
+  "artist": "CA3D Studios",
+  "series": "Berserk",
+  "title": "Griffith",
+  "images": [
+   "images/ca3d/berserk/griffith/griffith-1.jpg",
+   "images/ca3d/berserk/griffith/griffith-2.jpg",
+   "images/ca3d/berserk/griffith/griffith-3.jpg",
+   "images/ca3d/berserk/griffith/griffith-4.jpg",
+   "images/ca3d/berserk/griffith/griffith-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Griffith from Berserk."
+ },
+ {
+  "id": "ca3d-guts",
+  "artist": "CA3D Studios",
+  "series": "Berserk",
+  "title": "Guts",
+  "images": [
+   "images/ca3d/berserk/guts/guts-1.jpg",
+   "images/ca3d/berserk/guts/guts-2.jpg",
+   "images/ca3d/berserk/guts/guts-3.jpg",
+   "images/ca3d/berserk/guts/guts-4.jpg",
+   "images/ca3d/berserk/guts/guts-5.jpg",
+   "images/ca3d/berserk/guts/guts-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Guts from Berserk."
+ },
+ {
+  "id": "ca3d-gwenom",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Gwenom",
+  "images": [
+   "images/ca3d/spider-man/gwenom/gwenom-1.jpg",
+   "images/ca3d/spider-man/gwenom/gwenom-2.jpg",
+   "images/ca3d/spider-man/gwenom/gwenom-3.jpg",
+   "images/ca3d/spider-man/gwenom/gwenom-4.jpg",
+   "images/ca3d/spider-man/gwenom/gwenom-5.jpg",
+   "images/ca3d/spider-man/gwenom/gwenom-6.jpg",
+   "images/ca3d/spider-man/gwenom/gwenom-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Gwenom from Spider-Man."
+ },
+ {
+  "id": "ca3d-he-man",
+  "artist": "CA3D Studios",
+  "series": "Masters of the Universe",
+  "title": "He-Man",
+  "images": [
+   "images/ca3d/masters-of-the-universe/he-man/he-man-1.jpg",
+   "images/ca3d/masters-of-the-universe/he-man/he-man-2.jpg",
+   "images/ca3d/masters-of-the-universe/he-man/he-man-3.jpg",
+   "images/ca3d/masters-of-the-universe/he-man/he-man-4.jpg",
+   "images/ca3d/masters-of-the-universe/he-man/he-man-5.jpg",
+   "images/ca3d/masters-of-the-universe/he-man/he-man-6.jpg",
+   "images/ca3d/masters-of-the-universe/he-man/he-man-7.jpg",
+   "images/ca3d/masters-of-the-universe/he-man/he-man-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of He-Man from Masters of the Universe."
+ },
+ {
+  "id": "ca3d-hela",
+  "artist": "CA3D Studios",
+  "series": "Thor",
+  "title": "Hela",
+  "images": [
+   "images/ca3d/thor/hela/hela-1.jpg",
+   "images/ca3d/thor/hela/hela-2.jpg",
+   "images/ca3d/thor/hela/hela-3.jpg",
+   "images/ca3d/thor/hela/hela-4.jpg",
+   "images/ca3d/thor/hela/hela-5.jpg",
+   "images/ca3d/thor/hela/hela-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Hela from Thor."
+ },
+ {
+  "id": "ca3d-hellboy",
+  "artist": "CA3D Studios",
+  "series": "Hellboy",
+  "title": "Hellboy",
+  "images": [
+   "images/ca3d/hellboy/hellboy/hellboy-1.jpg",
+   "images/ca3d/hellboy/hellboy/hellboy-2.jpg",
+   "images/ca3d/hellboy/hellboy/hellboy-3.jpg",
+   "images/ca3d/hellboy/hellboy/hellboy-4.jpg",
+   "images/ca3d/hellboy/hellboy/hellboy-5.jpg",
+   "images/ca3d/hellboy/hellboy/hellboy-6.jpg",
+   "images/ca3d/hellboy/hellboy/hellboy-7.jpg",
+   "images/ca3d/hellboy/hellboy/hellboy-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Hellboy from Hellboy."
+ },
+ {
+  "id": "ca3d-hinata",
+  "artist": "CA3D Studios",
+  "series": "Naruto",
+  "title": "Hinata",
+  "images": [
+   "images/ca3d/naruto/hinata/hinata-1.jpg",
+   "images/ca3d/naruto/hinata/hinata-2.jpg",
+   "images/ca3d/naruto/hinata/hinata-3.jpg",
+   "images/ca3d/naruto/hinata/hinata-4.jpg",
+   "images/ca3d/naruto/hinata/hinata-5.jpg",
+   "images/ca3d/naruto/hinata/hinata-6.jpg",
+   "images/ca3d/naruto/hinata/hinata-7.jpg",
+   "images/ca3d/naruto/hinata/hinata-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Hinata from Naruto."
+ },
+ {
+  "id": "ca3d-inspector-gadget",
+  "artist": "CA3D Studios",
+  "series": "Inspector Gadget",
+  "title": "Inspector Gadget",
+  "images": [
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-1.jpg",
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-2.jpg",
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-3.jpg",
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-4.jpg",
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-5.jpg",
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-6.jpg",
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-7.jpg",
+   "images/ca3d/inspector-gadget/inspector-gadget/inspector-gadget-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Inspector Gadget from Inspector Gadget."
+ },
+ {
+  "id": "ca3d-invisible-woman",
+  "artist": "CA3D Studios",
+  "series": "Fantastic Four",
+  "title": "Invisible Woman",
+  "images": [
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-1.jpg",
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-2.jpg",
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-3.jpg",
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-4.jpg",
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-5.jpg",
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-6.jpg",
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-7.jpg",
+   "images/ca3d/fantastic-four/invisible-woman/invisible-woman-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Invisible Woman from Fantastic Four."
+ },
+ {
+  "id": "ca3d-iron-man",
+  "artist": "CA3D Studios",
+  "series": "Iron Man",
+  "title": "Iron Man",
+  "images": [
+   "images/ca3d/iron-man/iron-man/iron-man-1.jpg",
+   "images/ca3d/iron-man/iron-man/iron-man-2.jpg",
+   "images/ca3d/iron-man/iron-man/iron-man-3.jpg",
+   "images/ca3d/iron-man/iron-man/iron-man-4.jpg",
+   "images/ca3d/iron-man/iron-man/iron-man-5.jpg",
+   "images/ca3d/iron-man/iron-man/iron-man-6.jpg",
+   "images/ca3d/iron-man/iron-man/iron-man-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Iron Man from Iron Man."
+ },
+ {
+  "id": "ca3d-isaac-clarke",
+  "artist": "CA3D Studios",
+  "series": "Dead Space",
+  "title": "Isaac Clarke",
+  "images": [
+   "images/ca3d/dead-space/isaac-clarke/isaac-clarke-1.jpg",
+   "images/ca3d/dead-space/isaac-clarke/isaac-clarke-2.jpg",
+   "images/ca3d/dead-space/isaac-clarke/isaac-clarke-3.jpg",
+   "images/ca3d/dead-space/isaac-clarke/isaac-clarke-4.jpg",
+   "images/ca3d/dead-space/isaac-clarke/isaac-clarke-5.jpg",
+   "images/ca3d/dead-space/isaac-clarke/isaac-clarke-6.jpg",
+   "images/ca3d/dead-space/isaac-clarke/isaac-clarke-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Isaac Clarke from Dead Space."
+ },
+ {
+  "id": "ca3d-itachi-uchiha",
+  "artist": "CA3D Studios",
+  "series": "Naruto",
+  "title": "Itachi Uchiha",
+  "images": [
+   "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-1.jpg",
+   "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-2.jpg",
+   "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-3.jpg",
+   "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-4.jpg",
+   "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-5.jpg",
+   "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-6.jpg",
+   "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Itachi Uchiha from Naruto."
+ },
+ {
+  "id": "ca3d-ivy-valentine-soul-calibur",
+  "artist": "CA3D Studios",
+  "series": "Soul Calibur",
+  "title": "Ivy Valentine - Soul Calibur",
+  "images": [
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-1.jpg",
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-2.jpg",
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-3.jpg",
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-4.jpg",
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-5.jpg",
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-6.jpg",
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-7.jpg",
+   "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Ivy Valentine - Soul Calibur from Soul Calibur."
+ },
+ {
+  "id": "ca3d-jaina",
+  "artist": "CA3D Studios",
+  "series": "World of Warcraft",
+  "title": "Jaina",
+  "images": [
+   "images/ca3d/world-of-warcraft/jaina/jaina-1.jpg",
+   "images/ca3d/world-of-warcraft/jaina/jaina-2.jpg",
+   "images/ca3d/world-of-warcraft/jaina/jaina-3.jpg",
+   "images/ca3d/world-of-warcraft/jaina/jaina-4.jpg",
+   "images/ca3d/world-of-warcraft/jaina/jaina-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jaina from World of Warcraft."
+ },
+ {
+  "id": "ca3d-jasmine",
+  "artist": "CA3D Studios",
+  "series": "Disney Aladdin",
+  "title": "Jasmine",
+  "images": [
+   "images/ca3d/disney-aladdin/jasmine/jasmine-1.jpg",
+   "images/ca3d/disney-aladdin/jasmine/jasmine-2.jpg",
+   "images/ca3d/disney-aladdin/jasmine/jasmine-3.jpg",
+   "images/ca3d/disney-aladdin/jasmine/jasmine-4.jpg",
+   "images/ca3d/disney-aladdin/jasmine/jasmine-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jasmine from Disney Aladdin."
+ },
+ {
+  "id": "ca3d-jessica-rabbit",
+  "artist": "CA3D Studios",
+  "series": "Who Framed Roger Rabbit",
+  "title": "Jessica Rabbit",
+  "images": [
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-1.jpg",
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-2.jpg",
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-3.jpg",
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-4.jpg",
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-5.jpg",
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-6.jpg",
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-7.jpg",
+   "images/ca3d/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jessica Rabbit from Who Framed Roger Rabbit."
+ },
+ {
+  "id": "ca3d-jinx",
+  "artist": "CA3D Studios",
+  "series": "League of Legends / Arcane",
+  "title": "Jinx",
+  "images": [
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-1.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-2.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-3.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-4.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-5.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-6.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-7.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx/jinx-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jinx from League of Legends / Arcane."
+ },
+ {
+  "id": "ca3d-jinx-2",
+  "artist": "CA3D Studios",
+  "series": "League of Legends / Arcane",
+  "title": "Jinx - 2",
+  "images": [
+   "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-1.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-2.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-3.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-4.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-5.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-6.jpg",
+   "images/ca3d/league-of-legends-arcane/jinx-2/jinx-2-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jinx - 2 from League of Legends / Arcane."
+ },
+ {
+  "id": "ca3d-johnny-silverhand",
+  "artist": "CA3D Studios",
+  "series": "Cyberpunk 2077",
+  "title": "Johnny Silverhand",
+  "images": [
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-1.jpg",
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-2.jpg",
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-3.jpg",
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-4.jpg",
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-5.jpg",
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-6.jpg",
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-7.jpg",
+   "images/ca3d/cyberpunk-2077/johnny-silverhand/johnny-silverhand-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Johnny Silverhand from Cyberpunk 2077."
+ },
+ {
+  "id": "ca3d-jolyne-kujo",
+  "artist": "CA3D Studios",
+  "series": "JoJo's Bizarre Adventure",
+  "title": "Jolyne Kujo",
+  "images": [
+   "images/ca3d/jojo-s-bizarre-adventure/jolyne-kujo/jolyne-kujo-1.jpg",
+   "images/ca3d/jojo-s-bizarre-adventure/jolyne-kujo/jolyne-kujo-2.jpg",
+   "images/ca3d/jojo-s-bizarre-adventure/jolyne-kujo/jolyne-kujo-3.jpg",
+   "images/ca3d/jojo-s-bizarre-adventure/jolyne-kujo/jolyne-kujo-4.jpg",
+   "images/ca3d/jojo-s-bizarre-adventure/jolyne-kujo/jolyne-kujo-5.jpg",
+   "images/ca3d/jojo-s-bizarre-adventure/jolyne-kujo/jolyne-kujo-6.jpg",
+   "images/ca3d/jojo-s-bizarre-adventure/jolyne-kujo/jolyne-kujo-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jolyne Kujo from JoJo's Bizarre Adventure."
+ },
+ {
+  "id": "ca3d-jubilee",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Jubilee",
+  "images": [
+   "images/ca3d/x-men/jubilee/jubilee-1.jpg",
+   "images/ca3d/x-men/jubilee/jubilee-2.jpg",
+   "images/ca3d/x-men/jubilee/jubilee-3.jpg",
+   "images/ca3d/x-men/jubilee/jubilee-4.jpg",
+   "images/ca3d/x-men/jubilee/jubilee-5.jpg",
+   "images/ca3d/x-men/jubilee/jubilee-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jubilee from X-Men."
+ },
+ {
+  "id": "ca3d-judge-dredd",
+  "artist": "CA3D Studios",
+  "series": "Judge Dredd",
+  "title": "Judge Dredd",
+  "images": [
+   "images/ca3d/judge-dredd/judge-dredd/judge-dredd-1.jpg",
+   "images/ca3d/judge-dredd/judge-dredd/judge-dredd-2.jpg",
+   "images/ca3d/judge-dredd/judge-dredd/judge-dredd-3.jpg",
+   "images/ca3d/judge-dredd/judge-dredd/judge-dredd-4.jpg",
+   "images/ca3d/judge-dredd/judge-dredd/judge-dredd-5.jpg",
+   "images/ca3d/judge-dredd/judge-dredd/judge-dredd-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Judge Dredd from Judge Dredd."
+ },
+ {
+  "id": "ca3d-juggernaut",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Juggernaut",
+  "images": [
+   "images/ca3d/x-men/juggernaut/juggernaut-1.jpg",
+   "images/ca3d/x-men/juggernaut/juggernaut-2.jpg",
+   "images/ca3d/x-men/juggernaut/juggernaut-3.jpg",
+   "images/ca3d/x-men/juggernaut/juggernaut-4.jpg",
+   "images/ca3d/x-men/juggernaut/juggernaut-5.jpg",
+   "images/ca3d/x-men/juggernaut/juggernaut-6.jpg",
+   "images/ca3d/x-men/juggernaut/juggernaut-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Juggernaut from X-Men."
+ },
+ {
+  "id": "ca3d-jun-the-swan",
+  "artist": "CA3D Studios",
+  "series": "Cyborg 009",
+  "title": "Jun the Swan",
+  "images": [
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-1.jpg",
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-2.jpg",
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-3.jpg",
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-4.jpg",
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-5.jpg",
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-6.jpg",
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-7.jpg",
+   "images/ca3d/cyborg-009/jun-the-swan/jun-the-swan-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Jun the Swan from Cyborg 009."
+ },
+ {
+  "id": "ca3d-kai-sa",
+  "artist": "CA3D Studios",
+  "series": "League of Legends",
+  "title": "Kai'Sa",
+  "images": [
+   "images/ca3d/league-of-legends/kai-sa/kai-sa-1.jpg",
+   "images/ca3d/league-of-legends/kai-sa/kai-sa-2.jpg",
+   "images/ca3d/league-of-legends/kai-sa/kai-sa-3.jpg",
+   "images/ca3d/league-of-legends/kai-sa/kai-sa-4.jpg",
+   "images/ca3d/league-of-legends/kai-sa/kai-sa-5.jpg",
+   "images/ca3d/league-of-legends/kai-sa/kai-sa-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kai'Sa from League of Legends."
+ },
+ {
+  "id": "ca3d-kaneda",
+  "artist": "CA3D Studios",
+  "series": "Akira",
+  "title": "Kaneda",
+  "images": [
+   "images/ca3d/akira/kaneda/kaneda-1.jpg",
+   "images/ca3d/akira/kaneda/kaneda-2.jpg",
+   "images/ca3d/akira/kaneda/kaneda-3.jpg",
+   "images/ca3d/akira/kaneda/kaneda-4.jpg",
+   "images/ca3d/akira/kaneda/kaneda-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kaneda from Akira."
+ },
+ {
+  "id": "ca3d-karlach",
+  "artist": "CA3D Studios",
+  "series": "Baldur's Gate 3",
+  "title": "Karlach",
+  "images": [
+   "images/ca3d/baldur-s-gate-3/karlach/karlach-1.jpg",
+   "images/ca3d/baldur-s-gate-3/karlach/karlach-2.jpg",
+   "images/ca3d/baldur-s-gate-3/karlach/karlach-3.jpg",
+   "images/ca3d/baldur-s-gate-3/karlach/karlach-4.jpg",
+   "images/ca3d/baldur-s-gate-3/karlach/karlach-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Karlach from Baldur's Gate 3."
+ },
+ {
+  "id": "ca3d-kazuya",
+  "artist": "CA3D Studios",
+  "series": "Tekken",
+  "title": "Kazuya",
+  "images": [
+   "images/ca3d/tekken/kazuya/kazuya-1.jpg",
+   "images/ca3d/tekken/kazuya/kazuya-2.jpg",
+   "images/ca3d/tekken/kazuya/kazuya-3.jpg",
+   "images/ca3d/tekken/kazuya/kazuya-4.jpg",
+   "images/ca3d/tekken/kazuya/kazuya-5.jpg",
+   "images/ca3d/tekken/kazuya/kazuya-6.jpg",
+   "images/ca3d/tekken/kazuya/kazuya-7.jpg",
+   "images/ca3d/tekken/kazuya/kazuya-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kazuya from Tekken."
+ },
+ {
+  "id": "ca3d-kenshin-himura",
+  "artist": "CA3D Studios",
+  "series": "Rurouni Kenshin",
+  "title": "Kenshin Himura",
+  "images": [
+   "images/ca3d/rurouni-kenshin/kenshin-himura/kenshin-himura-1.jpg",
+   "images/ca3d/rurouni-kenshin/kenshin-himura/kenshin-himura-2.jpg",
+   "images/ca3d/rurouni-kenshin/kenshin-himura/kenshin-himura-3.jpg",
+   "images/ca3d/rurouni-kenshin/kenshin-himura/kenshin-himura-4.jpg",
+   "images/ca3d/rurouni-kenshin/kenshin-himura/kenshin-himura-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kenshin Himura from Rurouni Kenshin."
+ },
+ {
+  "id": "ca3d-kida",
+  "artist": "CA3D Studios",
+  "series": "Disney Atlantis: The Lost Empire",
+  "title": "Kida",
+  "images": [
+   "images/ca3d/disney-atlantis-the-lost-empire/kida/kida-1.jpg",
+   "images/ca3d/disney-atlantis-the-lost-empire/kida/kida-2.jpg",
+   "images/ca3d/disney-atlantis-the-lost-empire/kida/kida-3.jpg",
+   "images/ca3d/disney-atlantis-the-lost-empire/kida/kida-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kida from Disney Atlantis: The Lost Empire."
+ },
+ {
+  "id": "ca3d-kikoru",
+  "artist": "CA3D Studios",
+  "series": "Kaiju No. 8",
+  "title": "Kikoru",
+  "images": [
+   "images/ca3d/kaiju-no-8/kikoru/kikoru-1.jpg",
+   "images/ca3d/kaiju-no-8/kikoru/kikoru-2.jpg",
+   "images/ca3d/kaiju-no-8/kikoru/kikoru-3.jpg",
+   "images/ca3d/kaiju-no-8/kikoru/kikoru-4.jpg",
+   "images/ca3d/kaiju-no-8/kikoru/kikoru-5.jpg",
+   "images/ca3d/kaiju-no-8/kikoru/kikoru-6.jpg",
+   "images/ca3d/kaiju-no-8/kikoru/kikoru-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kikoru from Kaiju No. 8."
+ },
+ {
+  "id": "ca3d-king-thor",
+  "artist": "CA3D Studios",
+  "series": "Thor",
+  "title": "King Thor",
+  "images": [
+   "images/ca3d/thor/king-thor/king-thor-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of King Thor from Thor."
+ },
+ {
+  "id": "ca3d-kitty-pride",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Kitty Pride",
+  "images": [
+   "images/ca3d/x-men/kitty-pride/kitty-pride-1.jpg",
+   "images/ca3d/x-men/kitty-pride/kitty-pride-2.jpg",
+   "images/ca3d/x-men/kitty-pride/kitty-pride-3.jpg",
+   "images/ca3d/x-men/kitty-pride/kitty-pride-4.jpg",
+   "images/ca3d/x-men/kitty-pride/kitty-pride-5.jpg",
+   "images/ca3d/x-men/kitty-pride/kitty-pride-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kitty Pride from X-Men."
+ },
+ {
+  "id": "ca3d-korra",
+  "artist": "CA3D Studios",
+  "series": "The Legend of Korra",
+  "title": "Korra",
+  "images": [
+   "images/ca3d/the-legend-of-korra/korra/korra-1.jpg",
+   "images/ca3d/the-legend-of-korra/korra/korra-2.jpg",
+   "images/ca3d/the-legend-of-korra/korra/korra-3.jpg",
+   "images/ca3d/the-legend-of-korra/korra/korra-4.jpg",
+   "images/ca3d/the-legend-of-korra/korra/korra-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Korra from The Legend of Korra."
+ },
+ {
+  "id": "ca3d-kratos-v1-nordic-era",
+  "artist": "CA3D Studios",
+  "series": "God of War",
+  "title": "Kratos (v1 - Nordic era)",
+  "images": [
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-1.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-2.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-3.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-4.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-5.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-6.jpg",
+   "images/ca3d/god-of-war/kratos-v1-nordic-era/kratos-v1-nordic-era-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kratos from God of War, Nordic era variant."
+ },
+ {
+  "id": "ca3d-kratos-v2-greek-era",
+  "artist": "CA3D Studios",
+  "series": "God of War",
+  "title": "Kratos (v2 - Greek era)",
+  "images": [
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-1.jpg",
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-2.jpg",
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-3.jpg",
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-4.jpg",
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-5.jpg",
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-6.jpg",
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-7.jpg",
+   "images/ca3d/god-of-war/kratos-v2-greek-era/kratos-v2-greek-era-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Kratos from God of War, Greek era variant."
+ },
+ {
+  "id": "ca3d-lady-dimitrescu",
+  "artist": "CA3D Studios",
+  "series": "Resident Evil Village",
+  "title": "Lady Dimitrescu",
+  "images": [
+   "images/ca3d/resident-evil-village/lady-dimitrescu/lady-dimitrescu-1.jpg",
+   "images/ca3d/resident-evil-village/lady-dimitrescu/lady-dimitrescu-2.jpg",
+   "images/ca3d/resident-evil-village/lady-dimitrescu/lady-dimitrescu-3.jpg",
+   "images/ca3d/resident-evil-village/lady-dimitrescu/lady-dimitrescu-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lady Dimitrescu from Resident Evil Village."
+ },
+ {
+  "id": "ca3d-lady-lobo",
+  "artist": "CA3D Studios",
+  "series": "Lobo",
+  "title": "Lady Lobo",
+  "images": [
+   "images/ca3d/lobo/lady-lobo/lady-lobo-1.jpg",
+   "images/ca3d/lobo/lady-lobo/lady-lobo-2.jpg",
+   "images/ca3d/lobo/lady-lobo/lady-lobo-3.jpg",
+   "images/ca3d/lobo/lady-lobo/lady-lobo-4.jpg",
+   "images/ca3d/lobo/lady-lobo/lady-lobo-5.jpg",
+   "images/ca3d/lobo/lady-lobo/lady-lobo-6.jpg",
+   "images/ca3d/lobo/lady-lobo/lady-lobo-7.jpg",
+   "images/ca3d/lobo/lady-lobo/lady-lobo-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lady Lobo from Lobo."
+ },
+ {
+  "id": "ca3d-lady-loki",
+  "artist": "CA3D Studios",
+  "series": "Loki",
+  "title": "Lady Loki",
+  "images": [
+   "images/ca3d/loki/lady-loki/lady-loki-1.jpg",
+   "images/ca3d/loki/lady-loki/lady-loki-2.jpg",
+   "images/ca3d/loki/lady-loki/lady-loki-3.jpg",
+   "images/ca3d/loki/lady-loki/lady-loki-4.jpg",
+   "images/ca3d/loki/lady-loki/lady-loki-5.jpg",
+   "images/ca3d/loki/lady-loki/lady-loki-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lady Loki from Loki."
+ },
+ {
+  "id": "ca3d-lady-maria",
+  "artist": "CA3D Studios",
+  "series": "Bloodborne",
+  "title": "Lady Maria",
+  "images": [
+   "images/ca3d/bloodborne/lady-maria/lady-maria-1.jpg",
+   "images/ca3d/bloodborne/lady-maria/lady-maria-2.jpg",
+   "images/ca3d/bloodborne/lady-maria/lady-maria-3.jpg",
+   "images/ca3d/bloodborne/lady-maria/lady-maria-4.jpg",
+   "images/ca3d/bloodborne/lady-maria/lady-maria-5.jpg",
+   "images/ca3d/bloodborne/lady-maria/lady-maria-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lady Maria from Bloodborne."
+ },
+ {
+  "id": "ca3d-lady-of-the-lake",
+  "artist": "CA3D Studios",
+  "series": "Arthurian Legend",
+  "title": "Lady of the Lake",
+  "images": [
+   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-1.jpg",
+   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-2.jpg",
+   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-3.jpg",
+   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-4.jpg",
+   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-5.jpg",
+   "images/ca3d/arthurian-legend/lady-of-the-lake/lady-of-the-lake-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lady of the Lake from Arthurian Legend."
+ },
+ {
+  "id": "ca3d-lady-thor",
+  "artist": "CA3D Studios",
+  "series": "Thor",
+  "title": "Lady Thor",
+  "images": [
+   "images/ca3d/thor/lady-thor/lady-thor-1.jpg",
+   "images/ca3d/thor/lady-thor/lady-thor-2.jpg",
+   "images/ca3d/thor/lady-thor/lady-thor-3.jpg",
+   "images/ca3d/thor/lady-thor/lady-thor-4.jpg",
+   "images/ca3d/thor/lady-thor/lady-thor-5.jpg",
+   "images/ca3d/thor/lady-thor/lady-thor-6.jpg",
+   "images/ca3d/thor/lady-thor/lady-thor-7.jpg",
+   "images/ca3d/thor/lady-thor/lady-thor-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lady Thor from Thor."
+ },
+ {
+  "id": "ca3d-lara-croft",
+  "artist": "CA3D Studios",
+  "series": "Tomb Raider",
+  "title": "Lara Croft",
+  "images": [
+   "images/ca3d/tomb-raider/lara-croft/lara-croft-1.jpg",
+   "images/ca3d/tomb-raider/lara-croft/lara-croft-2.jpg",
+   "images/ca3d/tomb-raider/lara-croft/lara-croft-3.jpg",
+   "images/ca3d/tomb-raider/lara-croft/lara-croft-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lara Croft from Tomb Raider."
+ },
+ {
+  "id": "ca3d-leeloo",
+  "artist": "CA3D Studios",
+  "series": "The Fifth Element",
+  "title": "Leeloo",
+  "images": [
+   "images/ca3d/the-fifth-element/leeloo/leeloo-1.jpg",
+   "images/ca3d/the-fifth-element/leeloo/leeloo-2.jpg",
+   "images/ca3d/the-fifth-element/leeloo/leeloo-3.jpg",
+   "images/ca3d/the-fifth-element/leeloo/leeloo-4.jpg",
+   "images/ca3d/the-fifth-element/leeloo/leeloo-5.jpg",
+   "images/ca3d/the-fifth-element/leeloo/leeloo-6.jpg",
+   "images/ca3d/the-fifth-element/leeloo/leeloo-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Leeloo from The Fifth Element."
+ },
+ {
+  "id": "ca3d-levi-ackerman",
+  "artist": "CA3D Studios",
+  "series": "Attack on Titan",
+  "title": "Levi Ackerman",
+  "images": [
+   "images/ca3d/attack-on-titan/levi-ackerman/levi-ackerman-1.jpg",
+   "images/ca3d/attack-on-titan/levi-ackerman/levi-ackerman-2.jpg",
+   "images/ca3d/attack-on-titan/levi-ackerman/levi-ackerman-3.jpg",
+   "images/ca3d/attack-on-titan/levi-ackerman/levi-ackerman-4.jpg",
+   "images/ca3d/attack-on-titan/levi-ackerman/levi-ackerman-5.jpg",
+   "images/ca3d/attack-on-titan/levi-ackerman/levi-ackerman-6.jpg",
+   "images/ca3d/attack-on-titan/levi-ackerman/levi-ackerman-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Levi Ackerman from Attack on Titan."
+ },
+ {
+  "id": "ca3d-lich-king",
+  "artist": "CA3D Studios",
+  "series": "World of Warcraft",
+  "title": "Lich King",
+  "images": [
+   "images/ca3d/world-of-warcraft/lich-king/lich-king-1.jpg",
+   "images/ca3d/world-of-warcraft/lich-king/lich-king-2.jpg",
+   "images/ca3d/world-of-warcraft/lich-king/lich-king-3.jpg",
+   "images/ca3d/world-of-warcraft/lich-king/lich-king-4.jpg",
+   "images/ca3d/world-of-warcraft/lich-king/lich-king-5.jpg",
+   "images/ca3d/world-of-warcraft/lich-king/lich-king-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lich King from World of Warcraft."
+ },
+ {
+  "id": "ca3d-light-yagami",
+  "artist": "CA3D Studios",
+  "series": "Death Note",
+  "title": "Light Yagami",
+  "images": [
+   "images/ca3d/death-note/light-yagami/light-yagami-1.jpg",
+   "images/ca3d/death-note/light-yagami/light-yagami-2.jpg",
+   "images/ca3d/death-note/light-yagami/light-yagami-3.jpg",
+   "images/ca3d/death-note/light-yagami/light-yagami-4.jpg",
+   "images/ca3d/death-note/light-yagami/light-yagami-5.jpg",
+   "images/ca3d/death-note/light-yagami/light-yagami-6.jpg",
+   "images/ca3d/death-note/light-yagami/light-yagami-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Light Yagami from Death Note."
+ },
+ {
+  "id": "ca3d-lightning",
+  "artist": "CA3D Studios",
+  "series": "Final Fantasy XIII",
+  "title": "Lightning",
+  "images": [
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-1.jpg",
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-2.jpg",
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-3.jpg",
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-4.jpg",
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-5.jpg",
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-6.jpg",
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-7.jpg",
+   "images/ca3d/final-fantasy-xiii/lightning/lightning-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lightning from Final Fantasy XIII."
+ },
+ {
+  "id": "ca3d-lilith",
+  "artist": "CA3D Studios",
+  "series": "Darkstalkers",
+  "title": "Lilith",
+  "images": [
+   "images/ca3d/darkstalkers/lilith/lilith-1.jpg",
+   "images/ca3d/darkstalkers/lilith/lilith-2.jpg",
+   "images/ca3d/darkstalkers/lilith/lilith-3.jpg",
+   "images/ca3d/darkstalkers/lilith/lilith-4.jpg",
+   "images/ca3d/darkstalkers/lilith/lilith-5.jpg",
+   "images/ca3d/darkstalkers/lilith/lilith-6.jpg",
+   "images/ca3d/darkstalkers/lilith/lilith-7.jpg",
+   "images/ca3d/darkstalkers/lilith/lilith-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lilith from Darkstalkers."
+ },
+ {
+  "id": "ca3d-lobo",
+  "artist": "CA3D Studios",
+  "series": "Lobo",
+  "title": "Lobo",
+  "images": [
+   "images/ca3d/lobo/lobo/lobo-1.jpg",
+   "images/ca3d/lobo/lobo/lobo-2.jpg",
+   "images/ca3d/lobo/lobo/lobo-3.jpg",
+   "images/ca3d/lobo/lobo/lobo-4.jpg",
+   "images/ca3d/lobo/lobo/lobo-5.jpg",
+   "images/ca3d/lobo/lobo/lobo-6.jpg",
+   "images/ca3d/lobo/lobo/lobo-7.jpg",
+   "images/ca3d/lobo/lobo/lobo-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lobo from Lobo."
+ },
+ {
+  "id": "ca3d-logan",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Logan",
+  "images": [
+   "images/ca3d/x-men/logan/logan-1.jpg",
+   "images/ca3d/x-men/logan/logan-2.jpg",
+   "images/ca3d/x-men/logan/logan-3.jpg",
+   "images/ca3d/x-men/logan/logan-4.jpg",
+   "images/ca3d/x-men/logan/logan-5.jpg",
+   "images/ca3d/x-men/logan/logan-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Logan from X-Men."
+ },
+ {
+  "id": "ca3d-lord-drakkon",
+  "artist": "CA3D Studios",
+  "series": "Power Rangers (comics)",
+  "title": "Lord Drakkon",
+  "images": [
+   "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-1.jpg",
+   "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-2.jpg",
+   "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-3.jpg",
+   "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-4.jpg",
+   "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-5.jpg",
+   "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-6.jpg",
+   "images/ca3d/power-rangers-comics/lord-drakkon/lord-drakkon-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lord Drakkon from Power Rangers (comics)."
+ },
+ {
+  "id": "ca3d-lucy",
+  "artist": "CA3D Studios",
+  "series": "Elfen Lied",
+  "title": "Lucy",
+  "images": [
+   "images/ca3d/elfen-lied/lucy/lucy-1.jpg",
+   "images/ca3d/elfen-lied/lucy/lucy-2.jpg",
+   "images/ca3d/elfen-lied/lucy/lucy-3.jpg",
+   "images/ca3d/elfen-lied/lucy/lucy-4.jpg",
+   "images/ca3d/elfen-lied/lucy/lucy-5.jpg",
+   "images/ca3d/elfen-lied/lucy/lucy-6.jpg",
+   "images/ca3d/elfen-lied/lucy/lucy-7.jpg",
+   "images/ca3d/elfen-lied/lucy/lucy-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lucy from Elfen Lied."
+ },
+ {
+  "id": "ca3d-lulu",
+  "artist": "CA3D Studios",
+  "series": "Final Fantasy X",
+  "title": "Lulu",
+  "images": [
+   "images/ca3d/final-fantasy-x/lulu/lulu-1.jpg",
+   "images/ca3d/final-fantasy-x/lulu/lulu-2.jpg",
+   "images/ca3d/final-fantasy-x/lulu/lulu-3.jpg",
+   "images/ca3d/final-fantasy-x/lulu/lulu-4.jpg",
+   "images/ca3d/final-fantasy-x/lulu/lulu-5.jpg",
+   "images/ca3d/final-fantasy-x/lulu/lulu-6.jpg",
+   "images/ca3d/final-fantasy-x/lulu/lulu-7.jpg",
+   "images/ca3d/final-fantasy-x/lulu/lulu-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lulu from Final Fantasy X."
+ },
+ {
+  "id": "ca3d-luna-snow",
+  "artist": "CA3D Studios",
+  "series": "Luna Snow",
+  "title": "Luna Snow",
+  "images": [
+   "images/ca3d/luna-snow/luna-snow/luna-snow-1.jpg",
+   "images/ca3d/luna-snow/luna-snow/luna-snow-2.jpg",
+   "images/ca3d/luna-snow/luna-snow/luna-snow-3.jpg",
+   "images/ca3d/luna-snow/luna-snow/luna-snow-4.jpg",
+   "images/ca3d/luna-snow/luna-snow/luna-snow-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Luna Snow from Luna Snow."
+ },
+ {
+  "id": "ca3d-lunch",
+  "artist": "CA3D Studios",
+  "series": "Dragon Ball",
+  "title": "Lunch",
+  "images": [
+   "images/ca3d/dragon-ball/lunch/lunch-1.jpg",
+   "images/ca3d/dragon-ball/lunch/lunch-2.jpg",
+   "images/ca3d/dragon-ball/lunch/lunch-3.jpg",
+   "images/ca3d/dragon-ball/lunch/lunch-4.jpg",
+   "images/ca3d/dragon-ball/lunch/lunch-5.jpg",
+   "images/ca3d/dragon-ball/lunch/lunch-6.jpg",
+   "images/ca3d/dragon-ball/lunch/lunch-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lunch from Dragon Ball."
+ },
+ {
+  "id": "ca3d-lust",
+  "artist": "CA3D Studios",
+  "series": "Fullmetal Alchemist",
+  "title": "Lust",
+  "images": [
+   "images/ca3d/fullmetal-alchemist/lust/lust-1.jpg",
+   "images/ca3d/fullmetal-alchemist/lust/lust-2.jpg",
+   "images/ca3d/fullmetal-alchemist/lust/lust-3.jpg",
+   "images/ca3d/fullmetal-alchemist/lust/lust-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Lust from Fullmetal Alchemist."
+ },
+ {
+  "id": "ca3d-madelyne-pryor",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Madelyne Pryor",
+  "images": [
+   "images/ca3d/x-men/madelyne-pryor/madelyne-pryor-1.jpg",
+   "images/ca3d/x-men/madelyne-pryor/madelyne-pryor-2.jpg",
+   "images/ca3d/x-men/madelyne-pryor/madelyne-pryor-3.jpg",
+   "images/ca3d/x-men/madelyne-pryor/madelyne-pryor-4.jpg",
+   "images/ca3d/x-men/madelyne-pryor/madelyne-pryor-5.jpg",
+   "images/ca3d/x-men/madelyne-pryor/madelyne-pryor-6.jpg",
+   "images/ca3d/x-men/madelyne-pryor/madelyne-pryor-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Madelyne Pryor from X-Men."
+ },
+ {
+  "id": "ca3d-magneto",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Magneto",
+  "images": [
+   "images/ca3d/x-men/magneto/magneto-1.jpg",
+   "images/ca3d/x-men/magneto/magneto-2.jpg",
+   "images/ca3d/x-men/magneto/magneto-3.jpg",
+   "images/ca3d/x-men/magneto/magneto-4.jpg",
+   "images/ca3d/x-men/magneto/magneto-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Magneto from X-Men."
+ },
+ {
+  "id": "ca3d-makima",
+  "artist": "CA3D Studios",
+  "series": "Chainsaw Man",
+  "title": "Makima",
+  "images": [
+   "images/ca3d/chainsaw-man/makima/makima-1.jpg",
+   "images/ca3d/chainsaw-man/makima/makima-2.jpg",
+   "images/ca3d/chainsaw-man/makima/makima-3.jpg",
+   "images/ca3d/chainsaw-man/makima/makima-4.jpg",
+   "images/ca3d/chainsaw-man/makima/makima-5.jpg",
+   "images/ca3d/chainsaw-man/makima/makima-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Makima from Chainsaw Man."
+ },
+ {
+  "id": "ca3d-makoto-kino",
+  "artist": "CA3D Studios",
+  "series": "Sailor Moon",
+  "title": "Makoto Kino",
+  "images": [
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-1.jpg",
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-2.jpg",
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-3.jpg",
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-4.jpg",
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-5.jpg",
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-6.jpg",
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-7.jpg",
+   "images/ca3d/sailor-moon/makoto-kino/makoto-kino-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Makoto Kino from Sailor Moon."
+ },
+ {
+  "id": "ca3d-maleficent",
+  "artist": "CA3D Studios",
+  "series": "Disney Sleeping Beauty",
+  "title": "Maleficent",
+  "images": [
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-1.jpg",
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-2.jpg",
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-3.jpg",
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-4.jpg",
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-5.jpg",
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-6.jpg",
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-7.jpg",
+   "images/ca3d/disney-sleeping-beauty/maleficent/maleficent-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Maleficent from Disney Sleeping Beauty."
+ },
+ {
+  "id": "ca3d-malenia",
+  "artist": "CA3D Studios",
+  "series": "Elden Ring",
+  "title": "Malenia",
+  "images": [
+   "images/ca3d/elden-ring/malenia/malenia-1.jpg",
+   "images/ca3d/elden-ring/malenia/malenia-2.jpg",
+   "images/ca3d/elden-ring/malenia/malenia-3.jpg",
+   "images/ca3d/elden-ring/malenia/malenia-4.jpg",
+   "images/ca3d/elden-ring/malenia/malenia-5.jpg",
+   "images/ca3d/elden-ring/malenia/malenia-6.jpg",
+   "images/ca3d/elden-ring/malenia/malenia-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Malenia from Elden Ring."
+ },
+ {
+  "id": "ca3d-mary-jane",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Mary Jane",
+  "images": [
+   "images/ca3d/spider-man/mary-jane/mary-jane-1.jpg",
+   "images/ca3d/spider-man/mary-jane/mary-jane-2.jpg",
+   "images/ca3d/spider-man/mary-jane/mary-jane-3.jpg",
+   "images/ca3d/spider-man/mary-jane/mary-jane-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Mary Jane from Spider-Man."
+ },
+ {
+  "id": "ca3d-mary-marvel",
+  "artist": "CA3D Studios",
+  "series": "Shazam",
+  "title": "Mary Marvel",
+  "images": [
+   "images/ca3d/shazam/mary-marvel/mary-marvel-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Mary Marvel from Shazam."
+ },
+ {
+  "id": "ca3d-mercury",
+  "artist": "CA3D Studios",
+  "series": "Sailor Moon",
+  "title": "Mercury",
+  "images": [
+   "images/ca3d/sailor-moon/mercury/mercury-1.jpg",
+   "images/ca3d/sailor-moon/mercury/mercury-2.jpg",
+   "images/ca3d/sailor-moon/mercury/mercury-3.jpg",
+   "images/ca3d/sailor-moon/mercury/mercury-4.jpg",
+   "images/ca3d/sailor-moon/mercury/mercury-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Mercury from Sailor Moon."
+ },
+ {
+  "id": "ca3d-merlin",
+  "artist": "CA3D Studios",
+  "series": "Arthurian Legend",
+  "title": "Merlin",
+  "images": [
+   "images/ca3d/arthurian-legend/merlin/merlin-1.jpg",
+   "images/ca3d/arthurian-legend/merlin/merlin-2.jpg",
+   "images/ca3d/arthurian-legend/merlin/merlin-3.jpg",
+   "images/ca3d/arthurian-legend/merlin/merlin-4.jpg",
+   "images/ca3d/arthurian-legend/merlin/merlin-5.jpg",
+   "images/ca3d/arthurian-legend/merlin/merlin-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Merlin from Arthurian Legend."
+ },
+ {
+  "id": "ca3d-mikasa",
+  "artist": "CA3D Studios",
+  "series": "Attack on Titan",
+  "title": "Mikasa",
+  "images": [
+   "images/ca3d/attack-on-titan/mikasa/mikasa-1.jpg",
+   "images/ca3d/attack-on-titan/mikasa/mikasa-2.jpg",
+   "images/ca3d/attack-on-titan/mikasa/mikasa-3.jpg",
+   "images/ca3d/attack-on-titan/mikasa/mikasa-4.jpg",
+   "images/ca3d/attack-on-titan/mikasa/mikasa-5.jpg",
+   "images/ca3d/attack-on-titan/mikasa/mikasa-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Mikasa from Attack on Titan."
+ },
+ {
+  "id": "ca3d-mikasa-and-levi-diorama",
+  "artist": "CA3D Studios",
+  "series": "Attack on Titan",
+  "title": "Mikasa and Levi Diorama",
+  "images": [
+   "images/ca3d/attack-on-titan/mikasa-and-levi-diorama/mikasa-and-levi-diorama-1.jpg",
+   "images/ca3d/attack-on-titan/mikasa-and-levi-diorama/mikasa-and-levi-diorama-2.jpg",
+   "images/ca3d/attack-on-titan/mikasa-and-levi-diorama/mikasa-and-levi-diorama-3.jpg",
+   "images/ca3d/attack-on-titan/mikasa-and-levi-diorama/mikasa-and-levi-diorama-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Mikasa and Levi Diorama from Attack on Titan."
+ },
+ {
+  "id": "ca3d-minako-aino",
+  "artist": "CA3D Studios",
+  "series": "Sailor Moon",
+  "title": "Minako Aino",
+  "images": [
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-1.jpg",
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-2.jpg",
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-3.jpg",
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-4.jpg",
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-5.jpg",
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-6.jpg",
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-7.jpg",
+   "images/ca3d/sailor-moon/minako-aino/minako-aino-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Minako Aino from Sailor Moon."
+ },
+ {
+  "id": "ca3d-minthara-baldurs-gate-3",
+  "artist": "CA3D Studios",
+  "series": "Baldur's Gate 3",
+  "title": "Minthara-Baldurs Gate 3",
+  "images": [
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-1.jpg",
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-2.jpg",
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-3.jpg",
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-4.jpg",
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-5.jpg",
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-6.jpg",
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-7.jpg",
+   "images/ca3d/baldur-s-gate-3/minthara-baldurs-gate-3/minthara-baldurs-gate-3-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Minthara-Baldurs Gate 3 from Baldur's Gate 3."
+ },
+ {
+  "id": "ca3d-misa-amane",
+  "artist": "CA3D Studios",
+  "series": "Death Note",
+  "title": "Misa Amane",
+  "images": [
+   "images/ca3d/death-note/misa-amane/misa-amane-1.jpg",
+   "images/ca3d/death-note/misa-amane/misa-amane-2.jpg",
+   "images/ca3d/death-note/misa-amane/misa-amane-3.jpg",
+   "images/ca3d/death-note/misa-amane/misa-amane-4.jpg",
+   "images/ca3d/death-note/misa-amane/misa-amane-5.jpg",
+   "images/ca3d/death-note/misa-amane/misa-amane-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Misa Amane from Death Note."
+ },
+ {
+  "id": "ca3d-momo-ayase",
+  "artist": "CA3D Studios",
+  "series": "Dandadan",
+  "title": "Momo Ayase",
+  "images": [
+   "images/ca3d/dandadan/momo-ayase/momo-ayase-1.jpg",
+   "images/ca3d/dandadan/momo-ayase/momo-ayase-2.jpg",
+   "images/ca3d/dandadan/momo-ayase/momo-ayase-3.jpg",
+   "images/ca3d/dandadan/momo-ayase/momo-ayase-4.jpg",
+   "images/ca3d/dandadan/momo-ayase/momo-ayase-5.jpg",
+   "images/ca3d/dandadan/momo-ayase/momo-ayase-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Momo Ayase from Dandadan."
+ },
+ {
+  "id": "ca3d-morgana",
+  "artist": "CA3D Studios",
+  "series": "League of Legends",
+  "title": "Morgana",
+  "images": [
+   "images/ca3d/league-of-legends/morgana/morgana-1.jpg",
+   "images/ca3d/league-of-legends/morgana/morgana-2.jpg",
+   "images/ca3d/league-of-legends/morgana/morgana-3.jpg",
+   "images/ca3d/league-of-legends/morgana/morgana-4.jpg",
+   "images/ca3d/league-of-legends/morgana/morgana-5.jpg",
+   "images/ca3d/league-of-legends/morgana/morgana-6.jpg",
+   "images/ca3d/league-of-legends/morgana/morgana-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Morgana from League of Legends."
+ },
+ {
+  "id": "ca3d-morrigan-dragon-age",
+  "artist": "CA3D Studios",
+  "series": "Dragon Age",
+  "title": "Morrigan (Dragon Age)",
+  "images": [
+   "images/ca3d/dragon-age/morrigan-dragon-age/morrigan-dragon-age-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Morrigan from Dragon Age."
+ },
+ {
+  "id": "ca3d-morrigan-aensland-darkstalkers",
+  "artist": "CA3D Studios",
+  "series": "Darkstalkers",
+  "title": "Morrigan Aensland (Darkstalkers)",
+  "images": [
+   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-1.jpg",
+   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-2.jpg",
+   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-3.jpg",
+   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-4.jpg",
+   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-5.jpg",
+   "images/ca3d/darkstalkers/morrigan-aensland-darkstalkers/morrigan-aensland-darkstalkers-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Morrigan Aensland from Darkstalkers."
+ },
+ {
+  "id": "ca3d-motoko-v1",
+  "artist": "CA3D Studios",
+  "series": "Ghost in the Shell",
+  "title": "Motoko (v1)",
+  "images": [
+   "images/ca3d/ghost-in-the-shell/motoko-v1/motoko-v1-1.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v1/motoko-v1-2.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v1/motoko-v1-3.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v1/motoko-v1-4.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v1/motoko-v1-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Motoko from Ghost in the Shell."
+ },
+ {
+  "id": "ca3d-motoko-v2",
+  "artist": "CA3D Studios",
+  "series": "Ghost in the Shell",
+  "title": "Motoko (v2)",
+  "images": [
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-1.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-2.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-3.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-4.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-5.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-6.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-7.jpg",
+   "images/ca3d/ghost-in-the-shell/motoko-v2/motoko-v2-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Motoko from Ghost in the Shell."
+ },
+ {
+  "id": "ca3d-mulan",
+  "artist": "CA3D Studios",
+  "series": "Disney Mulan",
+  "title": "Mulan",
+  "images": [
+   "images/ca3d/disney-mulan/mulan/mulan-1.jpg",
+   "images/ca3d/disney-mulan/mulan/mulan-2.jpg",
+   "images/ca3d/disney-mulan/mulan/mulan-3.jpg",
+   "images/ca3d/disney-mulan/mulan/mulan-4.jpg",
+   "images/ca3d/disney-mulan/mulan/mulan-5.jpg",
+   "images/ca3d/disney-mulan/mulan/mulan-6.jpg",
+   "images/ca3d/disney-mulan/mulan/mulan-7.jpg",
+   "images/ca3d/disney-mulan/mulan/mulan-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Mulan from Disney Mulan."
+ },
+ {
+  "id": "ca3d-musashi-miyamoto",
+  "artist": "CA3D Studios",
+  "series": "Vagabond",
+  "title": "Musashi Miyamoto",
+  "images": [
+   "images/ca3d/vagabond/musashi-miyamoto/musashi-miyamoto-1.jpg",
+   "images/ca3d/vagabond/musashi-miyamoto/musashi-miyamoto-2.jpg",
+   "images/ca3d/vagabond/musashi-miyamoto/musashi-miyamoto-3.jpg",
+   "images/ca3d/vagabond/musashi-miyamoto/musashi-miyamoto-4.jpg",
+   "images/ca3d/vagabond/musashi-miyamoto/musashi-miyamoto-5.jpg",
+   "images/ca3d/vagabond/musashi-miyamoto/musashi-miyamoto-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Musashi Miyamoto from Vagabond."
+ },
+ {
+  "id": "ca3d-nami",
+  "artist": "CA3D Studios",
+  "series": "One Piece",
+  "title": "Nami",
+  "images": [
+   "images/ca3d/one-piece/nami/nami-1.jpg",
+   "images/ca3d/one-piece/nami/nami-2.jpg",
+   "images/ca3d/one-piece/nami/nami-3.jpg",
+   "images/ca3d/one-piece/nami/nami-4.jpg",
+   "images/ca3d/one-piece/nami/nami-5.jpg",
+   "images/ca3d/one-piece/nami/nami-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Nami from One Piece."
+ },
+ {
+  "id": "ca3d-nelliel",
+  "artist": "CA3D Studios",
+  "series": "Bleach",
+  "title": "Nelliel",
+  "images": [
+   "images/ca3d/bleach/nelliel/nelliel-1.jpg",
+   "images/ca3d/bleach/nelliel/nelliel-2.jpg",
+   "images/ca3d/bleach/nelliel/nelliel-3.jpg",
+   "images/ca3d/bleach/nelliel/nelliel-4.jpg",
+   "images/ca3d/bleach/nelliel/nelliel-5.jpg",
+   "images/ca3d/bleach/nelliel/nelliel-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Nelliel from Bleach."
+ },
+ {
+  "id": "ca3d-nico-robin",
+  "artist": "CA3D Studios",
+  "series": "One Piece",
+  "title": "Nico Robin",
+  "images": [
+   "images/ca3d/one-piece/nico-robin/nico-robin-1.jpg",
+   "images/ca3d/one-piece/nico-robin/nico-robin-2.jpg",
+   "images/ca3d/one-piece/nico-robin/nico-robin-3.jpg",
+   "images/ca3d/one-piece/nico-robin/nico-robin-4.jpg",
+   "images/ca3d/one-piece/nico-robin/nico-robin-5.jpg",
+   "images/ca3d/one-piece/nico-robin/nico-robin-6.jpg",
+   "images/ca3d/one-piece/nico-robin/nico-robin-7.jpg",
+   "images/ca3d/one-piece/nico-robin/nico-robin-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Nico Robin from One Piece."
+ },
+ {
+  "id": "ca3d-nightcrawler",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Nightcrawler",
+  "images": [
+   "images/ca3d/x-men/nightcrawler/nightcrawler-1.jpg",
+   "images/ca3d/x-men/nightcrawler/nightcrawler-2.jpg",
+   "images/ca3d/x-men/nightcrawler/nightcrawler-3.jpg",
+   "images/ca3d/x-men/nightcrawler/nightcrawler-4.jpg",
+   "images/ca3d/x-men/nightcrawler/nightcrawler-5.jpg",
+   "images/ca3d/x-men/nightcrawler/nightcrawler-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Nightcrawler from X-Men."
+ },
+ {
+  "id": "ca3d-nova-starcraft",
+  "artist": "CA3D Studios",
+  "series": "StarCraft",
+  "title": "Nova- Starcraft",
+  "images": [
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-1.jpg",
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-2.jpg",
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-3.jpg",
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-4.jpg",
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-5.jpg",
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-6.jpg",
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-7.jpg",
+   "images/ca3d/starcraft/nova-starcraft/nova-starcraft-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Nova- Starcraft from StarCraft."
+ },
+ {
+  "id": "ca3d-obelix",
+  "artist": "CA3D Studios",
+  "series": "Asterix",
+  "title": "Obelix",
+  "images": [
+   "images/ca3d/asterix/obelix/obelix-1.jpg",
+   "images/ca3d/asterix/obelix/obelix-2.jpg",
+   "images/ca3d/asterix/obelix/obelix-3.jpg",
+   "images/ca3d/asterix/obelix/obelix-4.jpg",
+   "images/ca3d/asterix/obelix/obelix-5.jpg",
+   "images/ca3d/asterix/obelix/obelix-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Obelix from Asterix."
+ },
+ {
+  "id": "ca3d-obelix-and-asterix-diorama",
+  "artist": "CA3D Studios",
+  "series": "Asterix",
+  "title": "Obelix and Asterix - Diorama",
+  "images": [
+   "images/ca3d/asterix/obelix-and-asterix-diorama/obelix-and-asterix-diorama-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Obelix and Asterix - Diorama from Asterix."
+ },
+ {
+  "id": "ca3d-orin-the-red",
+  "artist": "CA3D Studios",
+  "series": "Baldur's Gate 3",
+  "title": "Orin the Red",
+  "images": [
+   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-1.jpg",
+   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-2.jpg",
+   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-3.jpg",
+   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-4.jpg",
+   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-5.jpg",
+   "images/ca3d/baldur-s-gate-3/orin-the-red/orin-the-red-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Orin the Red from Baldur's Gate 3."
+ },
+ {
+  "id": "ca3d-pirotess",
+  "artist": "CA3D Studios",
+  "series": "Record of Lodoss War",
+  "title": "Pirotess",
+  "images": [
+   "images/ca3d/record-of-lodoss-war/pirotess/pirotess-1.jpg",
+   "images/ca3d/record-of-lodoss-war/pirotess/pirotess-2.jpg",
+   "images/ca3d/record-of-lodoss-war/pirotess/pirotess-3.jpg",
+   "images/ca3d/record-of-lodoss-war/pirotess/pirotess-4.jpg",
+   "images/ca3d/record-of-lodoss-war/pirotess/pirotess-5.jpg",
+   "images/ca3d/record-of-lodoss-war/pirotess/pirotess-6.jpg",
+   "images/ca3d/record-of-lodoss-war/pirotess/pirotess-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Pirotess from Record of Lodoss War."
+ },
+ {
+  "id": "ca3d-plain-doll",
+  "artist": "CA3D Studios",
+  "series": "Bloodborne",
+  "title": "Plain Doll",
+  "images": [
+   "images/ca3d/bloodborne/plain-doll/plain-doll-1.jpg",
+   "images/ca3d/bloodborne/plain-doll/plain-doll-2.jpg",
+   "images/ca3d/bloodborne/plain-doll/plain-doll-3.jpg",
+   "images/ca3d/bloodborne/plain-doll/plain-doll-4.jpg",
+   "images/ca3d/bloodborne/plain-doll/plain-doll-5.jpg",
+   "images/ca3d/bloodborne/plain-doll/plain-doll-6.jpg",
+   "images/ca3d/bloodborne/plain-doll/plain-doll-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Plain Doll from Bloodborne."
+ },
+ {
+  "id": "ca3d-power-chainsawman",
+  "artist": "CA3D Studios",
+  "series": "Chainsaw Man",
+  "title": "Power - Chainsawman",
+  "images": [
+   "images/ca3d/chainsaw-man/power-chainsawman/power-chainsawman-1.jpg",
+   "images/ca3d/chainsaw-man/power-chainsawman/power-chainsawman-2.jpg",
+   "images/ca3d/chainsaw-man/power-chainsawman/power-chainsawman-3.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Power - Chainsawman from Chainsaw Man."
+ },
+ {
+  "id": "ca3d-predator-king",
+  "artist": "CA3D Studios",
+  "series": "Predator",
+  "title": "Predator King",
+  "images": [
+   "images/ca3d/predator/predator-king/predator-king-1.jpg",
+   "images/ca3d/predator/predator-king/predator-king-2.jpg",
+   "images/ca3d/predator/predator-king/predator-king-3.jpg",
+   "images/ca3d/predator/predator-king/predator-king-4.jpg",
+   "images/ca3d/predator/predator-king/predator-king-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Predator King from Predator."
+ },
+ {
+  "id": "ca3d-princess-leia",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Princess Leia",
+  "images": [
+   "images/ca3d/star-wars/princess-leia/princess-leia-1.jpg",
+   "images/ca3d/star-wars/princess-leia/princess-leia-2.jpg",
+   "images/ca3d/star-wars/princess-leia/princess-leia-3.jpg",
+   "images/ca3d/star-wars/princess-leia/princess-leia-4.jpg",
+   "images/ca3d/star-wars/princess-leia/princess-leia-5.jpg",
+   "images/ca3d/star-wars/princess-leia/princess-leia-6.jpg",
+   "images/ca3d/star-wars/princess-leia/princess-leia-7.jpg",
+   "images/ca3d/star-wars/princess-leia/princess-leia-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Princess Leia from Star Wars."
+ },
+ {
+  "id": "ca3d-princess-mononoke",
+  "artist": "CA3D Studios",
+  "series": "Studio Ghibli",
+  "title": "Princess Mononoke",
+  "images": [
+   "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-1.jpg",
+   "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-2.jpg",
+   "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-3.jpg",
+   "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-4.jpg",
+   "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-5.jpg",
+   "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-6.jpg",
+   "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Princess Mononoke from Studio Ghibli."
+ },
+ {
+  "id": "ca3d-psylocke",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Psylocke",
+  "images": [
+   "images/ca3d/x-men/psylocke/psylocke-1.jpg",
+   "images/ca3d/x-men/psylocke/psylocke-2.jpg",
+   "images/ca3d/x-men/psylocke/psylocke-3.jpg",
+   "images/ca3d/x-men/psylocke/psylocke-4.jpg",
+   "images/ca3d/x-men/psylocke/psylocke-5.jpg",
+   "images/ca3d/x-men/psylocke/psylocke-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Psylocke from X-Men."
+ },
+ {
+  "id": "ca3d-pyrrha-nikos",
+  "artist": "CA3D Studios",
+  "series": "RWBY",
+  "title": "Pyrrha Nikos",
+  "images": [
+   "images/ca3d/rwby/pyrrha-nikos/pyrrha-nikos-1.jpg",
+   "images/ca3d/rwby/pyrrha-nikos/pyrrha-nikos-2.jpg",
+   "images/ca3d/rwby/pyrrha-nikos/pyrrha-nikos-3.jpg",
+   "images/ca3d/rwby/pyrrha-nikos/pyrrha-nikos-4.jpg",
+   "images/ca3d/rwby/pyrrha-nikos/pyrrha-nikos-5.jpg",
+   "images/ca3d/rwby/pyrrha-nikos/pyrrha-nikos-6.jpg",
+   "images/ca3d/rwby/pyrrha-nikos/pyrrha-nikos-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Pyrrha Nikos from RWBY."
+ },
+ {
+  "id": "ca3d-queen-of-hearts",
+  "artist": "CA3D Studios",
+  "series": "Alice in Wonderland",
+  "title": "Queen of Hearts",
+  "images": [
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-1.jpg",
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-2.jpg",
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-3.jpg",
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-4.jpg",
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-5.jpg",
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-6.jpg",
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-7.jpg",
+   "images/ca3d/alice-in-wonderland/queen-of-hearts/queen-of-hearts-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Queen of Hearts from Alice in Wonderland."
+ },
+ {
+  "id": "ca3d-qui-gon-jinn",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Qui Gon Jinn",
+  "images": [
+   "images/ca3d/star-wars/qui-gon-jinn/qui-gon-jinn-1.jpg",
+   "images/ca3d/star-wars/qui-gon-jinn/qui-gon-jinn-2.jpg",
+   "images/ca3d/star-wars/qui-gon-jinn/qui-gon-jinn-3.jpg",
+   "images/ca3d/star-wars/qui-gon-jinn/qui-gon-jinn-4.jpg",
+   "images/ca3d/star-wars/qui-gon-jinn/qui-gon-jinn-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Qui Gon Jinn from Star Wars."
+ },
+ {
+  "id": "ca3d-quiet",
+  "artist": "CA3D Studios",
+  "series": "Metal Gear Solid V",
+  "title": "Quiet",
+  "images": [
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-1.jpg",
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-2.jpg",
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-3.jpg",
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-4.jpg",
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-5.jpg",
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-6.jpg",
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-7.jpg",
+   "images/ca3d/metal-gear-solid-v/quiet/quiet-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Quiet from Metal Gear Solid V."
+ },
+ {
+  "id": "ca3d-quorra",
+  "artist": "CA3D Studios",
+  "series": "Tron: Legacy",
+  "title": "Quorra",
+  "images": [
+   "images/ca3d/tron-legacy/quorra/quorra-1.jpg",
+   "images/ca3d/tron-legacy/quorra/quorra-2.jpg",
+   "images/ca3d/tron-legacy/quorra/quorra-3.jpg",
+   "images/ca3d/tron-legacy/quorra/quorra-4.jpg",
+   "images/ca3d/tron-legacy/quorra/quorra-5.jpg",
+   "images/ca3d/tron-legacy/quorra/quorra-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Quorra from Tron: Legacy."
+ },
+ {
+  "id": "ca3d-rambo",
+  "artist": "CA3D Studios",
+  "series": "Rambo",
+  "title": "Rambo",
+  "images": [
+   "images/ca3d/rambo/rambo/rambo-1.jpg",
+   "images/ca3d/rambo/rambo/rambo-2.jpg",
+   "images/ca3d/rambo/rambo/rambo-3.jpg",
+   "images/ca3d/rambo/rambo/rambo-4.jpg",
+   "images/ca3d/rambo/rambo/rambo-5.jpg",
+   "images/ca3d/rambo/rambo/rambo-6.jpg",
+   "images/ca3d/rambo/rambo/rambo-7.jpg",
+   "images/ca3d/rambo/rambo/rambo-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rambo from Rambo."
+ },
+ {
+  "id": "ca3d-ranni",
+  "artist": "CA3D Studios",
+  "series": "Elden Ring",
+  "title": "Ranni",
+  "images": [
+   "images/ca3d/elden-ring/ranni/ranni-1.jpg",
+   "images/ca3d/elden-ring/ranni/ranni-2.jpg",
+   "images/ca3d/elden-ring/ranni/ranni-3.jpg",
+   "images/ca3d/elden-ring/ranni/ranni-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Ranni from Elden Ring."
+ },
+ {
+  "id": "ca3d-rapunzel",
+  "artist": "CA3D Studios",
+  "series": "Disney Tangled",
+  "title": "Rapunzel",
+  "images": [
+   "images/ca3d/disney-tangled/rapunzel/rapunzel-1.jpg",
+   "images/ca3d/disney-tangled/rapunzel/rapunzel-2.jpg",
+   "images/ca3d/disney-tangled/rapunzel/rapunzel-3.jpg",
+   "images/ca3d/disney-tangled/rapunzel/rapunzel-4.jpg",
+   "images/ca3d/disney-tangled/rapunzel/rapunzel-5.jpg",
+   "images/ca3d/disney-tangled/rapunzel/rapunzel-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rapunzel from Disney Tangled."
+ },
+ {
+  "id": "ca3d-raven",
+  "artist": "CA3D Studios",
+  "series": "Teen Titans",
+  "title": "Raven",
+  "images": [
+   "images/ca3d/teen-titans/raven/raven-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Raven from Teen Titans."
+ },
+ {
+  "id": "ca3d-rebecca",
+  "artist": "CA3D Studios",
+  "series": "Cyberpunk: Edgerunners",
+  "title": "Rebecca",
+  "images": [
+   "images/ca3d/cyberpunk-edgerunners/rebecca/rebecca-1.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca/rebecca-2.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca/rebecca-3.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca/rebecca-4.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca/rebecca-5.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca/rebecca-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rebecca from Cyberpunk: Edgerunners."
+ },
+ {
+  "id": "ca3d-rebecca-smasher",
+  "artist": "CA3D Studios",
+  "series": "Cyberpunk: Edgerunners",
+  "title": "Rebecca Smasher",
+  "images": [
+   "images/ca3d/cyberpunk-edgerunners/rebecca-smasher/rebecca-smasher-1.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca-smasher/rebecca-smasher-2.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca-smasher/rebecca-smasher-3.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca-smasher/rebecca-smasher-4.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca-smasher/rebecca-smasher-5.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca-smasher/rebecca-smasher-6.jpg",
+   "images/ca3d/cyberpunk-edgerunners/rebecca-smasher/rebecca-smasher-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rebecca Smasher from Cyberpunk: Edgerunners."
+ },
+ {
+  "id": "ca3d-red-sonja",
+  "artist": "CA3D Studios",
+  "series": "Red Sonja",
+  "title": "Red Sonja",
+  "images": [
+   "images/ca3d/red-sonja/red-sonja/red-sonja-1.jpg",
+   "images/ca3d/red-sonja/red-sonja/red-sonja-2.jpg",
+   "images/ca3d/red-sonja/red-sonja/red-sonja-3.jpg",
+   "images/ca3d/red-sonja/red-sonja/red-sonja-4.jpg",
+   "images/ca3d/red-sonja/red-sonja/red-sonja-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Red Sonja from Red Sonja."
+ },
+ {
+  "id": "ca3d-regina",
+  "artist": "CA3D Studios",
+  "series": "Dino Crisis",
+  "title": "Regina",
+  "images": [
+   "images/ca3d/dino-crisis/regina/regina-1.jpg",
+   "images/ca3d/dino-crisis/regina/regina-2.jpg",
+   "images/ca3d/dino-crisis/regina/regina-3.jpg",
+   "images/ca3d/dino-crisis/regina/regina-4.jpg",
+   "images/ca3d/dino-crisis/regina/regina-5.jpg",
+   "images/ca3d/dino-crisis/regina/regina-6.jpg",
+   "images/ca3d/dino-crisis/regina/regina-7.jpg",
+   "images/ca3d/dino-crisis/regina/regina-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Regina from Dino Crisis."
+ },
+ {
+  "id": "ca3d-rei-ayanami",
+  "artist": "CA3D Studios",
+  "series": "Neon Genesis Evangelion",
+  "title": "Rei Ayanami",
+  "images": [
+   "images/ca3d/neon-genesis-evangelion/rei-ayanami/rei-ayanami-1.jpg",
+   "images/ca3d/neon-genesis-evangelion/rei-ayanami/rei-ayanami-2.jpg",
+   "images/ca3d/neon-genesis-evangelion/rei-ayanami/rei-ayanami-3.jpg",
+   "images/ca3d/neon-genesis-evangelion/rei-ayanami/rei-ayanami-4.jpg",
+   "images/ca3d/neon-genesis-evangelion/rei-ayanami/rei-ayanami-5.jpg",
+   "images/ca3d/neon-genesis-evangelion/rei-ayanami/rei-ayanami-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rei Ayanami from Neon Genesis Evangelion."
+ },
+ {
+  "id": "ca3d-rei-hino",
+  "artist": "CA3D Studios",
+  "series": "Sailor Moon",
+  "title": "Rei Hino",
+  "images": [
+   "images/ca3d/sailor-moon/rei-hino/rei-hino-1.jpg",
+   "images/ca3d/sailor-moon/rei-hino/rei-hino-2.jpg",
+   "images/ca3d/sailor-moon/rei-hino/rei-hino-3.jpg",
+   "images/ca3d/sailor-moon/rei-hino/rei-hino-4.jpg",
+   "images/ca3d/sailor-moon/rei-hino/rei-hino-5.jpg",
+   "images/ca3d/sailor-moon/rei-hino/rei-hino-6.jpg",
+   "images/ca3d/sailor-moon/rei-hino/rei-hino-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rei Hino from Sailor Moon."
+ },
+ {
+  "id": "ca3d-riddick-with-jackal",
+  "artist": "CA3D Studios",
+  "series": "The Chronicles of Riddick",
+  "title": "Riddick with Jackal",
+  "images": [
+   "images/ca3d/the-chronicles-of-riddick/riddick-with-jackal/riddick-with-jackal-1.jpg",
+   "images/ca3d/the-chronicles-of-riddick/riddick-with-jackal/riddick-with-jackal-2.jpg",
+   "images/ca3d/the-chronicles-of-riddick/riddick-with-jackal/riddick-with-jackal-3.jpg",
+   "images/ca3d/the-chronicles-of-riddick/riddick-with-jackal/riddick-with-jackal-4.jpg",
+   "images/ca3d/the-chronicles-of-riddick/riddick-with-jackal/riddick-with-jackal-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Riddick with Jackal from The Chronicles of Riddick."
+ },
+ {
+  "id": "ca3d-robocop",
+  "artist": "CA3D Studios",
+  "series": "RoboCop",
+  "title": "Robocop",
+  "images": [
+   "images/ca3d/robocop/robocop/robocop-1.jpg",
+   "images/ca3d/robocop/robocop/robocop-2.jpg",
+   "images/ca3d/robocop/robocop/robocop-3.jpg",
+   "images/ca3d/robocop/robocop/robocop-4.jpg",
+   "images/ca3d/robocop/robocop/robocop-5.jpg",
+   "images/ca3d/robocop/robocop/robocop-6.jpg",
+   "images/ca3d/robocop/robocop/robocop-7.jpg",
+   "images/ca3d/robocop/robocop/robocop-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Robocop from RoboCop."
+ },
+ {
+  "id": "ca3d-rocket-raccoon",
+  "artist": "CA3D Studios",
+  "series": "Guardians of the Galaxy",
+  "title": "Rocket Raccoon",
+  "images": [
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-1.jpg",
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-2.jpg",
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-3.jpg",
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-4.jpg",
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-5.jpg",
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-6.jpg",
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-7.jpg",
+   "images/ca3d/guardians-of-the-galaxy/rocket-raccoon/rocket-raccoon-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rocket Raccoon from Guardians of the Galaxy."
+ },
+ {
+  "id": "ca3d-rocketeer",
+  "artist": "CA3D Studios",
+  "series": "The Rocketeer",
+  "title": "Rocketeer",
+  "images": [
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-1.jpg",
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-2.jpg",
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-3.jpg",
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-4.jpg",
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-5.jpg",
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-6.jpg",
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-7.jpg",
+   "images/ca3d/the-rocketeer/rocketeer/rocketeer-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rocketeer from The Rocketeer."
+ },
+ {
+  "id": "ca3d-rocky-balboa",
+  "artist": "CA3D Studios",
+  "series": "Rocky",
+  "title": "Rocky Balboa",
+  "images": [
+   "images/ca3d/rocky/rocky-balboa/rocky-balboa-1.jpg",
+   "images/ca3d/rocky/rocky-balboa/rocky-balboa-2.jpg",
+   "images/ca3d/rocky/rocky-balboa/rocky-balboa-3.jpg",
+   "images/ca3d/rocky/rocky-balboa/rocky-balboa-4.jpg",
+   "images/ca3d/rocky/rocky-balboa/rocky-balboa-5.jpg",
+   "images/ca3d/rocky/rocky-balboa/rocky-balboa-6.jpg",
+   "images/ca3d/rocky/rocky-balboa/rocky-balboa-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rocky Balboa from Rocky."
+ },
+ {
+  "id": "ca3d-rogue",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Rogue",
+  "images": [
+   "images/ca3d/x-men/rogue/rogue-1.jpg",
+   "images/ca3d/x-men/rogue/rogue-2.jpg",
+   "images/ca3d/x-men/rogue/rogue-3.jpg",
+   "images/ca3d/x-men/rogue/rogue-4.jpg",
+   "images/ca3d/x-men/rogue/rogue-5.jpg",
+   "images/ca3d/x-men/rogue/rogue-6.jpg",
+   "images/ca3d/x-men/rogue/rogue-7.jpg",
+   "images/ca3d/x-men/rogue/rogue-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rogue from X-Men."
+ },
+ {
+  "id": "ca3d-rogue-savage",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Rogue Savage",
+  "images": [
+   "images/ca3d/x-men/rogue-savage/rogue-savage-1.jpg",
+   "images/ca3d/x-men/rogue-savage/rogue-savage-2.jpg",
+   "images/ca3d/x-men/rogue-savage/rogue-savage-3.jpg",
+   "images/ca3d/x-men/rogue-savage/rogue-savage-4.jpg",
+   "images/ca3d/x-men/rogue-savage/rogue-savage-5.jpg",
+   "images/ca3d/x-men/rogue-savage/rogue-savage-6.jpg",
+   "images/ca3d/x-men/rogue-savage/rogue-savage-7.jpg",
+   "images/ca3d/x-men/rogue-savage/rogue-savage-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rogue Savage from X-Men."
+ },
+ {
+  "id": "ca3d-rukia",
+  "artist": "CA3D Studios",
+  "series": "Bleach",
+  "title": "Rukia",
+  "images": [
+   "images/ca3d/bleach/rukia/rukia-1.jpg",
+   "images/ca3d/bleach/rukia/rukia-2.jpg",
+   "images/ca3d/bleach/rukia/rukia-3.jpg",
+   "images/ca3d/bleach/rukia/rukia-4.jpg",
+   "images/ca3d/bleach/rukia/rukia-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Rukia from Bleach."
+ },
+ {
+  "id": "ca3d-saber",
+  "artist": "CA3D Studios",
+  "series": "Fate series",
+  "title": "Saber",
+  "images": [
+   "images/ca3d/fate-series/saber/saber-1.jpg",
+   "images/ca3d/fate-series/saber/saber-2.jpg",
+   "images/ca3d/fate-series/saber/saber-3.jpg",
+   "images/ca3d/fate-series/saber/saber-4.jpg",
+   "images/ca3d/fate-series/saber/saber-5.jpg",
+   "images/ca3d/fate-series/saber/saber-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Saber from Fate series."
+ },
+ {
+  "id": "ca3d-sabrina",
+  "artist": "CA3D Studios",
+  "series": "Sabrina the Teenage Witch",
+  "title": "Sabrina",
+  "images": [
+   "images/ca3d/sabrina-the-teenage-witch/sabrina/sabrina-1.jpg",
+   "images/ca3d/sabrina-the-teenage-witch/sabrina/sabrina-2.jpg",
+   "images/ca3d/sabrina-the-teenage-witch/sabrina/sabrina-3.jpg",
+   "images/ca3d/sabrina-the-teenage-witch/sabrina/sabrina-4.jpg",
+   "images/ca3d/sabrina-the-teenage-witch/sabrina/sabrina-5.jpg",
+   "images/ca3d/sabrina-the-teenage-witch/sabrina/sabrina-6.jpg",
+   "images/ca3d/sabrina-the-teenage-witch/sabrina/sabrina-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sabrina from Sabrina the Teenage Witch."
+ },
+ {
+  "id": "ca3d-sailor-moon",
+  "artist": "CA3D Studios",
+  "series": "Sailor Moon",
+  "title": "Sailor Moon",
+  "images": [
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-1.jpg",
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-2.jpg",
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-3.jpg",
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-4.jpg",
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-5.jpg",
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-6.jpg",
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-7.jpg",
+   "images/ca3d/sailor-moon/sailor-moon/sailor-moon-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sailor Moon from Sailor Moon."
+ },
+ {
+  "id": "ca3d-sailor-moon-diorama",
+  "artist": "CA3D Studios",
+  "series": "Sailor Moon",
+  "title": "Sailor Moon Diorama",
+  "images": [
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-1.jpg",
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-2.jpg",
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-3.jpg",
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-4.jpg",
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-5.jpg",
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-6.jpg",
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-7.jpg",
+   "images/ca3d/sailor-moon/sailor-moon-diorama/sailor-moon-diorama-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sailor Moon Diorama from Sailor Moon."
+ },
+ {
+  "id": "ca3d-sally-whitemane",
+  "artist": "CA3D Studios",
+  "series": "World of Warcraft",
+  "title": "Sally Whitemane",
+  "images": [
+   "images/ca3d/world-of-warcraft/sally-whitemane/sally-whitemane-1.jpg",
+   "images/ca3d/world-of-warcraft/sally-whitemane/sally-whitemane-2.jpg",
+   "images/ca3d/world-of-warcraft/sally-whitemane/sally-whitemane-3.jpg",
+   "images/ca3d/world-of-warcraft/sally-whitemane/sally-whitemane-4.jpg",
+   "images/ca3d/world-of-warcraft/sally-whitemane/sally-whitemane-5.jpg",
+   "images/ca3d/world-of-warcraft/sally-whitemane/sally-whitemane-6.jpg",
+   "images/ca3d/world-of-warcraft/sally-whitemane/sally-whitemane-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sally Whitemane from World of Warcraft."
+ },
+ {
+  "id": "ca3d-samurai-wonder-woman",
+  "artist": "CA3D Studios",
+  "series": "Wonder Woman",
+  "title": "Samurai Wonder Woman",
+  "images": [
+   "images/ca3d/wonder-woman/samurai-wonder-woman/samurai-wonder-woman-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Samurai Wonder Woman from Wonder Woman."
+ },
+ {
+  "id": "ca3d-sara-pezzini-witchblade",
+  "artist": "CA3D Studios",
+  "series": "Witchblade",
+  "title": "Sara Pezzini - Witchblade",
+  "images": [
+   "images/ca3d/witchblade/sara-pezzini-witchblade/sara-pezzini-witchblade-1.jpg",
+   "images/ca3d/witchblade/sara-pezzini-witchblade/sara-pezzini-witchblade-2.jpg",
+   "images/ca3d/witchblade/sara-pezzini-witchblade/sara-pezzini-witchblade-3.jpg",
+   "images/ca3d/witchblade/sara-pezzini-witchblade/sara-pezzini-witchblade-4.jpg",
+   "images/ca3d/witchblade/sara-pezzini-witchblade/sara-pezzini-witchblade-5.jpg",
+   "images/ca3d/witchblade/sara-pezzini-witchblade/sara-pezzini-witchblade-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sara Pezzini - Witchblade from Witchblade."
+ },
+ {
+  "id": "ca3d-sarah-kerrigan",
+  "artist": "CA3D Studios",
+  "series": "StarCraft",
+  "title": "Sarah Kerrigan",
+  "images": [
+   "images/ca3d/starcraft/sarah-kerrigan/sarah-kerrigan-1.jpg",
+   "images/ca3d/starcraft/sarah-kerrigan/sarah-kerrigan-2.jpg",
+   "images/ca3d/starcraft/sarah-kerrigan/sarah-kerrigan-3.jpg",
+   "images/ca3d/starcraft/sarah-kerrigan/sarah-kerrigan-4.jpg",
+   "images/ca3d/starcraft/sarah-kerrigan/sarah-kerrigan-5.jpg",
+   "images/ca3d/starcraft/sarah-kerrigan/sarah-kerrigan-6.jpg",
+   "images/ca3d/starcraft/sarah-kerrigan/sarah-kerrigan-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sarah Kerrigan from StarCraft."
+ },
+ {
+  "id": "ca3d-savage-land-psylocke",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Savage Land Psylocke",
+  "images": [
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-1.jpg",
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-2.jpg",
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-3.jpg",
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-4.jpg",
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-5.jpg",
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-6.jpg",
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-7.jpg",
+   "images/ca3d/x-men/savage-land-psylocke/savage-land-psylocke-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Savage Land Psylocke from X-Men."
+ },
+ {
+  "id": "ca3d-scarlet-spider",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Scarlet Spider",
+  "images": [
+   "images/ca3d/spider-man/scarlet-spider/scarlet-spider-1.jpg",
+   "images/ca3d/spider-man/scarlet-spider/scarlet-spider-2.jpg",
+   "images/ca3d/spider-man/scarlet-spider/scarlet-spider-3.jpg",
+   "images/ca3d/spider-man/scarlet-spider/scarlet-spider-4.jpg",
+   "images/ca3d/spider-man/scarlet-spider/scarlet-spider-5.jpg",
+   "images/ca3d/spider-man/scarlet-spider/scarlet-spider-6.jpg",
+   "images/ca3d/spider-man/scarlet-spider/scarlet-spider-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Scarlet Spider from Spider-Man."
+ },
+ {
+  "id": "ca3d-scarlet-witch",
+  "artist": "CA3D Studios",
+  "series": "Scarlet Witch",
+  "title": "Scarlet Witch",
+  "images": [
+   "images/ca3d/scarlet-witch/scarlet-witch/scarlet-witch-1.jpg",
+   "images/ca3d/scarlet-witch/scarlet-witch/scarlet-witch-2.jpg",
+   "images/ca3d/scarlet-witch/scarlet-witch/scarlet-witch-3.jpg",
+   "images/ca3d/scarlet-witch/scarlet-witch/scarlet-witch-4.jpg",
+   "images/ca3d/scarlet-witch/scarlet-witch/scarlet-witch-5.jpg",
+   "images/ca3d/scarlet-witch/scarlet-witch/scarlet-witch-6.jpg",
+   "images/ca3d/scarlet-witch/scarlet-witch/scarlet-witch-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Scarlet Witch from Scarlet Witch."
+ },
+ {
+  "id": "ca3d-selene",
+  "artist": "CA3D Studios",
+  "series": "Underworld",
+  "title": "Selene",
+  "images": [
+   "images/ca3d/underworld/selene/selene-1.jpg",
+   "images/ca3d/underworld/selene/selene-2.jpg",
+   "images/ca3d/underworld/selene/selene-3.jpg",
+   "images/ca3d/underworld/selene/selene-4.jpg",
+   "images/ca3d/underworld/selene/selene-5.jpg",
+   "images/ca3d/underworld/selene/selene-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Selene from Underworld."
+ },
+ {
+  "id": "ca3d-sephiroth",
+  "artist": "CA3D Studios",
+  "series": "Final Fantasy VII",
+  "title": "Sephiroth",
+  "images": [
+   "images/ca3d/final-fantasy-vii/sephiroth/sephiroth-1.jpg",
+   "images/ca3d/final-fantasy-vii/sephiroth/sephiroth-2.jpg",
+   "images/ca3d/final-fantasy-vii/sephiroth/sephiroth-3.jpg",
+   "images/ca3d/final-fantasy-vii/sephiroth/sephiroth-4.jpg",
+   "images/ca3d/final-fantasy-vii/sephiroth/sephiroth-5.jpg",
+   "images/ca3d/final-fantasy-vii/sephiroth/sephiroth-6.jpg",
+   "images/ca3d/final-fantasy-vii/sephiroth/sephiroth-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sephiroth from Final Fantasy VII."
+ },
+ {
+  "id": "ca3d-seraphin",
+  "artist": "CA3D Studios",
+  "series": "League of Legends",
+  "title": "Seraphin",
+  "images": [
+   "images/ca3d/league-of-legends/seraphin/seraphin-1.jpg",
+   "images/ca3d/league-of-legends/seraphin/seraphin-2.jpg",
+   "images/ca3d/league-of-legends/seraphin/seraphin-3.jpg",
+   "images/ca3d/league-of-legends/seraphin/seraphin-4.jpg",
+   "images/ca3d/league-of-legends/seraphin/seraphin-5.jpg",
+   "images/ca3d/league-of-legends/seraphin/seraphin-6.jpg",
+   "images/ca3d/league-of-legends/seraphin/seraphin-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Seraphin from League of Legends."
+ },
+ {
+  "id": "ca3d-shadowheart",
+  "artist": "CA3D Studios",
+  "series": "Baldur's Gate 3",
+  "title": "Shadowheart",
+  "images": [
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-1.jpg",
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-2.jpg",
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-3.jpg",
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-4.jpg",
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-5.jpg",
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-6.jpg",
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-7.jpg",
+   "images/ca3d/baldur-s-gate-3/shadowheart/shadowheart-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Shadowheart from Baldur's Gate 3."
+ },
+ {
+  "id": "ca3d-shae-vizla",
+  "artist": "CA3D Studios",
+  "series": "Star Wars: The Old Republic",
+  "title": "Shae Vizla",
+  "images": [
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-1.jpg",
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-2.jpg",
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-3.jpg",
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-4.jpg",
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-5.jpg",
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-6.jpg",
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-7.jpg",
+   "images/ca3d/star-wars-the-old-republic/shae-vizla/shae-vizla-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Shae Vizla from Star Wars: The Old Republic."
+ },
+ {
+  "id": "ca3d-she-hulk",
+  "artist": "CA3D Studios",
+  "series": "Hulk",
+  "title": "She-Hulk",
+  "images": [
+   "images/ca3d/hulk/she-hulk/she-hulk-1.jpg",
+   "images/ca3d/hulk/she-hulk/she-hulk-2.jpg",
+   "images/ca3d/hulk/she-hulk/she-hulk-3.jpg",
+   "images/ca3d/hulk/she-hulk/she-hulk-4.jpg",
+   "images/ca3d/hulk/she-hulk/she-hulk-5.jpg",
+   "images/ca3d/hulk/she-hulk/she-hulk-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of She-Hulk from Hulk."
+ },
+ {
+  "id": "ca3d-slan",
+  "artist": "CA3D Studios",
+  "series": "Berserk",
+  "title": "Slan",
+  "images": [
+   "images/ca3d/berserk/slan/slan-1.jpg",
+   "images/ca3d/berserk/slan/slan-2.jpg",
+   "images/ca3d/berserk/slan/slan-3.jpg",
+   "images/ca3d/berserk/slan/slan-4.jpg",
+   "images/ca3d/berserk/slan/slan-5.jpg",
+   "images/ca3d/berserk/slan/slan-6.jpg",
+   "images/ca3d/berserk/slan/slan-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Slan from Berserk."
+ },
+ {
+  "id": "ca3d-soi-fon",
+  "artist": "CA3D Studios",
+  "series": "Bleach",
+  "title": "Soi Fon",
+  "images": [
+   "images/ca3d/bleach/soi-fon/soi-fon-1.jpg",
+   "images/ca3d/bleach/soi-fon/soi-fon-2.jpg",
+   "images/ca3d/bleach/soi-fon/soi-fon-3.jpg",
+   "images/ca3d/bleach/soi-fon/soi-fon-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Soi Fon from Bleach."
+ },
+ {
+  "id": "ca3d-solid-snake",
+  "artist": "CA3D Studios",
+  "series": "Metal Gear Solid",
+  "title": "Solid Snake",
+  "images": [
+   "images/ca3d/metal-gear-solid/solid-snake/solid-snake-1.jpg",
+   "images/ca3d/metal-gear-solid/solid-snake/solid-snake-2.jpg",
+   "images/ca3d/metal-gear-solid/solid-snake/solid-snake-3.jpg",
+   "images/ca3d/metal-gear-solid/solid-snake/solid-snake-4.jpg",
+   "images/ca3d/metal-gear-solid/solid-snake/solid-snake-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Solid Snake from Metal Gear Solid."
+ },
+ {
+  "id": "ca3d-spider-gwen-ghost-spider",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Spider Gwen - Ghost Spider",
+  "images": [
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-1.jpg",
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-2.jpg",
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-3.jpg",
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-4.jpg",
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-5.jpg",
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-6.jpg",
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-7.jpg",
+   "images/ca3d/spider-man/spider-gwen-ghost-spider/spider-gwen-ghost-spider-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Spider Gwen - Ghost Spider from Spider-Man."
+ },
+ {
+  "id": "ca3d-spider-man-noir",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Spider Man Noir",
+  "images": [
+   "images/ca3d/spider-man/spider-man-noir/spider-man-noir-1.jpg",
+   "images/ca3d/spider-man/spider-man-noir/spider-man-noir-2.jpg",
+   "images/ca3d/spider-man/spider-man-noir/spider-man-noir-3.jpg",
+   "images/ca3d/spider-man/spider-man-noir/spider-man-noir-4.jpg",
+   "images/ca3d/spider-man/spider-man-noir/spider-man-noir-5.jpg",
+   "images/ca3d/spider-man/spider-man-noir/spider-man-noir-6.jpg",
+   "images/ca3d/spider-man/spider-man-noir/spider-man-noir-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Spider Man Noir from Spider-Man."
+ },
+ {
+  "id": "ca3d-spider-punk",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Spider Punk",
+  "images": [
+   "images/ca3d/spider-man/spider-punk/spider-punk-1.jpg",
+   "images/ca3d/spider-man/spider-punk/spider-punk-2.jpg",
+   "images/ca3d/spider-man/spider-punk/spider-punk-3.jpg",
+   "images/ca3d/spider-man/spider-punk/spider-punk-4.jpg",
+   "images/ca3d/spider-man/spider-punk/spider-punk-5.jpg",
+   "images/ca3d/spider-man/spider-punk/spider-punk-6.jpg",
+   "images/ca3d/spider-man/spider-punk/spider-punk-7.jpg",
+   "images/ca3d/spider-man/spider-punk/spider-punk-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Spider Punk from Spider-Man."
+ },
+ {
+  "id": "ca3d-spidergirl",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Spidergirl",
+  "images": [
+   "images/ca3d/spider-man/spidergirl/spidergirl-1.jpg",
+   "images/ca3d/spider-man/spidergirl/spidergirl-2.jpg",
+   "images/ca3d/spider-man/spidergirl/spidergirl-3.jpg",
+   "images/ca3d/spider-man/spidergirl/spidergirl-4.jpg",
+   "images/ca3d/spider-man/spidergirl/spidergirl-5.jpg",
+   "images/ca3d/spider-man/spidergirl/spidergirl-6.jpg",
+   "images/ca3d/spider-man/spidergirl/spidergirl-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Spidergirl from Spider-Man."
+ },
+ {
+  "id": "ca3d-spiderman-miles-morales-versus-venom",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Spiderman (Miles Morales) Versus Venom",
+  "images": [
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-1.jpg",
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-2.jpg",
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-3.jpg",
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-4.jpg",
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-5.jpg",
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-6.jpg",
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-7.jpg",
+   "images/ca3d/spider-man/spiderman-miles-morales-versus-venom/spiderman-miles-morales-versus-venom-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Spiderman (Miles Morales) Versus Venom from Spider-Man."
+ },
+ {
+  "id": "ca3d-spike",
+  "artist": "CA3D Studios",
+  "series": "Cowboy Bebop",
+  "title": "Spike",
+  "images": [
+   "images/ca3d/cowboy-bebop/spike/spike-1.jpg",
+   "images/ca3d/cowboy-bebop/spike/spike-2.jpg",
+   "images/ca3d/cowboy-bebop/spike/spike-3.jpg",
+   "images/ca3d/cowboy-bebop/spike/spike-4.jpg",
+   "images/ca3d/cowboy-bebop/spike/spike-5.jpg",
+   "images/ca3d/cowboy-bebop/spike/spike-6.jpg",
+   "images/ca3d/cowboy-bebop/spike/spike-7.jpg",
+   "images/ca3d/cowboy-bebop/spike/spike-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Spike from Cowboy Bebop."
+ },
+ {
+  "id": "ca3d-star-lord",
+  "artist": "CA3D Studios",
+  "series": "Guardians of the Galaxy",
+  "title": "Star Lord",
+  "images": [
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-1.jpg",
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-2.jpg",
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-3.jpg",
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-4.jpg",
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-5.jpg",
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-6.jpg",
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-7.jpg",
+   "images/ca3d/guardians-of-the-galaxy/star-lord/star-lord-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Star Lord from Guardians of the Galaxy."
+ },
+ {
+  "id": "ca3d-starfleet-officer",
+  "artist": "CA3D Studios",
+  "series": "Star Trek",
+  "title": "Starfleet Officer",
+  "images": [
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-1.jpg",
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-2.jpg",
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-3.jpg",
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-4.jpg",
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-5.jpg",
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-6.jpg",
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-7.jpg",
+   "images/ca3d/star-trek/starfleet-officer/starfleet-officer-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Starfleet Officer from Star Trek."
+ },
+ {
+  "id": "ca3d-starkiller",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "Starkiller",
+  "images": [
+   "images/ca3d/star-wars/starkiller/starkiller-1.jpg",
+   "images/ca3d/star-wars/starkiller/starkiller-2.jpg",
+   "images/ca3d/star-wars/starkiller/starkiller-3.jpg",
+   "images/ca3d/star-wars/starkiller/starkiller-4.jpg",
+   "images/ca3d/star-wars/starkiller/starkiller-5.jpg",
+   "images/ca3d/star-wars/starkiller/starkiller-6.jpg",
+   "images/ca3d/star-wars/starkiller/starkiller-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Starkiller from Star Wars."
+ },
+ {
+  "id": "ca3d-starscourge-radahn",
+  "artist": "CA3D Studios",
+  "series": "Elden Ring",
+  "title": "Starscourge Radahn",
+  "images": [
+   "images/ca3d/elden-ring/starscourge-radahn/starscourge-radahn-1.jpg",
+   "images/ca3d/elden-ring/starscourge-radahn/starscourge-radahn-2.jpg",
+   "images/ca3d/elden-ring/starscourge-radahn/starscourge-radahn-3.jpg",
+   "images/ca3d/elden-ring/starscourge-radahn/starscourge-radahn-4.jpg",
+   "images/ca3d/elden-ring/starscourge-radahn/starscourge-radahn-5.jpg",
+   "images/ca3d/elden-ring/starscourge-radahn/starscourge-radahn-6.jpg",
+   "images/ca3d/elden-ring/starscourge-radahn/starscourge-radahn-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Starscourge Radahn from Elden Ring."
+ },
+ {
+  "id": "ca3d-storm-v1-painted",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Storm (v1 - painted)",
+  "images": [
+   "images/ca3d/x-men/storm-v1-painted/storm-v1-painted-1.jpg",
+   "images/ca3d/x-men/storm-v1-painted/storm-v1-painted-2.jpg",
+   "images/ca3d/x-men/storm-v1-painted/storm-v1-painted-3.jpg",
+   "images/ca3d/x-men/storm-v1-painted/storm-v1-painted-4.jpg",
+   "images/ca3d/x-men/storm-v1-painted/storm-v1-painted-5.jpg",
+   "images/ca3d/x-men/storm-v1-painted/storm-v1-painted-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Storm from X-Men, painted variant."
+ },
+ {
+  "id": "ca3d-storm-v2-unpainted",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "Storm (v2 - unpainted)",
+  "images": [
+   "images/ca3d/x-men/storm-v2-unpainted/storm-v2-unpainted-1.jpg",
+   "images/ca3d/x-men/storm-v2-unpainted/storm-v2-unpainted-2.jpg",
+   "images/ca3d/x-men/storm-v2-unpainted/storm-v2-unpainted-3.jpg",
+   "images/ca3d/x-men/storm-v2-unpainted/storm-v2-unpainted-4.jpg",
+   "images/ca3d/x-men/storm-v2-unpainted/storm-v2-unpainted-5.jpg",
+   "images/ca3d/x-men/storm-v2-unpainted/storm-v2-unpainted-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Storm from X-Men, unpainted variant."
+ },
+ {
+  "id": "ca3d-streetwear-cammy",
+  "artist": "CA3D Studios",
+  "series": "Street Fighter",
+  "title": "StreetWear Cammy",
+  "images": [
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-1.jpg",
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-2.jpg",
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-3.jpg",
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-4.jpg",
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-5.jpg",
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-6.jpg",
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-7.jpg",
+   "images/ca3d/street-fighter/streetwear-cammy/streetwear-cammy-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of StreetWear Cammy from Street Fighter."
+ },
+ {
+  "id": "ca3d-swimsuit-2b",
+  "artist": "CA3D Studios",
+  "series": "NieR: Automata",
+  "title": "Swimsuit 2B",
+  "images": [
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-1.jpg",
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-2.jpg",
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-3.jpg",
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-4.jpg",
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-5.jpg",
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-6.jpg",
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-7.jpg",
+   "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Swimsuit 2B from NieR: Automata."
+ },
+ {
+  "id": "ca3d-sylvanas",
+  "artist": "CA3D Studios",
+  "series": "World of Warcraft",
+  "title": "Sylvanas",
+  "images": [
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-1.jpg",
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-2.jpg",
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-3.jpg",
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-4.jpg",
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-5.jpg",
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-6.jpg",
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-7.jpg",
+   "images/ca3d/world-of-warcraft/sylvanas/sylvanas-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Sylvanas from World of Warcraft."
+ },
+ {
+  "id": "ca3d-symbiote-spiderman",
+  "artist": "CA3D Studios",
+  "series": "Spider-Man",
+  "title": "Symbiote Spiderman",
+  "images": [
+   "images/ca3d/spider-man/symbiote-spiderman/symbiote-spiderman-1.jpg",
+   "images/ca3d/spider-man/symbiote-spiderman/symbiote-spiderman-2.jpg",
+   "images/ca3d/spider-man/symbiote-spiderman/symbiote-spiderman-3.jpg",
+   "images/ca3d/spider-man/symbiote-spiderman/symbiote-spiderman-4.jpg",
+   "images/ca3d/spider-man/symbiote-spiderman/symbiote-spiderman-5.jpg",
+   "images/ca3d/spider-man/symbiote-spiderman/symbiote-spiderman-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Symbiote Spiderman from Spider-Man."
+ },
+ {
+  "id": "ca3d-tai-lung",
+  "artist": "CA3D Studios",
+  "series": "Kung Fu Panda",
+  "title": "Tai Lung",
+  "images": [
+   "images/ca3d/kung-fu-panda/tai-lung/tai-lung-1.jpg",
+   "images/ca3d/kung-fu-panda/tai-lung/tai-lung-2.jpg",
+   "images/ca3d/kung-fu-panda/tai-lung/tai-lung-3.jpg",
+   "images/ca3d/kung-fu-panda/tai-lung/tai-lung-4.jpg",
+   "images/ca3d/kung-fu-panda/tai-lung/tai-lung-5.jpg",
+   "images/ca3d/kung-fu-panda/tai-lung/tai-lung-6.jpg",
+   "images/ca3d/kung-fu-panda/tai-lung/tai-lung-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Tai Lung from Kung Fu Panda."
+ },
+ {
+  "id": "ca3d-tank-girl",
+  "artist": "CA3D Studios",
+  "series": "Tank Girl",
+  "title": "Tank Girl",
+  "images": [
+   "images/ca3d/tank-girl/tank-girl/tank-girl-1.jpg",
+   "images/ca3d/tank-girl/tank-girl/tank-girl-2.jpg",
+   "images/ca3d/tank-girl/tank-girl/tank-girl-3.jpg",
+   "images/ca3d/tank-girl/tank-girl/tank-girl-4.jpg",
+   "images/ca3d/tank-girl/tank-girl/tank-girl-5.jpg",
+   "images/ca3d/tank-girl/tank-girl/tank-girl-6.jpg",
+   "images/ca3d/tank-girl/tank-girl/tank-girl-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Tank Girl from Tank Girl."
+ },
+ {
+  "id": "ca3d-terminator",
+  "artist": "CA3D Studios",
+  "series": "The Terminator",
+  "title": "Terminator",
+  "images": [
+   "images/ca3d/the-terminator/terminator/terminator-1.jpg",
+   "images/ca3d/the-terminator/terminator/terminator-2.jpg",
+   "images/ca3d/the-terminator/terminator/terminator-3.jpg",
+   "images/ca3d/the-terminator/terminator/terminator-4.jpg",
+   "images/ca3d/the-terminator/terminator/terminator-5.jpg",
+   "images/ca3d/the-terminator/terminator/terminator-6.jpg",
+   "images/ca3d/the-terminator/terminator/terminator-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Terminator from The Terminator."
+ },
+ {
+  "id": "ca3d-the-crow",
+  "artist": "CA3D Studios",
+  "series": "The Crow",
+  "title": "The Crow",
+  "images": [
+   "images/ca3d/the-crow/the-crow/the-crow-1.jpg",
+   "images/ca3d/the-crow/the-crow/the-crow-2.jpg",
+   "images/ca3d/the-crow/the-crow/the-crow-3.jpg",
+   "images/ca3d/the-crow/the-crow/the-crow-4.jpg",
+   "images/ca3d/the-crow/the-crow/the-crow-5.jpg",
+   "images/ca3d/the-crow/the-crow/the-crow-6.jpg",
+   "images/ca3d/the-crow/the-crow/the-crow-7.jpg",
+   "images/ca3d/the-crow/the-crow/the-crow-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of The Crow from The Crow."
+ },
+ {
+  "id": "ca3d-the-death-knight",
+  "artist": "CA3D Studios",
+  "series": "World of Warcraft",
+  "title": "The Death Knight",
+  "images": [
+   "images/ca3d/world-of-warcraft/the-death-knight/the-death-knight-1.jpg",
+   "images/ca3d/world-of-warcraft/the-death-knight/the-death-knight-2.jpg",
+   "images/ca3d/world-of-warcraft/the-death-knight/the-death-knight-3.jpg",
+   "images/ca3d/world-of-warcraft/the-death-knight/the-death-knight-4.jpg",
+   "images/ca3d/world-of-warcraft/the-death-knight/the-death-knight-5.jpg",
+   "images/ca3d/world-of-warcraft/the-death-knight/the-death-knight-6.jpg",
+   "images/ca3d/world-of-warcraft/the-death-knight/the-death-knight-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of The Death Knight from World of Warcraft."
+ },
+ {
+  "id": "ca3d-the-hunter",
+  "artist": "CA3D Studios",
+  "series": "Bloodborne",
+  "title": "The Hunter",
+  "images": [
+   "images/ca3d/bloodborne/the-hunter/the-hunter-1.jpg",
+   "images/ca3d/bloodborne/the-hunter/the-hunter-2.jpg",
+   "images/ca3d/bloodborne/the-hunter/the-hunter-3.jpg",
+   "images/ca3d/bloodborne/the-hunter/the-hunter-4.jpg",
+   "images/ca3d/bloodborne/the-hunter/the-hunter-5.jpg",
+   "images/ca3d/bloodborne/the-hunter/the-hunter-6.jpg",
+   "images/ca3d/bloodborne/the-hunter/the-hunter-7.jpg",
+   "images/ca3d/bloodborne/the-hunter/the-hunter-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of The Hunter from Bloodborne."
+ },
+ {
+  "id": "ca3d-the-mandalorian",
+  "artist": "CA3D Studios",
+  "series": "Star Wars",
+  "title": "The Mandalorian",
+  "images": [
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-1.jpg",
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-2.jpg",
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-3.jpg",
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-4.jpg",
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-5.jpg",
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-6.jpg",
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-7.jpg",
+   "images/ca3d/star-wars/the-mandalorian/the-mandalorian-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of The Mandalorian from Star Wars."
+ },
+ {
+  "id": "ca3d-the-mask",
+  "artist": "CA3D Studios",
+  "series": "The Mask",
+  "title": "The Mask",
+  "images": [
+   "images/ca3d/the-mask/the-mask/the-mask-1.jpg",
+   "images/ca3d/the-mask/the-mask/the-mask-2.jpg",
+   "images/ca3d/the-mask/the-mask/the-mask-3.jpg",
+   "images/ca3d/the-mask/the-mask/the-mask-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of The Mask from The Mask."
+ },
+ {
+  "id": "ca3d-tifa",
+  "artist": "CA3D Studios",
+  "series": "Final Fantasy VII",
+  "title": "Tifa",
+  "images": [
+   "images/ca3d/final-fantasy-vii/tifa/tifa-1.jpg",
+   "images/ca3d/final-fantasy-vii/tifa/tifa-2.jpg",
+   "images/ca3d/final-fantasy-vii/tifa/tifa-3.jpg",
+   "images/ca3d/final-fantasy-vii/tifa/tifa-4.jpg",
+   "images/ca3d/final-fantasy-vii/tifa/tifa-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Tifa from Final Fantasy VII."
+ },
+ {
+  "id": "ca3d-tina-armstrong",
+  "artist": "CA3D Studios",
+  "series": "Dead or Alive",
+  "title": "Tina Armstrong",
+  "images": [
+   "images/ca3d/dead-or-alive/tina-armstrong/tina-armstrong-1.jpg",
+   "images/ca3d/dead-or-alive/tina-armstrong/tina-armstrong-2.jpg",
+   "images/ca3d/dead-or-alive/tina-armstrong/tina-armstrong-3.jpg",
+   "images/ca3d/dead-or-alive/tina-armstrong/tina-armstrong-4.jpg",
+   "images/ca3d/dead-or-alive/tina-armstrong/tina-armstrong-5.jpg",
+   "images/ca3d/dead-or-alive/tina-armstrong/tina-armstrong-6.jpg",
+   "images/ca3d/dead-or-alive/tina-armstrong/tina-armstrong-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Tina Armstrong from Dead or Alive."
+ },
+ {
+  "id": "ca3d-tmnt",
+  "artist": "CA3D Studios",
+  "series": "Teenage Mutant Ninja Turtles",
+  "title": "TMNT",
+  "images": [
+   "images/ca3d/teenage-mutant-ninja-turtles/tmnt/tmnt-1.jpg",
+   "images/ca3d/teenage-mutant-ninja-turtles/tmnt/tmnt-2.jpg",
+   "images/ca3d/teenage-mutant-ninja-turtles/tmnt/tmnt-3.jpg",
+   "images/ca3d/teenage-mutant-ninja-turtles/tmnt/tmnt-4.jpg",
+   "images/ca3d/teenage-mutant-ninja-turtles/tmnt/tmnt-5.jpg",
+   "images/ca3d/teenage-mutant-ninja-turtles/tmnt/tmnt-6.jpg",
+   "images/ca3d/teenage-mutant-ninja-turtles/tmnt/tmnt-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of TMNT from Teenage Mutant Ninja Turtles."
+ },
+ {
+  "id": "ca3d-toothless-hiccup",
+  "artist": "CA3D Studios",
+  "series": "How to Train Your Dragon",
+  "title": "Toothless/Hiccup",
+  "images": [
+   "images/ca3d/how-to-train-your-dragon/toothless-hiccup/toothless-hiccup-1.jpg",
+   "images/ca3d/how-to-train-your-dragon/toothless-hiccup/toothless-hiccup-2.jpg",
+   "images/ca3d/how-to-train-your-dragon/toothless-hiccup/toothless-hiccup-3.jpg",
+   "images/ca3d/how-to-train-your-dragon/toothless-hiccup/toothless-hiccup-4.jpg",
+   "images/ca3d/how-to-train-your-dragon/toothless-hiccup/toothless-hiccup-5.jpg",
+   "images/ca3d/how-to-train-your-dragon/toothless-hiccup/toothless-hiccup-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Toothless/Hiccup from How to Train Your Dragon."
+ },
+ {
+  "id": "ca3d-toph",
+  "artist": "CA3D Studios",
+  "series": "Avatar: The Last Airbender",
+  "title": "Toph",
+  "images": [
+   "images/ca3d/avatar-the-last-airbender/toph/toph-1.jpg",
+   "images/ca3d/avatar-the-last-airbender/toph/toph-2.jpg",
+   "images/ca3d/avatar-the-last-airbender/toph/toph-3.jpg",
+   "images/ca3d/avatar-the-last-airbender/toph/toph-4.jpg",
+   "images/ca3d/avatar-the-last-airbender/toph/toph-5.jpg",
+   "images/ca3d/avatar-the-last-airbender/toph/toph-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Toph from Avatar: The Last Airbender."
+ },
+ {
+  "id": "ca3d-ursula",
+  "artist": "CA3D Studios",
+  "series": "Disney The Little Mermaid",
+  "title": "Ursula",
+  "images": [
+   "images/ca3d/disney-the-little-mermaid/ursula/ursula-1.jpg",
+   "images/ca3d/disney-the-little-mermaid/ursula/ursula-2.jpg",
+   "images/ca3d/disney-the-little-mermaid/ursula/ursula-3.jpg",
+   "images/ca3d/disney-the-little-mermaid/ursula/ursula-4.jpg",
+   "images/ca3d/disney-the-little-mermaid/ursula/ursula-5.jpg",
+   "images/ca3d/disney-the-little-mermaid/ursula/ursula-6.jpg",
+   "images/ca3d/disney-the-little-mermaid/ursula/ursula-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Ursula from Disney The Little Mermaid."
+ },
+ {
+  "id": "ca3d-vash",
+  "artist": "CA3D Studios",
+  "series": "Trigun",
+  "title": "Vash",
+  "images": [
+   "images/ca3d/trigun/vash/vash-1.jpg",
+   "images/ca3d/trigun/vash/vash-2.jpg",
+   "images/ca3d/trigun/vash/vash-3.jpg",
+   "images/ca3d/trigun/vash/vash-4.jpg",
+   "images/ca3d/trigun/vash/vash-5.jpg",
+   "images/ca3d/trigun/vash/vash-6.jpg",
+   "images/ca3d/trigun/vash/vash-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Vash from Trigun."
+ },
+ {
+  "id": "ca3d-vi",
+  "artist": "CA3D Studios",
+  "series": "League of Legends / Arcane",
+  "title": "Vi",
+  "images": [
+   "images/ca3d/league-of-legends-arcane/vi/vi-1.jpg",
+   "images/ca3d/league-of-legends-arcane/vi/vi-2.jpg",
+   "images/ca3d/league-of-legends-arcane/vi/vi-3.jpg",
+   "images/ca3d/league-of-legends-arcane/vi/vi-4.jpg",
+   "images/ca3d/league-of-legends-arcane/vi/vi-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/4 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Vi from League of Legends / Arcane."
+ },
+ {
+  "id": "ca3d-winry-rockbell",
+  "artist": "CA3D Studios",
+  "series": "Fullmetal Alchemist",
+  "title": "Winry Rockbell",
+  "images": [
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-1.jpg",
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-2.jpg",
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-3.jpg",
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-4.jpg",
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-5.jpg",
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-6.jpg",
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-7.jpg",
+   "images/ca3d/fullmetal-alchemist/winry-rockbell/winry-rockbell-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Winry Rockbell from Fullmetal Alchemist."
+ },
+ {
+  "id": "ca3d-x-23",
+  "artist": "CA3D Studios",
+  "series": "X-Men",
+  "title": "X-23",
+  "images": [
+   "images/ca3d/x-men/x-23/x-23-1.jpg",
+   "images/ca3d/x-men/x-23/x-23-2.jpg",
+   "images/ca3d/x-men/x-23/x-23-3.jpg",
+   "images/ca3d/x-men/x-23/x-23-4.jpg",
+   "images/ca3d/x-men/x-23/x-23-5.jpg",
+   "images/ca3d/x-men/x-23/x-23-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of X-23 from X-Men."
+ },
+ {
+  "id": "ca3d-xena",
+  "artist": "CA3D Studios",
+  "series": "Xena: Warrior Princess",
+  "title": "Xena",
+  "images": [
+   "images/ca3d/xena-warrior-princess/xena/xena-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Xena from Xena: Warrior Princess."
+ },
+ {
+  "id": "ca3d-yang-xiao-long",
+  "artist": "CA3D Studios",
+  "series": "RWBY",
+  "title": "Yang Xiao Long",
+  "images": [
+   "images/ca3d/rwby/yang-xiao-long/yang-xiao-long-1.jpg",
+   "images/ca3d/rwby/yang-xiao-long/yang-xiao-long-2.jpg",
+   "images/ca3d/rwby/yang-xiao-long/yang-xiao-long-3.jpg",
+   "images/ca3d/rwby/yang-xiao-long/yang-xiao-long-4.jpg",
+   "images/ca3d/rwby/yang-xiao-long/yang-xiao-long-5.jpg",
+   "images/ca3d/rwby/yang-xiao-long/yang-xiao-long-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Yang Xiao Long from RWBY."
+ },
+ {
+  "id": "ca3d-yoko-littner",
+  "artist": "CA3D Studios",
+  "series": "Gurren Lagann",
+  "title": "Yoko Littner",
+  "images": [
+   "images/ca3d/gurren-lagann/yoko-littner/yoko-littner-1.jpg",
+   "images/ca3d/gurren-lagann/yoko-littner/yoko-littner-2.jpg",
+   "images/ca3d/gurren-lagann/yoko-littner/yoko-littner-3.jpg",
+   "images/ca3d/gurren-lagann/yoko-littner/yoko-littner-4.jpg",
+   "images/ca3d/gurren-lagann/yoko-littner/yoko-littner-5.jpg",
+   "images/ca3d/gurren-lagann/yoko-littner/yoko-littner-6.jpg",
+   "images/ca3d/gurren-lagann/yoko-littner/yoko-littner-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Yoko Littner from Gurren Lagann."
+ },
+ {
+  "id": "ca3d-yor-forger",
+  "artist": "CA3D Studios",
+  "series": "Spy x Family",
+  "title": "Yor Forger",
+  "images": [
+   "images/ca3d/spy-x-family/yor-forger/yor-forger-1.jpg",
+   "images/ca3d/spy-x-family/yor-forger/yor-forger-2.jpg",
+   "images/ca3d/spy-x-family/yor-forger/yor-forger-3.jpg",
+   "images/ca3d/spy-x-family/yor-forger/yor-forger-4.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/12 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Yor Forger from Spy x Family."
+ },
+ {
+  "id": "ca3d-yoruichi",
+  "artist": "CA3D Studios",
+  "series": "Bleach",
+  "title": "Yoruichi",
+  "images": [
+   "images/ca3d/bleach/yoruichi/yoruichi-1.jpg",
+   "images/ca3d/bleach/yoruichi/yoruichi-2.jpg",
+   "images/ca3d/bleach/yoruichi/yoruichi-3.jpg",
+   "images/ca3d/bleach/yoruichi/yoruichi-4.jpg",
+   "images/ca3d/bleach/yoruichi/yoruichi-5.jpg",
+   "images/ca3d/bleach/yoruichi/yoruichi-6.jpg",
+   "images/ca3d/bleach/yoruichi/yoruichi-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Yoruichi from Bleach."
+ },
+ {
+  "id": "ca3d-yuria-of-londor",
+  "artist": "CA3D Studios",
+  "series": "Dark Souls III",
+  "title": "Yuria of Londor",
+  "images": [
+   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-1.jpg",
+   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-2.jpg",
+   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-3.jpg",
+   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-4.jpg",
+   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-5.jpg",
+   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/9 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   },
+   {
+    "scale": "1/6 Scale",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Yuria of Londor from Dark Souls III."
+ },
+ {
+  "id": "ca3d-zodd",
+  "artist": "CA3D Studios",
+  "series": "Berserk",
+  "title": "Zodd",
+  "images": [
+   "images/ca3d/berserk/zodd/zodd-1.jpg",
+   "images/ca3d/berserk/zodd/zodd-2.jpg",
+   "images/ca3d/berserk/zodd/zodd-3.jpg",
+   "images/ca3d/berserk/zodd/zodd-4.jpg",
+   "images/ca3d/berserk/zodd/zodd-5.jpg",
+   "images/ca3d/berserk/zodd/zodd-6.jpg",
+   "images/ca3d/berserk/zodd/zodd-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "Scale not yet listed",
+    "size": "Size not specified by designer",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Original resin sculpt of Zodd from Berserk."
  }
 ];
