@@ -66,7 +66,7 @@
         © HoneyCat3D • Premium Resin Collectibles
     </div>
 
-    <script src="models-data.js?v=35"></script>
+    <script src="models-data.js?v=5"></script>
     <script>
         const grid = document.getElementById("models-grid");
         const resultsCount = document.getElementById("results-count");
@@ -115,27 +115,17 @@
 
             resultsCount.textContent = `Showing ${filtered.length} of ${MODELS.length} models`;
 
-            grid.innerHTML = filtered.map(m => {
-                const hasVariants = Array.isArray(m.variants) && m.variants.length > 0;
-                const cardImage = hasVariants ? m.variants[0].images[0] : m.images[0];
-                const versionBadge = hasVariants && m.variants.length > 1
-                    ? `<span class="version-badge">${m.variants.length} Versions</span>`
-                    : "";
-
-                return `
-                    <div class="card">
-                        <a href="model.html?id=${m.id}">
-                            <div class="card-image-wrap">
-                                <img src="${cardImage}" alt="${m.title}">
-                                ${versionBadge}
-                            </div>
-                        </a>
-                        <h3>${m.title}</h3>
-                        <p class="card-artist">by ${m.artist}</p>
-                        <a class="btn" href="model.html?id=${m.id}">View Details</a>
-                    </div>
-                `;
-            }).join("");
+            grid.innerHTML = filtered.map(m => `
+                <div class="card">
+                    <a href="model.html?id=${m.id}">
+                        <img src="${m.images[0]}" alt="${m.title}">
+                    </a>
+                    <h3>${m.title}</h3>
+                    <p class="card-series">${m.series}</p>
+                    <p class="card-artist">by ${m.artist}</p>
+                    <a class="btn" href="model.html?id=${m.id}">View Details</a>
+                </div>
+            `).join("");
 
             if (filtered.length === 0) {
                 grid.innerHTML = "<p>No models match those filters.</p>";

@@ -107,17 +107,6 @@ nav {
     pointer-events: none;
 }
 
-.btn-outline {
-    background: transparent;
-    color: #d4a843;
-    border: 1px solid #d4a843;
-}
-
-.btn-outline:hover {
-    background: rgba(212, 168, 67, 0.12);
-    color: #e3b751;
-}
-
 /* ===== Content Sections ===== */
 
 .section {
@@ -171,26 +160,6 @@ nav {
     object-position: center;
 
     display: block;
-}
-
-.card-image-wrap {
-    position: relative;
-    width: 100%;
-}
-
-.version-badge {
-    position: absolute;
-    top: 12px;
-    right: 12px;
-
-    background: rgba(18, 18, 18, 0.85);
-    color: #d4a843;
-    border: 1px solid #d4a843;
-
-    font-size: 0.75rem;
-    font-weight: 700;
-    padding: 4px 10px;
-    border-radius: 20px;
 }
 
 .card h3 {
@@ -484,8 +453,15 @@ nav {
     font-size: 0.95rem;
 }
 
+.card-series {
+    margin: -10px 0 4px;
+    color: #d4a843;
+    font-size: 0.85rem;
+    text-align: center;
+}
+
 .card-artist {
-    margin: -10px 0 10px;
+    margin: 0 0 10px;
     color: #9a9a9a;
     font-size: 0.9rem;
     text-align: center;
@@ -536,14 +512,6 @@ nav {
 .product-info .model-specs {
     max-width: none;
     margin: 0 0 20px;
-}
-
-.render-note {
-    color: #9a9a9a;
-    font-size: 0.85rem;
-    font-style: italic;
-    margin: 0 0 20px;
-    line-height: 1.5;
 }
 
 /* ===== Mobile: Browse & Product Layouts ===== */
