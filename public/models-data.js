@@ -5989,7 +5989,7 @@ const MODELS = [
   "id": "abe-daphne",
   "artist": "Abe3D",
   "series": "Scooby-Doo",
-  "title": "Daphne",
+  "title": "Daphne Blake",
   "images": [
    "images/abe3d/scooby-doo/daphne/abe-daphne-1.jpg",
    "images/abe3d/scooby-doo/daphne/abe-daphne-2.jpg",
@@ -6018,7 +6018,7 @@ const MODELS = [
   "id": "abe-velma",
   "artist": "Abe3D",
   "series": "Scooby-Doo",
-  "title": "Velma",
+  "title": "Velma Dinkley",
   "images": [
    "images/abe3d/scooby-doo/velma/abe-velma-1.jpg",
    "images/abe3d/scooby-doo/velma/abe-velma-2.jpg",
@@ -9902,7 +9902,7 @@ const MODELS = [
   "id": "moonn-daphne",
   "artist": "3Dmoonn",
   "series": "Scooby-Doo",
-  "title": "Daphne",
+  "title": "Daphne Blake",
   "images": [
    "images/3dmoonn/scooby-doo/daphne/moonn-daphne-1.jpg",
    "images/3dmoonn/scooby-doo/daphne/moonn-daphne-2.jpg",
@@ -11769,7 +11769,7 @@ const MODELS = [
   "id": "moonn-velma",
   "artist": "3Dmoonn",
   "series": "Scooby-Doo",
-  "title": "Velma",
+  "title": "Velma Dinkley",
   "images": [
    "images/3dmoonn/scooby-doo/velma/moonn-velma-1.jpg",
    "images/3dmoonn/scooby-doo/velma/moonn-velma-2.jpg",
@@ -33746,7 +33746,7 @@ const MODELS = [
  "id": "esm-velma-dinkley-orange-sweater-girl-detective-swimsuit-ver",
  "artist": "ESMonster",
  "series": "Scooby-Doo",
- "title": "Velma Dinkley (Orange Sweater Girl Detective Swimsuit Ver)",
+ "title": "Velma Dinkley",
  "images": [
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-1.jpg",
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-2.jpg",
@@ -33810,7 +33810,7 @@ const MODELS = [
  "id": "esm-velma-dinkley-orange-sweater-girl-detective-suntanned-ver",
  "artist": "ESMonster",
  "series": "Scooby-Doo",
- "title": "Velma Dinkley (Orange Sweater Girl Detective Suntanned Ver)",
+ "title": "Velma Dinkley",
  "images": [
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-1.jpg",
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-2.jpg",
@@ -33859,7 +33859,7 @@ const MODELS = [
  "id": "esm-velma-dinkley-orange-sweater-nerd-halloween-ver",
  "artist": "ESMonster",
  "series": "Scooby-Doo",
- "title": "Velma Dinkley (Orange Sweater Nerd Halloween Ver)",
+ "title": "Velma Dinkley",
  "images": [
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-1.jpg",
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-2.jpg",
@@ -33888,7 +33888,7 @@ const MODELS = [
  "id": "esm-velma-dinkley-orange-sweater-nerd-tattoo-ver",
  "artist": "ESMonster",
  "series": "Scooby-Doo",
- "title": "Velma Dinkley (Orange Sweater Nerd Tattoo Ver)",
+ "title": "Velma Dinkley",
  "images": [
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-1.jpg",
   "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-2.jpg",
@@ -34166,7 +34166,7 @@ const MODELS = [
  "id": "esm-daphne-blake-purple-mystery-witch",
  "artist": "ESMonster",
  "series": "Scooby-Doo",
- "title": "Daphne Blake (Purple Mystery Witch)",
+ "title": "Daphne Blake",
  "images": [
   "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-1.jpg",
   "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-2.jpg",
@@ -34199,7 +34199,7 @@ const MODELS = [
  "id": "esm-daphne-blake-purple-clad-detective-diving-suit",
  "artist": "ESMonster",
  "series": "Scooby-Doo",
- "title": "Daphne Blake (Purple-Clad Detective Diving Suit)",
+ "title": "Daphne Blake",
  "images": [
   "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-1.jpg",
   "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-2.jpg",
