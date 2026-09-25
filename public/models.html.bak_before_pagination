@@ -58,7 +58,6 @@
             <div class="browse-main">
                 <p class="results-count" id="results-count"></p>
                 <div class="grid" id="models-grid"></div>
-                <div class="pagination" id="pagination"></div>
             </div>
         </div>
     </section>
@@ -75,11 +74,6 @@
         const sortSelect = document.getElementById("sort-select");
         const artistBox = document.getElementById("artist-checkboxes");
         const seriesBox = document.getElementById("series-checkboxes");
-        const pagination = document.getElementById("pagination");
-
-        const PAGE_SIZE = 60;
-        let filteredModels = [];
-        let currentPage = 1;
 
         function buildCheckboxes(container, valueCounts, groupName) {
             valueCounts.forEach(({ value, count }) => {
@@ -99,42 +93,29 @@
             return Array.from(container.querySelectorAll("input:checked")).map(cb => cb.value);
         }
 
-        function applyFilters() {
+        function renderModels() {
             const query = searchInput.value.trim().toLowerCase();
             const checkedArtists = getChecked(artistBox);
             const checkedSeries = getChecked(seriesBox);
             const sortMode = sortSelect.value;
 
-            filteredModels = MODELS.filter(m => {
+            let filtered = MODELS.filter(m => {
                 const matchesQuery = m.title.toLowerCase().includes(query);
                 const matchesArtist = checkedArtists.length === 0 || checkedArtists.includes(m.artist);
                 const matchesSeries = checkedSeries.length === 0 || checkedSeries.includes(m.series);
                 return matchesQuery && matchesArtist && matchesSeries;
             });
 
-            filteredModels.sort((a, b) => {
+            filtered.sort((a, b) => {
                 if (sortMode === "title-asc") return a.title.localeCompare(b.title);
                 if (sortMode === "title-desc") return b.title.localeCompare(a.title);
                 if (sortMode === "artist-asc") return a.artist.localeCompare(b.artist);
                 return 0;
             });
 
-            currentPage = 1;
-            renderPage();
-        }
+            resultsCount.textContent = `Showing ${filtered.length} of ${MODELS.length} models`;
 
-        function renderPage() {
-            const totalPages = Math.max(1, Math.ceil(filteredModels.length / PAGE_SIZE));
-            if (currentPage > totalPages) currentPage = totalPages;
-
-            const start = (currentPage - 1) * PAGE_SIZE;
-            const pageItems = filteredModels.slice(start, start + PAGE_SIZE);
-            const rangeStart = filteredModels.length === 0 ? 0 : start + 1;
-            const rangeEnd = start + pageItems.length;
-
-            resultsCount.textContent = `Showing ${rangeStart}-${rangeEnd} of ${filteredModels.length} models`;
-
-            grid.innerHTML = pageItems.map(m => `
+            grid.innerHTML = filtered.map(m => `
                 <div class="card">
                     <a href="model.html?id=${m.id}">
                         <img src="${m.images[0]}" alt="${m.title}" loading="lazy">
@@ -146,42 +127,9 @@
                 </div>
             `).join("");
 
-            if (filteredModels.length === 0) {
+            if (filtered.length === 0) {
                 grid.innerHTML = "<p>No models match those filters.</p>";
             }
-
-            renderPagination(totalPages);
-        }
-
-        function renderPagination(totalPages) {
-            if (totalPages <= 1) {
-                pagination.innerHTML = "";
-                return;
-            }
-
-            const prevDisabled = currentPage === 1 ? "btn-disabled" : "";
-            const nextDisabled = currentPage === totalPages ? "btn-disabled" : "";
-
-            pagination.innerHTML = `
-                <a href="#" class="btn ${prevDisabled}" id="page-prev">&laquo; Prev</a>
-                <span class="pagination-status">Page ${currentPage} of ${totalPages}</span>
-                <a href="#" class="btn ${nextDisabled}" id="page-next">Next &raquo;</a>
-            `;
-
-            const prevBtn = document.getElementById("page-prev");
-            const nextBtn = document.getElementById("page-next");
-            if (currentPage > 1) {
-                prevBtn.addEventListener("click", (e) => { e.preventDefault(); goToPage(currentPage - 1); });
-            }
-            if (currentPage < totalPages) {
-                nextBtn.addEventListener("click", (e) => { e.preventDefault(); goToPage(currentPage + 1); });
-            }
-        }
-
-        function goToPage(page) {
-            currentPage = page;
-            renderPage();
-            document.querySelector(".browse-main").scrollIntoView({ behavior: "smooth", block: "start" });
         }
 
         function countBy(key) {
@@ -199,12 +147,12 @@
         buildCheckboxes(artistBox, artistCounts, "artist");
         buildCheckboxes(seriesBox, seriesCounts, "series");
 
-        searchInput.addEventListener("input", applyFilters);
-        sortSelect.addEventListener("change", applyFilters);
-        artistBox.addEventListener("change", applyFilters);
-        seriesBox.addEventListener("change", applyFilters);
+        searchInput.addEventListener("input", renderModels);
+        sortSelect.addEventListener("change", renderModels);
+        artistBox.addEventListener("change", renderModels);
+        seriesBox.addEventListener("change", renderModels);
 
-        applyFilters();
+        renderModels();
     </script>
 
 </body>
