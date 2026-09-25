@@ -27915,5 +27915,8840 @@ const MODELS = [
    }
   ],
   "description": "Original resin sculpt of Zodd from Berserk."
- }
+ },
+ {
+ "id": "esm-princess-zelda-adventure-princess",
+ "artist": "ESMonster",
+ "series": "The Legend of Zelda",
+ "title": "Princess Zelda (Adventure Princess)",
+ "images": [
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-1.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-2.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-3.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-4.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-5.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-6.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-7.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-8.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-9.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-10.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-11.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-12.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-13.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-14.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-15.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-16.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-17.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
+},
+ {
+ "id": "esm-princess-zelda-adventure-princess-suntanned-ver",
+ "artist": "ESMonster",
+ "series": "The Legend of Zelda",
+ "title": "Princess Zelda (Adventure Princess Suntanned Ver)",
+ "images": [
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-1.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-2.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-3.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-4.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-5.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-6.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-7.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-8.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-9.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-10.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-11.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-12.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-13.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-14.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-15.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-16.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-17.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-18.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-19.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-20.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-21.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-22.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-23.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-24.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-25.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-26.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-27.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-28.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-29.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-30.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-31.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-32.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-33.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-34.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-35.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
+},
+ {
+ "id": "esm-princess-zelda-adventure-princess-dark-ver",
+ "artist": "ESMonster",
+ "series": "The Legend of Zelda",
+ "title": "Princess Zelda (Adventure Princess Dark Ver)",
+ "images": [
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-1.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-2.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-3.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-4.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-5.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-6.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-7.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-8.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-9.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-10.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-11.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-12.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-13.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-14.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-15.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-16.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-17.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-18.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-19.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-20.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
+},
+ {
+ "id": "esm-starfire",
+ "artist": "ESMonster",
+ "series": "Teen Titans",
+ "title": "Starfire",
+ "images": [
+  "images/esmonster/teen-titans/starfire/starfire-1.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-2.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-3.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-4.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-5.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-6.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-7.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-8.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-9.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-10.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-11.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-12.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-13.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-14.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-15.jpg",
+  "images/esmonster/teen-titans/starfire/starfire-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Starfire from Teen Titans."
+},
+ {
+ "id": "esm-wonder-woman-amazon-warrior-princess",
+ "artist": "ESMonster",
+ "series": "Wonder Woman",
+ "title": "Wonder Woman (Amazon Warrior Princess)",
+ "images": [
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-1.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-2.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-3.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-4.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-5.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-6.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-7.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-8.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-9.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-10.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-11.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-12.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-13.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-amazon-warrior-princess/wonder-woman-amazon-warrior-princess-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wonder Woman from Wonder Woman."
+},
+ {
+ "id": "esm-wonder-woman-golden-lasso-heroine",
+ "artist": "ESMonster",
+ "series": "Wonder Woman",
+ "title": "Wonder Woman (Golden Lasso Heroine)",
+ "images": [
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-1.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-2.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-3.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-4.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-5.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-6.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-7.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-8.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-9.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-10.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-11.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-12.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-13.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-14.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-15.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-16.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-17.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-18.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-19.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-20.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-21.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-22.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-23.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-24.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-25.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-26.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-27.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-28.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-29.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-golden-lasso-heroine/wonder-woman-golden-lasso-heroine-30.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wonder Woman from Wonder Woman."
+},
+ {
+ "id": "esm-wonder-woman-mighty-heroine",
+ "artist": "ESMonster",
+ "series": "Wonder Woman",
+ "title": "Wonder Woman (Mighty Heroine)",
+ "images": [
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-1.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-2.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-3.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-4.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-5.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-6.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-7.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-8.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-9.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-10.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-11.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-12.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-13.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-14.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-15.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-16.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-17.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-18.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-19.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-20.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-21.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-22.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-23.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-24.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-25.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-26.jpg",
+  "images/esmonster/wonder-woman/wonder-woman-mighty-heroine/wonder-woman-mighty-heroine-27.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wonder Woman from Wonder Woman."
+},
+ {
+ "id": "esm-laura-croft-ancient-ruins-explorer",
+ "artist": "ESMonster",
+ "series": "Tomb Raider",
+ "title": "Laura Croft (Ancient Ruins Explorer)",
+ "images": [
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-1.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-2.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-3.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-4.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-5.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-6.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-7.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-8.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-9.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-10.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-11.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-12.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-13.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-14.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-15.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-16.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-17.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-18.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-19.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-20.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-21.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-22.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-23.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-24.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-25.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Laura Croft from Tomb Raider."
+},
+ {
+ "id": "esm-laura-croft-ancient-ruins-explorer-p2",
+ "artist": "ESMonster",
+ "series": "Tomb Raider",
+ "title": "Laura Croft (Ancient Ruins Explorer P2)",
+ "images": [
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-1.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-2.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-3.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-4.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-5.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-6.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-7.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-8.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-9.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-10.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-11.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-12.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-13.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-14.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-15.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-16.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-17.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-18.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-19.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-20.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-21.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-22.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-23.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-24.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-25.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-26.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-27.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-28.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-29.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-30.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-31.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-32.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-33.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-34.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-35.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-36.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-37.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-38.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Laura Croft from Tomb Raider."
+},
+ {
+ "id": "esm-laura-croft-ancient-ruins-explorer-dive-suit-ver",
+ "artist": "ESMonster",
+ "series": "Tomb Raider",
+ "title": "Laura Croft (Ancient Ruins Explorer Dive Suit Ver)",
+ "images": [
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-1.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-2.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-3.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-4.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-5.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-6.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-7.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-8.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-9.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-10.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-11.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-12.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-13.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-14.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-15.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-16.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-17.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-18.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-19.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-20.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-21.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-22.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-23.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-24.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-25.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-26.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-27.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-28.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-29.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-30.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-31.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-32.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-33.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-34.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-35.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-36.jpg",
+  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-37.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Laura Croft from Tomb Raider."
+},
+ {
+ "id": "esm-squirrel-girl",
+ "artist": "ESMonster",
+ "series": "Marvel Comics",
+ "title": "Squirrel Girl",
+ "images": [
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-1.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-2.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-3.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-4.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-5.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-6.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-7.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-8.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-9.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-10.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-11.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-12.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-13.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-14.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-15.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-16.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-17.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-18.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-19.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-20.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-21.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-22.jpg",
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-23.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Squirrel Girl from Marvel Comics."
+},
+ {
+ "id": "esm-spider-man",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Spider-Man",
+ "images": [
+  "images/esmonster/spider-man/spider-man/spider-man-1.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-2.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-3.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-4.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-5.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-6.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-7.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-8.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-9.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-10.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-11.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-12.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-13.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-14.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-15.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-16.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-17.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-18.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-19.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-20.jpg",
+  "images/esmonster/spider-man/spider-man/spider-man-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Spider-Man from Spider-Man."
+},
+ {
+ "id": "esm-frieren",
+ "artist": "ESMonster",
+ "series": "Frieren: Beyond Journey's End",
+ "title": "Frieren",
+ "images": [
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-1.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-2.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-3.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-4.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-5.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-6.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-7.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-8.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-9.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-10.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-11.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-12.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-13.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-14.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-15.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-16.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-17.jpg",
+  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Frieren from Frieren: Beyond Journey's End."
+},
+ {
+ "id": "esm-batman-armored-bat-ninja-knight-p1",
+ "artist": "ESMonster",
+ "series": "Batman",
+ "title": "Batman (Armored Bat Ninja Knight P1)",
+ "images": [
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-1.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-2.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-3.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-4.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-5.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-6.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-7.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-8.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-9.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-10.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-11.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-12.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-13.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-14.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-15.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-16.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-17.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-18.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-19.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-20.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-21.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-22.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-23.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-24.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-25.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-26.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-27.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-28.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-29.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Batman from Batman."
+},
+ {
+ "id": "esm-batman-armored-bat-ninja-knight-p2",
+ "artist": "ESMonster",
+ "series": "Batman",
+ "title": "Batman (Armored Bat Ninja Knight P2)",
+ "images": [
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-1.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-2.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-3.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-4.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-5.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-6.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-7.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-8.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-9.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-10.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-11.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-12.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-13.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-14.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-15.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-16.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-17.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-18.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-19.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-20.jpg",
+  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Batman from Batman."
+},
+ {
+ "id": "esm-marle-barrock",
+ "artist": "ESMonster",
+ "series": "Reincarnation Coliseum",
+ "title": "Marle Barrock",
+ "images": [
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-1.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-2.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-3.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-4.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-5.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-6.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-7.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-8.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-9.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-10.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-11.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-12.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-13.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-14.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-15.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-16.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-17.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-18.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-19.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-20.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-21.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-22.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-23.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-24.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-25.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-26.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-27.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-28.jpg",
+  "images/esmonster/reincarnation-coliseum/marle-barrock/marle-barrock-29.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Marle Barrock from Reincarnation Coliseum."
+},
+ {
+ "id": "esm-amazon-axe-wielding-warrior-woman",
+ "artist": "ESMonster",
+ "series": "Dragon's Crown",
+ "title": "Amazon (Axe-Wielding Warrior Woman)",
+ "images": [
+  "images/esmonster/dragon-s-crown/amazon-axe-wielding-warrior-woman/amazon-axe-wielding-warrior-woman-1.jpg",
+  "images/esmonster/dragon-s-crown/amazon-axe-wielding-warrior-woman/amazon-axe-wielding-warrior-woman-2.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Amazon from Dragon's Crown."
+},
+ {
+ "id": "esm-amazon-jungle-queen",
+ "artist": "ESMonster",
+ "series": "Dragon's Crown",
+ "title": "Amazon (Jungle Queen)",
+ "images": [
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-1.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-2.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-3.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-4.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-5.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-6.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-7.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-8.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-9.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-10.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-11.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-12.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-13.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-14.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-15.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-16.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-17.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-18.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-19.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-20.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-21.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-22.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-23.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-24.jpg",
+  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-25.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Amazon from Dragon's Crown."
+},
+ {
+ "id": "esm-booette",
+ "artist": "ESMonster",
+ "series": "Super Mario",
+ "title": "Booette",
+ "images": [
+  "images/esmonster/super-mario/booette/booette-1.jpg",
+  "images/esmonster/super-mario/booette/booette-2.jpg",
+  "images/esmonster/super-mario/booette/booette-3.jpg",
+  "images/esmonster/super-mario/booette/booette-4.jpg",
+  "images/esmonster/super-mario/booette/booette-5.jpg",
+  "images/esmonster/super-mario/booette/booette-6.jpg",
+  "images/esmonster/super-mario/booette/booette-7.jpg",
+  "images/esmonster/super-mario/booette/booette-8.jpg",
+  "images/esmonster/super-mario/booette/booette-9.jpg",
+  "images/esmonster/super-mario/booette/booette-10.jpg",
+  "images/esmonster/super-mario/booette/booette-11.jpg",
+  "images/esmonster/super-mario/booette/booette-12.jpg",
+  "images/esmonster/super-mario/booette/booette-13.jpg",
+  "images/esmonster/super-mario/booette/booette-14.jpg",
+  "images/esmonster/super-mario/booette/booette-15.jpg",
+  "images/esmonster/super-mario/booette/booette-16.jpg",
+  "images/esmonster/super-mario/booette/booette-17.jpg",
+  "images/esmonster/super-mario/booette/booette-18.jpg",
+  "images/esmonster/super-mario/booette/booette-19.jpg",
+  "images/esmonster/super-mario/booette/booette-20.jpg",
+  "images/esmonster/super-mario/booette/booette-21.jpg",
+  "images/esmonster/super-mario/booette/booette-22.jpg",
+  "images/esmonster/super-mario/booette/booette-23.jpg",
+  "images/esmonster/super-mario/booette/booette-24.jpg",
+  "images/esmonster/super-mario/booette/booette-25.jpg",
+  "images/esmonster/super-mario/booette/booette-26.jpg",
+  "images/esmonster/super-mario/booette/booette-27.jpg",
+  "images/esmonster/super-mario/booette/booette-28.jpg",
+  "images/esmonster/super-mario/booette/booette-29.jpg",
+  "images/esmonster/super-mario/booette/booette-30.jpg",
+  "images/esmonster/super-mario/booette/booette-31.jpg",
+  "images/esmonster/super-mario/booette/booette-32.jpg",
+  "images/esmonster/super-mario/booette/booette-33.jpg",
+  "images/esmonster/super-mario/booette/booette-34.jpg",
+  "images/esmonster/super-mario/booette/booette-35.jpg",
+  "images/esmonster/super-mario/booette/booette-36.jpg",
+  "images/esmonster/super-mario/booette/booette-37.jpg",
+  "images/esmonster/super-mario/booette/booette-38.jpg",
+  "images/esmonster/super-mario/booette/booette-39.jpg",
+  "images/esmonster/super-mario/booette/booette-40.jpg",
+  "images/esmonster/super-mario/booette/booette-41.jpg",
+  "images/esmonster/super-mario/booette/booette-42.jpg",
+  "images/esmonster/super-mario/booette/booette-43.jpg",
+  "images/esmonster/super-mario/booette/booette-44.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Booette from Super Mario."
+},
+ {
+ "id": "esm-kingpin",
+ "artist": "ESMonster",
+ "series": "Marvel Comics",
+ "title": "Kingpin",
+ "images": [
+  "images/esmonster/marvel-comics/kingpin/kingpin-1.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-2.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-3.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-4.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-5.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-6.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-7.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-8.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-9.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-10.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-11.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-12.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-13.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-14.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-15.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-16.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-17.jpg",
+  "images/esmonster/marvel-comics/kingpin/kingpin-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Kingpin from Marvel Comics."
+},
+ {
+ "id": "esm-motoko-kusanagi-bio-enhanced-girl",
+ "artist": "ESMonster",
+ "series": "Ghost in the Shell",
+ "title": "Motoko Kusanagi (Bio-Enhanced Girl)",
+ "images": [
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-1.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-2.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-3.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-4.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-5.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-6.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-7.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-8.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-9.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
+},
+ {
+ "id": "esm-motoko-kusanagi-cyberpunk-style-girl",
+ "artist": "ESMonster",
+ "series": "Ghost in the Shell",
+ "title": "Motoko Kusanagi (Cyberpunk-style girl)",
+ "images": [
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-1.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-2.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-3.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-4.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-5.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-6.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-7.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-8.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-9.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-10.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-11.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-12.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
+},
+ {
+ "id": "esm-motoko-kusanagi-cyberpunk-style-girl-p2",
+ "artist": "ESMonster",
+ "series": "Ghost in the Shell",
+ "title": "Motoko Kusanagi (Cyberpunk-style girl P2)",
+ "images": [
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-1.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-2.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-3.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-4.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-5.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-6.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-7.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-8.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-9.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-10.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-11.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-12.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-13.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-14.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-15.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-16.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-17.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-18.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-19.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-20.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-21.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-22.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-23.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-24.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-25.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-26.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-27.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
+},
+ {
+ "id": "esm-yoruichi-shihoin-black-cat-ninja-girl",
+ "artist": "ESMonster",
+ "series": "Bleach",
+ "title": "Yoruichi Shihoin (Black Cat Ninja Girl)",
+ "images": [
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-1.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-2.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-3.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Yoruichi Shihoin from Bleach."
+},
+ {
+ "id": "esm-yoruichi-shihoin-black-cat-ninja-girl-p2",
+ "artist": "ESMonster",
+ "series": "Bleach",
+ "title": "Yoruichi Shihoin (Black Cat Ninja Girl P2)",
+ "images": [
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-1.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-2.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-3.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-4.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-5.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-6.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-7.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Yoruichi Shihoin from Bleach."
+},
+ {
+ "id": "esm-black-cat-black-cat-woman",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Black Cat (Black Cat Woman)",
+ "images": [
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-1.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-2.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-3.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-4.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-5.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-6.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-7.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-8.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-9.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-10.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-11.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-12.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-13.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-14.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-15.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-16.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-17.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-18.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-19.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-20.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-21.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-22.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-23.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-24.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Black Cat from Spider-Man."
+},
+ {
+ "id": "esm-black-cat-cat-burglar-of-the-night",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Black Cat (Cat Burglar of the Night)",
+ "images": [
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-1.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-2.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-3.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-4.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-5.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-6.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-7.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-8.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Black Cat from Spider-Man."
+},
+ {
+ "id": "esm-chun-li-black-haired-asian-swimsuit-girl",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Chun-Li (Black-Haired Asian Swimsuit Girl)",
+ "images": [
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-1.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-2.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-3.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-4.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-5.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-6.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-7.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-8.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-9.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-10.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-11.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-12.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-13.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-14.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-15.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl/chun-li-black-haired-asian-swimsuit-girl-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Chun-Li from Street Fighter."
+},
+ {
+ "id": "esm-chun-li-black-haired-asian-swimsuit-girl-id-725426",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Chun-Li (Black-Haired Asian Swimsuit Girl (id-725426))",
+ "images": [
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-1.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-2.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-3.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-4.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-5.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-6.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-7.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-8.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-9.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-10.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-11.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-12.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-13.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-14.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-15.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-16.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-17.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-18.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girl-id-725426/chun-li-black-haired-asian-swimsuit-girl-id-725426-19.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Chun-Li from Street Fighter."
+},
+ {
+ "id": "esm-chun-li-black-haired-asian-swimsuit-girlincludes-3-versions",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Chun-Li (Black-Haired Asian Swimsuit Girlincludes 3 versions)",
+ "images": [
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-1.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-2.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-3.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-4.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-5.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-6.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-7.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-8.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-9.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-10.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-11.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-12.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-13.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-14.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-15.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-16.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-17.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-18.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-19.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-20.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-21.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-22.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-23.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-24.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-25.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-26.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-27.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-28.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-29.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-30.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-31.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-32.jpg",
+  "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-33.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Chun-Li from Street Fighter."
+},
+ {
+ "id": "esm-tifa-lockhart",
+ "artist": "ESMonster",
+ "series": "Final Fantasy VII",
+ "title": "Tifa Lockhart",
+ "images": [
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-1.jpg",
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-2.jpg",
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-3.jpg",
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-4.jpg",
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-5.jpg",
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-6.jpg",
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Tifa Lockhart from Final Fantasy VII."
+},
+ {
+ "id": "esm-vampirella",
+ "artist": "ESMonster",
+ "series": "Vampirella",
+ "title": "Vampirella",
+ "images": [
+  "images/esmonster/vampirella/vampirella/vampirella-1.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-2.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-3.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-4.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-5.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-6.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-7.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-8.jpg",
+  "images/esmonster/vampirella/vampirella/vampirella-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Vampirella from Vampirella."
+},
+ {
+ "id": "esm-artoria-pendragon-alter",
+ "artist": "ESMonster",
+ "series": "Fate (Series)",
+ "title": "Artoria Pendragon Alter",
+ "images": [
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-1.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-2.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-3.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-4.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-5.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-6.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-7.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-8.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-9.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-10.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-11.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-12.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-13.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-14.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-15.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-16.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-17.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-18.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-19.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-20.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-21.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-22.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-23.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-24.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-25.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-26.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-27.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-28.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-29.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-30.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-31.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-32.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-33.jpg",
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-34.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Artoria Pendragon Alter from Fate (Series)."
+},
+ {
+ "id": "esm-tier-harribel",
+ "artist": "ESMonster",
+ "series": "Bleach",
+ "title": "Tier Harribel",
+ "images": [
+  "images/esmonster/bleach/tier-harribel/tier-harribel-1.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-2.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-3.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-4.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-5.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-6.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-7.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-8.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-9.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-10.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-11.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-12.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-13.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-14.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-15.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-16.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-17.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-18.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-19.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-20.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-21.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-22.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-23.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-24.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Tier Harribel from Bleach."
+},
+ {
+ "id": "esm-tsunade",
+ "artist": "ESMonster",
+ "series": "Naruto",
+ "title": "Tsunade",
+ "images": [
+  "images/esmonster/naruto/tsunade/tsunade-1.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-2.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-3.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-4.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-5.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-6.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-7.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-8.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-9.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-10.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-11.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-12.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-13.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-14.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-15.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-16.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-17.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-18.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-19.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-20.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-21.jpg",
+  "images/esmonster/naruto/tsunade/tsunade-22.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Tsunade from Naruto."
+},
+ {
+ "id": "esm-seras-victoria",
+ "artist": "ESMonster",
+ "series": "Hellsing",
+ "title": "Seras Victoria",
+ "images": [
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-1.jpg",
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-2.jpg",
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-3.jpg",
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-4.jpg",
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-5.jpg",
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-6.jpg",
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Seras Victoria from Hellsing."
+},
+ {
+ "id": "esm-power",
+ "artist": "ESMonster",
+ "series": "Chainsaw Man",
+ "title": "Power",
+ "images": [
+  "images/esmonster/chainsaw-man/power/power-1.jpg",
+  "images/esmonster/chainsaw-man/power/power-2.jpg",
+  "images/esmonster/chainsaw-man/power/power-3.jpg",
+  "images/esmonster/chainsaw-man/power/power-4.jpg",
+  "images/esmonster/chainsaw-man/power/power-5.jpg",
+  "images/esmonster/chainsaw-man/power/power-6.jpg",
+  "images/esmonster/chainsaw-man/power/power-7.jpg",
+  "images/esmonster/chainsaw-man/power/power-8.jpg",
+  "images/esmonster/chainsaw-man/power/power-9.jpg",
+  "images/esmonster/chainsaw-man/power/power-10.jpg",
+  "images/esmonster/chainsaw-man/power/power-11.jpg",
+  "images/esmonster/chainsaw-man/power/power-12.jpg",
+  "images/esmonster/chainsaw-man/power/power-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Power from Chainsaw Man."
+},
+ {
+ "id": "esm-beast",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Beast",
+ "images": [
+  "images/esmonster/x-men/beast/beast-1.jpg",
+  "images/esmonster/x-men/beast/beast-2.jpg",
+  "images/esmonster/x-men/beast/beast-3.jpg",
+  "images/esmonster/x-men/beast/beast-4.jpg",
+  "images/esmonster/x-men/beast/beast-5.jpg",
+  "images/esmonster/x-men/beast/beast-6.jpg",
+  "images/esmonster/x-men/beast/beast-7.jpg",
+  "images/esmonster/x-men/beast/beast-8.jpg",
+  "images/esmonster/x-men/beast/beast-9.jpg",
+  "images/esmonster/x-men/beast/beast-10.jpg",
+  "images/esmonster/x-men/beast/beast-11.jpg",
+  "images/esmonster/x-men/beast/beast-12.jpg",
+  "images/esmonster/x-men/beast/beast-13.jpg",
+  "images/esmonster/x-men/beast/beast-14.jpg",
+  "images/esmonster/x-men/beast/beast-15.jpg",
+  "images/esmonster/x-men/beast/beast-16.jpg",
+  "images/esmonster/x-men/beast/beast-17.jpg",
+  "images/esmonster/x-men/beast/beast-18.jpg",
+  "images/esmonster/x-men/beast/beast-19.jpg",
+  "images/esmonster/x-men/beast/beast-20.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Beast from X-Men."
+},
+ {
+ "id": "esm-maki-oze",
+ "artist": "ESMonster",
+ "series": "Fire Force",
+ "title": "Maki Oze",
+ "images": [
+  "images/esmonster/fire-force/maki-oze/maki-oze-1.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-2.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-3.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-4.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-5.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-6.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-7.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-8.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-9.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-10.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-11.jpg",
+  "images/esmonster/fire-force/maki-oze/maki-oze-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Maki Oze from Fire Force."
+},
+ {
+ "id": "esm-bulma-bulma-p1",
+ "artist": "ESMonster",
+ "series": "Dragon Ball",
+ "title": "Bulma (Bulma P1)",
+ "images": [
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-1.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-2.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-3.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-4.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-5.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-6.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-7.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-8.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-9.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Bulma from Dragon Ball."
+},
+ {
+ "id": "esm-bulma-bulma2-dragon-ball",
+ "artist": "ESMonster",
+ "series": "Dragon Ball",
+ "title": "Bulma (Bulma2 - Dragon Ball)",
+ "images": [
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-1.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-2.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-3.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-4.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-5.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-6.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-7.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-8.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-9.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-10.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-11.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-12.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-13.jpg",
+  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Bulma from Dragon Ball."
+},
+ {
+ "id": "esm-d-va",
+ "artist": "ESMonster",
+ "series": "Overwatch",
+ "title": "D.Va",
+ "images": [
+  "images/esmonster/overwatch/d-va/d-va-1.jpg",
+  "images/esmonster/overwatch/d-va/d-va-2.jpg",
+  "images/esmonster/overwatch/d-va/d-va-3.jpg",
+  "images/esmonster/overwatch/d-va/d-va-4.jpg",
+  "images/esmonster/overwatch/d-va/d-va-5.jpg",
+  "images/esmonster/overwatch/d-va/d-va-6.jpg",
+  "images/esmonster/overwatch/d-va/d-va-7.jpg",
+  "images/esmonster/overwatch/d-va/d-va-8.jpg",
+  "images/esmonster/overwatch/d-va/d-va-9.jpg",
+  "images/esmonster/overwatch/d-va/d-va-10.jpg",
+  "images/esmonster/overwatch/d-va/d-va-11.jpg",
+  "images/esmonster/overwatch/d-va/d-va-12.jpg",
+  "images/esmonster/overwatch/d-va/d-va-13.jpg",
+  "images/esmonster/overwatch/d-va/d-va-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of D.Va from Overwatch."
+},
+ {
+ "id": "esm-she-spawn",
+ "artist": "ESMonster",
+ "series": "Spawn",
+ "title": "She-Spawn",
+ "images": [
+  "images/esmonster/spawn/she-spawn/she-spawn-1.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-2.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-3.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-4.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-5.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-6.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-7.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-8.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-9.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-10.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-11.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-12.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-13.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-14.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-15.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-16.jpg",
+  "images/esmonster/spawn/she-spawn/she-spawn-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of She-Spawn from Spawn."
+},
+ {
+ "id": "esm-quiet",
+ "artist": "ESMonster",
+ "series": "Metal Gear Solid V",
+ "title": "Quiet",
+ "images": [
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-1.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-2.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-3.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-4.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-5.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-6.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-7.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-8.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-9.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-10.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-11.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-12.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-13.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-14.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-15.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-16.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-17.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-18.jpg",
+  "images/esmonster/metal-gear-solid-v/quiet/quiet-19.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Quiet from Metal Gear Solid V."
+},
+ {
+ "id": "esm-harley-quinn",
+ "artist": "ESMonster",
+ "series": "Batman",
+ "title": "Harley Quinn",
+ "images": [
+  "images/esmonster/batman/harley-quinn/harley-quinn-1.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-2.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-3.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-4.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-5.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-6.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-7.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-8.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Harley Quinn from Batman."
+},
+ {
+ "id": "esm-jinx",
+ "artist": "ESMonster",
+ "series": "League of Legends",
+ "title": "Jinx",
+ "images": [
+  "images/esmonster/league-of-legends/jinx/jinx-1.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-2.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-3.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-4.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-5.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-6.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-7.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-8.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-9.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-10.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-11.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-12.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-13.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-14.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-15.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-16.jpg",
+  "images/esmonster/league-of-legends/jinx/jinx-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jinx from League of Legends."
+},
+ {
+ "id": "esm-cammy-white-chibi",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Chibi)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-7.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-8.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-9.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-10.jpg",
+  "images/esmonster/street-fighter/cammy-white-chibi/cammy-white-chibi-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White (Chibi) from Street Fighter."
+},
+ {
+ "id": "esm-ada-wong-chinese-american-female-agent",
+ "artist": "ESMonster",
+ "series": "Resident Evil 4",
+ "title": "Ada Wong (Chinese-American Female Agent)",
+ "images": [
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-1.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-2.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-3.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-4.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-5.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-6.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-7.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-8.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-9.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-10.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-11.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-12.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-13.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-14.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-15.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent/ada-wong-chinese-american-female-agent-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ada Wong from Resident Evil 4."
+},
+ {
+ "id": "esm-ada-wong-chinese-american-female-agent-suntanned-ver",
+ "artist": "ESMonster",
+ "series": "Resident Evil 4",
+ "title": "Ada Wong (Chinese-American Female Agent Suntanned Ver)",
+ "images": [
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-1.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-2.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-3.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-4.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-5.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-6.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-7.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-8.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-9.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-10.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-11.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-12.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-13.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-14.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-15.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-16.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-17.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-18.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-19.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-20.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-21.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-22.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-23.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-24.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-25.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-26.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-27.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-28.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-29.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-30.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-31.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-32.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-33.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-34.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-35.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-36.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-37.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-38.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-chinese-american-female-agent-suntanned-ver/ada-wong-chinese-american-female-agent-suntanned-ver-39.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ada Wong from Resident Evil 4."
+},
+ {
+ "id": "esm-ada-wong-female-agent",
+ "artist": "ESMonster",
+ "series": "Resident Evil 4",
+ "title": "Ada Wong (Female Agent)",
+ "images": [
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-1.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-2.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-3.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-4.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-5.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-6.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-7.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-8.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-9.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-10.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-11.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-12.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-13.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-14.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-15.jpg",
+  "images/esmonster/resident-evil-4/ada-wong-female-agent/ada-wong-female-agent-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ada Wong from Resident Evil 4."
+},
+ {
+ "id": "esm-chompette-chompette-by-esm",
+ "artist": "ESMonster",
+ "series": "Super Mario",
+ "title": "Chompette (Chompette BY ESM)",
+ "images": [
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-1.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-2.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-3.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-4.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-5.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-6.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-7.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-8.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-9.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-10.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-11.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-12.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-13.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-14.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-15.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-16.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-17.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-18.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-19.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-20.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-21.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-22.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-23.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-24.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-25.jpg",
+  "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Chompette from Super Mario."
+},
+ {
+ "id": "esm-chompette-fit-bad-girl",
+ "artist": "ESMonster",
+ "series": "Super Mario",
+ "title": "Chompette (Fit Bad Girl)",
+ "images": [
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-1.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-2.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-3.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-4.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-5.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-6.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-7.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-8.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-9.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-10.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-11.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-12.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-13.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-14.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-15.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-16.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-17.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-18.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-19.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-20.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-21.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-22.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-23.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-24.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-25.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-26.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-27.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-28.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-29.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-30.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-31.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-32.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-33.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-34.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-35.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-36.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-37.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-38.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-39.jpg",
+  "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-40.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Chompette from Super Mario."
+},
+ {
+ "id": "esm-the-blob",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "The Blob",
+ "images": [
+  "images/esmonster/x-men/the-blob/the-blob-1.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-2.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-3.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-4.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-5.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-6.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-7.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-8.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-9.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-10.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-11.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-12.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-13.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-14.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-15.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-16.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-17.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-18.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-19.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-20.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-21.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-22.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-23.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-24.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-25.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-26.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-27.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-28.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-29.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-30.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-31.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-32.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-33.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-34.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-35.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-36.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-37.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-38.jpg",
+  "images/esmonster/x-men/the-blob/the-blob-39.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of The Blob from X-Men."
+},
+ {
+ "id": "esm-alita",
+ "artist": "ESMonster",
+ "series": "Alita: Battle Angel",
+ "title": "Alita",
+ "images": [
+  "images/esmonster/alita-battle-angel/alita/alita-1.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-2.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-3.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-4.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-5.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-6.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-7.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-8.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-9.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-10.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-11.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-12.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-13.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Alita from Alita: Battle Angel."
+},
+ {
+ "id": "esm-esdeath",
+ "artist": "ESMonster",
+ "series": "Akame ga Kill!",
+ "title": "Esdeath",
+ "images": [
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-1.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-2.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-3.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-4.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-5.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-6.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-7.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-8.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-9.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-10.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-11.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-12.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-13.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-14.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-15.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-16.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-17.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-18.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-19.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-20.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-21.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-22.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-23.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-24.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-25.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-26.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-27.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-28.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-29.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-30.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-31.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-32.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Esdeath from Akame ga Kill!."
+},
+ {
+ "id": "esm-makima-conductor-of-chains",
+ "artist": "ESMonster",
+ "series": "Chainsaw Man",
+ "title": "Makima (Conductor of Chains)",
+ "images": [
+  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-1.jpg",
+  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-2.jpg",
+  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-3.jpg",
+  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-4.jpg",
+  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-5.jpg",
+  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Makima from Chainsaw Man."
+},
+ {
+ "id": "esm-makima-the-leather-whip-dominatrix",
+ "artist": "ESMonster",
+ "series": "Chainsaw Man",
+ "title": "Makima (The Leather Whip Dominatrix)",
+ "images": [
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-1.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-2.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-3.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-4.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-5.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-6.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-7.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-8.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-9.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-10.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-11.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-12.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-13.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-14.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-15.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-16.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-17.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-18.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-19.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-20.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-21.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-22.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-23.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-24.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-25.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-26.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-27.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-28.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-29.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-30.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-31.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-32.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-33.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-34.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-35.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-36.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-37.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-38.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-39.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-40.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-41.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-42.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-43.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-44.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-45.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-46.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-47.jpg",
+  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-48.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Makima from Chainsaw Man."
+},
+ {
+ "id": "esm-lady-deadpool",
+ "artist": "ESMonster",
+ "series": "Deadpool",
+ "title": "Lady Deadpool",
+ "images": [
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-1.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-2.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-3.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-4.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-5.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-6.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-7.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-8.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-9.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-10.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-11.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-12.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-13.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-14.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-15.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-16.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-17.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-18.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-19.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-20.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-21.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-22.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-23.jpg",
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-24.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Lady Deadpool from Deadpool."
+},
+ {
+ "id": "esm-wanda-maximoff",
+ "artist": "ESMonster",
+ "series": "Marvel Comics",
+ "title": "Wanda Maximoff",
+ "images": [
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-1.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-2.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-3.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-4.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-5.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-6.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-7.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-8.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-9.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-10.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-11.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-12.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-13.jpg",
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wanda Maximoff from Marvel Comics."
+},
+ {
+ "id": "esm-rias-gremory",
+ "artist": "ESMonster",
+ "series": "High School DxD",
+ "title": "Rias Gremory",
+ "images": [
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-1.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-2.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-3.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-4.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-5.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-6.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-7.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-8.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-9.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-10.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-11.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-12.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-13.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-14.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-15.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-16.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-17.jpg",
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Rias Gremory from High School DxD."
+},
+ {
+ "id": "esm-triss-merigold",
+ "artist": "ESMonster",
+ "series": "The Witcher",
+ "title": "Triss Merigold",
+ "images": [
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-1.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-2.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-3.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-4.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-5.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-6.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-7.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-8.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-9.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-10.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-11.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-12.jpg",
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Triss Merigold from The Witcher."
+},
+ {
+ "id": "esm-taki",
+ "artist": "ESMonster",
+ "series": "Soulcalibur",
+ "title": "Taki",
+ "images": [
+  "images/esmonster/soulcalibur/taki/taki-1.jpg",
+  "images/esmonster/soulcalibur/taki/taki-2.jpg",
+  "images/esmonster/soulcalibur/taki/taki-3.jpg",
+  "images/esmonster/soulcalibur/taki/taki-4.jpg",
+  "images/esmonster/soulcalibur/taki/taki-5.jpg",
+  "images/esmonster/soulcalibur/taki/taki-6.jpg",
+  "images/esmonster/soulcalibur/taki/taki-7.jpg",
+  "images/esmonster/soulcalibur/taki/taki-8.jpg",
+  "images/esmonster/soulcalibur/taki/taki-9.jpg",
+  "images/esmonster/soulcalibur/taki/taki-10.jpg",
+  "images/esmonster/soulcalibur/taki/taki-11.jpg",
+  "images/esmonster/soulcalibur/taki/taki-12.jpg",
+  "images/esmonster/soulcalibur/taki/taki-13.jpg",
+  "images/esmonster/soulcalibur/taki/taki-14.jpg",
+  "images/esmonster/soulcalibur/taki/taki-15.jpg",
+  "images/esmonster/soulcalibur/taki/taki-16.jpg",
+  "images/esmonster/soulcalibur/taki/taki-17.jpg",
+  "images/esmonster/soulcalibur/taki/taki-18.jpg",
+  "images/esmonster/soulcalibur/taki/taki-19.jpg",
+  "images/esmonster/soulcalibur/taki/taki-20.jpg",
+  "images/esmonster/soulcalibur/taki/taki-21.jpg",
+  "images/esmonster/soulcalibur/taki/taki-22.jpg",
+  "images/esmonster/soulcalibur/taki/taki-23.jpg",
+  "images/esmonster/soulcalibur/taki/taki-24.jpg",
+  "images/esmonster/soulcalibur/taki/taki-25.jpg",
+  "images/esmonster/soulcalibur/taki/taki-26.jpg",
+  "images/esmonster/soulcalibur/taki/taki-27.jpg",
+  "images/esmonster/soulcalibur/taki/taki-28.jpg",
+  "images/esmonster/soulcalibur/taki/taki-29.jpg",
+  "images/esmonster/soulcalibur/taki/taki-30.jpg",
+  "images/esmonster/soulcalibur/taki/taki-31.jpg",
+  "images/esmonster/soulcalibur/taki/taki-32.jpg",
+  "images/esmonster/soulcalibur/taki/taki-33.jpg",
+  "images/esmonster/soulcalibur/taki/taki-34.jpg",
+  "images/esmonster/soulcalibur/taki/taki-35.jpg",
+  "images/esmonster/soulcalibur/taki/taki-36.jpg",
+  "images/esmonster/soulcalibur/taki/taki-37.jpg",
+  "images/esmonster/soulcalibur/taki/taki-38.jpg",
+  "images/esmonster/soulcalibur/taki/taki-39.jpg",
+  "images/esmonster/soulcalibur/taki/taki-40.jpg",
+  "images/esmonster/soulcalibur/taki/taki-41.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Taki from Soulcalibur."
+},
+ {
+ "id": "esm-darth-talon",
+ "artist": "ESMonster",
+ "series": "Star Wars",
+ "title": "Darth Talon",
+ "images": [
+  "images/esmonster/star-wars/darth-talon/darth-talon-1.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-2.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-3.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-4.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-5.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-6.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-7.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-8.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-9.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-10.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-11.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-12.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-13.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-14.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-15.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-16.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-17.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-18.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-19.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-20.jpg",
+  "images/esmonster/star-wars/darth-talon/darth-talon-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Darth Talon from Star Wars."
+},
+ {
+ "id": "esm-red-sonja",
+ "artist": "ESMonster",
+ "series": "Red Sonja",
+ "title": "Red Sonja",
+ "images": [
+  "images/esmonster/red-sonja/red-sonja/red-sonja-1.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-2.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-3.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-4.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-5.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-6.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-7.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-8.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-9.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-10.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-11.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-12.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-13.jpg",
+  "images/esmonster/red-sonja/red-sonja/red-sonja-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Red Sonja from Red Sonja."
+},
+ {
+ "id": "esm-sadako",
+ "artist": "ESMonster",
+ "series": "The Ring",
+ "title": "Sadako",
+ "images": [
+  "images/esmonster/the-ring/sadako/sadako-1.jpg",
+  "images/esmonster/the-ring/sadako/sadako-2.jpg",
+  "images/esmonster/the-ring/sadako/sadako-3.jpg",
+  "images/esmonster/the-ring/sadako/sadako-4.jpg",
+  "images/esmonster/the-ring/sadako/sadako-5.jpg",
+  "images/esmonster/the-ring/sadako/sadako-6.jpg",
+  "images/esmonster/the-ring/sadako/sadako-7.jpg",
+  "images/esmonster/the-ring/sadako/sadako-8.jpg",
+  "images/esmonster/the-ring/sadako/sadako-9.jpg",
+  "images/esmonster/the-ring/sadako/sadako-10.jpg",
+  "images/esmonster/the-ring/sadako/sadako-11.jpg",
+  "images/esmonster/the-ring/sadako/sadako-12.jpg",
+  "images/esmonster/the-ring/sadako/sadako-13.jpg",
+  "images/esmonster/the-ring/sadako/sadako-14.jpg",
+  "images/esmonster/the-ring/sadako/sadako-15.jpg",
+  "images/esmonster/the-ring/sadako/sadako-16.jpg",
+  "images/esmonster/the-ring/sadako/sadako-17.jpg",
+  "images/esmonster/the-ring/sadako/sadako-18.jpg",
+  "images/esmonster/the-ring/sadako/sadako-19.jpg",
+  "images/esmonster/the-ring/sadako/sadako-20.jpg",
+  "images/esmonster/the-ring/sadako/sadako-21.jpg",
+  "images/esmonster/the-ring/sadako/sadako-22.jpg",
+  "images/esmonster/the-ring/sadako/sadako-23.jpg",
+  "images/esmonster/the-ring/sadako/sadako-24.jpg",
+  "images/esmonster/the-ring/sadako/sadako-25.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sadako from The Ring."
+},
+ {
+ "id": "esm-malice",
+ "artist": "ESMonster",
+ "series": "Fantastic Four",
+ "title": "Malice",
+ "images": [
+  "images/esmonster/fantastic-four/malice/malice-1.jpg",
+  "images/esmonster/fantastic-four/malice/malice-2.jpg",
+  "images/esmonster/fantastic-four/malice/malice-3.jpg",
+  "images/esmonster/fantastic-four/malice/malice-4.jpg",
+  "images/esmonster/fantastic-four/malice/malice-5.jpg",
+  "images/esmonster/fantastic-four/malice/malice-6.jpg",
+  "images/esmonster/fantastic-four/malice/malice-7.jpg",
+  "images/esmonster/fantastic-four/malice/malice-8.jpg",
+  "images/esmonster/fantastic-four/malice/malice-9.jpg",
+  "images/esmonster/fantastic-four/malice/malice-10.jpg",
+  "images/esmonster/fantastic-four/malice/malice-11.jpg",
+  "images/esmonster/fantastic-four/malice/malice-12.jpg",
+  "images/esmonster/fantastic-four/malice/malice-13.jpg",
+  "images/esmonster/fantastic-four/malice/malice-14.jpg",
+  "images/esmonster/fantastic-four/malice/malice-15.jpg",
+  "images/esmonster/fantastic-four/malice/malice-16.jpg",
+  "images/esmonster/fantastic-four/malice/malice-17.jpg",
+  "images/esmonster/fantastic-four/malice/malice-18.jpg",
+  "images/esmonster/fantastic-four/malice/malice-19.jpg",
+  "images/esmonster/fantastic-four/malice/malice-20.jpg",
+  "images/esmonster/fantastic-four/malice/malice-21.jpg",
+  "images/esmonster/fantastic-four/malice/malice-22.jpg",
+  "images/esmonster/fantastic-four/malice/malice-23.jpg",
+  "images/esmonster/fantastic-four/malice/malice-24.jpg",
+  "images/esmonster/fantastic-four/malice/malice-25.jpg",
+  "images/esmonster/fantastic-four/malice/malice-26.jpg",
+  "images/esmonster/fantastic-four/malice/malice-27.jpg",
+  "images/esmonster/fantastic-four/malice/malice-28.jpg",
+  "images/esmonster/fantastic-four/malice/malice-29.jpg",
+  "images/esmonster/fantastic-four/malice/malice-30.jpg",
+  "images/esmonster/fantastic-four/malice/malice-31.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Malice from Fantastic Four."
+},
+ {
+ "id": "esm-punchline",
+ "artist": "ESMonster",
+ "series": "DC Comics",
+ "title": "Punchline",
+ "images": [
+  "images/esmonster/dc-comics/punchline/punchline-1.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-2.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-3.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-4.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-5.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-6.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-7.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-8.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-9.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-10.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-11.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-12.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-13.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-14.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-15.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-16.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-17.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-18.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-19.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-20.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-21.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-22.jpg",
+  "images/esmonster/dc-comics/punchline/punchline-23.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Punchline from DC Comics."
+},
+ {
+ "id": "esm-evelynn-k-da-ver",
+ "artist": "ESMonster",
+ "series": "League of Legends",
+ "title": "Evelynn [K/DA ver]",
+ "images": [
+  "images/esmonster/league-of-legends/evelynn-k-da-ver/evelynn-k-da-ver-1.jpg",
+  "images/esmonster/league-of-legends/evelynn-k-da-ver/evelynn-k-da-ver-2.jpg",
+  "images/esmonster/league-of-legends/evelynn-k-da-ver/evelynn-k-da-ver-3.jpg",
+  "images/esmonster/league-of-legends/evelynn-k-da-ver/evelynn-k-da-ver-4.jpg",
+  "images/esmonster/league-of-legends/evelynn-k-da-ver/evelynn-k-da-ver-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Evelynn [K/DA ver] from League of Legends."
+},
+ {
+ "id": "esm-lulu",
+ "artist": "ESMonster",
+ "series": "Final Fantasy X",
+ "title": "Lulu",
+ "images": [
+  "images/esmonster/final-fantasy-x/lulu/lulu-1.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-2.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-3.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-4.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-5.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-6.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-7.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-8.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-9.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-10.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-11.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-12.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-13.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-14.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-15.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-16.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-17.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-18.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-19.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-20.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-21.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-22.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-23.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-24.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-25.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-26.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-27.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-28.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-29.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-30.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-31.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-32.jpg",
+  "images/esmonster/final-fantasy-x/lulu/lulu-33.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Lulu from Final Fantasy X."
+},
+ {
+ "id": "esm-sara-pezzini",
+ "artist": "ESMonster",
+ "series": "Witchblade",
+ "title": "Sara Pezzini",
+ "images": [
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-1.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-2.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-3.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-4.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-5.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-6.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-7.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-8.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-9.jpg",
+  "images/esmonster/witchblade/sara-pezzini/sara-pezzini-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sara Pezzini from Witchblade."
+},
+ {
+ "id": "esm-madelyne-pryor-red-queen-goblin-queen",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Madelyne Pryor [Red Queen/Goblin Queen]",
+ "images": [
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-1.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-2.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-3.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-4.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-5.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-6.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-7.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-8.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-9.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-10.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-11.jpg",
+  "images/esmonster/x-men/madelyne-pryor-red-queen-goblin-queen/madelyne-pryor-red-queen-goblin-queen-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Madelyne Pryor [Red Queen/Goblin Queen] from X-Men."
+},
+ {
+ "id": "esm-wednesday-addams",
+ "artist": "ESMonster",
+ "series": "Addams Family",
+ "title": "Wednesday Addams",
+ "images": [
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-1.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-2.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-3.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-4.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-5.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-6.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-7.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-8.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-9.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-10.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-11.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-12.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-13.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-14.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-15.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-16.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-17.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-18.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-19.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-20.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-21.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-22.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-23.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-24.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-25.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-26.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-27.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-28.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-29.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-30.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-31.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-32.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-33.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-34.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-35.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-36.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wednesday Addams from Addams Family."
+},
+ {
+ "id": "esm-morrigan-aensland-dark-vampiric-enchantress",
+ "artist": "ESMonster",
+ "series": "Darkstalkers",
+ "title": "Morrigan Aensland (Dark vampiric enchantress)",
+ "images": [
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-1.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-2.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-3.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-4.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-5.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-6.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-7.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-8.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-9.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-10.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-11.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-12.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-13.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-14.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-15.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Morrigan Aensland from Darkstalkers."
+},
+ {
+ "id": "esm-morrigan-aensland-dark-vampiric-enchantress-p2",
+ "artist": "ESMonster",
+ "series": "Darkstalkers",
+ "title": "Morrigan Aensland (Dark vampiric enchantress P2)",
+ "images": [
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-1.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-2.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-3.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-4.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-5.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-6.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-7.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-8.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-9.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-10.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-11.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-12.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-13.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Morrigan Aensland from Darkstalkers."
+},
+ {
+ "id": "esm-lilith-aensland",
+ "artist": "ESMonster",
+ "series": "Darkstalkers",
+ "title": "Lilith Aensland",
+ "images": [
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-1.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-2.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-3.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-4.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-5.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-6.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-7.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-8.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-9.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-10.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-11.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-12.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-13.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-14.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-15.jpg",
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Lilith Aensland from Darkstalkers."
+},
+ {
+ "id": "esm-bowsette-dark-themed-princess-swimsuit-ver",
+ "artist": "ESMonster",
+ "series": "Super Mario",
+ "title": "Bowsette (Dark-themed princess Swimsuit Ver.)",
+ "images": [
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-1.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-2.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-3.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-4.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-5.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Bowsette from Super Mario."
+},
+ {
+ "id": "esm-bowsette-dark-themed-princess-suntanned-ver",
+ "artist": "ESMonster",
+ "series": "Super Mario",
+ "title": "Bowsette (Dark-themed princess Suntanned Ver)",
+ "images": [
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-1.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-2.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-3.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-4.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-5.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-6.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-7.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-8.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-9.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-10.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-11.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-12.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-13.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-14.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-15.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-16.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-17.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-18.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-19.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-20.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-21.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-22.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-23.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-24.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-25.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-26.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-27.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-28.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-29.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-30.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-31.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-32.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-33.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-34.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-35.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-36.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-37.jpg",
+  "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-38.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Bowsette from Super Mario."
+},
+ {
+ "id": "esm-bowsette-villain-princess",
+ "artist": "ESMonster",
+ "series": "Super Mario",
+ "title": "Bowsette (Villain Princess)",
+ "images": [
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-1.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-2.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-3.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-4.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-5.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-6.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-7.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-8.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-9.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-10.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-11.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-12.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-13.jpg",
+  "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Bowsette from Super Mario."
+},
+ {
+ "id": "esm-aldrif-odinsdottir",
+ "artist": "ESMonster",
+ "series": "Marvel Comics",
+ "title": "Aldrif Odinsdottir",
+ "images": [
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-1.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-2.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-3.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-4.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-5.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-6.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-7.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-8.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-9.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-10.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-11.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-12.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-13.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-14.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-15.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-16.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-17.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-18.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-19.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-20.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-21.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-22.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-23.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-24.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-25.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-26.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-27.jpg",
+  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-28.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Aldrif Odinsdottir from Marvel Comics."
+},
+ {
+ "id": "esm-ghislaine-dedoldia",
+ "artist": "ESMonster",
+ "series": "Mushoku Tensei",
+ "title": "Ghislaine Dedoldia",
+ "images": [
+  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-1.jpg",
+  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-2.jpg",
+  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-3.jpg",
+  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-4.jpg",
+  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ghislaine Dedoldia from Mushoku Tensei."
+},
+ {
+ "id": "esm-black-widow",
+ "artist": "ESMonster",
+ "series": "Black Widow",
+ "title": "Black Widow",
+ "images": [
+  "images/esmonster/black-widow/black-widow/black-widow-1.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-2.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-3.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-4.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-5.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-6.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-7.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-8.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-9.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-10.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-11.jpg",
+  "images/esmonster/black-widow/black-widow/black-widow-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Black Widow from Black Widow."
+},
+ {
+ "id": "esm-widowmaker",
+ "artist": "ESMonster",
+ "series": "Overwatch",
+ "title": "Widowmaker",
+ "images": [
+  "images/esmonster/overwatch/widowmaker/widowmaker-1.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-2.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-3.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-4.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-5.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-6.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-7.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-8.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-9.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-10.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-11.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-12.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-13.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-14.jpg",
+  "images/esmonster/overwatch/widowmaker/widowmaker-15.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Widowmaker from Overwatch."
+},
+ {
+ "id": "esm-albedo-armored-demonic-guardian",
+ "artist": "ESMonster",
+ "series": "Overlord",
+ "title": "Albedo [Armored] (Demonic Guardian)",
+ "images": [
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-1.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-2.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-3.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-4.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-5.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-6.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-7.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-8.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Albedo [Armored] from Overlord."
+},
+ {
+ "id": "esm-albedo-armored-demonic-guardian-p2",
+ "artist": "ESMonster",
+ "series": "Overlord",
+ "title": "Albedo [Armored] (Demonic Guardian P2)",
+ "images": [
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-1.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-2.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-3.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-4.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-5.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-6.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-7.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-8.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-9.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-10.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-11.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-12.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-13.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-14.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-15.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-16.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-17.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-18.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-19.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-20.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-21.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-22.jpg",
+  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-23.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Albedo [Armored] from Overlord."
+},
+ {
+ "id": "esm-scanty-kneesocks",
+ "artist": "ESMonster",
+ "series": "Panty & Stocking with Garterbelt",
+ "title": "Scanty & Kneesocks",
+ "images": [
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-1.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-2.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-3.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-4.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-5.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-6.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-7.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-8.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-9.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-10.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-11.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-12.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-13.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-14.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-15.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-16.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-17.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-18.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-19.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-20.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-21.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-22.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-23.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-24.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-25.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-26.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-27.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-28.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-29.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-30.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-31.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-32.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-33.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-34.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-35.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-36.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-37.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-38.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-39.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-40.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-41.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-42.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-43.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-44.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-45.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-46.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-47.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-48.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-49.jpg",
+  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-50.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Scanty & Kneesocks from Panty & Stocking with Garterbelt."
+},
+ {
+ "id": "esm-malevola",
+ "artist": "ESMonster",
+ "series": "Dispatch",
+ "title": "Malevola",
+ "images": [
+  "images/esmonster/dispatch/malevola/malevola-1.jpg",
+  "images/esmonster/dispatch/malevola/malevola-2.jpg",
+  "images/esmonster/dispatch/malevola/malevola-3.jpg",
+  "images/esmonster/dispatch/malevola/malevola-4.jpg",
+  "images/esmonster/dispatch/malevola/malevola-5.jpg",
+  "images/esmonster/dispatch/malevola/malevola-6.jpg",
+  "images/esmonster/dispatch/malevola/malevola-7.jpg",
+  "images/esmonster/dispatch/malevola/malevola-8.jpg",
+  "images/esmonster/dispatch/malevola/malevola-9.jpg",
+  "images/esmonster/dispatch/malevola/malevola-10.jpg",
+  "images/esmonster/dispatch/malevola/malevola-11.jpg",
+  "images/esmonster/dispatch/malevola/malevola-12.jpg",
+  "images/esmonster/dispatch/malevola/malevola-13.jpg",
+  "images/esmonster/dispatch/malevola/malevola-14.jpg",
+  "images/esmonster/dispatch/malevola/malevola-15.jpg",
+  "images/esmonster/dispatch/malevola/malevola-16.jpg",
+  "images/esmonster/dispatch/malevola/malevola-17.jpg",
+  "images/esmonster/dispatch/malevola/malevola-18.jpg",
+  "images/esmonster/dispatch/malevola/malevola-19.jpg",
+  "images/esmonster/dispatch/malevola/malevola-20.jpg",
+  "images/esmonster/dispatch/malevola/malevola-21.jpg",
+  "images/esmonster/dispatch/malevola/malevola-22.jpg",
+  "images/esmonster/dispatch/malevola/malevola-23.jpg",
+  "images/esmonster/dispatch/malevola/malevola-24.jpg",
+  "images/esmonster/dispatch/malevola/malevola-25.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Malevola from Dispatch."
+},
+ {
+ "id": "esm-menat",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Menat",
+ "images": [
+  "images/esmonster/street-fighter/menat/menat-1.jpg",
+  "images/esmonster/street-fighter/menat/menat-2.jpg",
+  "images/esmonster/street-fighter/menat/menat-3.jpg",
+  "images/esmonster/street-fighter/menat/menat-4.jpg",
+  "images/esmonster/street-fighter/menat/menat-5.jpg",
+  "images/esmonster/street-fighter/menat/menat-6.jpg",
+  "images/esmonster/street-fighter/menat/menat-7.jpg",
+  "images/esmonster/street-fighter/menat/menat-8.jpg",
+  "images/esmonster/street-fighter/menat/menat-9.jpg",
+  "images/esmonster/street-fighter/menat/menat-10.jpg",
+  "images/esmonster/street-fighter/menat/menat-11.jpg",
+  "images/esmonster/street-fighter/menat/menat-12.jpg",
+  "images/esmonster/street-fighter/menat/menat-13.jpg",
+  "images/esmonster/street-fighter/menat/menat-14.jpg",
+  "images/esmonster/street-fighter/menat/menat-15.jpg",
+  "images/esmonster/street-fighter/menat/menat-16.jpg",
+  "images/esmonster/street-fighter/menat/menat-17.jpg",
+  "images/esmonster/street-fighter/menat/menat-18.jpg",
+  "images/esmonster/street-fighter/menat/menat-19.jpg",
+  "images/esmonster/street-fighter/menat/menat-20.jpg",
+  "images/esmonster/street-fighter/menat/menat-21.jpg",
+  "images/esmonster/street-fighter/menat/menat-22.jpg",
+  "images/esmonster/street-fighter/menat/menat-23.jpg",
+  "images/esmonster/street-fighter/menat/menat-24.jpg",
+  "images/esmonster/street-fighter/menat/menat-25.jpg",
+  "images/esmonster/street-fighter/menat/menat-26.jpg",
+  "images/esmonster/street-fighter/menat/menat-27.jpg",
+  "images/esmonster/street-fighter/menat/menat-28.jpg",
+  "images/esmonster/street-fighter/menat/menat-29.jpg",
+  "images/esmonster/street-fighter/menat/menat-30.jpg",
+  "images/esmonster/street-fighter/menat/menat-31.jpg",
+  "images/esmonster/street-fighter/menat/menat-32.jpg",
+  "images/esmonster/street-fighter/menat/menat-33.jpg",
+  "images/esmonster/street-fighter/menat/menat-34.jpg",
+  "images/esmonster/street-fighter/menat/menat-35.jpg",
+  "images/esmonster/street-fighter/menat/menat-36.jpg",
+  "images/esmonster/street-fighter/menat/menat-37.jpg",
+  "images/esmonster/street-fighter/menat/menat-38.jpg",
+  "images/esmonster/street-fighter/menat/menat-39.jpg",
+  "images/esmonster/street-fighter/menat/menat-40.jpg",
+  "images/esmonster/street-fighter/menat/menat-41.jpg",
+  "images/esmonster/street-fighter/menat/menat-42.jpg",
+  "images/esmonster/street-fighter/menat/menat-43.jpg",
+  "images/esmonster/street-fighter/menat/menat-44.jpg",
+  "images/esmonster/street-fighter/menat/menat-45.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Menat from Street Fighter."
+},
+ {
+ "id": "esm-holli-would",
+ "artist": "ESMonster",
+ "series": "Cool World",
+ "title": "Holli Would",
+ "images": [
+  "images/esmonster/cool-world/holli-would/holli-would-1.jpg",
+  "images/esmonster/cool-world/holli-would/holli-would-2.jpg",
+  "images/esmonster/cool-world/holli-would/holli-would-3.jpg",
+  "images/esmonster/cool-world/holli-would/holli-would-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Holli Would from Cool World."
+},
+ {
+ "id": "esm-mavis-dracula",
+ "artist": "ESMonster",
+ "series": "Hotel Transylvania",
+ "title": "Mavis Dracula",
+ "images": [
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-1.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-2.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-3.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-4.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-5.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-6.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-7.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-8.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-9.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-10.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-11.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-12.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-13.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-14.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-15.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-16.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-17.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-18.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-19.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-20.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-21.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-22.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-23.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-24.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-25.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-26.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-27.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-28.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-29.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-30.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-31.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-32.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-33.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-34.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-35.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-36.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-37.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-38.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-39.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-40.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-41.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-42.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-43.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-44.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-45.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-46.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-47.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-48.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-49.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-50.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-51.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-52.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-53.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-54.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-55.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-56.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-57.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-58.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-59.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-60.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-61.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-62.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-63.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mavis Dracula from Hotel Transylvania."
+},
+ {
+ "id": "esm-elektra",
+ "artist": "ESMonster",
+ "series": "Daredevil",
+ "title": "Elektra",
+ "images": [
+  "images/esmonster/daredevil/elektra/elektra-1.jpg",
+  "images/esmonster/daredevil/elektra/elektra-2.jpg",
+  "images/esmonster/daredevil/elektra/elektra-3.jpg",
+  "images/esmonster/daredevil/elektra/elektra-4.jpg",
+  "images/esmonster/daredevil/elektra/elektra-5.jpg",
+  "images/esmonster/daredevil/elektra/elektra-6.jpg",
+  "images/esmonster/daredevil/elektra/elektra-7.jpg",
+  "images/esmonster/daredevil/elektra/elektra-8.jpg",
+  "images/esmonster/daredevil/elektra/elektra-9.jpg",
+  "images/esmonster/daredevil/elektra/elektra-10.jpg",
+  "images/esmonster/daredevil/elektra/elektra-11.jpg",
+  "images/esmonster/daredevil/elektra/elektra-12.jpg",
+  "images/esmonster/daredevil/elektra/elektra-13.jpg",
+  "images/esmonster/daredevil/elektra/elektra-14.jpg",
+  "images/esmonster/daredevil/elektra/elektra-15.jpg",
+  "images/esmonster/daredevil/elektra/elektra-16.jpg",
+  "images/esmonster/daredevil/elektra/elektra-17.jpg",
+  "images/esmonster/daredevil/elektra/elektra-18.jpg",
+  "images/esmonster/daredevil/elektra/elektra-19.jpg",
+  "images/esmonster/daredevil/elektra/elektra-20.jpg",
+  "images/esmonster/daredevil/elektra/elektra-21.jpg",
+  "images/esmonster/daredevil/elektra/elektra-22.jpg",
+  "images/esmonster/daredevil/elektra/elektra-23.jpg",
+  "images/esmonster/daredevil/elektra/elektra-24.jpg",
+  "images/esmonster/daredevil/elektra/elektra-25.jpg",
+  "images/esmonster/daredevil/elektra/elektra-26.jpg",
+  "images/esmonster/daredevil/elektra/elektra-27.jpg",
+  "images/esmonster/daredevil/elektra/elektra-28.jpg",
+  "images/esmonster/daredevil/elektra/elektra-29.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Elektra from Daredevil."
+},
+ {
+ "id": "esm-cyclops",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Cyclops",
+ "images": [
+  "images/esmonster/x-men/cyclops/cyclops-1.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-2.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-3.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-4.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-5.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-6.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-7.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-8.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-9.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-10.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-11.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-12.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-13.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-14.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-15.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-16.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-17.jpg",
+  "images/esmonster/x-men/cyclops/cyclops-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cyclops from X-Men."
+},
+ {
+ "id": "esm-bunny",
+ "artist": "ESMonster",
+ "series": "The First Descendant",
+ "title": "Bunny",
+ "images": [
+  "images/esmonster/the-first-descendant/bunny/bunny-1.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-2.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-3.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-4.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-5.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-6.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-7.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-8.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-9.jpg",
+  "images/esmonster/the-first-descendant/bunny/bunny-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Bunny from The First Descendant."
+},
+ {
+ "id": "esm-dejah-thoris",
+ "artist": "ESMonster",
+ "series": "Barsoom",
+ "title": "Dejah Thoris",
+ "images": [
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-1.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-2.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-3.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-4.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-5.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-6.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-7.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-8.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-9.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-10.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Dejah Thoris from Barsoom."
+},
+ {
+ "id": "esm-sorceress-of-castle-grayskull",
+ "artist": "ESMonster",
+ "series": "Masters of the Universe",
+ "title": "Sorceress of Castle Grayskull",
+ "images": [
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-1.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-2.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-3.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-4.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-5.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-6.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-7.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-8.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-9.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-10.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-11.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-12.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-13.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-14.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-15.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-16.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-17.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-18.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-19.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-20.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-21.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-22.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-23.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-24.jpg",
+  "images/esmonster/masters-of-the-universe/sorceress-of-castle-grayskull/sorceress-of-castle-grayskull-25.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sorceress of Castle Grayskull from Masters of the Universe."
+},
+ {
+ "id": "esm-a2-female-swordswoman",
+ "artist": "ESMonster",
+ "series": "NieR:Automata",
+ "title": "A2 (Female Swordswoman)",
+ "images": [
+  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-1.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-2.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-3.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-4.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-5.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-6.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of A2 from NieR:Automata."
+},
+ {
+ "id": "esm-a2-female-swordswoman-includes-3-sets-of-postures",
+ "artist": "ESMonster",
+ "series": "NieR:Automata",
+ "title": "A2 (Female Swordswoman Includes 3 sets of postures)",
+ "images": [
+  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-1.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-2.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-3.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-4.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-5.jpg",
+  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of A2 from NieR:Automata."
+},
+ {
+ "id": "esm-magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Magik | Illyana Rasputin (Fiery Soulsword Sorceress includes 2 versions)",
+ "images": [
+  "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-1.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-2.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-3.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-4.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-5.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-6.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Magik | Illyana Rasputin from X-Men."
+},
+ {
+ "id": "esm-magik-illyana-rasputin-limbo-sword-sorceress",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Magik | Illyana Rasputin (Limbo Sword Sorceress)",
+ "images": [
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-1.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-2.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-3.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-4.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-5.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-6.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-7.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-8.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-9.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-10.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-11.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-12.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-13.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-14.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-15.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-16.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-17.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-18.jpg",
+  "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-19.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Magik | Illyana Rasputin from X-Men."
+},
+ {
+ "id": "esm-pyro",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Pyro",
+ "images": [
+  "images/esmonster/x-men/pyro/pyro-1.jpg",
+  "images/esmonster/x-men/pyro/pyro-2.jpg",
+  "images/esmonster/x-men/pyro/pyro-3.jpg",
+  "images/esmonster/x-men/pyro/pyro-4.jpg",
+  "images/esmonster/x-men/pyro/pyro-5.jpg",
+  "images/esmonster/x-men/pyro/pyro-6.jpg",
+  "images/esmonster/x-men/pyro/pyro-7.jpg",
+  "images/esmonster/x-men/pyro/pyro-8.jpg",
+  "images/esmonster/x-men/pyro/pyro-9.jpg",
+  "images/esmonster/x-men/pyro/pyro-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Pyro from X-Men."
+},
+ {
+ "id": "esm-ranni-the-witch",
+ "artist": "ESMonster",
+ "series": "Elden Ring",
+ "title": "Ranni the Witch",
+ "images": [
+  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-1.jpg",
+  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-2.jpg",
+  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-3.jpg",
+  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-4.jpg",
+  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ranni the Witch from Elden Ring."
+},
+ {
+ "id": "esm-ahri-k-da-ver",
+ "artist": "ESMonster",
+ "series": "League of Legends",
+ "title": "Ahri [K/DA ver]",
+ "images": [
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-1.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-2.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-3.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-4.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-5.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-6.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-7.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-8.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-9.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-10.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-11.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-12.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-13.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-14.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-15.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-16.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-17.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-18.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-19.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-20.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-21.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-22.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-23.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-24.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-25.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-26.jpg",
+  "images/esmonster/league-of-legends/ahri-k-da-ver/ahri-k-da-ver-27.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ahri [K/DA ver] from League of Legends."
+},
+ {
+ "id": "esm-reika-shimohira",
+ "artist": "ESMonster",
+ "series": "Gantz",
+ "title": "Reika Shimohira",
+ "images": [
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-1.jpg",
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-2.jpg",
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-3.jpg",
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-4.jpg",
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-5.jpg",
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-6.jpg",
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Reika Shimohira from Gantz."
+},
+ {
+ "id": "esm-faye-valentine-galactic-bounty-huntress",
+ "artist": "ESMonster",
+ "series": "Cowboy Bebop",
+ "title": "Faye Valentine (Galactic Bounty Huntress)",
+ "images": [
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-1.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-2.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-3.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-4.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-5.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-6.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-7.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-8.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-9.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-10.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-11.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-12.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-13.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+},
+ {
+ "id": "esm-faye-valentine-galactic-bounty-huntress-p1-head-swap",
+ "artist": "ESMonster",
+ "series": "Cowboy Bebop",
+ "title": "Faye Valentine (Galactic Bounty Huntress P1 Head-Swap)",
+ "images": [
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-1.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-2.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-3.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-4.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-5.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-6.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-7.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-8.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-9.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-10.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-11.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-12.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-13.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+},
+ {
+ "id": "esm-faye-valentine-galactic-bounty-huntressp2-head-swap",
+ "artist": "ESMonster",
+ "series": "Cowboy Bebop",
+ "title": "Faye Valentine (Galactic Bounty HuntressP2 Head-Swap)",
+ "images": [
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-1.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-2.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-3.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-4.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-5.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-6.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-7.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-8.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-9.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-10.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-11.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-12.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-13.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-14.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-15.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-16.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-17.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+},
+ {
+ "id": "esm-samus-aran",
+ "artist": "ESMonster",
+ "series": "Metroid",
+ "title": "Samus Aran",
+ "images": [
+  "images/esmonster/metroid/samus-aran/samus-aran-1.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-2.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-3.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-4.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-5.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-6.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-7.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-8.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-9.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-10.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-11.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-12.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-13.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-14.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-15.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-16.jpg",
+  "images/esmonster/metroid/samus-aran/samus-aran-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Samus Aran from Metroid."
+},
+ {
+ "id": "esm-invincible-mark-grayson",
+ "artist": "ESMonster",
+ "series": "Invincible",
+ "title": "Invincible | Mark Grayson",
+ "images": [
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-1.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-2.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-3.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-4.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-5.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-6.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-7.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-8.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-9.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-10.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-11.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-12.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-13.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Invincible | Mark Grayson from Invincible."
+},
+ {
+ "id": "esm-samus-aran-power-suit",
+ "artist": "ESMonster",
+ "series": "Metroid",
+ "title": "Samus Aran [Power Suit]",
+ "images": [
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-1.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-2.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-3.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-4.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-5.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-6.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-7.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-8.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-9.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-10.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-11.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-12.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-13.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-14.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-15.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-16.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-17.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-18.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-19.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-20.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-21.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-22.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-23.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-24.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-25.jpg",
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Samus Aran [Power Suit] from Metroid."
+},
+ {
+ "id": "esm-maelle",
+ "artist": "ESMonster",
+ "series": "Clair Obscur: Expedition 33",
+ "title": "Maelle",
+ "images": [
+  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-1.jpg",
+  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-2.jpg",
+  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-3.jpg",
+  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-4.jpg",
+  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Maelle from Clair Obscur: Expedition 33."
+},
+ {
+ "id": "esm-batgirl-barbara-gordon",
+ "artist": "ESMonster",
+ "series": "Batman",
+ "title": "Batgirl | Barbara Gordon",
+ "images": [
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-1.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-2.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-3.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-4.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-5.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-6.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-7.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-8.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-9.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-10.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-11.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-12.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-13.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-14.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-15.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-16.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-17.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-18.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-19.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-20.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-21.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-22.jpg",
+  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-23.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Batgirl | Barbara Gordon from Batman."
+},
+ {
+ "id": "esm-shego",
+ "artist": "ESMonster",
+ "series": "Kim Possible",
+ "title": "Shego",
+ "images": [
+  "images/esmonster/kim-possible/shego/shego-1.jpg",
+  "images/esmonster/kim-possible/shego/shego-2.jpg",
+  "images/esmonster/kim-possible/shego/shego-3.jpg",
+  "images/esmonster/kim-possible/shego/shego-4.jpg",
+  "images/esmonster/kim-possible/shego/shego-5.jpg",
+  "images/esmonster/kim-possible/shego/shego-6.jpg",
+  "images/esmonster/kim-possible/shego/shego-7.jpg",
+  "images/esmonster/kim-possible/shego/shego-8.jpg",
+  "images/esmonster/kim-possible/shego/shego-9.jpg",
+  "images/esmonster/kim-possible/shego/shego-10.jpg",
+  "images/esmonster/kim-possible/shego/shego-11.jpg",
+  "images/esmonster/kim-possible/shego/shego-12.jpg",
+  "images/esmonster/kim-possible/shego/shego-13.jpg",
+  "images/esmonster/kim-possible/shego/shego-14.jpg",
+  "images/esmonster/kim-possible/shego/shego-15.jpg",
+  "images/esmonster/kim-possible/shego/shego-16.jpg",
+  "images/esmonster/kim-possible/shego/shego-17.jpg",
+  "images/esmonster/kim-possible/shego/shego-18.jpg",
+  "images/esmonster/kim-possible/shego/shego-19.jpg",
+  "images/esmonster/kim-possible/shego/shego-20.jpg",
+  "images/esmonster/kim-possible/shego/shego-21.jpg",
+  "images/esmonster/kim-possible/shego/shego-22.jpg",
+  "images/esmonster/kim-possible/shego/shego-23.jpg",
+  "images/esmonster/kim-possible/shego/shego-24.jpg",
+  "images/esmonster/kim-possible/shego/shego-25.jpg",
+  "images/esmonster/kim-possible/shego/shego-26.jpg",
+  "images/esmonster/kim-possible/shego/shego-27.jpg",
+  "images/esmonster/kim-possible/shego/shego-28.jpg",
+  "images/esmonster/kim-possible/shego/shego-29.jpg",
+  "images/esmonster/kim-possible/shego/shego-30.jpg",
+  "images/esmonster/kim-possible/shego/shego-31.jpg",
+  "images/esmonster/kim-possible/shego/shego-32.jpg",
+  "images/esmonster/kim-possible/shego/shego-33.jpg",
+  "images/esmonster/kim-possible/shego/shego-34.jpg",
+  "images/esmonster/kim-possible/shego/shego-35.jpg",
+  "images/esmonster/kim-possible/shego/shego-36.jpg",
+  "images/esmonster/kim-possible/shego/shego-37.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Shego from Kim Possible."
+},
+ {
+ "id": "esm-tatsumaki",
+ "artist": "ESMonster",
+ "series": "One Punch Man",
+ "title": "Tatsumaki",
+ "images": [
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-1.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-2.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-3.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-4.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-5.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-6.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-7.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-8.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-9.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-10.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-11.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-12.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-13.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-14.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-15.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-16.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-17.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-18.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-19.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-20.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-21.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-22.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-23.jpg",
+  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-24.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Tatsumaki from One Punch Man."
+},
+ {
+ "id": "esm-rogue-green-suit-mutant-p1",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Rogue (Green Suit Mutant P1)",
+ "images": [
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-1.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-2.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-3.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-4.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-5.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-6.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-7.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-8.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-9.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p1/rogue-green-suit-mutant-p1-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Rogue from X-Men."
+},
+ {
+ "id": "esm-rogue-green-suit-mutant-p2",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Rogue (Green Suit Mutant P2)",
+ "images": [
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-1.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-2.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-3.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-4.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-5.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-6.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-7.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-8.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-9.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-10.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-11.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-12.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-13.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-14.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-15.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-16.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-17.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-18.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-19.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-20.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-21.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-22.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-23.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-24.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-25.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-26.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p2/rogue-green-suit-mutant-p2-27.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Rogue from X-Men."
+},
+ {
+ "id": "esm-rogue-green-suit-mutant-p3",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Rogue (Green Suit Mutant P3)",
+ "images": [
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-1.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-2.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-3.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-4.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-5.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-6.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-7.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-8.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-9.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-10.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-11.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-12.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-13.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-14.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-15.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-16.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-17.jpg",
+  "images/esmonster/x-men/rogue-green-suit-mutant-p3/rogue-green-suit-mutant-p3-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Rogue from X-Men."
+},
+ {
+ "id": "esm-pennywise-fem-ver",
+ "artist": "ESMonster",
+ "series": "IT",
+ "title": "Pennywise [Fem ver]",
+ "images": [
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-1.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-2.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-3.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-4.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-5.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-6.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-7.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-8.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-9.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-10.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-11.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-12.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-13.jpg",
+  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Pennywise [Fem ver] from IT."
+},
+ {
+ "id": "esm-doom-slayer-fem-ver",
+ "artist": "ESMonster",
+ "series": "Doom",
+ "title": "Doom Slayer [Fem ver]",
+ "images": [
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-1.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-2.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-3.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-4.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-5.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-6.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-7.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-8.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-9.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-10.jpg",
+  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Doom Slayer [Fem ver] from Doom."
+},
+ {
+ "id": "esm-karlach",
+ "artist": "ESMonster",
+ "series": "Baulder's Gate 3",
+ "title": "Karlach",
+ "images": [
+  "images/esmonster/baulders-gate-3/karlach/karlach-1.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-2.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-3.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-4.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-5.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-6.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-7.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-8.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-9.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-10.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-11.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-12.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-13.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-14.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-15.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-16.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-17.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-18.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-19.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-20.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-21.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-22.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-23.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-24.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-25.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-26.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-27.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-28.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-29.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-30.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Karlach from Baulder's Gate 3."
+},
+ {
+ "id": "esm-draenei",
+ "artist": "ESMonster",
+ "series": "World of Warcraft",
+ "title": "Draenei",
+ "images": [
+  "images/esmonster/world-of-warcraft/draenei/draenei-1.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-2.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-3.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-4.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-5.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-6.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-7.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-8.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-9.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-10.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-11.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-12.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-13.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-14.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-15.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-16.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-17.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-18.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-19.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-20.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-21.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-22.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-23.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-24.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-25.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-26.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-27.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-28.jpg",
+  "images/esmonster/world-of-warcraft/draenei/draenei-29.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Draenei from World of Warcraft."
+},
+ {
+ "id": "esm-yamato",
+ "artist": "ESMonster",
+ "series": "One Piece",
+ "title": "Yamato",
+ "images": [
+  "images/esmonster/one-piece/yamato/yamato-1.jpg",
+  "images/esmonster/one-piece/yamato/yamato-2.jpg",
+  "images/esmonster/one-piece/yamato/yamato-3.jpg",
+  "images/esmonster/one-piece/yamato/yamato-4.jpg",
+  "images/esmonster/one-piece/yamato/yamato-5.jpg",
+  "images/esmonster/one-piece/yamato/yamato-6.jpg",
+  "images/esmonster/one-piece/yamato/yamato-7.jpg",
+  "images/esmonster/one-piece/yamato/yamato-8.jpg",
+  "images/esmonster/one-piece/yamato/yamato-9.jpg",
+  "images/esmonster/one-piece/yamato/yamato-10.jpg",
+  "images/esmonster/one-piece/yamato/yamato-11.jpg",
+  "images/esmonster/one-piece/yamato/yamato-12.jpg",
+  "images/esmonster/one-piece/yamato/yamato-13.jpg",
+  "images/esmonster/one-piece/yamato/yamato-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Yamato from One Piece."
+},
+ {
+ "id": "esm-terry-bogard",
+ "artist": "ESMonster",
+ "series": "Fatal Fury (KoF)",
+ "title": "Terry Bogard",
+ "images": [
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-1.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-2.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-3.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-4.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-5.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-6.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-7.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-8.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-9.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-10.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-11.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-12.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-13.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-14.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-15.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-16.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-17.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-18.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-19.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-20.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-21.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-22.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-23.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-24.jpg",
+  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-25.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Terry Bogard from Fatal Fury (KoF)."
+},
+ {
+ "id": "esm-fran",
+ "artist": "ESMonster",
+ "series": "Final Fantasy XII",
+ "title": "Fran",
+ "images": [
+  "images/esmonster/final-fantasy-xii/fran/fran-1.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-2.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-3.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-4.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-5.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-6.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-7.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-8.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-9.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-10.jpg",
+  "images/esmonster/final-fantasy-xii/fran/fran-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Fran from Final Fantasy XII."
+},
+ {
+ "id": "esm-superman",
+ "artist": "ESMonster",
+ "series": "Superman",
+ "title": "Superman",
+ "images": [
+  "images/esmonster/superman/superman/superman-1.jpg",
+  "images/esmonster/superman/superman/superman-2.jpg",
+  "images/esmonster/superman/superman/superman-3.jpg",
+  "images/esmonster/superman/superman/superman-4.jpg",
+  "images/esmonster/superman/superman/superman-5.jpg",
+  "images/esmonster/superman/superman/superman-6.jpg",
+  "images/esmonster/superman/superman/superman-7.jpg",
+  "images/esmonster/superman/superman/superman-8.jpg",
+  "images/esmonster/superman/superman/superman-9.jpg",
+  "images/esmonster/superman/superman/superman-10.jpg",
+  "images/esmonster/superman/superman/superman-11.jpg",
+  "images/esmonster/superman/superman/superman-12.jpg",
+  "images/esmonster/superman/superman/superman-13.jpg",
+  "images/esmonster/superman/superman/superman-14.jpg",
+  "images/esmonster/superman/superman/superman-15.jpg",
+  "images/esmonster/superman/superman/superman-16.jpg",
+  "images/esmonster/superman/superman/superman-17.jpg",
+  "images/esmonster/superman/superman/superman-18.jpg",
+  "images/esmonster/superman/superman/superman-19.jpg",
+  "images/esmonster/superman/superman/superman-20.jpg",
+  "images/esmonster/superman/superman/superman-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Superman from Superman."
+},
+ {
+ "id": "esm-satsuki-kiryuin",
+ "artist": "ESMonster",
+ "series": "Kill la Kill",
+ "title": "Satsuki Kiryuin",
+ "images": [
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-1.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-2.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-3.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-4.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-5.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-6.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-7.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-8.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-9.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-10.jpg",
+  "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Satsuki Kiryuin from Kill la Kill."
+},
+ {
+ "id": "esm-she-hulk-jennifer-walters",
+ "artist": "ESMonster",
+ "series": "Marvel Comics",
+ "title": "She-Hulk | Jennifer Walters",
+ "images": [
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-1.jpg",
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-2.jpg",
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-3.jpg",
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-4.jpg",
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-5.jpg",
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-6.jpg",
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-7.jpg",
+  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of She-Hulk | Jennifer Walters from Marvel Comics."
+},
+ {
+ "id": "esm-rei-ayanami",
+ "artist": "ESMonster",
+ "series": "Neon Genesis Evangelion",
+ "title": "Rei Ayanami",
+ "images": [
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-1.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-2.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-3.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-4.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-5.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-6.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-7.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-8.jpg",
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Rei Ayanami from Neon Genesis Evangelion."
+},
+ {
+ "id": "esm-mirko-k-pop-ice-idol-fighter-includes-2-versions",
+ "artist": "ESMonster",
+ "series": "My Hero Academia",
+ "title": "Mirko (K-Pop Ice Idol Fighter includes 2 versions)",
+ "images": [
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-1.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-2.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-3.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-4.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-5.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-6.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-7.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-8.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-9.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-10.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-11.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-12.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-13.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-14.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-15.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-16.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-17.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-18.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-19.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-20.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-21.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-22.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-23.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-24.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-25.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-26.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-27.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-28.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-29.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-30.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-31.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-32.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-33.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-34.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-35.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-36.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-37.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-38.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-39.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-40.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-41.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-42.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-43.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-44.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-includes-2-versions/mirko-k-pop-ice-idol-fighter-includes-2-versions-45.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mirko from My Hero Academia."
+},
+ {
+ "id": "esm-mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions",
+ "artist": "ESMonster",
+ "series": "My Hero Academia",
+ "title": "Mirko (K-Pop Ice Idol Fighter Summer Ver.-includes 2 versions)",
+ "images": [
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-1.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-2.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-3.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-4.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-5.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-6.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-7.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-8.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-9.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-10.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-11.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-12.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-13.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-14.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-15.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-16.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-17.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-18.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-19.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-20.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-21.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-22.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-23.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-24.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-25.jpg",
+  "images/esmonster/my-hero-academia/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions/mirko-k-pop-ice-idol-fighter-summer-ver-includes-2-versions-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mirko from My Hero Academia."
+},
+ {
+ "id": "esm-cammy-white-kicking-rabbit-fighter",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Kicking Rabbit Fighter)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-7.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-8.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-9.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-10.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-11.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter/cammy-white-kicking-rabbit-fighter-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-cammy-white-kicking-rabbit-fighter-streetwear-edition",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Kicking Rabbit Fighter Streetwear Edition)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter-streetwear-edition/cammy-white-kicking-rabbit-fighter-streetwear-edition-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter-streetwear-edition/cammy-white-kicking-rabbit-fighter-streetwear-edition-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter-streetwear-edition/cammy-white-kicking-rabbit-fighter-streetwear-edition-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter-streetwear-edition/cammy-white-kicking-rabbit-fighter-streetwear-edition-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter-streetwear-edition/cammy-white-kicking-rabbit-fighter-streetwear-edition-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter-streetwear-edition/cammy-white-kicking-rabbit-fighter-streetwear-edition-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-kicking-rabbit-fighter-streetwear-edition/cammy-white-kicking-rabbit-fighter-streetwear-edition-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-cammy-white-killer-bee-soldier-p1-bikini-ver",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Killer Bee Soldier P1 Bikini Ver)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-7.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-8.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-9.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-10.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-11.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-12.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-13.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-14.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-15.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-cammy-white-killer-bee-soldier-p3-bikini-ver",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Killer Bee Soldier P3 Bikini Ver)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-7.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-8.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-9.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-10.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-cammy-white-killer-bee-soldier-p6",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Killer Bee Soldier P6)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-7.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-8.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-9.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-10.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-11.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-12.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-13.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-14.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-15.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-16.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-17.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-18.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-19.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-20.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-21.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-22.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-23.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-24.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-25.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-26.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-27.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-28.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-29.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-30.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-31.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-32.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-33.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-34.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-35.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-36.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-37.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-38.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p6/cammy-white-killer-bee-soldier-p6-39.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-cammy-white-killer-bee-soldier-military-ver",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Killer Bee Soldier Military Ver)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-7.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-8.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-9.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-10.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-11.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-12.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-13.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-14.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-15.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-16.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-17.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-18.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-19.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-20.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-21.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-22.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-cammy-white-killer-bee-soldier-includes-3-versions",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Killer Bee Soldier includes 3 versions)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-7.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-8.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-9.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-10.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-11.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-12.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-13.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-14.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-15.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-16.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-17.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-18.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-19.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-20.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-21.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-22.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-23.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-24.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-25.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-26.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-27.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-28.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-includes-3-versions/cammy-white-killer-bee-soldier-includes-3-versions-29.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-cammy-white-killer-bee-soldierp2-bikini-ver",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Cammy White (Killer Bee SoldierP2 Bikini Ver)",
+ "images": [
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-1.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-2.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-3.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-4.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-5.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-6.jpg",
+  "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cammy White from Street Fighter."
+},
+ {
+ "id": "esm-luna",
+ "artist": "ESMonster",
+ "series": "Epic Seven",
+ "title": "Luna",
+ "images": [
+  "images/esmonster/epic-seven/luna/luna-1.jpg",
+  "images/esmonster/epic-seven/luna/luna-2.jpg",
+  "images/esmonster/epic-seven/luna/luna-3.jpg",
+  "images/esmonster/epic-seven/luna/luna-4.jpg",
+  "images/esmonster/epic-seven/luna/luna-5.jpg",
+  "images/esmonster/epic-seven/luna/luna-6.jpg",
+  "images/esmonster/epic-seven/luna/luna-7.jpg",
+  "images/esmonster/epic-seven/luna/luna-8.jpg",
+  "images/esmonster/epic-seven/luna/luna-9.jpg",
+  "images/esmonster/epic-seven/luna/luna-10.jpg",
+  "images/esmonster/epic-seven/luna/luna-11.jpg",
+  "images/esmonster/epic-seven/luna/luna-12.jpg",
+  "images/esmonster/epic-seven/luna/luna-13.jpg",
+  "images/esmonster/epic-seven/luna/luna-14.jpg",
+  "images/esmonster/epic-seven/luna/luna-15.jpg",
+  "images/esmonster/epic-seven/luna/luna-16.jpg",
+  "images/esmonster/epic-seven/luna/luna-17.jpg",
+  "images/esmonster/epic-seven/luna/luna-18.jpg",
+  "images/esmonster/epic-seven/luna/luna-19.jpg",
+  "images/esmonster/epic-seven/luna/luna-20.jpg",
+  "images/esmonster/epic-seven/luna/luna-21.jpg",
+  "images/esmonster/epic-seven/luna/luna-22.jpg",
+  "images/esmonster/epic-seven/luna/luna-23.jpg",
+  "images/esmonster/epic-seven/luna/luna-24.jpg",
+  "images/esmonster/epic-seven/luna/luna-25.jpg",
+  "images/esmonster/epic-seven/luna/luna-26.jpg",
+  "images/esmonster/epic-seven/luna/luna-27.jpg",
+  "images/esmonster/epic-seven/luna/luna-28.jpg",
+  "images/esmonster/epic-seven/luna/luna-29.jpg",
+  "images/esmonster/epic-seven/luna/luna-30.jpg",
+  "images/esmonster/epic-seven/luna/luna-31.jpg",
+  "images/esmonster/epic-seven/luna/luna-32.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Luna from Epic Seven."
+},
+ {
+ "id": "esm-juri-han-korean-style-villain-fighter-girl-includes-3-poses",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Juri Han (Korean-Style Villain Fighter Girl Includes 3 poses)",
+ "images": [
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-1.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-2.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-3.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-4.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-5.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-6.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-7.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-8.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-9.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-10.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-11.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Juri Han from Street Fighter."
+},
+ {
+ "id": "esm-juri-han-korean-style-villain-fighter-girl-swimsuit-ver",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Juri Han (Korean-Style Villain Fighter Girl Swimsuit Ver)",
+ "images": [
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-1.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-2.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-3.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-4.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-5.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-6.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-7.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-8.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-9.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-10.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-11.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-12.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-13.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-14.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-15.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-16.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-17.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-18.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-19.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-20.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-21.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-22.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-23.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-24.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-25.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-26.jpg",
+  "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-27.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Juri Han from Street Fighter."
+},
+ {
+ "id": "esm-magneto",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Magneto",
+ "images": [
+  "images/esmonster/x-men/magneto/magneto-1.jpg",
+  "images/esmonster/x-men/magneto/magneto-2.jpg",
+  "images/esmonster/x-men/magneto/magneto-3.jpg",
+  "images/esmonster/x-men/magneto/magneto-4.jpg",
+  "images/esmonster/x-men/magneto/magneto-5.jpg",
+  "images/esmonster/x-men/magneto/magneto-6.jpg",
+  "images/esmonster/x-men/magneto/magneto-7.jpg",
+  "images/esmonster/x-men/magneto/magneto-8.jpg",
+  "images/esmonster/x-men/magneto/magneto-9.jpg",
+  "images/esmonster/x-men/magneto/magneto-10.jpg",
+  "images/esmonster/x-men/magneto/magneto-11.jpg",
+  "images/esmonster/x-men/magneto/magneto-12.jpg",
+  "images/esmonster/x-men/magneto/magneto-13.jpg",
+  "images/esmonster/x-men/magneto/magneto-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Magneto from X-Men."
+},
+ {
+ "id": "esm-storm",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Storm",
+ "images": [
+  "images/esmonster/x-men/storm/storm-1.jpg",
+  "images/esmonster/x-men/storm/storm-2.jpg",
+  "images/esmonster/x-men/storm/storm-3.jpg",
+  "images/esmonster/x-men/storm/storm-4.jpg",
+  "images/esmonster/x-men/storm/storm-5.jpg",
+  "images/esmonster/x-men/storm/storm-6.jpg",
+  "images/esmonster/x-men/storm/storm-7.jpg",
+  "images/esmonster/x-men/storm/storm-8.jpg",
+  "images/esmonster/x-men/storm/storm-9.jpg",
+  "images/esmonster/x-men/storm/storm-10.jpg",
+  "images/esmonster/x-men/storm/storm-11.jpg",
+  "images/esmonster/x-men/storm/storm-12.jpg",
+  "images/esmonster/x-men/storm/storm-13.jpg",
+  "images/esmonster/x-men/storm/storm-14.jpg",
+  "images/esmonster/x-men/storm/storm-15.jpg",
+  "images/esmonster/x-men/storm/storm-16.jpg",
+  "images/esmonster/x-men/storm/storm-17.jpg",
+  "images/esmonster/x-men/storm/storm-18.jpg",
+  "images/esmonster/x-men/storm/storm-19.jpg",
+  "images/esmonster/x-men/storm/storm-20.jpg",
+  "images/esmonster/x-men/storm/storm-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Storm from X-Men."
+},
+ {
+ "id": "esm-riju-totk",
+ "artist": "ESMonster",
+ "series": "The Legend of Zelda",
+ "title": "Riju [TotK]",
+ "images": [
+  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-1.jpg",
+  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-2.jpg",
+  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-3.jpg",
+  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Riju [TotK] from The Legend of Zelda."
+},
+ {
+ "id": "esm-jessie",
+ "artist": "ESMonster",
+ "series": "Pokemon",
+ "title": "Jessie",
+ "images": [
+  "images/esmonster/pokemon/jessie/jessie-1.jpg",
+  "images/esmonster/pokemon/jessie/jessie-2.jpg",
+  "images/esmonster/pokemon/jessie/jessie-3.jpg",
+  "images/esmonster/pokemon/jessie/jessie-4.jpg",
+  "images/esmonster/pokemon/jessie/jessie-5.jpg",
+  "images/esmonster/pokemon/jessie/jessie-6.jpg",
+  "images/esmonster/pokemon/jessie/jessie-7.jpg",
+  "images/esmonster/pokemon/jessie/jessie-8.jpg",
+  "images/esmonster/pokemon/jessie/jessie-9.jpg",
+  "images/esmonster/pokemon/jessie/jessie-10.jpg",
+  "images/esmonster/pokemon/jessie/jessie-11.jpg",
+  "images/esmonster/pokemon/jessie/jessie-12.jpg",
+  "images/esmonster/pokemon/jessie/jessie-13.jpg",
+  "images/esmonster/pokemon/jessie/jessie-14.jpg",
+  "images/esmonster/pokemon/jessie/jessie-15.jpg",
+  "images/esmonster/pokemon/jessie/jessie-16.jpg",
+  "images/esmonster/pokemon/jessie/jessie-17.jpg",
+  "images/esmonster/pokemon/jessie/jessie-18.jpg",
+  "images/esmonster/pokemon/jessie/jessie-19.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jessie from Pokemon."
+},
+ {
+ "id": "esm-dagger-tandy-bowen",
+ "artist": "ESMonster",
+ "series": "Cloak & Dagger",
+ "title": "Dagger | Tandy Bowen",
+ "images": [
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-1.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-2.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-3.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-4.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-5.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-6.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-7.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-8.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-9.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-10.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-11.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-12.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-13.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-14.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-15.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-16.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-17.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-18.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-19.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-20.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-21.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-22.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-23.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-24.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-25.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-26.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-27.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-28.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-29.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-30.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-31.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-32.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-33.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-34.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-35.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-36.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-37.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-38.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-39.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-40.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-41.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Dagger | Tandy Bowen from Cloak & Dagger."
+},
+ {
+ "id": "esm-sorceress",
+ "artist": "ESMonster",
+ "series": "Dragon's Crown",
+ "title": "Sorceress",
+ "images": [
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-1.jpg",
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-2.jpg",
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-3.jpg",
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-4.jpg",
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-5.jpg",
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-6.jpg",
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-7.jpg",
+  "images/esmonster/dragon-s-crown/sorceress/sorceress-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sorceress from Dragon's Crown."
+},
+ {
+ "id": "esm-tinkerbell",
+ "artist": "ESMonster",
+ "series": "Disney's Peter Pan",
+ "title": "Tinkerbell",
+ "images": [
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-1.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-2.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-3.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-4.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-5.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-6.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-7.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-8.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-9.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-10.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-11.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-12.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-13.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-14.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-15.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-16.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-17.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-18.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-19.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-20.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-21.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-22.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-23.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-24.jpg",
+  "images/esmonster/disney-s-peter-pan/tinkerbell/tinkerbell-25.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Tinkerbell from Disney's Peter Pan."
+},
+ {
+ "id": "esm-akuma-master-of-the-ultimate-fist",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Akuma (Master of the Ultimate Fist)",
+ "images": [
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-1.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-2.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-3.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-4.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-5.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-6.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-7.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-8.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-9.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-10.jpg",
+  "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Akuma from Street Fighter."
+},
+ {
+ "id": "esm-akuma-red-ogre-fighter",
+ "artist": "ESMonster",
+ "series": "Street Fighter",
+ "title": "Akuma (Red Ogre Fighter)",
+ "images": [
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-1.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-2.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-3.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-4.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-5.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-6.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-7.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-8.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-9.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-10.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-11.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-12.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-13.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-14.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-15.jpg",
+  "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Akuma from Street Fighter."
+},
+ {
+ "id": "esm-meru",
+ "artist": "ESMonster",
+ "series": "Meru the Succubus",
+ "title": "Meru",
+ "images": [
+  "images/esmonster/meru-the-succubus/meru/meru-1.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-2.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-3.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-4.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-5.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-6.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-7.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-8.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-9.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-10.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-11.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-12.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-13.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-14.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-15.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-16.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-17.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-18.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-19.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-20.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-21.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-22.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-23.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-24.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-25.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-26.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-27.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-28.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-29.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-30.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-31.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-32.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-33.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-34.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-35.jpg",
+  "images/esmonster/meru-the-succubus/meru/meru-36.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Meru from Meru the Succubus."
+},
+ {
+ "id": "esm-colossus",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Colossus",
+ "images": [
+  "images/esmonster/x-men/colossus/colossus-1.jpg",
+  "images/esmonster/x-men/colossus/colossus-2.jpg",
+  "images/esmonster/x-men/colossus/colossus-3.jpg",
+  "images/esmonster/x-men/colossus/colossus-4.jpg",
+  "images/esmonster/x-men/colossus/colossus-5.jpg",
+  "images/esmonster/x-men/colossus/colossus-6.jpg",
+  "images/esmonster/x-men/colossus/colossus-7.jpg",
+  "images/esmonster/x-men/colossus/colossus-8.jpg",
+  "images/esmonster/x-men/colossus/colossus-9.jpg",
+  "images/esmonster/x-men/colossus/colossus-10.jpg",
+  "images/esmonster/x-men/colossus/colossus-11.jpg",
+  "images/esmonster/x-men/colossus/colossus-12.jpg",
+  "images/esmonster/x-men/colossus/colossus-13.jpg",
+  "images/esmonster/x-men/colossus/colossus-14.jpg",
+  "images/esmonster/x-men/colossus/colossus-15.jpg",
+  "images/esmonster/x-men/colossus/colossus-16.jpg",
+  "images/esmonster/x-men/colossus/colossus-17.jpg",
+  "images/esmonster/x-men/colossus/colossus-18.jpg",
+  "images/esmonster/x-men/colossus/colossus-19.jpg",
+  "images/esmonster/x-men/colossus/colossus-20.jpg",
+  "images/esmonster/x-men/colossus/colossus-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Colossus from X-Men."
+},
+ {
+ "id": "esm-miranda-lawson",
+ "artist": "ESMonster",
+ "series": "Mass Effect",
+ "title": "Miranda Lawson",
+ "images": [
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-1.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-2.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-3.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-4.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-5.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-6.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-7.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-8.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-9.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-10.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-11.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-12.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-13.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-14.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-15.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-16.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-17.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-18.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-19.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-20.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-21.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-22.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-23.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-24.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-25.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-26.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-27.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-28.jpg",
+  "images/esmonster/mass-effect/miranda-lawson/miranda-lawson-29.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Miranda Lawson from Mass Effect."
+},
+ {
+ "id": "esm-spider-man-2099-miguel-o-hara",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Spider-Man 2099 | Miguel O'Hara",
+ "images": [
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-1.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-2.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-3.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-4.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-5.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-6.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-7.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-8.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-9.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-10.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-11.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-12.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-13.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-14.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-15.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-16.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-17.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-18.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-19.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-20.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-21.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-22.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-23.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-24.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-25.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-26.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-27.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-28.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-29.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-30.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-31.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-32.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-33.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-34.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-35.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-36.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-37.jpg",
+  "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-38.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Spider-Man 2099 | Miguel O'Hara from Spider-Man."
+},
+ {
+ "id": "esm-x-23-laura-kinney-mutant-wolf-girl",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "X-23 | Laura Kinney (Mutant Wolf Girl)",
+ "images": [
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-1.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-2.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-3.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-4.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-5.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-6.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-7.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-8.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-9.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-10.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-11.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-12.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-13.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-14.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-15.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-16.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of X-23 | Laura Kinney from X-Men."
+},
+ {
+ "id": "esm-x-23-laura-kinney-twin-claw-assassin",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "X-23 | Laura Kinney (Twin Claw Assassin)",
+ "images": [
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-1.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-2.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-3.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-4.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-5.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-6.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-7.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-8.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-9.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-10.jpg",
+  "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of X-23 | Laura Kinney from X-Men."
+},
+ {
+ "id": "esm-raven",
+ "artist": "ESMonster",
+ "series": "Teen Titans",
+ "title": "Raven",
+ "images": [
+  "images/esmonster/teen-titans/raven/raven-1.jpg",
+  "images/esmonster/teen-titans/raven/raven-2.jpg",
+  "images/esmonster/teen-titans/raven/raven-3.jpg",
+  "images/esmonster/teen-titans/raven/raven-4.jpg",
+  "images/esmonster/teen-titans/raven/raven-5.jpg",
+  "images/esmonster/teen-titans/raven/raven-6.jpg",
+  "images/esmonster/teen-titans/raven/raven-7.jpg",
+  "images/esmonster/teen-titans/raven/raven-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Raven from Teen Titans."
+},
+ {
+ "id": "esm-zatanna",
+ "artist": "ESMonster",
+ "series": "Zatanna",
+ "title": "Zatanna",
+ "images": [
+  "images/esmonster/zatanna/zatanna/zatanna-1.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-2.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-3.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-4.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-5.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-6.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-7.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-8.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-9.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-10.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-11.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-12.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-13.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-14.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-15.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-16.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-17.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-18.jpg",
+  "images/esmonster/zatanna/zatanna/zatanna-19.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Zatanna from Zatanna."
+},
+ {
+ "id": "esm-cat-woman-night-prowling-cat-girl",
+ "artist": "ESMonster",
+ "series": "Batman",
+ "title": "Cat Woman (Night Prowling Cat Girl)",
+ "images": [
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-1.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-2.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-3.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-4.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-5.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-6.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-7.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-8.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cat Woman from Batman."
+},
+ {
+ "id": "esm-cat-woman-night-prowling-cat-girl-p2",
+ "artist": "ESMonster",
+ "series": "Batman",
+ "title": "Cat Woman (Night Prowling Cat Girl P2)",
+ "images": [
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-1.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-2.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-3.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-4.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-5.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-6.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-7.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-8.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-9.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-10.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-11.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-12.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-13.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-14.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-15.jpg",
+  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Cat Woman from Batman."
+},
+ {
+ "id": "esm-lady-sif",
+ "artist": "ESMonster",
+ "series": "Thor",
+ "title": "Lady Sif",
+ "images": [
+  "images/esmonster/thor/lady-sif/lady-sif-1.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-2.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-3.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-4.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-5.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-6.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-7.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-8.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-9.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-10.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-11.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-12.jpg",
+  "images/esmonster/thor/lady-sif/lady-sif-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Lady Sif from Thor."
+},
+ {
+ "id": "esm-valkyrie",
+ "artist": "ESMonster",
+ "series": "Thor",
+ "title": "Valkyrie",
+ "images": [
+  "images/esmonster/thor/valkyrie/valkyrie-1.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-2.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-3.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-4.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-5.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-6.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-7.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-8.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-9.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-10.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-11.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-12.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-13.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-14.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-15.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-16.jpg",
+  "images/esmonster/thor/valkyrie/valkyrie-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Valkyrie from Thor."
+},
+ {
+ "id": "esm-ellen-ripley",
+ "artist": "ESMonster",
+ "series": "Alien",
+ "title": "Ellen Ripley",
+ "images": [
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-1.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-2.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-3.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-4.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-5.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-6.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-7.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-8.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ellen Ripley from Alien."
+},
+ {
+ "id": "esm-spider-woman-jessica-drew",
+ "artist": "ESMonster",
+ "series": "Marvel Comics",
+ "title": "Spider-Woman | Jessica Drew",
+ "images": [
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-1.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-2.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-3.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-4.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-5.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-6.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-7.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-8.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-9.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-10.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-11.jpg",
+  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Spider-Woman | Jessica Drew from Marvel Comics."
+},
+ {
+ "id": "esm-baiken",
+ "artist": "ESMonster",
+ "series": "Guilty Gear",
+ "title": "Baiken",
+ "images": [
+  "images/esmonster/guilty-gear/baiken/baiken-1.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-2.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-3.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-4.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-5.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-6.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-7.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-8.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-9.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-10.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-11.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-12.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-13.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-14.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-15.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-16.jpg",
+  "images/esmonster/guilty-gear/baiken/baiken-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Baiken from Guilty Gear."
+},
+ {
+ "id": "esm-velma-dinkley-orange-sweater-girl-detective-swimsuit-ver",
+ "artist": "ESMonster",
+ "series": "Scooby-Doo",
+ "title": "Velma Dinkley (Orange Sweater Girl Detective Swimsuit Ver)",
+ "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-13.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-14.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-15.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-16.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-17.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-18.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-19.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-20.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-21.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-22.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-23.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-24.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-25.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-26.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-27.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-28.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-29.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-30.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-31.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-32.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-33.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-34.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-35.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-36.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-37.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-38.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-39.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-40.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-41.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-42.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-43.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-44.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-45.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-46.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-47.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver/velma-dinkley-orange-sweater-girl-detective-swimsuit-ver-48.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+},
+ {
+ "id": "esm-velma-dinkley-orange-sweater-girl-detective-suntanned-ver",
+ "artist": "ESMonster",
+ "series": "Scooby-Doo",
+ "title": "Velma Dinkley (Orange Sweater Girl Detective Suntanned Ver)",
+ "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-13.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-14.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-15.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-16.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-17.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-18.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-19.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-20.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-21.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-22.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-23.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-24.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-25.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-26.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-27.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-28.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-29.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-30.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-31.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-32.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-girl-detective-suntanned-ver/velma-dinkley-orange-sweater-girl-detective-suntanned-ver-33.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+},
+ {
+ "id": "esm-velma-dinkley-orange-sweater-nerd-halloween-ver",
+ "artist": "ESMonster",
+ "series": "Scooby-Doo",
+ "title": "Velma Dinkley (Orange Sweater Nerd Halloween Ver)",
+ "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-halloween-ver/velma-dinkley-orange-sweater-nerd-halloween-ver-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+},
+ {
+ "id": "esm-velma-dinkley-orange-sweater-nerd-tattoo-ver",
+ "artist": "ESMonster",
+ "series": "Scooby-Doo",
+ "title": "Velma Dinkley (Orange Sweater Nerd Tattoo Ver)",
+ "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-13.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-orange-sweater-nerd-tattoo-ver/velma-dinkley-orange-sweater-nerd-tattoo-ver-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+},
+ {
+ "id": "esm-red-hood",
+ "artist": "ESMonster",
+ "series": "Goddess of Victory: Nikke",
+ "title": "Red Hood",
+ "images": [
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-1.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-2.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-3.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-4.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-5.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-6.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-7.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-8.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-9.jpg",
+  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Red Hood from Goddess of Victory: Nikke."
+},
+ {
+ "id": "esm-gambit",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Gambit",
+ "images": [
+  "images/esmonster/x-men/gambit/gambit-1.jpg",
+  "images/esmonster/x-men/gambit/gambit-2.jpg",
+  "images/esmonster/x-men/gambit/gambit-3.jpg",
+  "images/esmonster/x-men/gambit/gambit-4.jpg",
+  "images/esmonster/x-men/gambit/gambit-5.jpg",
+  "images/esmonster/x-men/gambit/gambit-6.jpg",
+  "images/esmonster/x-men/gambit/gambit-7.jpg",
+  "images/esmonster/x-men/gambit/gambit-8.jpg",
+  "images/esmonster/x-men/gambit/gambit-9.jpg",
+  "images/esmonster/x-men/gambit/gambit-10.jpg",
+  "images/esmonster/x-men/gambit/gambit-11.jpg",
+  "images/esmonster/x-men/gambit/gambit-12.jpg",
+  "images/esmonster/x-men/gambit/gambit-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Gambit from X-Men."
+},
+ {
+ "id": "esm-zero-two",
+ "artist": "ESMonster",
+ "series": "Darling in the Franxx",
+ "title": "Zero Two",
+ "images": [
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-1.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-2.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-3.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-4.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-5.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-6.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-7.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-8.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-9.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-10.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-11.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-12.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-13.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-14.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-15.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-16.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-17.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-18.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-19.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-20.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-21.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-22.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-23.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-24.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-25.jpg",
+  "images/esmonster/darling-in-the-franxx/zero-two/zero-two-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Zero Two from Darling in the Franxx."
+},
+ {
+ "id": "esm-misty",
+ "artist": "ESMonster",
+ "series": "Pokemon",
+ "title": "Misty",
+ "images": [
+  "images/esmonster/pokemon/misty/misty-1.jpg",
+  "images/esmonster/pokemon/misty/misty-2.jpg",
+  "images/esmonster/pokemon/misty/misty-3.jpg",
+  "images/esmonster/pokemon/misty/misty-4.jpg",
+  "images/esmonster/pokemon/misty/misty-5.jpg",
+  "images/esmonster/pokemon/misty/misty-6.jpg",
+  "images/esmonster/pokemon/misty/misty-7.jpg",
+  "images/esmonster/pokemon/misty/misty-8.jpg",
+  "images/esmonster/pokemon/misty/misty-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Misty from Pokemon."
+},
+ {
+ "id": "esm-princess-peach",
+ "artist": "ESMonster",
+ "series": "Super Mario",
+ "title": "Princess Peach",
+ "images": [
+  "images/esmonster/super-mario/princess-peach/princess-peach-1.jpg",
+  "images/esmonster/super-mario/princess-peach/princess-peach-2.jpg",
+  "images/esmonster/super-mario/princess-peach/princess-peach-3.jpg",
+  "images/esmonster/super-mario/princess-peach/princess-peach-4.jpg",
+  "images/esmonster/super-mario/princess-peach/princess-peach-5.jpg",
+  "images/esmonster/super-mario/princess-peach/princess-peach-6.jpg",
+  "images/esmonster/super-mario/princess-peach/princess-peach-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Princess Peach from Super Mario."
+},
+ {
+ "id": "esm-princess-kida",
+ "artist": "ESMonster",
+ "series": "Atlantis: The Lost Empire",
+ "title": "Princess Kida",
+ "images": [
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-1.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-2.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-3.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-4.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-5.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-6.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-7.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-8.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-9.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-10.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-11.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Princess Kida from Atlantis: The Lost Empire."
+},
+ {
+ "id": "esm-battle-sister",
+ "artist": "ESMonster",
+ "series": "Warhammer 40K",
+ "title": "Battle Sister",
+ "images": [
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-1.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-2.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-3.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-4.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-5.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-6.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-7.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-8.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-9.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-10.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-11.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-12.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-13.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-14.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-15.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-16.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-17.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-18.jpg",
+  "images/esmonster/warhammer-40k/battle-sister/battle-sister-19.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Battle Sister from Warhammer 40K."
+},
+ {
+ "id": "esm-punisher-fem-ver",
+ "artist": "ESMonster",
+ "series": "Marvel Comics",
+ "title": "Punisher [Fem ver]",
+ "images": [
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-1.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-2.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-3.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-4.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-5.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-6.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-7.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-8.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-9.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-10.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-11.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-12.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-13.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-14.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-15.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-16.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-17.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-18.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-19.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-20.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-21.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-22.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-23.jpg",
+  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-24.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Punisher [Fem ver] from Marvel Comics."
+},
+ {
+ "id": "esm-daphne-blake-purple-mystery-witch",
+ "artist": "ESMonster",
+ "series": "Scooby-Doo",
+ "title": "Daphne Blake (Purple Mystery Witch)",
+ "images": [
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-1.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-2.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-3.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-4.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-5.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-6.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-7.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-8.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-9.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-10.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-11.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-12.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-13.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-14.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-15.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-16.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-mystery-witch/daphne-blake-purple-mystery-witch-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Daphne Blake from Scooby-Doo."
+},
+ {
+ "id": "esm-daphne-blake-purple-clad-detective-diving-suit",
+ "artist": "ESMonster",
+ "series": "Scooby-Doo",
+ "title": "Daphne Blake (Purple-Clad Detective Diving Suit)",
+ "images": [
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-1.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-2.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-3.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-4.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-5.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-6.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-7.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-8.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-9.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-10.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-11.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-12.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-13.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-14.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-15.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-16.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-17.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-18.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-19.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-20.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-21.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-22.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-23.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-24.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-25.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-26.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-27.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-28.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-29.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-30.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-purple-clad-detective-diving-suit/daphne-blake-purple-clad-detective-diving-suit-31.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Daphne Blake from Scooby-Doo."
+},
+ {
+ "id": "esm-psylocke-betsy-braddock-purple-clad-woman",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Psylocke | Betsy Braddock (Purple-Clad Woman)",
+ "images": [
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-1.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-2.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-3.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-4.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-5.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-6.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-7.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-8.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-9.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-10.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-11.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+},
+ {
+ "id": "esm-psylocke-betsy-braddock-purple-clad-woman-202507",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Psylocke | Betsy Braddock (Purple-Clad Woman 202507)",
+ "images": [
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-1.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-2.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-3.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-4.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-5.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-6.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-7.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-8.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-9.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-10.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-11.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-12.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-13.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-14.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-15.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-16.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-17.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-18.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-19.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+},
+ {
+ "id": "esm-psylocke-betsy-braddock-purple-clad-woman-jpskin",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Psylocke | Betsy Braddock (Purple-Clad Woman JPSKIN)",
+ "images": [
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-jpskin/psylocke-betsy-braddock-purple-clad-woman-jpskin-1.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-jpskin/psylocke-betsy-braddock-purple-clad-woman-jpskin-2.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-jpskin/psylocke-betsy-braddock-purple-clad-woman-jpskin-3.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-jpskin/psylocke-betsy-braddock-purple-clad-woman-jpskin-4.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-jpskin/psylocke-betsy-braddock-purple-clad-woman-jpskin-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+},
+ {
+ "id": "esm-psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Psylocke | Betsy Braddock (Purple-Clad Woman SKIN-includes 2 versions)",
+ "images": [
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-1.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-2.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-3.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-4.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-5.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-6.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-7.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-8.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-9.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-10.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-11.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-12.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-13.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-14.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-15.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-16.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-17.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-18.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-19.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-20.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-21.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-22.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-23.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-24.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-25.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-26.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-27.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-28.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-29.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-30.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-31.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-32.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-33.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-34.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-35.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-36.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-37.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-38.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-39.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-40.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-41.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-42.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-43.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-44.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-45.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+},
+ {
+ "id": "esm-psylocke-betsy-braddock-marvel-rivals-ver",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Psylocke | Betsy Braddock [Marvel Rivals ver]",
+ "images": [
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-1.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-2.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-3.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-4.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-5.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-6.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-7.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-8.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-9.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-10.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-11.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-12.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-13.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-14.jpg",
+  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-15.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke | Betsy Braddock [Marvel Rivals ver] from X-Men."
+},
+ {
+ "id": "esm-evelynn-coven",
+ "artist": "ESMonster",
+ "series": "League of Legends",
+ "title": "Evelynn [Coven]",
+ "images": [
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-1.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-2.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-3.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-4.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-5.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-6.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-7.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-8.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-9.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-10.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-11.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-12.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-13.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-14.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-15.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-16.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-17.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-18.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-19.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-20.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-21.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-22.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-23.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-24.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-25.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-26.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-27.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-28.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-29.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-30.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-31.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-32.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-33.jpg",
+  "images/esmonster/league-of-legends/evelynn-coven/evelynn-coven-34.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Evelynn [Coven] from League of Legends."
+},
+ {
+ "id": "esm-hela-marvel-rivals-ver",
+ "artist": "ESMonster",
+ "series": "Thor",
+ "title": "Hela [Marvel Rivals ver]",
+ "images": [
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-1.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-2.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-3.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-4.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-5.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-6.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-7.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-8.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-9.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-10.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-11.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-12.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-13.jpg",
+  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Hela [Marvel Rivals ver] from Thor."
+},
+ {
+ "id": "esm-enya",
+ "artist": "ESMonster",
+ "series": "Stellar Blade",
+ "title": "Enya",
+ "images": [
+  "images/esmonster/stellar-blade/enya/enya-1.jpg",
+  "images/esmonster/stellar-blade/enya/enya-2.jpg",
+  "images/esmonster/stellar-blade/enya/enya-3.jpg",
+  "images/esmonster/stellar-blade/enya/enya-4.jpg",
+  "images/esmonster/stellar-blade/enya/enya-5.jpg",
+  "images/esmonster/stellar-blade/enya/enya-6.jpg",
+  "images/esmonster/stellar-blade/enya/enya-7.jpg",
+  "images/esmonster/stellar-blade/enya/enya-8.jpg",
+  "images/esmonster/stellar-blade/enya/enya-9.jpg",
+  "images/esmonster/stellar-blade/enya/enya-10.jpg",
+  "images/esmonster/stellar-blade/enya/enya-11.jpg",
+  "images/esmonster/stellar-blade/enya/enya-12.jpg",
+  "images/esmonster/stellar-blade/enya/enya-13.jpg",
+  "images/esmonster/stellar-blade/enya/enya-14.jpg",
+  "images/esmonster/stellar-blade/enya/enya-15.jpg",
+  "images/esmonster/stellar-blade/enya/enya-16.jpg",
+  "images/esmonster/stellar-blade/enya/enya-17.jpg",
+  "images/esmonster/stellar-blade/enya/enya-18.jpg",
+  "images/esmonster/stellar-blade/enya/enya-19.jpg",
+  "images/esmonster/stellar-blade/enya/enya-20.jpg",
+  "images/esmonster/stellar-blade/enya/enya-21.jpg",
+  "images/esmonster/stellar-blade/enya/enya-22.jpg",
+  "images/esmonster/stellar-blade/enya/enya-23.jpg",
+  "images/esmonster/stellar-blade/enya/enya-24.jpg",
+  "images/esmonster/stellar-blade/enya/enya-25.jpg",
+  "images/esmonster/stellar-blade/enya/enya-26.jpg",
+  "images/esmonster/stellar-blade/enya/enya-27.jpg",
+  "images/esmonster/stellar-blade/enya/enya-28.jpg",
+  "images/esmonster/stellar-blade/enya/enya-29.jpg",
+  "images/esmonster/stellar-blade/enya/enya-30.jpg",
+  "images/esmonster/stellar-blade/enya/enya-31.jpg",
+  "images/esmonster/stellar-blade/enya/enya-32.jpg",
+  "images/esmonster/stellar-blade/enya/enya-33.jpg",
+  "images/esmonster/stellar-blade/enya/enya-34.jpg",
+  "images/esmonster/stellar-blade/enya/enya-35.jpg",
+  "images/esmonster/stellar-blade/enya/enya-36.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Enya from Stellar Blade."
+},
+ {
+ "id": "esm-daredevil",
+ "artist": "ESMonster",
+ "series": "Daredevil",
+ "title": "Daredevil",
+ "images": [
+  "images/esmonster/daredevil/daredevil/daredevil-1.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-2.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-3.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-4.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-5.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-6.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-7.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-8.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-9.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-10.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-11.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-12.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-13.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-14.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-15.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-16.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-17.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-18.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-19.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-20.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-21.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-22.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-23.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-24.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-25.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-26.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-27.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-28.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-29.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-30.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-31.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-32.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-33.jpg",
+  "images/esmonster/daredevil/daredevil/daredevil-34.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Daredevil from Daredevil."
+},
+ {
+ "id": "esm-supergirl-red-cape-cosmic-girl",
+ "artist": "ESMonster",
+ "series": "Supergirl",
+ "title": "Supergirl (Red Cape Cosmic Girl)",
+ "images": [
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-1.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-2.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-3.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-4.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-5.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-6.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-7.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-8.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-9.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-10.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-11.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-12.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl/supergirl-red-cape-cosmic-girl-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Supergirl from Supergirl."
+},
+ {
+ "id": "esm-supergirl-red-cape-cosmic-girl-p2",
+ "artist": "ESMonster",
+ "series": "Supergirl",
+ "title": "Supergirl (Red Cape Cosmic Girl P2)",
+ "images": [
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl-p2/supergirl-red-cape-cosmic-girl-p2-1.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl-p2/supergirl-red-cape-cosmic-girl-p2-2.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl-p2/supergirl-red-cape-cosmic-girl-p2-3.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl-p2/supergirl-red-cape-cosmic-girl-p2-4.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl-p2/supergirl-red-cape-cosmic-girl-p2-5.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl-p2/supergirl-red-cape-cosmic-girl-p2-6.jpg",
+  "images/esmonster/supergirl/supergirl-red-cape-cosmic-girl-p2/supergirl-red-cape-cosmic-girl-p2-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Supergirl from Supergirl."
+},
+ {
+ "id": "esm-mary-jane-watson",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Mary Jane Watson",
+ "images": [
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-1.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-2.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-3.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-4.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-5.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-6.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-7.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-8.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-9.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-10.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-11.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-12.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-13.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-14.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-15.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-16.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-17.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-18.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-19.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-20.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-21.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-22.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-23.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-24.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-25.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-26.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-27.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-28.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-29.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-30.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-31.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-32.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-33.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-34.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-35.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-36.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-37.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-38.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-39.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-40.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-41.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-42.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-43.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-44.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-45.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-46.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-47.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-48.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-49.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-50.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-51.jpg",
+  "images/esmonster/spider-man/mary-jane-watson/mary-jane-watson-52.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mary Jane Watson from Spider-Man."
+},
+ {
+ "id": "esm-mai-shiranui-red-kunoichi-fighter",
+ "artist": "ESMonster",
+ "series": "King of Fighters",
+ "title": "Mai Shiranui (Red Kunoichi Fighter)",
+ "images": [
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-1.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-2.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-3.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-4.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-5.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-6.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-7.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-8.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-9.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-10.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-11.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-12.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-13.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-14.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-15.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-16.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter/mai-shiranui-red-kunoichi-fighter-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mai Shiranui from King of Fighters."
+},
+ {
+ "id": "esm-mai-shiranui-red-kunoichi-fighter-includes-3-versions",
+ "artist": "ESMonster",
+ "series": "King of Fighters",
+ "title": "Mai Shiranui (Red Kunoichi Fighter includes 3 versions)",
+ "images": [
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-1.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-2.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-3.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-4.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-5.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-6.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-7.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-8.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-9.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-10.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-11.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-12.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-13.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-14.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-15.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-16.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-17.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-18.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-19.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-20.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-21.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-22.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-23.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-24.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-25.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-26.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-27.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-28.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-29.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-30.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-31.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-32.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-33.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-34.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-35.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-36.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-37.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-38.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-39.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-40.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-41.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-42.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-43.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-44.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-45.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-46.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-47.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-48.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-49.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-50.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-51.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-52.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-53.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-54.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-55.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-56.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-57.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-58.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-59.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-60.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-61.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-62.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-63.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-64.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-65.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-66.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-red-kunoichi-fighter-includes-3-versions/mai-shiranui-red-kunoichi-fighter-includes-3-versions-67.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mai Shiranui from King of Fighters."
+},
+ {
+ "id": "esm-omni-man",
+ "artist": "ESMonster",
+ "series": "Invincible",
+ "title": "Omni-Man",
+ "images": [
+  "images/esmonster/invincible/omni-man/omni-man-1.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-2.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-3.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-4.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-5.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-6.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-7.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-8.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-9.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-10.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-11.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-12.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-13.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-14.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-15.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-16.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-17.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-18.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-19.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-20.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-21.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-22.jpg",
+  "images/esmonster/invincible/omni-man/omni-man-23.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Omni-Man from Invincible."
+},
+ {
+ "id": "esm-asuka-langley-soryu-red-haired-bodysuit-girl",
+ "artist": "ESMonster",
+ "series": "Neon Genesis Evangelion",
+ "title": "Asuka Langley Soryu (Red-Haired Bodysuit Girl)",
+ "images": [
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-1.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-2.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-3.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-4.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-5.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-6.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-7.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-8.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-9.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-10.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-11.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Asuka Langley Soryu from Neon Genesis Evangelion."
+},
+ {
+ "id": "esm-asuka-langley-soryu-second-girl-pilot",
+ "artist": "ESMonster",
+ "series": "Neon Genesis Evangelion",
+ "title": "Asuka Langley Soryu (Second Girl Pilot)",
+ "images": [
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-1.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-2.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-3.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-4.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-5.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-6.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-7.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-8.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-9.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-10.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-11.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-12.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-13.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-14.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-15.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Asuka Langley Soryu from Neon Genesis Evangelion."
+},
+ {
+ "id": "esm-jessica-rabbit",
+ "artist": "ESMonster",
+ "series": "Who Framed Roger Rabbit",
+ "title": "Jessica Rabbit",
+ "images": [
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-1.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-2.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-3.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-4.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-5.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-6.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-7.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-8.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-9.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-10.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-11.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-12.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-13.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-14.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-15.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-16.jpg",
+  "images/esmonster/who-framed-roger-rabbit/jessica-rabbit/jessica-rabbit-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jessica Rabbit from Who Framed Roger Rabbit."
+},
+ {
+ "id": "esm-red-lipped-lady-p2",
+ "artist": "ESMonster",
+ "series": "Who Framed Roger Rabbit",
+ "title": "Red-Lipped Lady P2",
+ "images": [
+  "images/esmonster/who-framed-roger-rabbit/red-lipped-lady-p2/red-lipped-lady-p2-1.jpg",
+  "images/esmonster/who-framed-roger-rabbit/red-lipped-lady-p2/red-lipped-lady-p2-2.jpg",
+  "images/esmonster/who-framed-roger-rabbit/red-lipped-lady-p2/red-lipped-lady-p2-3.jpg",
+  "images/esmonster/who-framed-roger-rabbit/red-lipped-lady-p2/red-lipped-lady-p2-4.jpg",
+  "images/esmonster/who-framed-roger-rabbit/red-lipped-lady-p2/red-lipped-lady-p2-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Red-Lipped Lady P2 from Who Framed Roger Rabbit."
+},
+ {
+ "id": "esm-rayne",
+ "artist": "ESMonster",
+ "series": "BloodRayne",
+ "title": "Rayne",
+ "images": [
+  "images/esmonster/bloodrayne/rayne/rayne-1.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-2.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-3.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-4.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-5.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-6.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-7.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-8.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-9.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-10.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-11.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-12.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-13.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-14.jpg",
+  "images/esmonster/bloodrayne/rayne/rayne-15.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Rayne from BloodRayne."
+},
+ {
+ "id": "esm-poison-ivy",
+ "artist": "ESMonster",
+ "series": "Batman",
+ "title": "Poison Ivy",
+ "images": [
+  "images/esmonster/batman/poison-ivy/poison-ivy-1.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-2.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-3.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-4.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-5.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-6.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-7.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-8.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-9.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-10.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-11.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-12.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-13.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-14.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-15.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-16.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-17.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Poison Ivy from Batman."
+},
+ {
+ "id": "esm-android-18",
+ "artist": "ESMonster",
+ "series": "Dragon Ball Z",
+ "title": "Android 18",
+ "images": [
+  "images/esmonster/dragon-ball-z/android-18/android-18-1.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-2.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-3.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-4.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-5.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-6.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-7.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-8.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-9.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-10.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-11.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-12.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-13.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-14.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-15.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-16.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-17.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-18.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-19.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-20.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-21.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-22.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-23.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-24.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-25.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-26.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-27.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-28.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-29.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-30.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-31.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-32.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-33.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-34.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-35.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-36.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-37.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-38.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-39.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-40.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-41.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-42.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-43.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-44.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-45.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-46.jpg",
+  "images/esmonster/dragon-ball-z/android-18/android-18-47.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Android 18 from Dragon Ball Z."
+},
+ {
+ "id": "esm-the-rocketeer-fem-ver",
+ "artist": "ESMonster",
+ "series": "The Rocketeer",
+ "title": "The Rocketeer [Fem ver]",
+ "images": [
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-1.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-2.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-3.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-4.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-5.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-6.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-7.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of The Rocketeer [Fem ver] from The Rocketeer."
+},
+ {
+ "id": "esm-betty-boop-retro-playful-woman",
+ "artist": "ESMonster",
+ "series": "Betty Boop",
+ "title": "Betty Boop (Retro Playful Woman)",
+ "images": [
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-1.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-2.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-3.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-4.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-5.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-6.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-7.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-8.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-9.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Betty Boop from Betty Boop."
+},
+ {
+ "id": "esm-betty-boop-retro-playful-woman-suntanned-ver",
+ "artist": "ESMonster",
+ "series": "Betty Boop",
+ "title": "Betty Boop (Retro Playful Woman Suntanned Ver)",
+ "images": [
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-1.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-2.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-3.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-4.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-5.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-6.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-7.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-8.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-9.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-10.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-11.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-12.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-13.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-14.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-15.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-16.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-17.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-18.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-19.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-20.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-21.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-22.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-23.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-24.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-25.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-26.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-27.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-28.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-29.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-30.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-31.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-32.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-33.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-34.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-35.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-36.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-37.jpg",
+  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-38.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Betty Boop from Betty Boop."
+},
+ {
+ "id": "esm-sword-maiden",
+ "artist": "ESMonster",
+ "series": "Goblin Slayer",
+ "title": "Sword Maiden",
+ "images": [
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-1.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-2.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-3.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-4.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-5.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-6.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-7.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-8.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-9.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-10.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-11.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-12.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-13.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-14.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-15.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-16.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-17.jpg",
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sword Maiden from Goblin Slayer."
+},
+ {
+ "id": "esm-the-hulk",
+ "artist": "ESMonster",
+ "series": "Hulk",
+ "title": "The Hulk",
+ "images": [
+  "images/esmonster/hulk/the-hulk/the-hulk-1.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-2.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-3.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-4.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-5.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-6.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-7.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-8.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-9.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-10.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-11.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-12.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-13.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-14.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-15.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-16.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-17.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-18.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-19.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-20.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-21.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-22.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-23.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-24.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-25.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-26.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-27.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-28.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-29.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-30.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-31.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-32.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-33.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-34.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-35.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-36.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-37.jpg",
+  "images/esmonster/hulk/the-hulk/the-hulk-38.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of The Hulk from Hulk."
+},
+ {
+ "id": "esm-wolverine-savage-metal-claw",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Wolverine (Savage Metal Claw)",
+ "images": [
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-1.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-2.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-3.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-4.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-5.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-6.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-7.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-8.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-9.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-10.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-11.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-12.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-13.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-14.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-15.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-16.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-17.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-18.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-19.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-20.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-21.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-22.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-23.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw/wolverine-savage-metal-claw-24.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wolverine from X-Men."
+},
+ {
+ "id": "esm-wolverine-savage-metal-claw-id-774779",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Wolverine (Savage Metal Claw (id-774779))",
+ "images": [
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-1.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-2.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-3.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-4.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-5.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-6.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-7.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-8.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-9.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-10.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-11.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-12.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-13.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-14.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-15.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-16.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-17.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-18.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-19.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-20.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-21.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-22.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-23.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-24.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-25.jpg",
+  "images/esmonster/x-men/wolverine-savage-metal-claw-id-774779/wolverine-savage-metal-claw-id-774779-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wolverine from X-Men."
+},
+ {
+ "id": "esm-maki-zenin",
+ "artist": "ESMonster",
+ "series": "Jujutsu Kaisen",
+ "title": "Maki Zenin",
+ "images": [
+  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-1.jpg",
+  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-2.jpg",
+  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-3.jpg",
+  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-4.jpg",
+  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-5.jpg",
+  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Maki Zenin from Jujutsu Kaisen."
+},
+ {
+ "id": "esm-ryuko-matoi",
+ "artist": "ESMonster",
+ "series": "Kill la Kill",
+ "title": "Ryuko Matoi",
+ "images": [
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-1.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-2.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-3.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-4.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-5.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-6.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-7.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-8.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-9.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-10.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-11.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-12.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-13.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-14.jpg",
+  "images/esmonster/kill-la-kill/ryuko-matoi/ryuko-matoi-15.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ryuko Matoi from Kill la Kill."
+},
+ {
+ "id": "esm-bayonetta",
+ "artist": "ESMonster",
+ "series": "Bayonetta",
+ "title": "Bayonetta",
+ "images": [
+  "images/esmonster/bayonetta/bayonetta/bayonetta-1.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-2.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-3.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-4.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-5.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-6.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-7.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-8.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-9.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-10.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-11.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-12.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-13.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-14.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-15.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-16.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-17.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-18.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-19.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-20.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-21.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-22.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-23.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-24.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-25.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Bayonetta from Bayonetta."
+},
+ {
+ "id": "esm-ivy-valentine",
+ "artist": "ESMonster",
+ "series": "Soulcalibur",
+ "title": "Ivy Valentine",
+ "images": [
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-1.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-2.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-3.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-4.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-5.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-6.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-7.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-8.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-9.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-10.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-11.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-12.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-13.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-14.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-15.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-16.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-17.jpg",
+  "images/esmonster/soulcalibur/ivy-valentine/ivy-valentine-18.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Ivy Valentine from Soulcalibur."
+},
+ {
+ "id": "esm-eve",
+ "artist": "ESMonster",
+ "series": "Stellar Blade",
+ "title": "Eve",
+ "images": [
+  "images/esmonster/stellar-blade/eve/eve-1.jpg",
+  "images/esmonster/stellar-blade/eve/eve-2.jpg",
+  "images/esmonster/stellar-blade/eve/eve-3.jpg",
+  "images/esmonster/stellar-blade/eve/eve-4.jpg",
+  "images/esmonster/stellar-blade/eve/eve-5.jpg",
+  "images/esmonster/stellar-blade/eve/eve-6.jpg",
+  "images/esmonster/stellar-blade/eve/eve-7.jpg",
+  "images/esmonster/stellar-blade/eve/eve-8.jpg",
+  "images/esmonster/stellar-blade/eve/eve-9.jpg",
+  "images/esmonster/stellar-blade/eve/eve-10.jpg",
+  "images/esmonster/stellar-blade/eve/eve-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Eve from Stellar Blade."
+},
+ {
+ "id": "esm-mystique",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Mystique",
+ "images": [
+  "images/esmonster/x-men/mystique/mystique-1.jpg",
+  "images/esmonster/x-men/mystique/mystique-2.jpg",
+  "images/esmonster/x-men/mystique/mystique-3.jpg",
+  "images/esmonster/x-men/mystique/mystique-4.jpg",
+  "images/esmonster/x-men/mystique/mystique-5.jpg",
+  "images/esmonster/x-men/mystique/mystique-6.jpg",
+  "images/esmonster/x-men/mystique/mystique-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mystique from X-Men."
+},
+ {
+ "id": "esm-jill-valentine-special-forces-girl",
+ "artist": "ESMonster",
+ "series": "Resident Evil",
+ "title": "Jill Valentine (Special Forces Girl)",
+ "images": [
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-1.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-2.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-3.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-4.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-5.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-6.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-7.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-8.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-9.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-10.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-11.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-12.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl/jill-valentine-special-forces-girl-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jill Valentine from Resident Evil."
+},
+ {
+ "id": "esm-jill-valentine-special-forces-girl-suntanned-ver",
+ "artist": "ESMonster",
+ "series": "Resident Evil",
+ "title": "Jill Valentine (Special Forces Girl Suntanned Ver)",
+ "images": [
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-1.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-2.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-3.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-4.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-5.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-6.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-7.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-8.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-9.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-10.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-11.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-12.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-13.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-14.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-15.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-16.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-17.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-18.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-19.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-20.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-21.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-22.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-23.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-24.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-25.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-26.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-27.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-28.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-29.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-30.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-31.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-32.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-33.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-34.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-35.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-36.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-37.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-38.jpg",
+  "images/esmonster/resident-evil/jill-valentine-special-forces-girl-suntanned-ver/jill-valentine-special-forces-girl-suntanned-ver-39.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jill Valentine from Resident Evil."
+},
+ {
+ "id": "esm-betty-rubble",
+ "artist": "ESMonster",
+ "series": "The Flintstones",
+ "title": "Betty Rubble",
+ "images": [
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-1.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-2.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-3.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-4.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-5.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-6.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-7.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-8.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-9.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-10.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-11.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-12.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-13.jpg",
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Betty Rubble from The Flintstones."
+},
+ {
+ "id": "esm-wilma-stone-age-housewife-p1-includes-nsfw",
+ "artist": "ESMonster",
+ "series": "The Flintstones",
+ "title": "Wilma (Stone Age Housewife P1 Includes NSFW)",
+ "images": [
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-1.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-2.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-3.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-4.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-5.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-6.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-7.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-8.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-9.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-10.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-11.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-12.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-13.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-14.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-15.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-16.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-17.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-18.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-19.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-20.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-21.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wilma from The Flintstones."
+},
+ {
+ "id": "esm-wilma-stone-age-housewife-p2",
+ "artist": "ESMonster",
+ "series": "The Flintstones",
+ "title": "Wilma (Stone Age Housewife P2)",
+ "images": [
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-1.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-2.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-3.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-4.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-5.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-6.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-7.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-8.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-9.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-10.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-11.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-12.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-13.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-14.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-15.jpg",
+  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Wilma from The Flintstones."
+},
+ {
+ "id": "esm-spider-gwen-gwen-stacy-street-girl",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Spider-Gwen | Gwen Stacy (Street Girl)",
+ "images": [
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-1.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-2.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-3.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-4.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-5.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-6.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Spider-Gwen | Gwen Stacy from Spider-Man."
+},
+ {
+ "id": "esm-spider-gwen-gwen-stacy-street-girl-p2",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Spider-Gwen | Gwen Stacy (Street Girl P2)",
+ "images": [
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl-p2/spider-gwen-gwen-stacy-street-girl-p2-1.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl-p2/spider-gwen-gwen-stacy-street-girl-p2-2.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl-p2/spider-gwen-gwen-stacy-street-girl-p2-3.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl-p2/spider-gwen-gwen-stacy-street-girl-p2-4.jpg",
+  "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl-p2/spider-gwen-gwen-stacy-street-girl-p2-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Spider-Gwen | Gwen Stacy from Spider-Man."
+},
+ {
+ "id": "esm-spider-man-miles-morales",
+ "artist": "ESMonster",
+ "series": "Spider-Man",
+ "title": "Spider-Man | Miles Morales",
+ "images": [
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-1.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-2.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-3.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-4.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-5.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-6.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-7.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-8.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-9.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-10.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-11.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-12.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-13.jpg",
+  "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-14.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Spider-Man | Miles Morales from Spider-Man."
+},
+ {
+ "id": "esm-forge",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Forge",
+ "images": [
+  "images/esmonster/x-men/forge/forge-1.jpg",
+  "images/esmonster/x-men/forge/forge-2.jpg",
+  "images/esmonster/x-men/forge/forge-3.jpg",
+  "images/esmonster/x-men/forge/forge-4.jpg",
+  "images/esmonster/x-men/forge/forge-5.jpg",
+  "images/esmonster/x-men/forge/forge-6.jpg",
+  "images/esmonster/x-men/forge/forge-7.jpg",
+  "images/esmonster/x-men/forge/forge-8.jpg",
+  "images/esmonster/x-men/forge/forge-9.jpg",
+  "images/esmonster/x-men/forge/forge-10.jpg",
+  "images/esmonster/x-men/forge/forge-11.jpg",
+  "images/esmonster/x-men/forge/forge-12.jpg",
+  "images/esmonster/x-men/forge/forge-13.jpg",
+  "images/esmonster/x-men/forge/forge-14.jpg",
+  "images/esmonster/x-men/forge/forge-15.jpg",
+  "images/esmonster/x-men/forge/forge-16.jpg",
+  "images/esmonster/x-men/forge/forge-17.jpg",
+  "images/esmonster/x-men/forge/forge-18.jpg",
+  "images/esmonster/x-men/forge/forge-19.jpg",
+  "images/esmonster/x-men/forge/forge-20.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Forge from X-Men."
+},
+ {
+ "id": "esm-caitlin-fairchild",
+ "artist": "ESMonster",
+ "series": "Gen13",
+ "title": "Caitlin Fairchild",
+ "images": [
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-1.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-2.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-3.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-4.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-5.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-6.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-7.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-8.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-9.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-10.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-11.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-12.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-13.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-14.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-15.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-16.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-17.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-18.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-19.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-20.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-21.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-22.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-23.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-24.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-25.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-26.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-27.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-28.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-29.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-30.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-31.jpg",
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-32.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Caitlin Fairchild from Gen13."
+},
+ {
+ "id": "esm-fiolina-germi",
+ "artist": "ESMonster",
+ "series": "Metal Slug",
+ "title": "Fiolina Germi",
+ "images": [
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-1.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-2.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-3.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-4.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-5.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-6.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-7.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-8.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-9.jpg",
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Fiolina Germi from Metal Slug."
+},
+ {
+ "id": "esm-jett",
+ "artist": "ESMonster",
+ "series": "Valorant",
+ "title": "Jett",
+ "images": [
+  "images/esmonster/valorant/jett/jett-1.jpg",
+  "images/esmonster/valorant/jett/jett-2.jpg",
+  "images/esmonster/valorant/jett/jett-3.jpg",
+  "images/esmonster/valorant/jett/jett-4.jpg",
+  "images/esmonster/valorant/jett/jett-5.jpg",
+  "images/esmonster/valorant/jett/jett-6.jpg",
+  "images/esmonster/valorant/jett/jett-7.jpg",
+  "images/esmonster/valorant/jett/jett-8.jpg",
+  "images/esmonster/valorant/jett/jett-9.jpg",
+  "images/esmonster/valorant/jett/jett-10.jpg",
+  "images/esmonster/valorant/jett/jett-11.jpg",
+  "images/esmonster/valorant/jett/jett-12.jpg",
+  "images/esmonster/valorant/jett/jett-13.jpg",
+  "images/esmonster/valorant/jett/jett-14.jpg",
+  "images/esmonster/valorant/jett/jett-15.jpg",
+  "images/esmonster/valorant/jett/jett-16.jpg",
+  "images/esmonster/valorant/jett/jett-17.jpg",
+  "images/esmonster/valorant/jett/jett-18.jpg",
+  "images/esmonster/valorant/jett/jett-19.jpg",
+  "images/esmonster/valorant/jett/jett-20.jpg",
+  "images/esmonster/valorant/jett/jett-21.jpg",
+  "images/esmonster/valorant/jett/jett-22.jpg",
+  "images/esmonster/valorant/jett/jett-23.jpg",
+  "images/esmonster/valorant/jett/jett-24.jpg",
+  "images/esmonster/valorant/jett/jett-25.jpg",
+  "images/esmonster/valorant/jett/jett-26.jpg",
+  "images/esmonster/valorant/jett/jett-27.jpg",
+  "images/esmonster/valorant/jett/jett-28.jpg",
+  "images/esmonster/valorant/jett/jett-29.jpg",
+  "images/esmonster/valorant/jett/jett-30.jpg",
+  "images/esmonster/valorant/jett/jett-31.jpg",
+  "images/esmonster/valorant/jett/jett-32.jpg",
+  "images/esmonster/valorant/jett/jett-33.jpg",
+  "images/esmonster/valorant/jett/jett-34.jpg",
+  "images/esmonster/valorant/jett/jett-35.jpg",
+  "images/esmonster/valorant/jett/jett-36.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jett from Valorant."
+},
+ {
+ "id": "esm-nami",
+ "artist": "ESMonster",
+ "series": "One Piece",
+ "title": "Nami",
+ "images": [
+  "images/esmonster/one-piece/nami/nami-1.jpg",
+  "images/esmonster/one-piece/nami/nami-2.jpg",
+  "images/esmonster/one-piece/nami/nami-3.jpg",
+  "images/esmonster/one-piece/nami/nami-4.jpg",
+  "images/esmonster/one-piece/nami/nami-5.jpg",
+  "images/esmonster/one-piece/nami/nami-6.jpg",
+  "images/esmonster/one-piece/nami/nami-7.jpg",
+  "images/esmonster/one-piece/nami/nami-8.jpg",
+  "images/esmonster/one-piece/nami/nami-9.jpg",
+  "images/esmonster/one-piece/nami/nami-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Nami from One Piece."
+},
+ {
+ "id": "esm-blaze-fielding",
+ "artist": "ESMonster",
+ "series": "Streets of Rage",
+ "title": "Blaze Fielding",
+ "images": [
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-1.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-2.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-3.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-4.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-5.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-6.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-7.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-8.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-9.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-10.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-11.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-12.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-13.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-14.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-15.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-16.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-17.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-18.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-19.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-20.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-21.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-22.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-23.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-24.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-25.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-26.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-27.jpg",
+  "images/esmonster/streets-of-rage/blaze-fielding/blaze-fielding-28.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Blaze Fielding from Streets of Rage."
+},
+ {
+ "id": "esm-jean-grey",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Jean Grey",
+ "images": [
+  "images/esmonster/x-men/jean-grey/jean-grey-1.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-2.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-3.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-4.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-5.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-6.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-7.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-8.jpg",
+  "images/esmonster/x-men/jean-grey/jean-grey-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jean Grey from X-Men."
+},
+ {
+ "id": "esm-queen-marika",
+ "artist": "ESMonster",
+ "series": "Elden Ring",
+ "title": "Queen Marika",
+ "images": [
+  "images/esmonster/elden-ring/queen-marika/queen-marika-1.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-2.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-3.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-4.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-5.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-6.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-7.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-8.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-9.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-10.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-11.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-12.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-13.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-14.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-15.jpg",
+  "images/esmonster/elden-ring/queen-marika/queen-marika-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Queen Marika from Elden Ring."
+},
+ {
+ "id": "esm-lust",
+ "artist": "ESMonster",
+ "series": "Fullmetal Alchemist",
+ "title": "Lust",
+ "images": [
+  "images/esmonster/fullmetal-alchemist/lust/lust-1.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-2.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-3.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-4.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-5.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-6.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-7.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-8.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-9.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-10.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-11.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-12.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-13.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-14.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-15.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-16.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-17.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-18.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-19.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-20.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-21.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-22.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-23.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-24.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-25.jpg",
+  "images/esmonster/fullmetal-alchemist/lust/lust-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Lust from Fullmetal Alchemist."
+},
+ {
+ "id": "esm-yor-forger",
+ "artist": "ESMonster",
+ "series": "Spy x Family",
+ "title": "Yor Forger",
+ "images": [
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-1.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-2.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-3.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-4.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-5.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-6.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-7.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-8.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-9.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-10.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-11.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-12.jpg",
+  "images/esmonster/spy-x-family/yor-forger/yor-forger-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Yor Forger from Spy x Family."
+},
+ {
+ "id": "esm-dante",
+ "artist": "ESMonster",
+ "series": "Devil May Cry 3",
+ "title": "Dante",
+ "images": [
+  "images/esmonster/devil-may-cry-3/dante/dante-1.jpg",
+  "images/esmonster/devil-may-cry-3/dante/dante-2.jpg",
+  "images/esmonster/devil-may-cry-3/dante/dante-3.jpg",
+  "images/esmonster/devil-may-cry-3/dante/dante-4.jpg",
+  "images/esmonster/devil-may-cry-3/dante/dante-5.jpg",
+  "images/esmonster/devil-may-cry-3/dante/dante-6.jpg",
+  "images/esmonster/devil-may-cry-3/dante/dante-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Dante from Devil May Cry 3."
+},
+ {
+ "id": "esm-hawkgirl",
+ "artist": "ESMonster",
+ "series": "DC Comics",
+ "title": "Hawkgirl",
+ "images": [
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-1.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-2.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-3.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-4.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-5.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-6.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-7.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-8.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-9.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-10.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-11.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-12.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-13.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-14.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-15.jpg",
+  "images/esmonster/dc-comics/hawkgirl/hawkgirl-16.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Hawkgirl from DC Comics."
+},
+ {
+ "id": "esm-hellboy",
+ "artist": "ESMonster",
+ "series": "Hellboy",
+ "title": "Hellboy",
+ "images": [
+  "images/esmonster/hellboy/hellboy/hellboy-1.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-2.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-3.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-4.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-5.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-6.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-7.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-8.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-9.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-10.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-11.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-12.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-13.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-14.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-15.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-16.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-17.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-18.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-19.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-20.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-21.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-22.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-23.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-24.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-25.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Hellboy from Hellboy."
+},
+ {
+ "id": "esm-sue-storm-invisible-woman-marvel-rivals-ver",
+ "artist": "ESMonster",
+ "series": "Fantastic Four",
+ "title": "Sue Storm | Invisible Woman [Marvel Rivals ver]",
+ "images": [
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-1.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-2.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-3.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-4.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-5.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-6.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-7.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-8.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-9.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-10.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-11.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-12.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-13.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-14.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-15.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-16.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-17.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-18.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-19.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-20.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-21.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-22.jpg",
+  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-23.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sue Storm | Invisible Woman [Marvel Rivals ver] from Fantastic Four."
+},
+ {
+ "id": "esm-psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Psylocke [Marvel Rivals ver] (Violet Butterfly Assassin P2 Summer 3 Poses Included)",
+ "images": [
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-1.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-2.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-3.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-4.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-5.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-6.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-7.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-8.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke [Marvel Rivals ver] from X-Men."
+},
+ {
+ "id": "esm-psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Psylocke [Marvel Rivals ver] (Violet Butterfly Assassin includes 2 versions)",
+ "images": [
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-1.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-2.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-3.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-4.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-5.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-6.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-7.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-8.jpg",
+  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke [Marvel Rivals ver] from X-Men."
+},
+ {
+ "id": "esm-felicia",
+ "artist": "ESMonster",
+ "series": "Darkstalkers",
+ "title": "Felicia",
+ "images": [
+  "images/esmonster/darkstalkers/felicia/felicia-1.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-2.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-3.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-4.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-5.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-6.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-7.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-8.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-9.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-10.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-11.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-12.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-13.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-14.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-15.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-16.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-17.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-18.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-19.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-20.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-21.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-22.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-23.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-24.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-25.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-26.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-27.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-28.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-29.jpg",
+  "images/esmonster/darkstalkers/felicia/felicia-30.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Felicia from Darkstalkers."
+},
+ {
+ "id": "esm-emma-frost-marvel-rivals-ver-white-queen",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Emma Frost [Marvel Rivals ver] (White Queen)",
+ "images": [
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-1.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-2.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-3.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-4.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-5.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-6.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-7.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-8.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-9.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-10.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-11.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-12.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-13.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-14.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-15.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-16.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-17.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Emma Frost [Marvel Rivals ver] from X-Men."
+},
+ {
+ "id": "esm-emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Emma Frost [Marvel Rivals ver] (White Queen X Revolution includes 2 versions)",
+ "images": [
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-1.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-2.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-3.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-4.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-5.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-6.jpg",
+  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Emma Frost [Marvel Rivals ver] from X-Men."
+},
+ {
+ "id": "esm-2b-white-haired-android-girl",
+ "artist": "ESMonster",
+ "series": "NieR:Automata",
+ "title": "2B (White-Haired Android Girl)",
+ "images": [
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-1.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-2.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-3.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-4.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-5.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-6.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-7.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-8.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-9.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-10.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-11.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-12.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-13.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-14.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-15.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-16.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-17.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-18.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-19.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-20.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of 2B from NieR:Automata."
+},
+ {
+ "id": "esm-2b-white-haired-android-girl-p2-head-swap",
+ "artist": "ESMonster",
+ "series": "NieR:Automata",
+ "title": "2B (White-Haired Android Girl P2 Head-Swap)",
+ "images": [
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-1.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-2.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-3.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-4.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-5.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-6.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-7.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-8.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-9.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-10.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-11.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-12.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of 2B from NieR:Automata."
+},
+ {
+ "id": "esm-2b-white-haired-android-girlp1-head-swap",
+ "artist": "ESMonster",
+ "series": "NieR:Automata",
+ "title": "2B (White-Haired Android GirlP1 Head-Swap)",
+ "images": [
+  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-1.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-2.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-3.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-4.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-5.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-6.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of 2B from NieR:Automata."
+},
+ {
+ "id": "esm-2b-white-haired-android-girl-includes-3-sets-of-postures",
+ "artist": "ESMonster",
+ "series": "NieR:Automata",
+ "title": "2B (White-Haired Android Girl Includes 3 sets of postures)",
+ "images": [
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-1.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-2.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-3.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-4.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-5.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-6.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-7.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-8.jpg",
+  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of 2B from NieR:Automata."
+},
+ {
+ "id": "esm-himiko-toga",
+ "artist": "ESMonster",
+ "series": "My Hero Academia",
+ "title": "Himiko Toga",
+ "images": [
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-1.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-2.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-3.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-4.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-5.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-6.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-7.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-8.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-9.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-10.jpg",
+  "images/esmonster/my-hero-academia/himiko-toga/himiko-toga-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Himiko Toga from My Hero Academia."
+},
+ {
+ "id": "esm-jubilee",
+ "artist": "ESMonster",
+ "series": "X-Men",
+ "title": "Jubilee",
+ "images": [
+  "images/esmonster/x-men/jubilee/jubilee-1.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-2.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-3.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-4.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-5.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-6.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-7.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-8.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-9.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-10.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-11.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-12.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-13.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-14.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-15.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-16.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-17.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-18.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-19.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-20.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-21.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-22.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-23.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-24.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-25.jpg",
+  "images/esmonster/x-men/jubilee/jubilee-26.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Jubilee from X-Men."
+},
+ {
+ "id": "esm-april-o-neil",
+ "artist": "ESMonster",
+ "series": "Teenage Mutant Ninja Turtles",
+ "title": "April O'Neil",
+ "images": [
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-1.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-2.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-3.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-4.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-5.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-6.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-7.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-8.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-9.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-10.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-11.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-12.jpg",
+  "images/esmonster/teenage-mutant-ninja-turtles/april-o-neil/april-o-neil-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of April O'Neil from Teenage Mutant Ninja Turtles."
+},
+ {
+ "id": "esm-power-girl",
+ "artist": "ESMonster",
+ "series": "Power Girl",
+ "title": "Power Girl",
+ "images": [
+  "images/esmonster/power-girl/power-girl/power-girl-1.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-2.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-3.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-4.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-5.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-6.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-7.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-8.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-9.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-10.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-11.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-12.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-13.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-14.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-15.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-16.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-17.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-18.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-19.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-20.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-21.jpg",
+  "images/esmonster/power-girl/power-girl/power-girl-22.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Power Girl from Power Girl."
+},
+ {
+ "id": "esm-lucy",
+ "artist": "ESMonster",
+ "series": "Cyberpunk:Edgerunners",
+ "title": "Lucy",
+ "images": [
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-1.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-2.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-3.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-4.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-5.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-6.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-7.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-8.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-9.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-10.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-11.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-12.jpg",
+  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-13.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Lucy from Cyberpunk:Edgerunners."
+}
 ];
