@@ -33,7 +33,7 @@
         © HoneyCat3D • Premium Resin Collectibles
     </div>
 
-    <script src="models-data.js?v=33"></script>
+    <script src="models-data.js?v=9"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
         const modelId = params.get("id");
@@ -45,19 +45,6 @@
         } else {
             document.title = model.title + " - HoneyCat3D";
 
-            // A model with multiple sculpted versions (different outfit/pose/etc.) can carry a
-            // `variants` array: [{ label, images, scaleOptions, description? }, ...]. A model with
-            // no `variants` behaves exactly as before, using its own images/scaleOptions/description
-            // as the single implicit "variant".
-            const hasVariants = Array.isArray(model.variants) && model.variants.length > 0;
-            let variantIndex = 0;
-
-            function getVariant() {
-                return hasVariants ? model.variants[variantIndex] : model;
-            }
-
-            const initialVariant = getVariant();
-
             container.innerHTML = `
                 <a class="back-link" href="models.html">&larr; Back to Available Models</a>
 
@@ -65,10 +52,14 @@
                     <div class="model-gallery">
                         <div class="main-image-wrap">
                             <button class="gallery-arrow gallery-arrow-left" id="prev-image" aria-label="Previous image">&#10094;</button>
-                            <img id="main-image" src="${initialVariant.images[0]}" alt="${model.title}">
+                            <img id="main-image" src="${model.images[0]}" alt="${model.title}" fetchpriority="high">
                             <button class="gallery-arrow gallery-arrow-right" id="next-image" aria-label="Next image">&#10095;</button>
                         </div>
-                        <div class="thumbnail-row" id="thumbnail-row"></div>
+                        <div class="thumbnail-row">
+                            ${model.images.map((img, i) => `
+                                <img class="thumbnail ${i === 0 ? "active" : ""}" src="${img}" alt="${model.title} view ${i + 1}" loading="lazy">
+                            `).join("")}
+                        </div>
                     </div>
 
                     <div class="product-info">
@@ -76,27 +67,18 @@
                         <h1>${model.title}</h1>
 
                         <div class="model-specs">
-                            ${hasVariants ? `
-                                <label for="variant-select"><strong>Version:</strong></label>
-                                <select id="variant-select">
-                                    ${model.variants.map((v, i) => `
-                                        <option value="${i}">${v.label}</option>
-                                    `).join("")}
-                                </select>
-                            ` : ""}
-
                             <label for="scale-select"><strong>Scale:</strong></label>
-                            <select id="scale-select"></select>
+                            <select id="scale-select">
+                                ${model.scaleOptions.map((opt, i) => `
+                                    <option value="${i}">${opt.scale}</option>
+                                `).join("")}
+                            </select>
 
-                            <p id="size-display"></p>
-                            <p id="description-display"></p>
+                            <p id="size-display"><strong>Size:</strong> ${model.scaleOptions[0].size}</p>
+                            <p>${model.description}</p>
                         </div>
 
-                        <p class="render-note">Photos shown are digital renders${model.paintedPhotos ? "" : " (unless noted otherwise)"} — the final painted piece may vary slightly from the images.</p>
-
                         <div id="etsy-link-wrap"></div>
-
-                        <a class="btn btn-outline" id="custom-order-link" href="#">Contact Us to Custom Order/Print This Model</a>
                     </div>
                 </div>
 
@@ -112,43 +94,27 @@
                 return `<a class="btn" href="${url}" target="_blank">View on Etsy</a>`;
             }
 
+            document.getElementById("etsy-link-wrap").innerHTML = renderEtsyButton(model.scaleOptions[0].etsyUrl);
+
             const mainImage = document.getElementById("main-image");
-            const thumbnailRow = document.getElementById("thumbnail-row");
+            const thumbnails = document.querySelectorAll(".thumbnail");
             const lightbox = document.getElementById("lightbox");
             const lightboxImage = document.getElementById("lightbox-image");
-            const scaleSelect = document.getElementById("scale-select");
-            const sizeDisplay = document.getElementById("size-display");
-            const descriptionDisplay = document.getElementById("description-display");
-            const etsyLinkWrap = document.getElementById("etsy-link-wrap");
-            const customOrderLink = document.getElementById("custom-order-link");
-
-            let currentImages = [];
             let currentIndex = 0;
-            let thumbnails = [];
-
-            function renderThumbnails(images) {
-                thumbnailRow.innerHTML = images.map((img, i) => `
-                    <img class="thumbnail ${i === 0 ? "active" : ""}" src="${img}" alt="${model.title} view ${i + 1}">
-                `).join("");
-                thumbnails = Array.from(thumbnailRow.querySelectorAll(".thumbnail"));
-                thumbnails.forEach((thumb, i) => {
-                    thumb.addEventListener("click", () => showImage(i));
-                });
-            }
 
             function showImage(index) {
-                currentIndex = (index + currentImages.length) % currentImages.length;
-                mainImage.src = currentImages[currentIndex];
+                currentIndex = (index + model.images.length) % model.images.length;
+                mainImage.src = model.images[currentIndex];
                 thumbnails.forEach(t => t.classList.remove("active"));
                 thumbnails[currentIndex].classList.add("active");
                 thumbnails[currentIndex].scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
                 if (lightbox.classList.contains("open")) {
-                    lightboxImage.src = currentImages[currentIndex];
+                    lightboxImage.src = model.images[currentIndex];
                 }
             }
 
             function openLightbox() {
-                lightboxImage.src = currentImages[currentIndex];
+                lightboxImage.src = model.images[currentIndex];
                 lightbox.classList.add("open");
             }
 
@@ -156,38 +122,9 @@
                 lightbox.classList.remove("open");
             }
 
-            function renderScaleOptions(variant) {
-                scaleSelect.innerHTML = variant.scaleOptions.map((opt, i) => `
-                    <option value="${i}">${opt.scale}</option>
-                `).join("");
-                scaleSelect.value = "0";
-                sizeDisplay.innerHTML = `<strong>Size:</strong> ${variant.scaleOptions[0].size}`;
-                etsyLinkWrap.innerHTML = renderEtsyButton(variant.scaleOptions[0].etsyUrl);
-            }
-
-            function updateCustomOrderLink(variant) {
-                const label = hasVariants ? `${model.title} - ${variant.label}` : model.title;
-                customOrderLink.href = `contact.html?model=${encodeURIComponent(label)}`;
-            }
-
-            function applyVariant(variant) {
-                currentImages = variant.images;
-                currentIndex = 0;
-                renderThumbnails(currentImages);
-                mainImage.src = currentImages[0];
-                descriptionDisplay.textContent = variant.description || model.description;
-                renderScaleOptions(variant);
-                updateCustomOrderLink(variant);
-            }
-
-            applyVariant(initialVariant);
-
-            if (hasVariants) {
-                document.getElementById("variant-select").addEventListener("change", (e) => {
-                    variantIndex = parseInt(e.target.value, 10);
-                    applyVariant(getVariant());
-                });
-            }
+            thumbnails.forEach((thumb, i) => {
+                thumb.addEventListener("click", () => showImage(i));
+            });
 
             document.getElementById("prev-image").addEventListener("click", () => showImage(currentIndex - 1));
             document.getElementById("next-image").addEventListener("click", () => showImage(currentIndex + 1));
@@ -201,11 +138,10 @@
                 if (e.key === "Escape") closeLightbox();
             });
 
-            scaleSelect.addEventListener("change", (e) => {
-                const variant = getVariant();
-                const opt = variant.scaleOptions[e.target.value];
-                sizeDisplay.innerHTML = `<strong>Size:</strong> ${opt.size}`;
-                etsyLinkWrap.innerHTML = renderEtsyButton(opt.etsyUrl);
+            document.getElementById("scale-select").addEventListener("change", (e) => {
+                const opt = model.scaleOptions[e.target.value];
+                document.getElementById("size-display").innerHTML = `<strong>Size:</strong> ${opt.size}`;
+                document.getElementById("etsy-link-wrap").innerHTML = renderEtsyButton(opt.etsyUrl);
             });
         }
     </script>
