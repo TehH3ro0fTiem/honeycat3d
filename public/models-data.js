@@ -28551,13 +28551,12 @@ const MODELS = [
  "description": "Original resin sculpt of Marle Barrock from Reincarnation Coliseum."
 },
  {
- "id": "esm-amazon-axe-wielding-warrior-woman",
+ "id": "esm-amazon-v1",
  "artist": "ESMonster",
  "series": "Dragon's Crown",
- "title": "Amazon (Axe-Wielding Warrior Woman)",
+ "title": "Amazon",
  "images": [
-  "images/esmonster/dragon-s-crown/amazon-axe-wielding-warrior-woman/amazon-axe-wielding-warrior-woman-1.jpg",
-  "images/esmonster/dragon-s-crown/amazon-axe-wielding-warrior-woman/amazon-axe-wielding-warrior-woman-2.jpg"
+  "images/esmonster/dragons-crown/amazon-v1/amazon-v1-1.jpg"
  ],
  "scaleOptions": [
   {
@@ -28569,36 +28568,17 @@ const MODELS = [
  "description": "Original resin sculpt of Amazon from Dragon's Crown."
 },
  {
- "id": "esm-amazon-jungle-queen",
+ "id": "esm-amazon-v2",
  "artist": "ESMonster",
  "series": "Dragon's Crown",
- "title": "Amazon (Jungle Queen)",
+ "title": "Amazon",
  "images": [
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-1.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-2.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-3.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-4.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-5.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-6.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-7.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-8.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-9.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-10.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-11.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-12.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-13.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-14.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-15.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-16.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-17.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-18.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-19.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-20.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-21.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-22.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-23.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-24.jpg",
-  "images/esmonster/dragon-s-crown/amazon-jungle-queen/amazon-jungle-queen-25.jpg"
+  "images/esmonster/dragons-crown/amazon-v2/amazon-v2-1.jpg",
+  "images/esmonster/dragons-crown/amazon-v2/amazon-v2-2.jpg",
+  "images/esmonster/dragons-crown/amazon-v2/amazon-v2-3.jpg",
+  "images/esmonster/dragons-crown/amazon-v2/amazon-v2-4.jpg",
+  "images/esmonster/dragons-crown/amazon-v2/amazon-v2-5.jpg",
+  "images/esmonster/dragons-crown/amazon-v2/amazon-v2-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -29030,11 +29010,7 @@ const MODELS = [
  "images": [
   "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-1.jpg",
   "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-2.jpg",
-  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-3.jpg",
-  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-4.jpg",
-  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-5.jpg",
-  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-6.jpg",
-  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-7.jpg"
+  "images/esmonster/final-fantasy-vii/tifa-lockhart/tifa-lockhart-3.jpg"
  ],
  "scaleOptions": [
   {
@@ -29087,29 +29063,7 @@ const MODELS = [
   "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-9.jpg",
   "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-10.jpg",
   "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-11.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-12.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-13.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-14.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-15.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-16.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-17.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-18.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-19.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-20.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-21.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-22.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-23.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-24.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-25.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-26.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-27.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-28.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-29.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-30.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-31.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-32.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-33.jpg",
-  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-34.jpg"
+  "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -29294,21 +29248,17 @@ const MODELS = [
  "description": "Original resin sculpt of Maki Oze from Fire Force."
 },
  {
- "id": "esm-bulma-bulma-p1",
+ "id": "esm-bulma-v1",
  "artist": "ESMonster",
  "series": "Dragon Ball",
- "title": "Bulma (Bulma P1)",
+ "title": "Bulma",
  "images": [
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-1.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-2.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-3.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-4.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-5.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-6.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-7.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-8.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-9.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma-p1/bulma-bulma-p1-10.jpg"
+  "images/esmonster/dragon-ball/bulma-v1/bulma-v1-1.jpg",
+  "images/esmonster/dragon-ball/bulma-v1/bulma-v1-2.jpg",
+  "images/esmonster/dragon-ball/bulma-v1/bulma-v1-3.jpg",
+  "images/esmonster/dragon-ball/bulma-v1/bulma-v1-4.jpg",
+  "images/esmonster/dragon-ball/bulma-v1/bulma-v1-5.jpg",
+  "images/esmonster/dragon-ball/bulma-v1/bulma-v1-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -29320,25 +29270,15 @@ const MODELS = [
  "description": "Original resin sculpt of Bulma from Dragon Ball."
 },
  {
- "id": "esm-bulma-bulma2-dragon-ball",
+ "id": "esm-bulma-v2",
  "artist": "ESMonster",
  "series": "Dragon Ball",
- "title": "Bulma (Bulma2 - Dragon Ball)",
+ "title": "Bulma",
  "images": [
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-1.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-2.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-3.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-4.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-5.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-6.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-7.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-8.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-9.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-10.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-11.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-12.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-13.jpg",
-  "images/esmonster/dragon-ball/bulma-bulma2-dragon-ball/bulma-bulma2-dragon-ball-14.jpg"
+  "images/esmonster/dragon-ball/bulma-v2/bulma-v2-1.jpg",
+  "images/esmonster/dragon-ball/bulma-v2/bulma-v2-2.jpg",
+  "images/esmonster/dragon-ball/bulma-v2/bulma-v2-3.jpg",
+  "images/esmonster/dragon-ball/bulma-v2/bulma-v2-4.jpg"
  ],
  "scaleOptions": [
   {
@@ -30213,42 +30153,49 @@ const MODELS = [
  "description": "Original resin sculpt of Sadako from The Ring."
 },
  {
- "id": "esm-malice",
+ "id": "esm-malice-v1",
  "artist": "ESMonster",
  "series": "Fantastic Four",
  "title": "Malice",
  "images": [
-  "images/esmonster/fantastic-four/malice/malice-1.jpg",
-  "images/esmonster/fantastic-four/malice/malice-2.jpg",
-  "images/esmonster/fantastic-four/malice/malice-3.jpg",
-  "images/esmonster/fantastic-four/malice/malice-4.jpg",
-  "images/esmonster/fantastic-four/malice/malice-5.jpg",
-  "images/esmonster/fantastic-four/malice/malice-6.jpg",
-  "images/esmonster/fantastic-four/malice/malice-7.jpg",
-  "images/esmonster/fantastic-four/malice/malice-8.jpg",
-  "images/esmonster/fantastic-four/malice/malice-9.jpg",
-  "images/esmonster/fantastic-four/malice/malice-10.jpg",
-  "images/esmonster/fantastic-four/malice/malice-11.jpg",
-  "images/esmonster/fantastic-four/malice/malice-12.jpg",
-  "images/esmonster/fantastic-four/malice/malice-13.jpg",
-  "images/esmonster/fantastic-four/malice/malice-14.jpg",
-  "images/esmonster/fantastic-four/malice/malice-15.jpg",
-  "images/esmonster/fantastic-four/malice/malice-16.jpg",
-  "images/esmonster/fantastic-four/malice/malice-17.jpg",
-  "images/esmonster/fantastic-four/malice/malice-18.jpg",
-  "images/esmonster/fantastic-four/malice/malice-19.jpg",
-  "images/esmonster/fantastic-four/malice/malice-20.jpg",
-  "images/esmonster/fantastic-four/malice/malice-21.jpg",
-  "images/esmonster/fantastic-four/malice/malice-22.jpg",
-  "images/esmonster/fantastic-four/malice/malice-23.jpg",
-  "images/esmonster/fantastic-four/malice/malice-24.jpg",
-  "images/esmonster/fantastic-four/malice/malice-25.jpg",
-  "images/esmonster/fantastic-four/malice/malice-26.jpg",
-  "images/esmonster/fantastic-four/malice/malice-27.jpg",
-  "images/esmonster/fantastic-four/malice/malice-28.jpg",
-  "images/esmonster/fantastic-four/malice/malice-29.jpg",
-  "images/esmonster/fantastic-four/malice/malice-30.jpg",
-  "images/esmonster/fantastic-four/malice/malice-31.jpg"
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-1.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-2.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-3.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-4.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-5.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-6.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-7.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-8.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-9.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-10.jpg",
+  "images/esmonster/fantastic-four/malice-v1/malice-v1-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Malice from Fantastic Four."
+},
+ {
+ "id": "esm-malice-v2",
+ "artist": "ESMonster",
+ "series": "Fantastic Four",
+ "title": "Malice",
+ "images": [
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-1.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-2.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-3.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-4.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-5.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-6.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-7.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-8.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-9.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-10.jpg",
+  "images/esmonster/fantastic-four/malice-v2/malice-v2-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -30333,31 +30280,7 @@ const MODELS = [
   "images/esmonster/final-fantasy-x/lulu/lulu-6.jpg",
   "images/esmonster/final-fantasy-x/lulu/lulu-7.jpg",
   "images/esmonster/final-fantasy-x/lulu/lulu-8.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-9.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-10.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-11.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-12.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-13.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-14.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-15.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-16.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-17.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-18.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-19.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-20.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-21.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-22.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-23.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-24.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-25.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-26.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-27.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-28.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-29.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-30.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-31.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-32.jpg",
-  "images/esmonster/final-fantasy-x/lulu/lulu-33.jpg"
+  "images/esmonster/final-fantasy-x/lulu/lulu-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -31364,8 +31287,7 @@ const MODELS = [
   "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-1.jpg",
   "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-2.jpg",
   "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-3.jpg",
-  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-4.jpg",
-  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-5.jpg"
+  "images/esmonster/elden-ring/ranni-the-witch/ranni-the-witch-4.jpg"
  ],
  "scaleOptions": [
   {
@@ -31898,22 +31820,18 @@ const MODELS = [
  "description": "Original resin sculpt of Pennywise [Fem ver] from IT."
 },
  {
- "id": "esm-doom-slayer-fem-ver",
+ "id": "esm-doom-slayer",
  "artist": "ESMonster",
  "series": "Doom",
  "title": "Doom Slayer [Fem ver]",
  "images": [
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-1.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-2.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-3.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-4.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-5.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-6.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-7.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-8.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-9.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-10.jpg",
-  "images/esmonster/doom/doom-slayer-fem-ver/doom-slayer-fem-ver-11.jpg"
+  "images/esmonster/doom/doom-slayer/doom-slayer-1.jpg",
+  "images/esmonster/doom/doom-slayer/doom-slayer-2.jpg",
+  "images/esmonster/doom/doom-slayer/doom-slayer-3.jpg",
+  "images/esmonster/doom/doom-slayer/doom-slayer-4.jpg",
+  "images/esmonster/doom/doom-slayer/doom-slayer-5.jpg",
+  "images/esmonster/doom/doom-slayer/doom-slayer-6.jpg",
+  "images/esmonster/doom/doom-slayer/doom-slayer-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -32036,34 +31954,20 @@ const MODELS = [
  {
  "id": "esm-terry-bogard",
  "artist": "ESMonster",
- "series": "Fatal Fury (KoF)",
+ "series": "King of Fighters",
  "title": "Terry Bogard",
  "images": [
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-1.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-2.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-3.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-4.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-5.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-6.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-7.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-8.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-9.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-10.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-11.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-12.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-13.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-14.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-15.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-16.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-17.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-18.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-19.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-20.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-21.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-22.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-23.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-24.jpg",
-  "images/esmonster/fatal-fury-kof/terry-bogard/terry-bogard-25.jpg"
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-1.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-2.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-3.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-4.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-5.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-6.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-7.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-8.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-9.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-10.jpg",
+  "images/esmonster/king-of-fighters/terry-bogard/terry-bogard-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -32072,7 +31976,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Terry Bogard from Fatal Fury (KoF)."
+ "description": "Original resin sculpt of Terry Bogard from King of Fighters series."
 },
  {
  "id": "esm-fran",
@@ -32085,12 +31989,7 @@ const MODELS = [
   "images/esmonster/final-fantasy-xii/fran/fran-3.jpg",
   "images/esmonster/final-fantasy-xii/fran/fran-4.jpg",
   "images/esmonster/final-fantasy-xii/fran/fran-5.jpg",
-  "images/esmonster/final-fantasy-xii/fran/fran-6.jpg",
-  "images/esmonster/final-fantasy-xii/fran/fran-7.jpg",
-  "images/esmonster/final-fantasy-xii/fran/fran-8.jpg",
-  "images/esmonster/final-fantasy-xii/fran/fran-9.jpg",
-  "images/esmonster/final-fantasy-xii/fran/fran-10.jpg",
-  "images/esmonster/final-fantasy-xii/fran/fran-11.jpg"
+  "images/esmonster/final-fantasy-xii/fran/fran-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -32589,54 +32488,6 @@ const MODELS = [
  "description": "Original resin sculpt of Cammy White from Street Fighter."
 },
  {
- "id": "esm-luna",
- "artist": "ESMonster",
- "series": "Epic Seven",
- "title": "Luna",
- "images": [
-  "images/esmonster/epic-seven/luna/luna-1.jpg",
-  "images/esmonster/epic-seven/luna/luna-2.jpg",
-  "images/esmonster/epic-seven/luna/luna-3.jpg",
-  "images/esmonster/epic-seven/luna/luna-4.jpg",
-  "images/esmonster/epic-seven/luna/luna-5.jpg",
-  "images/esmonster/epic-seven/luna/luna-6.jpg",
-  "images/esmonster/epic-seven/luna/luna-7.jpg",
-  "images/esmonster/epic-seven/luna/luna-8.jpg",
-  "images/esmonster/epic-seven/luna/luna-9.jpg",
-  "images/esmonster/epic-seven/luna/luna-10.jpg",
-  "images/esmonster/epic-seven/luna/luna-11.jpg",
-  "images/esmonster/epic-seven/luna/luna-12.jpg",
-  "images/esmonster/epic-seven/luna/luna-13.jpg",
-  "images/esmonster/epic-seven/luna/luna-14.jpg",
-  "images/esmonster/epic-seven/luna/luna-15.jpg",
-  "images/esmonster/epic-seven/luna/luna-16.jpg",
-  "images/esmonster/epic-seven/luna/luna-17.jpg",
-  "images/esmonster/epic-seven/luna/luna-18.jpg",
-  "images/esmonster/epic-seven/luna/luna-19.jpg",
-  "images/esmonster/epic-seven/luna/luna-20.jpg",
-  "images/esmonster/epic-seven/luna/luna-21.jpg",
-  "images/esmonster/epic-seven/luna/luna-22.jpg",
-  "images/esmonster/epic-seven/luna/luna-23.jpg",
-  "images/esmonster/epic-seven/luna/luna-24.jpg",
-  "images/esmonster/epic-seven/luna/luna-25.jpg",
-  "images/esmonster/epic-seven/luna/luna-26.jpg",
-  "images/esmonster/epic-seven/luna/luna-27.jpg",
-  "images/esmonster/epic-seven/luna/luna-28.jpg",
-  "images/esmonster/epic-seven/luna/luna-29.jpg",
-  "images/esmonster/epic-seven/luna/luna-30.jpg",
-  "images/esmonster/epic-seven/luna/luna-31.jpg",
-  "images/esmonster/epic-seven/luna/luna-32.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Luna from Epic Seven."
-},
- {
  "id": "esm-juri-han-korean-style-villain-fighter-girl-includes-3-poses",
  "artist": "ESMonster",
  "series": "Street Fighter",
@@ -32886,14 +32737,11 @@ const MODELS = [
  "series": "Dragon's Crown",
  "title": "Sorceress",
  "images": [
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-1.jpg",
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-2.jpg",
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-3.jpg",
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-4.jpg",
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-5.jpg",
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-6.jpg",
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-7.jpg",
-  "images/esmonster/dragon-s-crown/sorceress/sorceress-8.jpg"
+  "images/esmonster/dragons-crown/sorceress/sorceress-1.jpg",
+  "images/esmonster/dragons-crown/sorceress/sorceress-2.jpg",
+  "images/esmonster/dragons-crown/sorceress/sorceress-3.jpg",
+  "images/esmonster/dragons-crown/sorceress/sorceress-4.jpg",
+  "images/esmonster/dragons-crown/sorceress/sorceress-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -34771,17 +34619,7 @@ const MODELS = [
   "images/esmonster/dragon-ball-z/android-18/android-18-34.jpg",
   "images/esmonster/dragon-ball-z/android-18/android-18-35.jpg",
   "images/esmonster/dragon-ball-z/android-18/android-18-36.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-37.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-38.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-39.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-40.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-41.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-42.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-43.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-44.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-45.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-46.jpg",
-  "images/esmonster/dragon-ball-z/android-18/android-18-47.jpg"
+  "images/esmonster/dragon-ball-z/android-18/android-18-37.jpg"
  ],
  "scaleOptions": [
   {
@@ -35698,16 +35536,7 @@ const MODELS = [
   "images/esmonster/elden-ring/queen-marika/queen-marika-4.jpg",
   "images/esmonster/elden-ring/queen-marika/queen-marika-5.jpg",
   "images/esmonster/elden-ring/queen-marika/queen-marika-6.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-7.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-8.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-9.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-10.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-11.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-12.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-13.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-14.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-15.jpg",
-  "images/esmonster/elden-ring/queen-marika/queen-marika-16.jpg"
+  "images/esmonster/elden-ring/queen-marika/queen-marika-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -35887,34 +35716,43 @@ const MODELS = [
  "description": "Original resin sculpt of Hellboy from Hellboy."
 },
  {
- "id": "esm-sue-storm-invisible-woman-marvel-rivals-ver",
+ "id": "esm-sue-storm-v1",
  "artist": "ESMonster",
  "series": "Fantastic Four",
  "title": "Sue Storm | Invisible Woman [Marvel Rivals ver]",
  "images": [
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-1.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-2.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-3.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-4.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-5.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-6.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-7.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-8.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-9.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-10.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-11.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-12.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-13.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-14.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-15.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-16.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-17.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-18.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-19.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-20.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-21.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-22.jpg",
-  "images/esmonster/fantastic-four/sue-storm-invisible-woman-marvel-rivals-ver/sue-storm-invisible-woman-marvel-rivals-ver-23.jpg"
+  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-1.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-2.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-3.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-4.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-5.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sue Storm | Invisible Woman [Marvel Rivals ver] from Fantastic Four."
+},
+ {
+ "id": "esm-sue-storm-v2",
+ "artist": "ESMonster",
+ "series": "Fantastic Four",
+ "title": "Sue Storm | Invisible Woman [Marvel Rivals ver]",
+ "images": [
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-1.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-2.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-3.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-4.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-5.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-6.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-7.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-8.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-9.jpg",
+  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-10.jpg"
  ],
  "scaleOptions": [
   {
