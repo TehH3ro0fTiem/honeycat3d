@@ -76,11 +76,9 @@
 
                             <p id="size-display"><strong>Size:</strong> ${model.scaleOptions[0].size}</p>
                             <p>${model.description}</p>
-                            <p class="render-disclaimer"><em>Photos shown are digital renders (unless noted otherwise) &mdash; the final painted piece may vary slightly from the images.</em></p>
                         </div>
 
                         <div id="etsy-link-wrap"></div>
-                        <a class="btn btn-outline" href="contact.html?model=${encodeURIComponent(model.title)}">Contact Us to Custom Order/Print This Model</a>
                     </div>
                 </div>
 

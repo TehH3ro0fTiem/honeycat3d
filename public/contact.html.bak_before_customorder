@@ -26,13 +26,12 @@
     </header>
 
     <section class="section">
-        <h1 id="contact-heading">Contact</h1>
-        <p id="contact-intro">Have a question about a model, a commission idea, or a custom order? Send us a message below.</p>
+        <h1>Contact</h1>
+        <p>Have a question about a model, a commission idea, or a custom order? Send us a message below.</p>
 
         <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
             <input type="hidden" name="access_key" value="68f12a2d-6dbc-437f-987c-37d801320465">
             <input type="hidden" name="redirect" value="https://www.honeycat3d.com/thank-you.html">
-            <input type="hidden" id="model-field" name="model" value="">
 
             <label for="name">Name</label>
             <input type="text" id="name" name="name" required>
@@ -50,20 +49,6 @@
     <div class="footer">
         © HoneyCat3D • Premium Resin Collectibles
     </div>
-
-    <script>
-        const params = new URLSearchParams(window.location.search);
-        const modelName = params.get("model");
-
-        if (modelName) {
-            document.getElementById("contact-heading").textContent = "Custom Order Request";
-            document.getElementById("contact-intro").textContent =
-                `You're requesting a custom order/print of "${modelName}". Add any details below (color, size, finish) and we'll get back to you.`;
-            document.getElementById("model-field").value = modelName;
-            document.getElementById("message").value =
-                `Hi, I'd like to request a custom order/print of the "${modelName}" model.\n\nDetails:\n- `;
-        }
-    </script>
 
 </body>
 </html>

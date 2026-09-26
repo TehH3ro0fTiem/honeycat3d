@@ -663,22 +663,3 @@ nav {
     color: #9a9a9a;
     font-size: 0.9rem;
 }
-
-/* ===== Custom Order Button + Render Disclaimer ===== */
-
-.btn-outline {
-    background: transparent;
-    color: #d4a843;
-    border: 2px solid #d4a843;
-}
-
-.btn-outline:hover {
-    background: #d4a843;
-    color: #111;
-}
-
-.render-disclaimer {
-    color: #9a9a9a;
-    font-size: 0.85rem;
-    margin-top: 10px;
-}
