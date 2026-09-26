@@ -58,6 +58,7 @@
             <div class="browse-main">
                 <p class="results-count" id="results-count"></p>
                 <div class="grid" id="models-grid"></div>
+                <div class="pagination" id="pagination"></div>
             </div>
         </div>
     </section>
@@ -66,14 +67,18 @@
         © HoneyCat3D • Premium Resin Collectibles
     </div>
 
-    <script src="models-data.js?v=14"></script>
+    <script src="models-data.js?v=15"></script>
     <script>
         const grid = document.getElementById("models-grid");
         const resultsCount = document.getElementById("results-count");
+        const pagination = document.getElementById("pagination");
         const searchInput = document.getElementById("search-input");
         const sortSelect = document.getElementById("sort-select");
         const artistBox = document.getElementById("artist-checkboxes");
         const seriesBox = document.getElementById("series-checkboxes");
+
+        const PAGE_SIZE = 60;
+        let currentPage = 1;
 
         function buildCheckboxes(container, valueCounts, groupName) {
             valueCounts.forEach(({ value, count }) => {
@@ -113,9 +118,23 @@
                 return 0;
             });
 
-            resultsCount.textContent = `Showing ${filtered.length} of ${MODELS.length} models`;
+            const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+            if (currentPage > totalPages) currentPage = totalPages;
+            if (currentPage < 1) currentPage = 1;
 
-            grid.innerHTML = filtered.map(m => `
+            const startIndex = (currentPage - 1) * PAGE_SIZE;
+            const pageItems = filtered.slice(startIndex, startIndex + PAGE_SIZE);
+
+            if (filtered.length === 0) {
+                resultsCount.textContent = `Showing 0 of ${MODELS.length} models`;
+                grid.innerHTML = "<p>No models match those filters.</p>";
+                pagination.innerHTML = "";
+                return;
+            }
+
+            resultsCount.textContent = `Showing ${startIndex + 1}-${startIndex + pageItems.length} of ${filtered.length} models`;
+
+            grid.innerHTML = pageItems.map(m => `
                 <div class="card">
                     <a href="model.html?id=${m.id}">
                         <img src="${m.images[0]}" alt="${m.title}" loading="lazy">
@@ -127,9 +146,45 @@
                 </div>
             `).join("");
 
-            if (filtered.length === 0) {
-                grid.innerHTML = "<p>No models match those filters.</p>";
+            renderPagination(totalPages);
+        }
+
+        function renderPagination(totalPages) {
+            if (totalPages <= 1) {
+                pagination.innerHTML = "";
+                return;
             }
+
+            let buttons = [];
+
+            buttons.push(`<button class="page-btn" data-page="prev" ${currentPage === 1 ? "disabled" : ""}>&laquo; Prev</button>`);
+
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+                    buttons.push(`<button class="page-btn ${i === currentPage ? "active" : ""}" data-page="${i}">${i}</button>`);
+                } else if (Math.abs(i - currentPage) === 3) {
+                    buttons.push(`<span class="page-ellipsis">&hellip;</span>`);
+                }
+            }
+
+            buttons.push(`<button class="page-btn" data-page="next" ${currentPage === totalPages ? "disabled" : ""}>Next &raquo;</button>`);
+
+            pagination.innerHTML = buttons.join("");
+
+            pagination.querySelectorAll(".page-btn").forEach(btn => {
+                btn.addEventListener("click", () => {
+                    const target = btn.dataset.page;
+                    if (target === "prev") {
+                        currentPage--;
+                    } else if (target === "next") {
+                        currentPage++;
+                    } else {
+                        currentPage = parseInt(target, 10);
+                    }
+                    renderModels();
+                    grid.scrollIntoView({ behavior: "smooth", block: "start" });
+                });
+            });
         }
 
         function countBy(key) {
@@ -147,10 +202,15 @@
         buildCheckboxes(artistBox, artistCounts, "artist");
         buildCheckboxes(seriesBox, seriesCounts, "series");
 
-        searchInput.addEventListener("input", renderModels);
-        sortSelect.addEventListener("change", renderModels);
-        artistBox.addEventListener("change", renderModels);
-        seriesBox.addEventListener("change", renderModels);
+        function resetToFirstPage() {
+            currentPage = 1;
+            renderModels();
+        }
+
+        searchInput.addEventListener("input", resetToFirstPage);
+        sortSelect.addEventListener("change", resetToFirstPage);
+        artistBox.addEventListener("change", resetToFirstPage);
+        seriesBox.addEventListener("change", resetToFirstPage);
 
         renderModels();
     </script>

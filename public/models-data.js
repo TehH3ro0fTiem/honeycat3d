@@ -35658,11 +35658,6 @@ const MODELS = [
   "images/esmonster/dc-comics/hawkgirl/hawkgirl-9.jpg",
   "images/esmonster/dc-comics/hawkgirl/hawkgirl-10.jpg",
   "images/esmonster/dc-comics/hawkgirl/hawkgirl-11.jpg",
-  "images/esmonster/dc-comics/hawkgirl/hawkgirl-12.jpg",
-  "images/esmonster/dc-comics/hawkgirl/hawkgirl-13.jpg",
-  "images/esmonster/dc-comics/hawkgirl/hawkgirl-14.jpg",
-  "images/esmonster/dc-comics/hawkgirl/hawkgirl-15.jpg",
-  "images/esmonster/dc-comics/hawkgirl/hawkgirl-16.jpg"
  ],
  "scaleOptions": [
   {
