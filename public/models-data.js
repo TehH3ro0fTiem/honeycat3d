@@ -3120,7 +3120,7 @@ const MODELS = [
  {
   "id": "abe-dejah-thoris",
   "artist": "Abe3D",
-  "series": "John Carter of Mars",
+  "series": "Barsoom",
   "title": "Dejah Thoris",
   "images": [
    "images/abe3d/john-carter-of-mars/dejah-thoris/abe-dejah-thoris-1.jpg",
@@ -3349,7 +3349,7 @@ const MODELS = [
  {
   "id": "abe-black-widow",
   "artist": "Abe3D",
-  "series": "Avengers",
+  "series": "Black Widow",
   "title": "Black Widow",
   "images": [
    "images/abe3d/black-widow/black-widow/abe-black-widow-1.jpg",
@@ -28448,40 +28448,26 @@ const MODELS = [
  "description": "Original resin sculpt of Frieren from Frieren: Beyond Journey's End."
 },
  {
- "id": "esm-batman-armored-bat-ninja-knight-p1",
+ "id": "esm-batman-v1",
  "artist": "ESMonster",
  "series": "Batman",
- "title": "Batman (Armored Bat Ninja Knight P1)",
+ "title": "Batman",
  "images": [
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-1.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-2.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-3.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-4.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-5.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-6.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-7.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-8.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-9.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-10.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-11.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-12.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-13.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-14.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-15.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-16.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-17.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-18.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-19.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-20.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-21.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-22.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-23.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-24.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-25.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-26.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-27.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-28.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p1/batman-armored-bat-ninja-knight-p1-29.jpg"
+  "images/esmonster/batman/batman-v1/batman-v1-01.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-02.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-03.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-04.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-05.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-06.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-07.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-08.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-09.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-010.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-11.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-12.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-13.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-14.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-15.jpg"
  ],
  "scaleOptions": [
   {
@@ -28493,32 +28479,22 @@ const MODELS = [
  "description": "Original resin sculpt of Batman from Batman."
 },
  {
- "id": "esm-batman-armored-bat-ninja-knight-p2",
+ "id": "esm-batman-v2",
  "artist": "ESMonster",
  "series": "Batman",
- "title": "Batman (Armored Bat Ninja Knight P2)",
+ "title": "Batman",
  "images": [
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-1.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-2.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-3.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-4.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-5.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-6.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-7.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-8.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-9.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-10.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-11.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-12.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-13.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-14.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-15.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-16.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-17.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-18.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-19.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-20.jpg",
-  "images/esmonster/batman/batman-armored-bat-ninja-knight-p2/batman-armored-bat-ninja-knight-p2-21.jpg"
+  "images/esmonster/batman/batman-v2/batman-v2-01.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-02.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-03.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-04.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-05.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-06.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-07.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-08.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-09.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-10.jpg",
+  "images/esmonster/batman/batman-v2/batman-v2-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -28826,15 +28802,14 @@ const MODELS = [
  "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
 },
  {
- "id": "esm-yoruichi-shihoin-black-cat-ninja-girl",
+ "id": "esm-yoruichi-shihoin-v1",
  "artist": "ESMonster",
  "series": "Bleach",
- "title": "Yoruichi Shihoin (Black Cat Ninja Girl)",
+ "title": "Yoruichi Shihoin",
  "images": [
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-1.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-2.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-3.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl/yoruichi-shihoin-black-cat-ninja-girl-4.jpg"
+  "images/esmonster/bleach/yoruichi-shihoin-v1/yoruichi-shihoin-v1-01.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-v1/yoruichi-shihoin-v1-02.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-v1/yoruichi-shihoin-v1-03.jpg"
  ],
  "scaleOptions": [
   {
@@ -28846,19 +28821,16 @@ const MODELS = [
  "description": "Original resin sculpt of Yoruichi Shihoin from Bleach."
 },
  {
- "id": "esm-yoruichi-shihoin-black-cat-ninja-girl-p2",
+ "id": "esm-yoruichi-shihoin-v2",
  "artist": "ESMonster",
  "series": "Bleach",
- "title": "Yoruichi Shihoin (Black Cat Ninja Girl P2)",
+ "title": "Yoruichi Shihoin",
  "images": [
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-1.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-2.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-3.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-4.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-5.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-6.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-7.jpg",
-  "images/esmonster/bleach/yoruichi-shihoin-black-cat-ninja-girl-p2/yoruichi-shihoin-black-cat-ninja-girl-p2-8.jpg"
+  "images/esmonster/bleach/yoruichi-shihoin-v2/yoruichi-shihoin-v2-01.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-v2/yoruichi-shihoin-v2-02.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-v2/yoruichi-shihoin-v2-03.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-v2/yoruichi-shihoin-v2-04.jpg",
+  "images/esmonster/bleach/yoruichi-shihoin-v2/yoruichi-shihoin-v2-05.jpg"
  ],
  "scaleOptions": [
   {
@@ -29154,30 +29126,16 @@ const MODELS = [
  "series": "Bleach",
  "title": "Tier Harribel",
  "images": [
-  "images/esmonster/bleach/tier-harribel/tier-harribel-1.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-2.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-3.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-4.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-5.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-6.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-7.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-8.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-9.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-10.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-11.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-12.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-13.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-14.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-15.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-16.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-17.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-18.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-19.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-20.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-21.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-22.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-23.jpg",
-  "images/esmonster/bleach/tier-harribel/tier-harribel-24.jpg"
+  "images/esmonster/bleach/tier-harribel/tier-harribel-01.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-02.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-03.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-04.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-05.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-06.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-07.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-08.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-09.jpg",
+  "images/esmonster/bleach/tier-harribel/tier-harribel-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -29260,14 +29218,7 @@ const MODELS = [
   "images/esmonster/chainsaw-man/power/power-3.jpg",
   "images/esmonster/chainsaw-man/power/power-4.jpg",
   "images/esmonster/chainsaw-man/power/power-5.jpg",
-  "images/esmonster/chainsaw-man/power/power-6.jpg",
-  "images/esmonster/chainsaw-man/power/power-7.jpg",
-  "images/esmonster/chainsaw-man/power/power-8.jpg",
-  "images/esmonster/chainsaw-man/power/power-9.jpg",
-  "images/esmonster/chainsaw-man/power/power-10.jpg",
-  "images/esmonster/chainsaw-man/power/power-11.jpg",
-  "images/esmonster/chainsaw-man/power/power-12.jpg",
-  "images/esmonster/chainsaw-man/power/power-13.jpg"
+  "images/esmonster/chainsaw-man/power/power-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -29502,15 +29453,12 @@ const MODELS = [
  "series": "Batman",
  "title": "Harley Quinn",
  "images": [
-  "images/esmonster/batman/harley-quinn/harley-quinn-1.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-2.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-3.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-4.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-5.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-6.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-7.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-8.jpg",
-  "images/esmonster/batman/harley-quinn/harley-quinn-9.jpg"
+  "images/esmonster/batman/harley-quinn/harley-quinn-01.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-02.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-03.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-04.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-05.jpg",
+  "images/esmonster/batman/harley-quinn/harley-quinn-06.jpg"
  ],
  "scaleOptions": [
   {
@@ -29859,20 +29807,14 @@ const MODELS = [
  "series": "Alita: Battle Angel",
  "title": "Alita",
  "images": [
-  "images/esmonster/alita-battle-angel/alita/alita-1.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-2.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-3.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-4.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-5.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-6.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-7.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-8.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-9.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-10.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-11.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-12.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-13.jpg",
-  "images/esmonster/alita-battle-angel/alita/alita-14.jpg"
+  "images/esmonster/alita-battle-angel/alita/alita-01.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-02.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-03.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-04.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-05.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-06.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-07.jpg",
+  "images/esmonster/alita-battle-angel/alita/alita-08.jpg"
  ],
  "scaleOptions": [
   {
@@ -29889,38 +29831,19 @@ const MODELS = [
  "series": "Akame ga Kill!",
  "title": "Esdeath",
  "images": [
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-1.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-2.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-3.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-4.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-5.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-6.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-7.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-8.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-9.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-01.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-02.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-03.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-04.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-05.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-06.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-07.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-08.jpg",
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-09.jpg",
   "images/esmonster/akame-ga-kill/esdeath/esdeath-10.jpg",
   "images/esmonster/akame-ga-kill/esdeath/esdeath-11.jpg",
   "images/esmonster/akame-ga-kill/esdeath/esdeath-12.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-13.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-14.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-15.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-16.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-17.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-18.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-19.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-20.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-21.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-22.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-23.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-24.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-25.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-26.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-27.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-28.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-29.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-30.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-31.jpg",
-  "images/esmonster/akame-ga-kill/esdeath/esdeath-32.jpg"
+  "images/esmonster/akame-ga-kill/esdeath/esdeath-13.jpg"
  ],
  "scaleOptions": [
   {
@@ -29932,17 +29855,16 @@ const MODELS = [
  "description": "Original resin sculpt of Esdeath from Akame ga Kill!."
 },
  {
- "id": "esm-makima-conductor-of-chains",
+ "id": "esm-makima-v1",
  "artist": "ESMonster",
  "series": "Chainsaw Man",
- "title": "Makima (Conductor of Chains)",
+ "title": "Makima",
  "images": [
-  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-1.jpg",
-  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-2.jpg",
-  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-3.jpg",
-  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-4.jpg",
-  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-5.jpg",
-  "images/esmonster/chainsaw-man/makima-conductor-of-chains/makima-conductor-of-chains-6.jpg"
+  "images/esmonster/chainsaw-man/makima-v1/makima-1.jpg",
+  "images/esmonster/chainsaw-man/makima-v1/makima-2.jpg",
+  "images/esmonster/chainsaw-man/makima-v1/makima-3.jpg",
+  "images/esmonster/chainsaw-man/makima-v1/makima-4.jpg",
+  "images/esmonster/chainsaw-man/makima-v1/makima-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -29954,59 +29876,34 @@ const MODELS = [
  "description": "Original resin sculpt of Makima from Chainsaw Man."
 },
  {
- "id": "esm-makima-the-leather-whip-dominatrix",
+ "id": "esm-makima-v2",
  "artist": "ESMonster",
  "series": "Chainsaw Man",
- "title": "Makima (The Leather Whip Dominatrix)",
+ "title": "Makima",
  "images": [
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-1.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-2.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-3.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-4.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-5.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-6.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-7.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-8.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-9.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-10.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-11.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-12.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-13.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-14.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-15.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-16.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-17.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-18.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-19.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-20.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-21.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-22.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-23.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-24.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-25.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-26.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-27.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-28.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-29.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-30.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-31.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-32.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-33.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-34.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-35.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-36.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-37.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-38.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-39.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-40.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-41.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-42.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-43.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-44.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-45.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-46.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-47.jpg",
-  "images/esmonster/chainsaw-man/makima-the-leather-whip-dominatrix/makima-the-leather-whip-dominatrix-48.jpg"
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-01.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-02.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-03.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-04.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-05.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-06.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-07.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-08.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-09.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-10.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-11.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-12.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-13.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-14.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-15.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-16.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-17.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-18.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-19.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-20.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-21.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-22.jpg",
+  "images/esmonster/chainsaw-man/makima-v2/makima-v2-23.jpg"
  ],
  "scaleOptions": [
   {
@@ -30526,47 +30423,23 @@ const MODELS = [
  "description": "Original resin sculpt of Madelyne Pryor [Red Queen/Goblin Queen] from X-Men."
 },
  {
- "id": "esm-wednesday-addams",
+ "id": "esm-wednesday",
  "artist": "ESMonster",
  "series": "Addams Family",
  "title": "Wednesday Addams",
  "images": [
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-1.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-2.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-3.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-4.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-5.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-6.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-7.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-8.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-9.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-01.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-02.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-03.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-04.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-05.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-06.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-07.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-08.jpg",
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-09.jpg",
   "images/esmonster/addams-family/wednesday-addams/wednesday-addams-10.jpg",
   "images/esmonster/addams-family/wednesday-addams/wednesday-addams-11.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-12.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-13.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-14.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-15.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-16.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-17.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-18.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-19.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-20.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-21.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-22.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-23.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-24.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-25.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-26.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-27.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-28.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-29.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-30.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-31.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-32.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-33.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-34.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-35.jpg",
-  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-36.jpg"
+  "images/esmonster/addams-family/wednesday-addams/wednesday-addams-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -30578,26 +30451,19 @@ const MODELS = [
  "description": "Original resin sculpt of Wednesday Addams from Addams Family."
 },
  {
- "id": "esm-morrigan-aensland-dark-vampiric-enchantress",
+ "id": "esm-morrigan-v1",
  "artist": "ESMonster",
  "series": "Darkstalkers",
- "title": "Morrigan Aensland (Dark vampiric enchantress)",
+ "title": "Morrigan Aensland",
  "images": [
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-1.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-2.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-3.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-4.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-5.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-6.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-7.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-8.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-9.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-10.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-11.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-12.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-13.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-14.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress/morrigan-aensland-dark-vampiric-enchantress-15.jpg"
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-1.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-2.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-3.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-4.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-5.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-6.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-7.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v1/morrigan-aensland-v1-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -30609,25 +30475,17 @@ const MODELS = [
  "description": "Original resin sculpt of Morrigan Aensland from Darkstalkers."
 },
  {
- "id": "esm-morrigan-aensland-dark-vampiric-enchantress-p2",
+ "id": "esm-morrigan-aensland-v2",
  "artist": "ESMonster",
  "series": "Darkstalkers",
- "title": "Morrigan Aensland (Dark vampiric enchantress P2)",
+ "title": "Morrigan Aensland",
  "images": [
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-1.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-2.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-3.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-4.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-5.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-6.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-7.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-8.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-9.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-10.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-11.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-12.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-13.jpg",
-  "images/esmonster/darkstalkers/morrigan-aensland-dark-vampiric-enchantress-p2/morrigan-aensland-dark-vampiric-enchantress-p2-14.jpg"
+  "images/esmonster/darkstalkers/morrigan-aensland-v2/morrigan-aensland-v2-1.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v2/morrigan-aensland-v2-2.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v2/morrigan-aensland-v2-3.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v2/morrigan-aensland-v2-4.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v2/morrigan-aensland-v2-5.jpg",
+  "images/esmonster/darkstalkers/morrigan-aensland-v2/morrigan-aensland-v2-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -30650,16 +30508,7 @@ const MODELS = [
   "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-4.jpg",
   "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-5.jpg",
   "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-6.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-7.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-8.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-9.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-10.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-11.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-12.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-13.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-14.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-15.jpg",
-  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-16.jpg"
+  "images/esmonster/darkstalkers/lilith-aensland/lilith-aensland-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -30856,9 +30705,7 @@ const MODELS = [
   "images/esmonster/black-widow/black-widow/black-widow-7.jpg",
   "images/esmonster/black-widow/black-widow/black-widow-8.jpg",
   "images/esmonster/black-widow/black-widow/black-widow-9.jpg",
-  "images/esmonster/black-widow/black-widow/black-widow-10.jpg",
-  "images/esmonster/black-widow/black-widow/black-widow-11.jpg",
-  "images/esmonster/black-widow/black-widow/black-widow-12.jpg"
+  "images/esmonster/black-widow/black-widow/black-widow-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -31139,9 +30986,7 @@ const MODELS = [
  "title": "Holli Would",
  "images": [
   "images/esmonster/cool-world/holli-would/holli-would-1.jpg",
-  "images/esmonster/cool-world/holli-would/holli-would-2.jpg",
-  "images/esmonster/cool-world/holli-would/holli-would-3.jpg",
-  "images/esmonster/cool-world/holli-would/holli-would-4.jpg"
+  "images/esmonster/cool-world/holli-would/holli-would-2.jpg"
  ],
  "scaleOptions": [
   {
@@ -31247,25 +31092,7 @@ const MODELS = [
   "images/esmonster/daredevil/elektra/elektra-8.jpg",
   "images/esmonster/daredevil/elektra/elektra-9.jpg",
   "images/esmonster/daredevil/elektra/elektra-10.jpg",
-  "images/esmonster/daredevil/elektra/elektra-11.jpg",
-  "images/esmonster/daredevil/elektra/elektra-12.jpg",
-  "images/esmonster/daredevil/elektra/elektra-13.jpg",
-  "images/esmonster/daredevil/elektra/elektra-14.jpg",
-  "images/esmonster/daredevil/elektra/elektra-15.jpg",
-  "images/esmonster/daredevil/elektra/elektra-16.jpg",
-  "images/esmonster/daredevil/elektra/elektra-17.jpg",
-  "images/esmonster/daredevil/elektra/elektra-18.jpg",
-  "images/esmonster/daredevil/elektra/elektra-19.jpg",
-  "images/esmonster/daredevil/elektra/elektra-20.jpg",
-  "images/esmonster/daredevil/elektra/elektra-21.jpg",
-  "images/esmonster/daredevil/elektra/elektra-22.jpg",
-  "images/esmonster/daredevil/elektra/elektra-23.jpg",
-  "images/esmonster/daredevil/elektra/elektra-24.jpg",
-  "images/esmonster/daredevil/elektra/elektra-25.jpg",
-  "images/esmonster/daredevil/elektra/elektra-26.jpg",
-  "images/esmonster/daredevil/elektra/elektra-27.jpg",
-  "images/esmonster/daredevil/elektra/elektra-28.jpg",
-  "images/esmonster/daredevil/elektra/elektra-29.jpg"
+  "images/esmonster/daredevil/elektra/elektra-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -31342,17 +31169,12 @@ const MODELS = [
  "series": "Barsoom",
  "title": "Dejah Thoris",
  "images": [
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-1.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-2.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-3.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-4.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-5.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-6.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-7.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-8.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-9.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-10.jpg",
-  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-11.jpg"
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-01.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-02.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-03.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-04.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-05.jpg",
+  "images/esmonster/barsoom/dejah-thoris/dejah-thoris-06.jpg"
  ],
  "scaleOptions": [
   {
@@ -31621,25 +31443,20 @@ const MODELS = [
  "description": "Original resin sculpt of Reika Shimohira from Gantz."
 },
  {
- "id": "esm-faye-valentine-galactic-bounty-huntress",
+ "id": "esm-faye-valentine-v1",
  "artist": "ESMonster",
  "series": "Cowboy Bebop",
- "title": "Faye Valentine (Galactic Bounty Huntress)",
+ "title": "Faye Valentine",
  "images": [
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-1.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-2.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-3.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-4.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-5.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-6.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-7.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-8.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-9.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-10.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-11.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-12.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-13.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress/faye-valentine-galactic-bounty-huntress-14.jpg"
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-1.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-2.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-3.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-4.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-5.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-6.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-7.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-8.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v1/faye-valentine-v1-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -31651,25 +31468,18 @@ const MODELS = [
  "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
 },
  {
- "id": "esm-faye-valentine-galactic-bounty-huntress-p1-head-swap",
+ "id": "esm-faye-valentine-v2",
  "artist": "ESMonster",
  "series": "Cowboy Bebop",
- "title": "Faye Valentine (Galactic Bounty Huntress P1 Head-Swap)",
+ "title": "Faye Valentine (Swimsuit ver 1)",
  "images": [
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-1.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-2.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-3.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-4.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-5.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-6.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-7.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-8.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-9.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-10.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-11.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-12.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-13.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntress-p1-head-swap/faye-valentine-galactic-bounty-huntress-p1-head-swap-14.jpg"
+  "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-1.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-2.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-3.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-4.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-5.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-6.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -31681,29 +31491,18 @@ const MODELS = [
  "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
 },
  {
- "id": "esm-faye-valentine-galactic-bounty-huntressp2-head-swap",
+ "id": "esm-faye-valentine-v3",
  "artist": "ESMonster",
  "series": "Cowboy Bebop",
- "title": "Faye Valentine (Galactic Bounty HuntressP2 Head-Swap)",
+ "title": "Faye Valentine (Swimsuit ver 2)",
  "images": [
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-1.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-2.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-3.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-4.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-5.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-6.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-7.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-8.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-9.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-10.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-11.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-12.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-13.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-14.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-15.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-16.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-17.jpg",
-  "images/esmonster/cowboy-bebop/faye-valentine-galactic-bounty-huntressp2-head-swap/faye-valentine-galactic-bounty-huntressp2-head-swap-18.jpg"
+  "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-1.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-2.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-3.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-4.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-5.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-6.jpg",
+  "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -31828,8 +31627,7 @@ const MODELS = [
   "images/esmonster/clair-obscur-expedition-33/maelle/maelle-1.jpg",
   "images/esmonster/clair-obscur-expedition-33/maelle/maelle-2.jpg",
   "images/esmonster/clair-obscur-expedition-33/maelle/maelle-3.jpg",
-  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-4.jpg",
-  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-5.jpg"
+  "images/esmonster/clair-obscur-expedition-33/maelle/maelle-4.jpg"
  ],
  "scaleOptions": [
   {
@@ -31841,34 +31639,28 @@ const MODELS = [
  "description": "Original resin sculpt of Maelle from Clair Obscur: Expedition 33."
 },
  {
- "id": "esm-batgirl-barbara-gordon",
+ "id": "esm-batgirl",
  "artist": "ESMonster",
  "series": "Batman",
  "title": "Batgirl | Barbara Gordon",
  "images": [
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-1.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-2.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-3.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-4.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-5.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-6.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-7.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-8.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-9.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-10.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-11.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-12.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-13.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-14.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-15.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-16.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-17.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-18.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-19.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-20.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-21.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-22.jpg",
-  "images/esmonster/batman/batgirl-barbara-gordon/batgirl-barbara-gordon-23.jpg"
+  "images/esmonster/batman/batgirl/batgirl-01.jpg",
+  "images/esmonster/batman/batgirl/batgirl-02.jpg",
+  "images/esmonster/batman/batgirl/batgirl-03.jpg",
+  "images/esmonster/batman/batgirl/batgirl-04.jpg",
+  "images/esmonster/batman/batgirl/batgirl-05.jpg",
+  "images/esmonster/batman/batgirl/batgirl-06.jpg",
+  "images/esmonster/batman/batgirl/batgirl-07.jpg",
+  "images/esmonster/batman/batgirl/batgirl-08.jpg",
+  "images/esmonster/batman/batgirl/batgirl-09.jpg",
+  "images/esmonster/batman/batgirl/batgirl-10.jpg",
+  "images/esmonster/batman/batgirl/batgirl-11.jpg",
+  "images/esmonster/batman/batgirl/batgirl-12.jpg",
+  "images/esmonster/batman/batgirl/batgirl-13.jpg",
+  "images/esmonster/batman/batgirl/batgirl-14.jpg",
+  "images/esmonster/batman/batgirl/batgirl-15.jpg",
+  "images/esmonster/batman/batgirl/batgirl-16.jpg",
+  "images/esmonster/batman/batgirl/batgirl-17.jpg"
  ],
  "scaleOptions": [
   {
@@ -32138,15 +31930,15 @@ const MODELS = [
  "series": "Baulder's Gate 3",
  "title": "Karlach",
  "images": [
-  "images/esmonster/baulders-gate-3/karlach/karlach-1.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-2.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-3.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-4.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-5.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-6.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-7.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-8.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-9.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-01.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-02.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-03.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-04.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-05.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-06.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-07.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-08.jpg",
+  "images/esmonster/baulders-gate-3/karlach/karlach-09.jpg",
   "images/esmonster/baulders-gate-3/karlach/karlach-10.jpg",
   "images/esmonster/baulders-gate-3/karlach/karlach-11.jpg",
   "images/esmonster/baulders-gate-3/karlach/karlach-12.jpg",
@@ -32155,19 +31947,7 @@ const MODELS = [
   "images/esmonster/baulders-gate-3/karlach/karlach-15.jpg",
   "images/esmonster/baulders-gate-3/karlach/karlach-16.jpg",
   "images/esmonster/baulders-gate-3/karlach/karlach-17.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-18.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-19.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-20.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-21.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-22.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-23.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-24.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-25.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-26.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-27.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-28.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-29.jpg",
-  "images/esmonster/baulders-gate-3/karlach/karlach-30.jpg"
+  "images/esmonster/baulders-gate-3/karlach/karlach-18.jpg"
  ],
  "scaleOptions": [
   {
@@ -33050,52 +32830,46 @@ const MODELS = [
  "description": "Original resin sculpt of Jessie from Pokemon."
 },
  {
- "id": "esm-dagger-tandy-bowen",
+ "id": "esm-dagger-v1",
  "artist": "ESMonster",
  "series": "Cloak & Dagger",
  "title": "Dagger | Tandy Bowen",
  "images": [
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-1.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-2.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-3.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-4.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-5.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-6.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-7.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-8.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-9.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-10.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-11.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-12.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-13.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-14.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-15.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-16.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-17.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-18.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-19.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-20.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-21.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-22.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-23.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-24.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-25.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-26.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-27.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-28.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-29.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-30.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-31.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-32.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-33.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-34.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-35.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-36.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-37.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-38.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-39.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-40.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen/dagger-tandy-bowen-41.jpg"
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-01.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-02.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-03.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-04.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-05.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-06.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-07.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-08.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-09.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Dagger | Tandy Bowen from Cloak & Dagger."
+},
+ {
+ "id": "esm-dagger-v2",
+ "artist": "ESMonster",
+ "series": "Cloak & Dagger",
+ "title": "Dagger | Tandy Bowen",
+ "images": [
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-01.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-02.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-03.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-04.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-05.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-06.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-07.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-08.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-09.jpg",
+  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -33538,20 +33312,18 @@ const MODELS = [
  "description": "Original resin sculpt of Zatanna from Zatanna."
 },
  {
- "id": "esm-cat-woman-night-prowling-cat-girl",
+ "id": "esm-catwoman-v1",
  "artist": "ESMonster",
  "series": "Batman",
- "title": "Cat Woman (Night Prowling Cat Girl)",
+ "title": "Catwoman",
  "images": [
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-1.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-2.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-3.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-4.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-5.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-6.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-7.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-8.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl/cat-woman-night-prowling-cat-girl-9.jpg"
+  "images/esmonster/batman/catwoman-v1/catwoman-v1-01.jpg",
+  "images/esmonster/batman/catwoman-v1/catwoman-v1-02.jpg",
+  "images/esmonster/batman/catwoman-v1/catwoman-v1-03.jpg",
+  "images/esmonster/batman/catwoman-v1/catwoman-v1-04.jpg",
+  "images/esmonster/batman/catwoman-v1/catwoman-v1-05.jpg",
+  "images/esmonster/batman/catwoman-v1/catwoman-v1-06.jpg",
+  "images/esmonster/batman/catwoman-v1/catwoman-v1-07.jpg"
  ],
  "scaleOptions": [
   {
@@ -33563,27 +33335,20 @@ const MODELS = [
  "description": "Original resin sculpt of Cat Woman from Batman."
 },
  {
- "id": "esm-cat-woman-night-prowling-cat-girl-p2",
+ "id": "esm-catwoman-v2",
  "artist": "ESMonster",
  "series": "Batman",
- "title": "Cat Woman (Night Prowling Cat Girl P2)",
+ "title": "Catwoman",
  "images": [
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-1.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-2.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-3.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-4.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-5.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-6.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-7.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-8.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-9.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-10.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-11.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-12.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-13.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-14.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-15.jpg",
-  "images/esmonster/batman/cat-woman-night-prowling-cat-girl-p2/cat-woman-night-prowling-cat-girl-p2-16.jpg"
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-01.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-02.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-03.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-04.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-05.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-06.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-07.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-08.jpg",
+  "images/esmonster/batman/catwoman-v2/catwoman-v2-09.jpg"
  ],
  "scaleOptions": [
   {
@@ -33662,15 +33427,13 @@ const MODELS = [
  "series": "Alien",
  "title": "Ellen Ripley",
  "images": [
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-1.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-2.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-3.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-4.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-5.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-6.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-7.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-8.jpg",
-  "images/esmonster/alien/ellen-ripley/ellen-ripley-9.jpg"
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-01.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-02.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-03.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-04.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-05.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-06.jpg",
+  "images/esmonster/alien/ellen-ripley/ellen-ripley-07.jpg"
  ],
  "scaleOptions": [
   {
@@ -34065,18 +33828,14 @@ const MODELS = [
  "series": "Atlantis: The Lost Empire",
  "title": "Princess Kida",
  "images": [
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-1.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-2.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-3.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-4.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-5.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-6.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-7.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-8.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-9.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-10.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-11.jpg",
-  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-12.jpg"
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-01.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-02.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-03.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-04.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-05.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-06.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-07.jpg",
+  "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-08.jpg"
  ],
  "scaleOptions": [
   {
@@ -34571,25 +34330,7 @@ const MODELS = [
   "images/esmonster/daredevil/daredevil/daredevil-13.jpg",
   "images/esmonster/daredevil/daredevil/daredevil-14.jpg",
   "images/esmonster/daredevil/daredevil/daredevil-15.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-16.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-17.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-18.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-19.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-20.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-21.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-22.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-23.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-24.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-25.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-26.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-27.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-28.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-29.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-30.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-31.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-32.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-33.jpg",
-  "images/esmonster/daredevil/daredevil/daredevil-34.jpg"
+  "images/esmonster/daredevil/daredevil/daredevil-16.jpg"
  ],
  "scaleOptions": [
   {
@@ -35001,14 +34742,7 @@ const MODELS = [
   "images/esmonster/bloodrayne/rayne/rayne-5.jpg",
   "images/esmonster/bloodrayne/rayne/rayne-6.jpg",
   "images/esmonster/bloodrayne/rayne/rayne-7.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-8.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-9.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-10.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-11.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-12.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-13.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-14.jpg",
-  "images/esmonster/bloodrayne/rayne/rayne-15.jpg"
+  "images/esmonster/bloodrayne/rayne/rayne-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -35025,24 +34759,16 @@ const MODELS = [
  "series": "Batman",
  "title": "Poison Ivy",
  "images": [
-  "images/esmonster/batman/poison-ivy/poison-ivy-1.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-2.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-3.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-4.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-5.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-6.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-7.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-8.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-9.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-10.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-11.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-12.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-13.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-14.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-15.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-16.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-17.jpg",
-  "images/esmonster/batman/poison-ivy/poison-ivy-18.jpg"
+  "images/esmonster/batman/poison-ivy/poison-ivy-01.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-02.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-03.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-04.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-05.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-06.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-07.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-08.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-09.jpg",
+  "images/esmonster/batman/poison-ivy/poison-ivy-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -35141,75 +34867,18 @@ const MODELS = [
  "description": "Original resin sculpt of The Rocketeer [Fem ver] from The Rocketeer."
 },
  {
- "id": "esm-betty-boop-retro-playful-woman",
+ "id": "esm-bettyboop",
  "artist": "ESMonster",
  "series": "Betty Boop",
- "title": "Betty Boop (Retro Playful Woman)",
+ "title": "Betty Boop",
  "images": [
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-1.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-2.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-3.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-4.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-5.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-6.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-7.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-8.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-9.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman/betty-boop-retro-playful-woman-10.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Betty Boop from Betty Boop."
-},
- {
- "id": "esm-betty-boop-retro-playful-woman-suntanned-ver",
- "artist": "ESMonster",
- "series": "Betty Boop",
- "title": "Betty Boop (Retro Playful Woman Suntanned Ver)",
- "images": [
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-1.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-2.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-3.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-4.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-5.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-6.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-7.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-8.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-9.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-10.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-11.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-12.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-13.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-14.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-15.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-16.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-17.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-18.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-19.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-20.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-21.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-22.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-23.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-24.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-25.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-26.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-27.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-28.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-29.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-30.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-31.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-32.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-33.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-34.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-35.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-36.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-37.jpg",
-  "images/esmonster/betty-boop/betty-boop-retro-playful-woman-suntanned-ver/betty-boop-retro-playful-woman-suntanned-ver-38.jpg"
+  "images/esmonster/betty-boop/betty-boop/bettyboop-v1-01.jpg",
+  "images/esmonster/betty-boop/betty-boop/bettyboop-v1-02.jpg",
+  "images/esmonster/betty-boop/betty-boop/bettyboop-v1-03.jpg",
+  "images/esmonster/betty-boop/betty-boop/bettyboop-v1-04.jpg",
+  "images/esmonster/betty-boop/betty-boop/bettyboop-v1-05.jpg",
+  "images/esmonster/betty-boop/betty-boop/bettyboop-v1-06.jpg",
+  "images/esmonster/betty-boop/betty-boop/bettyboop-v1-07.jpg"
  ],
  "scaleOptions": [
   {
@@ -35449,32 +35118,16 @@ const MODELS = [
  "series": "Bayonetta",
  "title": "Bayonetta",
  "images": [
-  "images/esmonster/bayonetta/bayonetta/bayonetta-1.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-2.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-3.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-4.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-5.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-6.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-7.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-8.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-9.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-10.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-11.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-12.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-13.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-14.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-15.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-16.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-17.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-18.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-19.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-20.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-21.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-22.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-23.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-24.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-25.jpg",
-  "images/esmonster/bayonetta/bayonetta/bayonetta-26.jpg"
+  "images/esmonster/bayonetta/bayonetta/bayonetta-01.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-02.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-03.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-04.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-05.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-06.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-07.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-08.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-09.jpg",
+  "images/esmonster/bayonetta/bayonetta/bayonetta-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -36386,28 +36039,7 @@ const MODELS = [
   "images/esmonster/darkstalkers/felicia/felicia-6.jpg",
   "images/esmonster/darkstalkers/felicia/felicia-7.jpg",
   "images/esmonster/darkstalkers/felicia/felicia-8.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-9.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-10.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-11.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-12.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-13.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-14.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-15.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-16.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-17.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-18.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-19.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-20.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-21.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-22.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-23.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-24.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-25.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-26.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-27.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-28.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-29.jpg",
-  "images/esmonster/darkstalkers/felicia/felicia-30.jpg"
+  "images/esmonster/darkstalkers/felicia/felicia-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -36722,33 +36354,4 @@ const MODELS = [
  ],
  "description": "Original resin sculpt of Power Girl from Power Girl."
 },
- {
- "id": "esm-lucy",
- "artist": "ESMonster",
- "series": "Cyberpunk:Edgerunners",
- "title": "Lucy",
- "images": [
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-1.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-2.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-3.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-4.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-5.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-6.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-7.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-8.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-9.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-10.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-11.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-12.jpg",
-  "images/esmonster/cyberpunk-edgerunners/lucy/lucy-13.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Lucy from Cyberpunk:Edgerunners."
-}
 ];
