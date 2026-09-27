@@ -6074,7 +6074,7 @@ const MODELS = [
  {
   "id": "abe-ivy-valentine",
   "artist": "Abe3D",
-  "series": "Soul Calibur",
+  "series": "Soulcalibur",
   "title": "Ivy Valentine",
   "images": [
    "images/abe3d/soul-calibur/ivy-valentine/abe-ivy-valentine-1.jpg",
@@ -9069,7 +9069,7 @@ const MODELS = [
  {
   "id": "moonn-taki",
   "artist": "3Dmoonn",
-  "series": "Soul Calibur",
+  "series": "Soulcalibur",
   "title": "Taki",
   "images": [
    "images/3dmoonn/soul-calibur/taki/moonn-taki-1.jpg",
@@ -9583,7 +9583,7 @@ const MODELS = [
  {
   "id": "moonn-android-21",
   "artist": "3Dmoonn",
-  "series": "Dragon Ball Fighter Z",
+  "series": "Dragon Ball FighterZ",
   "title": "Android 21",
   "images": [
    "images/3dmoonn/dragon-ball/android-21/moonn-android-21-1.jpg",
@@ -10312,7 +10312,7 @@ const MODELS = [
  {
   "id": "moonn-jessica-cruz",
   "artist": "3Dmoonn",
-  "series": "Jessica Cruz | Green Lantern",
+  "series": "Green Lantern",
   "title": "Jessica Cruz",
   "images": [
    "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-1.jpg",
@@ -18809,7 +18809,7 @@ const MODELS = [
  {
   "id": "tanuki-pennywise-chibi",
   "artist": "Tanuki Figures",
-  "series": "It",
+  "series": "IT",
   "title": "Pennywise (Chibi)",
   "images": [
    "images/tanuki-figures/it/pennywise-chibi/pennywise-chibi-1.jpg",
@@ -21888,7 +21888,7 @@ const MODELS = [
  {
   "id": "ca3d-cloak-and-dagger",
   "artist": "CA3D Studios",
-  "series": "Cloak and Dagger",
+  "series": "Cloak & Dagger",
   "title": "Cloak and Dagger",
   "images": [
    "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-1.jpg",
@@ -23327,7 +23327,7 @@ const MODELS = [
  {
   "id": "ca3d-ivy-valentine-soul-calibur",
   "artist": "CA3D Studios",
-  "series": "Soul Calibur",
+  "series": "Soulcalibur",
   "title": "Ivy Valentine - Soul Calibur",
   "images": [
    "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-1.jpg",
@@ -26207,7 +26207,7 @@ const MODELS = [
  {
   "id": "ca3d-saber",
   "artist": "CA3D Studios",
-  "series": "Fate series",
+  "series": "Fate/stay night",
   "title": "Saber",
   "images": [
    "images/ca3d/fate-series/saber/saber-1.jpg",
@@ -28993,7 +28993,7 @@ const MODELS = [
  {
  "id": "esm-artoria-pendragon-alter",
  "artist": "ESMonster",
- "series": "Fate (Series)",
+ "series": "Fate/stay night",
  "title": "Artoria Pendragon Alter",
  "images": [
   "images/esmonster/fate-series/artoria-pendragon-alter/artoria-pendragon-alter-1.jpg",
@@ -31051,7 +31051,7 @@ const MODELS = [
  {
  "id": "esm-a2-female-swordswoman",
  "artist": "ESMonster",
- "series": "NieR:Automata",
+ "series": "NieR: Automata",
  "title": "A2 (Female Swordswoman)",
  "images": [
   "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-1.jpg",
@@ -31074,7 +31074,7 @@ const MODELS = [
  {
  "id": "esm-a2-female-swordswoman-includes-3-sets-of-postures",
  "artist": "ESMonster",
- "series": "NieR:Automata",
+ "series": "NieR: Automata",
  "title": "A2 (Female Swordswoman Includes 3 sets of postures)",
  "images": [
   "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-1.jpg",
@@ -31728,7 +31728,7 @@ const MODELS = [
  {
  "id": "esm-karlach",
  "artist": "ESMonster",
- "series": "Baulder's Gate 3",
+ "series": "Baldur's Gate 3",
  "title": "Karlach",
  "images": [
   "images/esmonster/baulders-gate-3/karlach/karlach-01.jpg",
@@ -33471,7 +33471,7 @@ const MODELS = [
  {
  "id": "esm-princess-kida",
  "artist": "ESMonster",
- "series": "Atlantis: The Lost Empire",
+ "series": "Disney's Atlantis: The Lost Empire",
  "title": "Princess Kida",
  "images": [
   "images/esmonster/atlantis-the-lost-empire/princess-kida/princess-kida-01.jpg",
@@ -35694,7 +35694,7 @@ const MODELS = [
  {
  "id": "esm-2b-white-haired-android-girl",
  "artist": "ESMonster",
- "series": "NieR:Automata",
+ "series": "NieR: Automata",
  "title": "2B (White-Haired Android Girl)",
  "images": [
   "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-1.jpg",
@@ -35730,7 +35730,7 @@ const MODELS = [
  {
  "id": "esm-2b-white-haired-android-girl-p2-head-swap",
  "artist": "ESMonster",
- "series": "NieR:Automata",
+ "series": "NieR: Automata",
  "title": "2B (White-Haired Android Girl P2 Head-Swap)",
  "images": [
   "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-1.jpg",
@@ -35758,7 +35758,7 @@ const MODELS = [
  {
  "id": "esm-2b-white-haired-android-girlp1-head-swap",
  "artist": "ESMonster",
- "series": "NieR:Automata",
+ "series": "NieR: Automata",
  "title": "2B (White-Haired Android GirlP1 Head-Swap)",
  "images": [
   "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-1.jpg",
@@ -35781,7 +35781,7 @@ const MODELS = [
  {
  "id": "esm-2b-white-haired-android-girl-includes-3-sets-of-postures",
  "artist": "ESMonster",
- "series": "NieR:Automata",
+ "series": "NieR: Automata",
  "title": "2B (White-Haired Android Girl Includes 3 sets of postures)",
  "images": [
   "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-1.jpg",
