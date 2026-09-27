@@ -32531,7 +32531,7 @@ const MODELS = [
  {
  "id": "esm-jessie",
  "artist": "ESMonster",
- "series": "Pokemon",
+ "series": "Pokémon",
  "title": "Jessie",
  "images": [
   "images/esmonster/pokemon/jessie/jessie-1.jpg",
@@ -33423,7 +33423,7 @@ const MODELS = [
  {
  "id": "esm-misty",
  "artist": "ESMonster",
- "series": "Pokemon",
+ "series": "Pokémon",
  "title": "Misty",
  "images": [
   "images/esmonster/pokemon/misty/misty-1.jpg",
