@@ -107,6 +107,17 @@ nav {
     pointer-events: none;
 }
 
+.btn-secondary {
+    background: transparent;
+    color: #d4a843;
+    border: 1px solid #d4a843;
+}
+
+.btn-secondary:hover {
+    background: rgba(212, 168, 67, 0.12);
+    transform: translateY(-2px);
+}
+
 /* ===== Content Sections ===== */
 
 .section {
