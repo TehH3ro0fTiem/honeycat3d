@@ -28419,24 +28419,11 @@ const MODELS = [
  "series": "Frieren: Beyond Journey's End",
  "title": "Frieren",
  "images": [
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-1.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-2.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-3.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-4.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-5.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-6.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-7.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-8.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-9.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-10.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-11.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-12.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-13.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-14.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-15.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-16.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-17.jpg",
-  "images/esmonster/frieren-beyond-journey-s-end/frieren/frieren-18.jpg"
+  "images/esmonster/frieren-beyond-journeys-end/frieren/frieren-1.jpg",
+  "images/esmonster/frieren-beyond-journeys-end/frieren/frieren-2.jpg",
+  "images/esmonster/frieren-beyond-journeys-end/frieren/frieren-3.jpg",
+  "images/esmonster/frieren-beyond-journeys-end/frieren/frieren-4.jpg",
+  "images/esmonster/frieren-beyond-journeys-end/frieren/frieren-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -28684,50 +28671,19 @@ const MODELS = [
  "description": "Original resin sculpt of Kingpin from Marvel Comics."
 },
  {
- "id": "esm-motoko-kusanagi-bio-enhanced-girl",
- "artist": "ESMonster",
- "series": "Ghost in the Shell",
- "title": "Motoko Kusanagi (Bio-Enhanced Girl)",
- "images": [
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-1.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-2.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-3.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-4.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-5.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-6.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-7.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-8.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-9.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-bio-enhanced-girl/motoko-kusanagi-bio-enhanced-girl-10.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
-},
- {
- "id": "esm-motoko-kusanagi-cyberpunk-style-girl",
+ "id": "esm-motoko-kusanagi-v2",
  "artist": "ESMonster",
  "series": "Ghost in the Shell",
  "title": "Motoko Kusanagi (Cyberpunk-style girl)",
  "images": [
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-1.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-2.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-3.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-4.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-5.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-6.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-7.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-8.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-9.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-10.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-11.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-12.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl/motoko-kusanagi-cyberpunk-style-girl-13.jpg"
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-1.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-2.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-3.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-4.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-5.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-6.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-7.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v2/motoko-kusanagi-v2-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -28739,38 +28695,26 @@ const MODELS = [
  "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
 },
  {
- "id": "esm-motoko-kusanagi-cyberpunk-style-girl-p2",
+ "id": "esm-motoko-kusanagi-v1-",
  "artist": "ESMonster",
  "series": "Ghost in the Shell",
- "title": "Motoko Kusanagi (Cyberpunk-style girl P2)",
+ "title": "Motoko Kusanagi",
  "images": [
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-1.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-2.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-3.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-4.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-5.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-6.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-7.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-8.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-9.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-10.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-11.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-12.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-13.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-14.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-15.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-16.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-17.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-18.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-19.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-20.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-21.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-22.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-23.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-24.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-25.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-26.jpg",
-  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-cyberpunk-style-girl-p2/motoko-kusanagi-cyberpunk-style-girl-p2-27.jpg"
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-1.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-2.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-3.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-4.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-5.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-6.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-7.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-8.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-9.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-10.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-11.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-12.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-13.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-14.jpg",
+  "images/esmonster/ghost-in-the-shell/motoko-kusanagi-v1/motoko-kusanagi-v1-15.jpg"
  ],
  "scaleOptions": [
   {
@@ -29148,9 +29092,7 @@ const MODELS = [
   "images/esmonster/hellsing/seras-victoria/seras-victoria-2.jpg",
   "images/esmonster/hellsing/seras-victoria/seras-victoria-3.jpg",
   "images/esmonster/hellsing/seras-victoria/seras-victoria-4.jpg",
-  "images/esmonster/hellsing/seras-victoria/seras-victoria-5.jpg",
-  "images/esmonster/hellsing/seras-victoria/seras-victoria-6.jpg",
-  "images/esmonster/hellsing/seras-victoria/seras-victoria-7.jpg"
+  "images/esmonster/hellsing/seras-victoria/seras-victoria-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -29230,13 +29172,7 @@ const MODELS = [
   "images/esmonster/fire-force/maki-oze/maki-oze-3.jpg",
   "images/esmonster/fire-force/maki-oze/maki-oze-4.jpg",
   "images/esmonster/fire-force/maki-oze/maki-oze-5.jpg",
-  "images/esmonster/fire-force/maki-oze/maki-oze-6.jpg",
-  "images/esmonster/fire-force/maki-oze/maki-oze-7.jpg",
-  "images/esmonster/fire-force/maki-oze/maki-oze-8.jpg",
-  "images/esmonster/fire-force/maki-oze/maki-oze-9.jpg",
-  "images/esmonster/fire-force/maki-oze/maki-oze-10.jpg",
-  "images/esmonster/fire-force/maki-oze/maki-oze-11.jpg",
-  "images/esmonster/fire-force/maki-oze/maki-oze-12.jpg"
+  "images/esmonster/fire-force/maki-oze/maki-oze-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -29935,19 +29871,7 @@ const MODELS = [
   "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-3.jpg",
   "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-4.jpg",
   "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-5.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-6.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-7.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-8.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-9.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-10.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-11.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-12.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-13.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-14.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-15.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-16.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-17.jpg",
-  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-18.jpg"
+  "images/esmonster/high-school-dxd/rias-gremory/rias-gremory-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -30921,74 +30845,49 @@ const MODELS = [
  "description": "Original resin sculpt of Holli Would from Cool World."
 },
  {
- "id": "esm-mavis-dracula",
+ "id": "esm-mavis-dracula-v1",
  "artist": "ESMonster",
  "series": "Hotel Transylvania",
  "title": "Mavis Dracula",
  "images": [
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-1.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-2.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-3.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-4.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-5.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-6.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-7.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-8.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-9.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-10.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-11.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-12.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-13.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-14.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-15.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-16.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-17.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-18.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-19.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-20.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-21.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-22.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-23.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-24.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-25.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-26.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-27.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-28.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-29.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-30.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-31.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-32.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-33.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-34.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-35.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-36.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-37.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-38.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-39.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-40.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-41.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-42.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-43.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-44.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-45.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-46.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-47.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-48.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-49.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-50.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-51.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-52.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-53.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-54.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-55.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-56.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-57.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-58.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-59.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-60.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-61.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-62.jpg",
-  "images/esmonster/hotel-transylvania/mavis-dracula/mavis-dracula-63.jpg"
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-1.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-2.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-3.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-4.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-5.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-6.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-7.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-8.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-9.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-10.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v1/mavis-dracula-v1-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Mavis Dracula from Hotel Transylvania."
+},
+ {
+ "id": "esm-mavis-dracula-v2",
+ "artist": "ESMonster",
+ "series": "Hotel Transylvania",
+ "title": "Mavis Dracula",
+ "images": [
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v21.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-1.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-2.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-3.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-4.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-5.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-6.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-7.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-8.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-9.jpg",
+  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -31351,9 +31250,7 @@ const MODELS = [
   "images/esmonster/gantz/reika-shimohira/reika-shimohira-2.jpg",
   "images/esmonster/gantz/reika-shimohira/reika-shimohira-3.jpg",
   "images/esmonster/gantz/reika-shimohira/reika-shimohira-4.jpg",
-  "images/esmonster/gantz/reika-shimohira/reika-shimohira-5.jpg",
-  "images/esmonster/gantz/reika-shimohira/reika-shimohira-6.jpg",
-  "images/esmonster/gantz/reika-shimohira/reika-shimohira-7.jpg"
+  "images/esmonster/gantz/reika-shimohira/reika-shimohira-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -31474,20 +31371,13 @@ const MODELS = [
  "series": "Invincible",
  "title": "Invincible | Mark Grayson",
  "images": [
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-1.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-2.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-3.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-4.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-5.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-6.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-7.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-8.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-9.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-10.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-11.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-12.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-13.jpg",
-  "images/esmonster/invincible/invincible-mark-grayson/invincible-mark-grayson-14.jpg"
+  "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-1.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-2.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-3.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-4.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-5.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-6.jpg",
+  "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -31795,20 +31685,13 @@ const MODELS = [
  "series": "IT",
  "title": "Pennywise [Fem ver]",
  "images": [
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-1.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-2.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-3.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-4.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-5.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-6.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-7.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-8.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-9.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-10.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-11.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-12.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-13.jpg",
-  "images/esmonster/it/pennywise-fem-ver/pennywise-fem-ver-14.jpg"
+  "images/esmonster/it/pennywise/pennywise-1.jpg",
+  "images/esmonster/it/pennywise/pennywise-2.jpg",
+  "images/esmonster/it/pennywise/pennywise-3.jpg",
+  "images/esmonster/it/pennywise/pennywise-4.jpg",
+  "images/esmonster/it/pennywise/pennywise-5.jpg",
+  "images/esmonster/it/pennywise/pennywise-6.jpg",
+  "images/esmonster/it/pennywise/pennywise-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -33292,16 +33175,7 @@ const MODELS = [
   "images/esmonster/guilty-gear/baiken/baiken-5.jpg",
   "images/esmonster/guilty-gear/baiken/baiken-6.jpg",
   "images/esmonster/guilty-gear/baiken/baiken-7.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-8.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-9.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-10.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-11.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-12.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-13.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-14.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-15.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-16.jpg",
-  "images/esmonster/guilty-gear/baiken/baiken-17.jpg"
+  "images/esmonster/guilty-gear/baiken/baiken-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -33483,32 +33357,6 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
-},
- {
- "id": "esm-red-hood",
- "artist": "ESMonster",
- "series": "Goddess of Victory: Nikke",
- "title": "Red Hood",
- "images": [
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-1.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-2.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-3.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-4.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-5.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-6.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-7.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-8.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-9.jpg",
-  "images/esmonster/goddess-of-victory-nikke/red-hood/red-hood-10.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Red Hood from Goddess of Victory: Nikke."
 },
  {
  "id": "esm-gambit",
@@ -34388,22 +34236,7 @@ const MODELS = [
   "images/esmonster/invincible/omni-man/omni-man-5.jpg",
   "images/esmonster/invincible/omni-man/omni-man-6.jpg",
   "images/esmonster/invincible/omni-man/omni-man-7.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-8.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-9.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-10.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-11.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-12.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-13.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-14.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-15.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-16.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-17.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-18.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-19.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-20.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-21.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-22.jpg",
-  "images/esmonster/invincible/omni-man/omni-man-23.jpg"
+  "images/esmonster/invincible/omni-man/omni-man-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -34699,8 +34532,7 @@ const MODELS = [
   "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-14.jpg",
   "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-15.jpg",
   "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-16.jpg",
-  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-17.jpg",
-  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-18.jpg"
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-17.jpg"
  ],
  "scaleOptions": [
   {
@@ -34753,8 +34585,7 @@ const MODELS = [
   "images/esmonster/hulk/the-hulk/the-hulk-34.jpg",
   "images/esmonster/hulk/the-hulk/the-hulk-35.jpg",
   "images/esmonster/hulk/the-hulk/the-hulk-36.jpg",
-  "images/esmonster/hulk/the-hulk/the-hulk-37.jpg",
-  "images/esmonster/hulk/the-hulk/the-hulk-38.jpg"
+  "images/esmonster/hulk/the-hulk/the-hulk-37.jpg"
  ],
  "scaleOptions": [
   {
@@ -35335,12 +35166,7 @@ const MODELS = [
   "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-24.jpg",
   "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-25.jpg",
   "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-26.jpg",
-  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-27.jpg",
-  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-28.jpg",
-  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-29.jpg",
-  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-30.jpg",
-  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-31.jpg",
-  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-32.jpg"
+  "images/esmonster/gen13/caitlin-fairchild/caitlin-fairchild-27.jpg"
  ],
  "scaleOptions": [
   {
@@ -35573,12 +35399,7 @@ const MODELS = [
   "images/esmonster/fullmetal-alchemist/lust/lust-18.jpg",
   "images/esmonster/fullmetal-alchemist/lust/lust-19.jpg",
   "images/esmonster/fullmetal-alchemist/lust/lust-20.jpg",
-  "images/esmonster/fullmetal-alchemist/lust/lust-21.jpg",
-  "images/esmonster/fullmetal-alchemist/lust/lust-22.jpg",
-  "images/esmonster/fullmetal-alchemist/lust/lust-23.jpg",
-  "images/esmonster/fullmetal-alchemist/lust/lust-24.jpg",
-  "images/esmonster/fullmetal-alchemist/lust/lust-25.jpg",
-  "images/esmonster/fullmetal-alchemist/lust/lust-26.jpg"
+  "images/esmonster/fullmetal-alchemist/lust/lust-21.jpg"
  ],
  "scaleOptions": [
   {
@@ -35680,26 +35501,7 @@ const MODELS = [
   "images/esmonster/hellboy/hellboy/hellboy-4.jpg",
   "images/esmonster/hellboy/hellboy/hellboy-5.jpg",
   "images/esmonster/hellboy/hellboy/hellboy-6.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-7.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-8.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-9.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-10.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-11.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-12.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-13.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-14.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-15.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-16.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-17.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-18.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-19.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-20.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-21.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-22.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-23.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-24.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-25.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-26.jpg"
+  "images/esmonster/hellboy/hellboy/hellboy-7.jpg"
  ],
  "scaleOptions": [
   {
