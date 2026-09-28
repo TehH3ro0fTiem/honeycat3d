@@ -2,7 +2,7 @@ const MODELS = [
  {
   "id": "bulkamancer-malenia",
   "artist": "Bulkamancer Sculpts",
-  "series": "Elden Ring",E
+  "series": "Elden Ring",
   "title": "Malenia, Blade of Miquella",
   "images": [
    "images/bulkamancer/elden-ring/malenia/bulka-malenia-1.jpg",
@@ -31885,6 +31885,7 @@ const MODELS = [
   "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-5.jpg",
   "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-6.jpg",
   "images/esmonster/kill-la-kill/satsuki-kiryuin/satsuki-kiryuin-7.jpg"
+ ],
  "scaleOptions": [
   {
    "scale": "Scale not yet listed",
@@ -32562,7 +32563,7 @@ const MODELS = [
  "description": "Original resin sculpt of Dagger | Tandy Bowen from Cloak & Dagger."
 },
  {
- "id": "esm-sorceress",
+ "id": "esm-sorceress-dragons-crown",
  "artist": "ESMonster",
  "series": "Dragon's Crown",
  "title": "Sorceress",
