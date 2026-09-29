@@ -35260,22 +35260,22 @@ const MODELS = [
  "series": "The Legend of Zelda",
  "title": "Adult Link [OoT]",
  "images": [
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-1.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-2.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-3.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-4.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-5.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-6.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-7.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-8.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-9.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-10.jpg",
-  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-11.jpg"
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-1.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-2.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-3.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-4.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-5.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-6.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-7.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-8.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-9.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-10.jpg",
+  "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-11.jpg"
  ],
  "scaleOptions": [
   {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
+   "scale": "1/6 Scale",
+   "size": "Approx. 13 in (33 cm) tall",
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
