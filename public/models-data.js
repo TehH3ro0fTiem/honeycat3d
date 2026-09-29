@@ -30674,7 +30674,6 @@ const MODELS = [
  "series": "Hotel Transylvania",
  "title": "Mavis Dracula",
  "images": [
-  "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v21.jpg",
   "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-1.jpg",
   "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-2.jpg",
   "images/esmonster/hotel-transylvania/mavis-dracula-v2/mavis-dracula-v2-3.jpg",
@@ -33607,14 +33606,14 @@ const MODELS = [
  "series": "King of Fighters",
  "title": "Mai Shiranui",
  "images": [
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-1.jpg",
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-2.jpg",
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-3.jpg",
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-4.jpg",
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-5.jpg",
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-6.jpg",
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-7.jpg",
-  "images/esmonster/king-of-fighters/mai-shiranui-v1-fighter/mai-shiranui-v1-8.jpg"
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-1.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-2.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-3.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-4.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-5.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-6.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-7.jpg",
+  "images/esmonster/king-of-fighters/mai-shiranui-v1/mai-shiranui-v1-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -35254,5 +35253,32 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Power Girl from Power Girl."
+},
+ {
+ "id": "b3d-adult-link",
+ "artist": "Bionic3d",
+ "series": "The Legend of Zelda",
+ "title": "Adult Link [OoT]",
+ "images": [
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-1.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-2.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-3.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-4.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-5.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-6.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-7.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-8.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-9.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-10.jpg",
+  "images/esmonster/the-legend-of-zelda/oot-adult-link/b3d-adult-link-11.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Adult Link from The Legend of Zelda: Ocarina of Time."
 },
 ];
