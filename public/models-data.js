@@ -27917,29 +27917,24 @@ const MODELS = [
   "description": "Original resin sculpt of Zodd from Berserk."
  },
  {
- "id": "esm-princess-zelda-adventure-princess",
+ "id": "esm-princess-zelda-v1",
  "artist": "ESMonster",
  "series": "The Legend of Zelda",
  "title": "Princess Zelda (Adventure Princess)",
  "images": [
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-1.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-2.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-3.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-4.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-5.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-6.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-7.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-8.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-9.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-10.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-11.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-12.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-13.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-14.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-15.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-16.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-17.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess/princess-zelda-adventure-princess-18.jpg"
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-1.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-2.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-3.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-4.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-5.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-6.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-7.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-8.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-9.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-10.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-11.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-12.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-13.jpg"
  ],
  "scaleOptions": [
   {
@@ -27951,46 +27946,26 @@ const MODELS = [
  "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
 },
  {
- "id": "esm-princess-zelda-adventure-princess-suntanned-ver",
+ "id": "esm-princess-zelda-v3",
  "artist": "ESMonster",
  "series": "The Legend of Zelda",
- "title": "Princess Zelda (Adventure Princess Suntanned Ver)",
+ "title": "Princess Zelda (Swimsuit Ver)",
  "images": [
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-1.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-2.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-3.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-4.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-5.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-6.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-7.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-8.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-9.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-10.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-11.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-12.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-13.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-14.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-15.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-16.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-17.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-18.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-19.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-20.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-21.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-22.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-23.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-24.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-25.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-26.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-27.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-28.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-29.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-30.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-31.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-32.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-33.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-34.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-suntanned-ver/princess-zelda-adventure-princess-suntanned-ver-35.jpg"
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-1.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-2.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-3.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-4.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-5.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-6.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-7.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-8.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-9.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-10.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-11.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-12.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-13.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-14.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-15.jpg"
  ],
  "scaleOptions": [
   {
@@ -28002,32 +27977,23 @@ const MODELS = [
  "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
 },
  {
- "id": "esm-princess-zelda-adventure-princess-dark-ver",
+ "id": "esm-princess-zelda-v2",
  "artist": "ESMonster",
  "series": "The Legend of Zelda",
- "title": "Princess Zelda (Adventure Princess Dark Ver)",
+ "title": "Princess Zelda (Goth Swimsuit Ver)",
  "images": [
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-1.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-2.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-3.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-4.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-5.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-6.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-7.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-8.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-9.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-10.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-11.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-12.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-13.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-14.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-15.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-16.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-17.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-18.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-19.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-20.jpg",
-  "images/esmonster/the-legend-of-zelda/princess-zelda-adventure-princess-dark-ver/princess-zelda-adventure-princess-dark-ver-21.jpg"
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-1.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-2.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-3.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-4.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-5.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-6.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-7.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-8.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-9.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-10.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-11.jpg",
+  "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -28051,15 +28017,7 @@ const MODELS = [
   "images/esmonster/teen-titans/starfire/starfire-5.jpg",
   "images/esmonster/teen-titans/starfire/starfire-6.jpg",
   "images/esmonster/teen-titans/starfire/starfire-7.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-8.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-9.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-10.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-11.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-12.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-13.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-14.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-15.jpg",
-  "images/esmonster/teen-titans/starfire/starfire-16.jpg"
+  "images/esmonster/teen-titans/starfire/starfire-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -28354,18 +28312,7 @@ const MODELS = [
   "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-9.jpg",
   "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-10.jpg",
   "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-11.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-12.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-13.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-14.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-15.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-16.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-17.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-18.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-19.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-20.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-21.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-22.jpg",
-  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-23.jpg"
+  "images/esmonster/marvel-comics/squirrel-girl/squirrel-girl-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -28650,16 +28597,7 @@ const MODELS = [
   "images/esmonster/marvel-comics/kingpin/kingpin-6.jpg",
   "images/esmonster/marvel-comics/kingpin/kingpin-7.jpg",
   "images/esmonster/marvel-comics/kingpin/kingpin-8.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-9.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-10.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-11.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-12.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-13.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-14.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-15.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-16.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-17.jpg",
-  "images/esmonster/marvel-comics/kingpin/kingpin-18.jpg"
+  "images/esmonster/marvel-comics/kingpin/kingpin-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -29060,18 +28998,7 @@ const MODELS = [
   "images/esmonster/naruto/tsunade/tsunade-8.jpg",
   "images/esmonster/naruto/tsunade/tsunade-9.jpg",
   "images/esmonster/naruto/tsunade/tsunade-10.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-11.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-12.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-13.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-14.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-15.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-16.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-17.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-18.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-19.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-20.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-21.jpg",
-  "images/esmonster/naruto/tsunade/tsunade-22.jpg"
+  "images/esmonster/naruto/tsunade/tsunade-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -29233,16 +29160,7 @@ const MODELS = [
   "images/esmonster/overwatch/d-va/d-va-2.jpg",
   "images/esmonster/overwatch/d-va/d-va-3.jpg",
   "images/esmonster/overwatch/d-va/d-va-4.jpg",
-  "images/esmonster/overwatch/d-va/d-va-5.jpg",
-  "images/esmonster/overwatch/d-va/d-va-6.jpg",
-  "images/esmonster/overwatch/d-va/d-va-7.jpg",
-  "images/esmonster/overwatch/d-va/d-va-8.jpg",
-  "images/esmonster/overwatch/d-va/d-va-9.jpg",
-  "images/esmonster/overwatch/d-va/d-va-10.jpg",
-  "images/esmonster/overwatch/d-va/d-va-11.jpg",
-  "images/esmonster/overwatch/d-va/d-va-12.jpg",
-  "images/esmonster/overwatch/d-va/d-va-13.jpg",
-  "images/esmonster/overwatch/d-va/d-va-14.jpg"
+  "images/esmonster/overwatch/d-va/d-va-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -29289,28 +29207,21 @@ const MODELS = [
  {
  "id": "esm-quiet",
  "artist": "ESMonster",
- "series": "Metal Gear Solid V",
+ "series": "Metal Gear Solid 5",
  "title": "Quiet",
  "images": [
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-1.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-2.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-3.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-4.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-5.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-6.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-7.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-8.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-9.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-10.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-11.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-12.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-13.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-14.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-15.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-16.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-17.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-18.jpg",
-  "images/esmonster/metal-gear-solid-v/quiet/quiet-19.jpg"
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-1.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-2.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-3.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-4.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-5.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-6.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-7.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-8.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-9.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-10.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-11.jpg",
+  "images/esmonster/metal-gear-solid-5/quiet/quiet-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -29319,7 +29230,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Quiet from Metal Gear Solid V."
+ "description": "Original resin sculpt of Quiet from Metal Gear Solid 5."
 },
  {
  "id": "esm-harley-quinn",
@@ -29841,13 +29752,7 @@ const MODELS = [
   "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-5.jpg",
   "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-6.jpg",
   "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-7.jpg",
-  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-8.jpg",
-  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-9.jpg",
-  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-10.jpg",
-  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-11.jpg",
-  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-12.jpg",
-  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-13.jpg",
-  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-14.jpg"
+  "images/esmonster/marvel-comics/wanda-maximoff/wanda-maximoff-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -30002,36 +29907,6 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Darth Talon from Star Wars."
-},
- {
- "id": "esm-red-sonja",
- "artist": "ESMonster",
- "series": "Red Sonja",
- "title": "Red Sonja",
- "images": [
-  "images/esmonster/red-sonja/red-sonja/red-sonja-1.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-2.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-3.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-4.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-5.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-6.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-7.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-8.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-9.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-10.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-11.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-12.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-13.jpg",
-  "images/esmonster/red-sonja/red-sonja/red-sonja-14.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Red Sonja from Red Sonja."
 },
  {
  "id": "esm-sadako",
@@ -30468,50 +30343,6 @@ const MODELS = [
  "description": "Original resin sculpt of Bowsette from Super Mario."
 },
  {
- "id": "esm-aldrif-odinsdottir",
- "artist": "ESMonster",
- "series": "Marvel Comics",
- "title": "Aldrif Odinsdottir",
- "images": [
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-1.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-2.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-3.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-4.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-5.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-6.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-7.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-8.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-9.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-10.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-11.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-12.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-13.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-14.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-15.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-16.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-17.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-18.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-19.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-20.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-21.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-22.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-23.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-24.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-25.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-26.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-27.jpg",
-  "images/esmonster/marvel-comics/aldrif-odinsdottir/aldrif-odinsdottir-28.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Aldrif Odinsdottir from Marvel Comics."
-},
- {
  "id": "esm-ghislaine-dedoldia",
  "artist": "ESMonster",
  "series": "Mushoku Tensei",
@@ -30572,13 +30403,7 @@ const MODELS = [
   "images/esmonster/overwatch/widowmaker/widowmaker-6.jpg",
   "images/esmonster/overwatch/widowmaker/widowmaker-7.jpg",
   "images/esmonster/overwatch/widowmaker/widowmaker-8.jpg",
-  "images/esmonster/overwatch/widowmaker/widowmaker-9.jpg",
-  "images/esmonster/overwatch/widowmaker/widowmaker-10.jpg",
-  "images/esmonster/overwatch/widowmaker/widowmaker-11.jpg",
-  "images/esmonster/overwatch/widowmaker/widowmaker-12.jpg",
-  "images/esmonster/overwatch/widowmaker/widowmaker-13.jpg",
-  "images/esmonster/overwatch/widowmaker/widowmaker-14.jpg",
-  "images/esmonster/overwatch/widowmaker/widowmaker-15.jpg"
+  "images/esmonster/overwatch/widowmaker/widowmaker-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -30590,20 +30415,18 @@ const MODELS = [
  "description": "Original resin sculpt of Widowmaker from Overwatch."
 },
  {
- "id": "esm-albedo-armored-demonic-guardian",
+ "id": "esm-albedo-armored-v1",
  "artist": "ESMonster",
  "series": "Overlord",
- "title": "Albedo [Armored] (Demonic Guardian)",
+ "title": "Albedo [Armored Ver v1]",
  "images": [
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-1.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-2.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-3.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-4.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-5.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-6.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-7.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-8.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian/albedo-armored-demonic-guardian-9.jpg"
+  "images/esmonster/overlord/albedo-armored/albedo-armored-1.jpg",
+  "images/esmonster/overlord/albedo-armored/albedo-armored-2.jpg",
+  "images/esmonster/overlord/albedo-armored/albedo-armored-3.jpg",
+  "images/esmonster/overlord/albedo-armored/albedo-armored-4.jpg",
+  "images/esmonster/overlord/albedo-armored/albedo-armored-5.jpg",
+  "images/esmonster/overlord/albedo-armored/albedo-armored-6.jpg",
+  "images/esmonster/overlord/albedo-armored/albedo-armored-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -30615,34 +30438,29 @@ const MODELS = [
  "description": "Original resin sculpt of Albedo [Armored] from Overlord."
 },
  {
- "id": "esm-albedo-armored-demonic-guardian-p2",
+ "id": "esm-albedo",
  "artist": "ESMonster",
  "series": "Overlord",
- "title": "Albedo [Armored] (Demonic Guardian P2)",
+ "title": "Albedo",
  "images": [
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-1.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-2.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-3.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-4.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-5.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-6.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-7.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-8.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-9.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-10.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-11.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-12.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-13.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-14.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-15.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-16.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-17.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-18.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-19.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-20.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-21.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-22.jpg",
-  "images/esmonster/overlord/albedo-armored-demonic-guardian-p2/albedo-armored-demonic-guardian-p2-23.jpg"
+  "images/esmonster/overlord/albedo/albedo-1.jpg",
+  "images/esmonster/overlord/albedo/albedo-2.jpg",
+  "images/esmonster/overlord/albedo/albedo-3.jpg",
+  "images/esmonster/overlord/albedo/albedo-4.jpg",
+  "images/esmonster/overlord/albedo/albedo-5.jpg",
+  "images/esmonster/overlord/albedo/albedo-6.jpg",
+  "images/esmonster/overlord/albedo/albedo-7.jpg",
+  "images/esmonster/overlord/albedo/albedo-8.jpg",
+  "images/esmonster/overlord/albedo/albedo-9.jpg",
+  "images/esmonster/overlord/albedo/albedo-10.jpg",
+  "images/esmonster/overlord/albedo/albedo-11.jpg",
+  "images/esmonster/overlord/albedo/albedo-12.jpg",
+  "images/esmonster/overlord/albedo/albedo-13.jpg",
+  "images/esmonster/overlord/albedo/albedo-14.jpg",
+  "images/esmonster/overlord/albedo/albedo-15.jpg",
+  "images/esmonster/overlord/albedo/albedo-16.jpg",
+  "images/esmonster/overlord/albedo/albedo-17.jpg",
+  "images/esmonster/overlord/albedo/albedo-18.jpg"
  ],
  "scaleOptions": [
   {
@@ -30656,59 +30474,43 @@ const MODELS = [
  {
  "id": "esm-scanty-kneesocks",
  "artist": "ESMonster",
- "series": "Panty & Stocking with Garterbelt",
+ "series": "Panty & Stocking",
  "title": "Scanty & Kneesocks",
  "images": [
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-1.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-2.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-3.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-4.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-5.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-6.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-7.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-8.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-9.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-10.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-11.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-12.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-13.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-14.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-15.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-16.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-17.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-18.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-19.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-20.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-21.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-22.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-23.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-24.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-25.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-26.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-27.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-28.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-29.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-30.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-31.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-32.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-33.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-34.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-35.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-36.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-37.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-38.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-39.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-40.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-41.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-42.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-43.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-44.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-45.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-46.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-47.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-48.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-49.jpg",
-  "images/esmonster/panty-stocking-with-garterbelt/scanty-kneesocks/scanty-kneesocks-50.jpg"
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-1.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-2.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-3.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-4.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-5.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-6.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-7.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-8.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-9.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-10.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-11.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-12.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-13.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-14.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-15.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-16.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-17.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-18.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-19.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-20.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-21.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-22.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-23.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-24.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-25.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-26.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-27.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-28.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-29.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-30.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-31.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-32.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-33.jpg",
+  "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-34.jpg"
  ],
  "scaleOptions": [
   {
@@ -31034,40 +30836,16 @@ const MODELS = [
  "description": "Original resin sculpt of Sorceress of Castle Grayskull from Masters of the Universe."
 },
  {
- "id": "esm-a2-female-swordswoman",
+ "id": "esm-a2-v1",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "A2 (Female Swordswoman)",
+ "title": "A2",
  "images": [
-  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-1.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-2.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-3.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-4.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-5.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-6.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman/a2-female-swordswoman-7.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of A2 from NieR:Automata."
-},
- {
- "id": "esm-a2-female-swordswoman-includes-3-sets-of-postures",
- "artist": "ESMonster",
- "series": "NieR: Automata",
- "title": "A2 (Female Swordswoman Includes 3 sets of postures)",
- "images": [
-  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-1.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-2.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-3.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-4.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-5.jpg",
-  "images/esmonster/nier-automata/a2-female-swordswoman-includes-3-sets-of-postures/a2-female-swordswoman-includes-3-sets-of-postures-6.jpg"
+  "images/esmonster/nier-automata/a2-v1/a2-v1-1.jpg",
+  "images/esmonster/nier-automata/a2-v1/a2-v1-2.jpg",
+  "images/esmonster/nier-automata/a2-v1/a2-v1-3.jpg",
+  "images/esmonster/nier-automata/a2-v1/a2-v1-4.jpg",
+  "images/esmonster/nier-automata/a2-v1/a2-v1-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -31319,12 +31097,7 @@ const MODELS = [
   "images/esmonster/metroid/samus-aran/samus-aran-9.jpg",
   "images/esmonster/metroid/samus-aran/samus-aran-10.jpg",
   "images/esmonster/metroid/samus-aran/samus-aran-11.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-12.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-13.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-14.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-15.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-16.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-17.jpg"
+  "images/esmonster/metroid/samus-aran/samus-aran-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -31373,23 +31146,7 @@ const MODELS = [
   "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-7.jpg",
   "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-8.jpg",
   "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-9.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-10.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-11.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-12.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-13.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-14.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-15.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-16.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-17.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-18.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-19.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-20.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-21.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-22.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-23.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-24.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-25.jpg",
-  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-26.jpg"
+  "images/esmonster/metroid/samus-aran-power-suit/samus-aran-power-suit-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -31487,46 +31244,6 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Shego from Kim Possible."
-},
- {
- "id": "esm-tatsumaki",
- "artist": "ESMonster",
- "series": "One Punch Man",
- "title": "Tatsumaki",
- "images": [
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-1.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-2.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-3.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-4.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-5.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-6.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-7.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-8.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-9.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-10.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-11.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-12.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-13.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-14.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-15.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-16.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-17.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-18.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-19.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-20.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-21.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-22.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-23.jpg",
-  "images/esmonster/one-punch-man/tatsumaki/tatsumaki-24.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Tatsumaki from One Punch Man."
 },
  {
  "id": "esm-rogue-green-suit-mutant-p1",
@@ -31757,36 +31474,6 @@ const MODELS = [
  "description": "Original resin sculpt of Draenei from World of Warcraft."
 },
  {
- "id": "esm-yamato",
- "artist": "ESMonster",
- "series": "One Piece",
- "title": "Yamato",
- "images": [
-  "images/esmonster/one-piece/yamato/yamato-1.jpg",
-  "images/esmonster/one-piece/yamato/yamato-2.jpg",
-  "images/esmonster/one-piece/yamato/yamato-3.jpg",
-  "images/esmonster/one-piece/yamato/yamato-4.jpg",
-  "images/esmonster/one-piece/yamato/yamato-5.jpg",
-  "images/esmonster/one-piece/yamato/yamato-6.jpg",
-  "images/esmonster/one-piece/yamato/yamato-7.jpg",
-  "images/esmonster/one-piece/yamato/yamato-8.jpg",
-  "images/esmonster/one-piece/yamato/yamato-9.jpg",
-  "images/esmonster/one-piece/yamato/yamato-10.jpg",
-  "images/esmonster/one-piece/yamato/yamato-11.jpg",
-  "images/esmonster/one-piece/yamato/yamato-12.jpg",
-  "images/esmonster/one-piece/yamato/yamato-13.jpg",
-  "images/esmonster/one-piece/yamato/yamato-14.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Yamato from One Piece."
-},
- {
  "id": "esm-terry-bogard",
  "artist": "ESMonster",
  "series": "King of Fighters",
@@ -31896,19 +31583,16 @@ const MODELS = [
  "description": "Original resin sculpt of Satsuki Kiryuin from Kill la Kill."
 },
  {
- "id": "esm-she-hulk-jennifer-walters",
+ "id": "esm-she-hulk",
  "artist": "ESMonster",
  "series": "Marvel Comics",
  "title": "She-Hulk | Jennifer Walters",
  "images": [
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-1.jpg",
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-2.jpg",
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-3.jpg",
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-4.jpg",
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-5.jpg",
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-6.jpg",
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-7.jpg",
-  "images/esmonster/marvel-comics/she-hulk-jennifer-walters/she-hulk-jennifer-walters-8.jpg"
+  "images/esmonster/marvel-comics/she-hulk/she-hulk-1.jpg",
+  "images/esmonster/marvel-comics/she-hulk/she-hulk-2.jpg",
+  "images/esmonster/marvel-comics/she-hulk/she-hulk-3.jpg",
+  "images/esmonster/marvel-comics/she-hulk/she-hulk-4.jpg",
+  "images/esmonster/marvel-comics/she-hulk/she-hulk-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -31930,10 +31614,7 @@ const MODELS = [
   "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-3.jpg",
   "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-4.jpg",
   "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-5.jpg",
-  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-6.jpg",
-  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-7.jpg",
-  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-8.jpg",
-  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-9.jpg"
+  "images/esmonster/neon-genesis-evangelion/rei-ayanami/rei-ayanami-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -32462,10 +32143,7 @@ const MODELS = [
  "series": "The Legend of Zelda",
  "title": "Riju [TotK]",
  "images": [
-  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-1.jpg",
-  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-2.jpg",
-  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-3.jpg",
-  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-4.jpg"
+  "images/esmonster/the-legend-of-zelda/riju-totk/riju-totk-1.jpg"
  ],
  "scaleOptions": [
   {
@@ -32482,25 +32160,17 @@ const MODELS = [
  "series": "Pokémon",
  "title": "Jessie",
  "images": [
-  "images/esmonster/pokemon/jessie/jessie-1.jpg",
-  "images/esmonster/pokemon/jessie/jessie-2.jpg",
-  "images/esmonster/pokemon/jessie/jessie-3.jpg",
-  "images/esmonster/pokemon/jessie/jessie-4.jpg",
-  "images/esmonster/pokemon/jessie/jessie-5.jpg",
-  "images/esmonster/pokemon/jessie/jessie-6.jpg",
-  "images/esmonster/pokemon/jessie/jessie-7.jpg",
-  "images/esmonster/pokemon/jessie/jessie-8.jpg",
-  "images/esmonster/pokemon/jessie/jessie-9.jpg",
-  "images/esmonster/pokemon/jessie/jessie-10.jpg",
-  "images/esmonster/pokemon/jessie/jessie-11.jpg",
-  "images/esmonster/pokemon/jessie/jessie-12.jpg",
-  "images/esmonster/pokemon/jessie/jessie-13.jpg",
-  "images/esmonster/pokemon/jessie/jessie-14.jpg",
-  "images/esmonster/pokemon/jessie/jessie-15.jpg",
-  "images/esmonster/pokemon/jessie/jessie-16.jpg",
-  "images/esmonster/pokemon/jessie/jessie-17.jpg",
-  "images/esmonster/pokemon/jessie/jessie-18.jpg",
-  "images/esmonster/pokemon/jessie/jessie-19.jpg"
+  "images/esmonster/pokémon/jessie/jessie-1.jpg",
+  "images/esmonster/pokémon/jessie/jessie-2.jpg",
+  "images/esmonster/pokémon/jessie/jessie-3.jpg",
+  "images/esmonster/pokémon/jessie/jessie-4.jpg",
+  "images/esmonster/pokémon/jessie/jessie-5.jpg",
+  "images/esmonster/pokémon/jessie/jessie-6.jpg",
+  "images/esmonster/pokémon/jessie/jessie-7.jpg",
+  "images/esmonster/pokémon/jessie/jessie-8.jpg",
+  "images/esmonster/pokémon/jessie/jessie-9.jpg",
+  "images/esmonster/pokémon/jessie/jessie-10.jpg",
+  "images/esmonster/pokémon/jessie/jessie-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -32509,7 +32179,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jessie from Pokemon."
+ "description": "Original resin sculpt of Jessie from pokémon."
 },
  {
  "id": "esm-dagger-v1",
@@ -32658,32 +32328,7 @@ const MODELS = [
   "images/esmonster/meru-the-succubus/meru/meru-8.jpg",
   "images/esmonster/meru-the-succubus/meru/meru-9.jpg",
   "images/esmonster/meru-the-succubus/meru/meru-10.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-11.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-12.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-13.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-14.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-15.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-16.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-17.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-18.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-19.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-20.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-21.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-22.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-23.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-24.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-25.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-26.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-27.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-28.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-29.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-30.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-31.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-32.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-33.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-34.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-35.jpg",
-  "images/esmonster/meru-the-succubus/meru/meru-36.jpg"
+  "images/esmonster/meru-the-succubus/meru/meru-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -32877,10 +32522,7 @@ const MODELS = [
   "images/esmonster/teen-titans/raven/raven-2.jpg",
   "images/esmonster/teen-titans/raven/raven-3.jpg",
   "images/esmonster/teen-titans/raven/raven-4.jpg",
-  "images/esmonster/teen-titans/raven/raven-5.jpg",
-  "images/esmonster/teen-titans/raven/raven-6.jpg",
-  "images/esmonster/teen-titans/raven/raven-7.jpg",
-  "images/esmonster/teen-titans/raven/raven-8.jpg"
+  "images/esmonster/teen-titans/raven/raven-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -33060,23 +32702,21 @@ const MODELS = [
  "description": "Original resin sculpt of Ellen Ripley from Alien."
 },
  {
- "id": "esm-spider-woman-jessica-drew",
+ "id": "esm-spider-woman",
  "artist": "ESMonster",
  "series": "Marvel Comics",
  "title": "Spider-Woman | Jessica Drew",
  "images": [
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-1.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-2.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-3.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-4.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-5.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-6.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-7.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-8.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-9.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-10.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-11.jpg",
-  "images/esmonster/marvel-comics/spider-woman-jessica-drew/spider-woman-jessica-drew-12.jpg"
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-1.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-2.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-3.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-4.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-5.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-6.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-7.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-8.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-9.jpg",
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -33351,15 +32991,13 @@ const MODELS = [
  "series": "Pokémon",
  "title": "Misty",
  "images": [
-  "images/esmonster/pokemon/misty/misty-1.jpg",
-  "images/esmonster/pokemon/misty/misty-2.jpg",
-  "images/esmonster/pokemon/misty/misty-3.jpg",
-  "images/esmonster/pokemon/misty/misty-4.jpg",
-  "images/esmonster/pokemon/misty/misty-5.jpg",
-  "images/esmonster/pokemon/misty/misty-6.jpg",
-  "images/esmonster/pokemon/misty/misty-7.jpg",
-  "images/esmonster/pokemon/misty/misty-8.jpg",
-  "images/esmonster/pokemon/misty/misty-9.jpg"
+  "images/esmonster/pokémon/misty/misty-1.jpg",
+  "images/esmonster/pokémon/misty/misty-2.jpg",
+  "images/esmonster/pokémon/misty/misty-3.jpg",
+  "images/esmonster/pokémon/misty/misty-4.jpg",
+  "images/esmonster/pokémon/misty/misty-5.jpg",
+  "images/esmonster/pokémon/misty/misty-6.jpg",
+  "images/esmonster/pokémon/misty/misty-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -33368,7 +33006,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Misty from Pokemon."
+ "description": "Original resin sculpt of Misty from pokémon."
 },
  {
  "id": "esm-princess-peach",
@@ -33451,46 +33089,6 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Battle Sister from Warhammer 40K."
-},
- {
- "id": "esm-punisher-fem-ver",
- "artist": "ESMonster",
- "series": "Marvel Comics",
- "title": "Punisher [Fem ver]",
- "images": [
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-1.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-2.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-3.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-4.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-5.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-6.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-7.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-8.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-9.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-10.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-11.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-12.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-13.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-14.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-15.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-16.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-17.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-18.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-19.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-20.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-21.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-22.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-23.jpg",
-  "images/esmonster/marvel-comics/punisher-fem-ver/punisher-fem-ver-24.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Punisher [Fem ver] from Marvel Comics."
 },
  {
  "id": "esm-daphne-blake-purple-mystery-witch",
@@ -34052,54 +33650,19 @@ const MODELS = [
  "description": "Original resin sculpt of Omni-Man from Invincible."
 },
  {
- "id": "esm-asuka-langley-soryu-red-haired-bodysuit-girl",
+ "id": "esm-asuka-langley-soryu",
  "artist": "ESMonster",
  "series": "Neon Genesis Evangelion",
- "title": "Asuka Langley Soryu (Red-Haired Bodysuit Girl)",
+ "title": "Asuka Langley Soryu",
  "images": [
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-1.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-2.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-3.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-4.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-5.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-6.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-7.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-8.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-9.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-10.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-11.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-red-haired-bodysuit-girl/asuka-langley-soryu-red-haired-bodysuit-girl-12.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Asuka Langley Soryu from Neon Genesis Evangelion."
-},
- {
- "id": "esm-asuka-langley-soryu-second-girl-pilot",
- "artist": "ESMonster",
- "series": "Neon Genesis Evangelion",
- "title": "Asuka Langley Soryu (Second Girl Pilot)",
- "images": [
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-1.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-2.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-3.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-4.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-5.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-6.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-7.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-8.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-9.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-10.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-11.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-12.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-13.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-14.jpg",
-  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu-second-girl-pilot/asuka-langley-soryu-second-girl-pilot-15.jpg"
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-1.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-2.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-3.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-4.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-5.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-6.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-7.jpg",
+  "images/esmonster/neon-genesis-evangelion/asuka-langley-soryu/asuka-langley-soryu-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -34983,13 +34546,7 @@ const MODELS = [
   "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-1.jpg",
   "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-2.jpg",
   "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-3.jpg",
-  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-4.jpg",
-  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-5.jpg",
-  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-6.jpg",
-  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-7.jpg",
-  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-8.jpg",
-  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-9.jpg",
-  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-10.jpg"
+  "images/esmonster/metal-slug/fiolina-germi/fiolina-germi-4.jpg"
  ],
  "scaleOptions": [
   {
@@ -35063,11 +34620,7 @@ const MODELS = [
   "images/esmonster/one-piece/nami/nami-3.jpg",
   "images/esmonster/one-piece/nami/nami-4.jpg",
   "images/esmonster/one-piece/nami/nami-5.jpg",
-  "images/esmonster/one-piece/nami/nami-6.jpg",
-  "images/esmonster/one-piece/nami/nami-7.jpg",
-  "images/esmonster/one-piece/nami/nami-8.jpg",
-  "images/esmonster/one-piece/nami/nami-9.jpg",
-  "images/esmonster/one-piece/nami/nami-10.jpg"
+  "images/esmonster/one-piece/nami/nami-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -35489,31 +35042,22 @@ const MODELS = [
  "description": "Original resin sculpt of Emma Frost [Marvel Rivals ver] from X-Men."
 },
  {
- "id": "esm-2b-white-haired-android-girl",
+ "id": "esm-2b-v1",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (White-Haired Android Girl)",
+ "title": "2B",
  "images": [
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-1.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-2.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-3.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-4.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-5.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-6.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-7.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-8.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-9.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-10.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-11.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-12.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-13.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-14.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-15.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-16.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-17.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-18.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-19.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl/2b-white-haired-android-girl-20.jpg"
+  "images/esmonster/nier-automata/2b-v1/2b-v1-1.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-2.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-3.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-4.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-5.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-6.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-7.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-8.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-9.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-10.jpg",
+  "images/esmonster/nier-automata/2b-v1/2b-v1-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -35525,23 +35069,16 @@ const MODELS = [
  "description": "Original resin sculpt of 2B from NieR:Automata."
 },
  {
- "id": "esm-2b-white-haired-android-girl-p2-head-swap",
+ "id": "esm-2b-v4",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (White-Haired Android Girl P2 Head-Swap)",
+ "title": "2B (Swimsuit V2 Ver)",
  "images": [
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-1.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-2.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-3.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-4.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-5.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-6.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-7.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-8.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-9.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-10.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-11.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-p2-head-swap/2b-white-haired-android-girl-p2-head-swap-12.jpg"
+  "images/esmonster/nier-automata/2b-v4/2b-v4-1.jpg",
+  "images/esmonster/nier-automata/2b-v4/2b-v4-2.jpg",
+  "images/esmonster/nier-automata/2b-v4/2b-v4-3.jpg",
+  "images/esmonster/nier-automata/2b-v4/2b-v4-4.jpg",
+  "images/esmonster/nier-automata/2b-v4/2b-v4-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -35553,18 +35090,17 @@ const MODELS = [
  "description": "Original resin sculpt of 2B from NieR:Automata."
 },
  {
- "id": "esm-2b-white-haired-android-girlp1-head-swap",
+ "id": "esm-2b-v3",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (White-Haired Android GirlP1 Head-Swap)",
+ "title": "2B (Swimsuit Ver)",
  "images": [
-  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-1.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-2.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-3.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-4.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-5.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-6.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girlp1-head-swap/2b-white-haired-android-girlp1-head-swap-7.jpg"
+  "images/esmonster/nier-automata/2b-v3/2b-v3-1.jpg",
+  "images/esmonster/nier-automata/2b-v3/2b-v3-2.jpg",
+  "images/esmonster/nier-automata/2b-v3/2b-v3-3.jpg",
+  "images/esmonster/nier-automata/2b-v3/2b-v3-4.jpg",
+  "images/esmonster/nier-automata/2b-v3/2b-v3-5.jpg",
+  "images/esmonster/nier-automata/2b-v3/2b-v3-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -35576,20 +35112,18 @@ const MODELS = [
  "description": "Original resin sculpt of 2B from NieR:Automata."
 },
  {
- "id": "esm-2b-white-haired-android-girl-includes-3-sets-of-postures",
+ "id": "esm-2b-v2",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (White-Haired Android Girl Includes 3 sets of postures)",
+ "title": "2B",
  "images": [
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-1.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-2.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-3.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-4.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-5.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-6.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-7.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-8.jpg",
-  "images/esmonster/nier-automata/2b-white-haired-android-girl-includes-3-sets-of-postures/2b-white-haired-android-girl-includes-3-sets-of-postures-9.jpg"
+  "images/esmonster/nier-automata/2b-v2/2b-v2-1.jpg",
+  "images/esmonster/nier-automata/2b-v2/2b-v2-2.jpg",
+  "images/esmonster/nier-automata/2b-v2/2b-v2-3.jpg",
+  "images/esmonster/nier-automata/2b-v2/2b-v2-4.jpg",
+  "images/esmonster/nier-automata/2b-v2/2b-v2-5.jpg",
+  "images/esmonster/nier-automata/2b-v2/2b-v2-6.jpg",
+  "images/esmonster/nier-automata/2b-v2/2b-v2-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -35710,22 +35244,7 @@ const MODELS = [
   "images/esmonster/power-girl/power-girl/power-girl-4.jpg",
   "images/esmonster/power-girl/power-girl/power-girl-5.jpg",
   "images/esmonster/power-girl/power-girl/power-girl-6.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-7.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-8.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-9.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-10.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-11.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-12.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-13.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-14.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-15.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-16.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-17.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-18.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-19.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-20.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-21.jpg",
-  "images/esmonster/power-girl/power-girl/power-girl-22.jpg"
+  "images/esmonster/power-girl/power-girl/power-girl-7.jpg"
  ],
  "scaleOptions": [
   {
