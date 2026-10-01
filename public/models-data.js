@@ -28085,36 +28085,48 @@ const MODELS = [
  "description": "Original resin sculpt of Wonder Woman from Wonder Woman."
 },
  {
- "id": "esm-laura-croft-ancient-ruins-explorer",
+ "id": "esm-laura-croft-v1",
  "artist": "ESMonster",
  "series": "Tomb Raider",
- "title": "Laura Croft (Ancient Ruins Explorer)",
+ "title": "Laura Croft",
  "images": [
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-1.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-2.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-3.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-4.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-5.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-6.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-7.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-8.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-9.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-10.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-11.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-12.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-13.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-14.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-15.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-16.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-17.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-18.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-19.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-20.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-21.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-22.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-23.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-24.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer/laura-croft-ancient-ruins-explorer-25.jpg"
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-1.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-2.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-3.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-4.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-5.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-6.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-7.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-8.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-9.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-10.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-11.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-12.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-13.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-14.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-15.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-16.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-17.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-18.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-19.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-20.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-21.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-22.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-23.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-24.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-25.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-26.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-27.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-28.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-29.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-30.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-31.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-32.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-33.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-34.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-35.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-36.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-37.jpg"
  ],
  "scaleOptions": [
   {
@@ -28126,102 +28138,29 @@ const MODELS = [
  "description": "Original resin sculpt of Laura Croft from Tomb Raider."
 },
  {
- "id": "esm-laura-croft-ancient-ruins-explorer-p2",
- "artist": "ESMonster",
- "series": "Tomb Raider",
- "title": "Laura Croft (Ancient Ruins Explorer P2)",
- "images": [
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-1.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-2.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-3.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-4.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-5.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-6.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-7.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-8.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-9.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-10.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-11.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-12.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-13.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-14.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-15.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-16.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-17.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-18.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-19.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-20.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-21.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-22.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-23.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-24.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-25.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-26.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-27.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-28.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-29.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-30.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-31.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-32.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-33.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-34.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-35.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-36.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-37.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-p2/laura-croft-ancient-ruins-explorer-p2-38.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Laura Croft from Tomb Raider."
-},
- {
- "id": "esm-laura-croft-ancient-ruins-explorer-dive-suit-ver",
+ "id": "esm-laura-croft-v3",
  "artist": "ESMonster",
  "series": "Tomb Raider",
  "title": "Laura Croft (Ancient Ruins Explorer Dive Suit Ver)",
  "images": [
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-1.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-2.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-3.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-4.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-5.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-6.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-7.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-8.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-9.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-10.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-11.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-12.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-13.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-14.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-15.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-16.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-17.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-18.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-19.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-20.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-21.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-22.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-23.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-24.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-25.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-26.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-27.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-28.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-29.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-30.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-31.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-32.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-33.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-34.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-35.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-36.jpg",
-  "images/esmonster/tomb-raider/laura-croft-ancient-ruins-explorer-dive-suit-ver/laura-croft-ancient-ruins-explorer-dive-suit-ver-37.jpg"
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-1.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-2.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-3.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-4.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-5.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-6.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-7.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-8.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-9.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-10.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-11.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-12.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-13.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-14.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-15.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-16.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-17.jpg",
+  "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-18.jpg"
  ],
  "scaleOptions": [
   {
@@ -29666,14 +29605,7 @@ const MODELS = [
   "images/esmonster/the-witcher/triss-merigold/triss-merigold-3.jpg",
   "images/esmonster/the-witcher/triss-merigold/triss-merigold-4.jpg",
   "images/esmonster/the-witcher/triss-merigold/triss-merigold-5.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-6.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-7.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-8.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-9.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-10.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-11.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-12.jpg",
-  "images/esmonster/the-witcher/triss-merigold/triss-merigold-13.jpg"
+  "images/esmonster/the-witcher/triss-merigold/triss-merigold-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -29759,36 +29691,44 @@ const MODELS = [
  "description": "Original resin sculpt of Darth Talon from Star Wars."
 },
  {
- "id": "esm-sadako",
+ "id": "esm-sadako-v1",
  "artist": "ESMonster",
  "series": "The Ring",
  "title": "Sadako",
  "images": [
-  "images/esmonster/the-ring/sadako/sadako-1.jpg",
-  "images/esmonster/the-ring/sadako/sadako-2.jpg",
-  "images/esmonster/the-ring/sadako/sadako-3.jpg",
-  "images/esmonster/the-ring/sadako/sadako-4.jpg",
-  "images/esmonster/the-ring/sadako/sadako-5.jpg",
-  "images/esmonster/the-ring/sadako/sadako-6.jpg",
-  "images/esmonster/the-ring/sadako/sadako-7.jpg",
-  "images/esmonster/the-ring/sadako/sadako-8.jpg",
-  "images/esmonster/the-ring/sadako/sadako-9.jpg",
-  "images/esmonster/the-ring/sadako/sadako-10.jpg",
-  "images/esmonster/the-ring/sadako/sadako-11.jpg",
-  "images/esmonster/the-ring/sadako/sadako-12.jpg",
-  "images/esmonster/the-ring/sadako/sadako-13.jpg",
-  "images/esmonster/the-ring/sadako/sadako-14.jpg",
-  "images/esmonster/the-ring/sadako/sadako-15.jpg",
-  "images/esmonster/the-ring/sadako/sadako-16.jpg",
-  "images/esmonster/the-ring/sadako/sadako-17.jpg",
-  "images/esmonster/the-ring/sadako/sadako-18.jpg",
-  "images/esmonster/the-ring/sadako/sadako-19.jpg",
-  "images/esmonster/the-ring/sadako/sadako-20.jpg",
-  "images/esmonster/the-ring/sadako/sadako-21.jpg",
-  "images/esmonster/the-ring/sadako/sadako-22.jpg",
-  "images/esmonster/the-ring/sadako/sadako-23.jpg",
-  "images/esmonster/the-ring/sadako/sadako-24.jpg",
-  "images/esmonster/the-ring/sadako/sadako-25.jpg"
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-1.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-2.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-3.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-4.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-5.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-6.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-7.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-8.jpg",
+  "images/esmonster/the-ring/sadako-v1/sadako-v1-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Sadako from The Ring."
+},
+ {
+ "id": "esm-sadako-v2",
+ "artist": "ESMonster",
+ "series": "The Ring",
+ "title": "Sadako",
+ "images": [
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-1.jpg",
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-2.jpg",
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-3.jpg",
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-4.jpg",
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-5.jpg",
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-6.jpg",
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-7.jpg",
+  "images/esmonster/the-ring/sadako-v2/sadako-v2-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -31478,10 +31418,10 @@ const MODELS = [
  "description": "Original resin sculpt of Mirko from My Hero Academia."
 },
  {
- "id": "esm-cammy-white-kicking-rabbit-fighter-streetwear-edition",
+ "id": "esm-mirko-v2",
  "artist": "ESMonster",
- "series": "Street Fighter",
- "title": "Cammy White (Kicking Rabbit Fighter Streetwear Edition)",
+ "series": "My Hero Academia",
+ "title": "Mirko",
  "images": [
   "images/esmonster/my-hero-academia/mirko-v2/mirko-v2-1.jpg",
   "images/esmonster/my-hero-academia/mirko-v2/mirko-v2-2.jpg",
@@ -33438,19 +33378,16 @@ const MODELS = [
  "description": "Original resin sculpt of Android 18 from Dragon Ball Z."
 },
  {
- "id": "esm-the-rocketeer-fem-ver",
+ "id": "esm-the-rocketeer",
  "artist": "ESMonster",
  "series": "The Rocketeer",
  "title": "The Rocketeer [Fem ver]",
  "images": [
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-1.jpg",
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-2.jpg",
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-3.jpg",
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-4.jpg",
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-5.jpg",
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-6.jpg",
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-7.jpg",
-  "images/esmonster/the-rocketeer/the-rocketeer-fem-ver/the-rocketeer-fem-ver-8.jpg"
+  "images/esmonster/the-rocketeer/the-rocketeer/the-rocketeer-1.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer/the-rocketeer-2.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer/the-rocketeer-3.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer/the-rocketeer-4.jpg",
+  "images/esmonster/the-rocketeer/the-rocketeer/the-rocketeer-5.jpg"
  ],
  "scaleOptions": [
   {
@@ -33890,14 +33827,7 @@ const MODELS = [
   "images/esmonster/the-flintstones/betty-rubble/betty-rubble-4.jpg",
   "images/esmonster/the-flintstones/betty-rubble/betty-rubble-5.jpg",
   "images/esmonster/the-flintstones/betty-rubble/betty-rubble-6.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-7.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-8.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-9.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-10.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-11.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-12.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-13.jpg",
-  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-14.jpg"
+  "images/esmonster/the-flintstones/betty-rubble/betty-rubble-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -33909,32 +33839,22 @@ const MODELS = [
  "description": "Original resin sculpt of Betty Rubble from The Flintstones."
 },
  {
- "id": "esm-wilma-stone-age-housewife-p1-includes-nsfw",
+ "id": "esm-wilma-v1",
  "artist": "ESMonster",
  "series": "The Flintstones",
  "title": "Wilma (Stone Age Housewife P1 Includes NSFW)",
  "images": [
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-1.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-2.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-3.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-4.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-5.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-6.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-7.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-8.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-9.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-10.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-11.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-12.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-13.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-14.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-15.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-16.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-17.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-18.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-19.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-20.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p1-includes-nsfw/wilma-stone-age-housewife-p1-includes-nsfw-21.jpg"
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-1.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-2.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-3.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-4.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-5.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-6.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-7.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-8.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-9.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-10.jpg",
+  "images/esmonster/the-flintstones/wilma-v1/wilma-v1-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -33946,27 +33866,19 @@ const MODELS = [
  "description": "Original resin sculpt of Wilma from The Flintstones."
 },
  {
- "id": "esm-wilma-stone-age-housewife-p2",
+ "id": "esm-wilma-v2",
  "artist": "ESMonster",
  "series": "The Flintstones",
  "title": "Wilma (Stone Age Housewife P2)",
  "images": [
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-1.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-2.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-3.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-4.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-5.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-6.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-7.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-8.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-9.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-10.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-11.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-12.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-13.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-14.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-15.jpg",
-  "images/esmonster/the-flintstones/wilma-stone-age-housewife-p2/wilma-stone-age-housewife-p2-16.jpg"
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-1.jpg",
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-2.jpg",
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-3.jpg",
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-4.jpg",
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-5.jpg",
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-6.jpg",
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-7.jpg",
+  "images/esmonster/the-flintstones/wilma-v2/wilma-v2-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -34612,7 +34524,7 @@ const MODELS = [
  "id": "esm-2b-v4",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (Swimsuit V2 Ver)",
+ "title": "2B (Swimsuit V2)",
  "images": [
   "images/esmonster/nier-automata/2b-v4/2b-v4-1.jpg",
   "images/esmonster/nier-automata/2b-v4/2b-v4-2.jpg",
@@ -34819,5 +34731,12008 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Adult Link from The Legend of Zelda: Ocarina of Time."
+},
+ {
+ "id": "wicked-avengers-avengers-captain-america-3d",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Avengers Captain America 3d",
+ "images": [
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-1.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-3.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-4.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-5.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-6.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America: Living legend tribute Sculpture 1/6 scale for 3d printing.\nSTL file cutted and tested, ready for your collection !\nVisit patreon.com/3dWicked to access +50% discounts in our models & more !\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing !"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Avengers Endgame: Iron Patriot + Rocket Base (Diorama)",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Patriot + Rocket Diorama Base based on Avengers Engame movie. Fan Art Model (1/6 scale aprox.) tested and ready for 3d printing.\nPart of our February Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-avengers-endgame-iron-patriot-sculpture-stls-ready-for-print",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Avengers Endgame: Iron Patriot",
+ "images": [
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-1.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-2.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-3.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-4.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-5.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-6.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-7.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Patriot Sculpture based on Avengers Engame movie. Fan Art Model (1/6 scale aprox.) tested and ready for 3d printing.\nPart of our February Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Avengers Endgame: Rocket Racoon",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRocket Racoon model based on Avengers Engame movie. Fan Art Sculpture (1/6 scale) tested and ready for 3d printing.\nPart of our February Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-moon-knight-moon-knight-stls-sculpture-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "Moon Knight",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-1.jpg",
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-2.jpg",
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-3.jpg",
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-4.jpg",
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-5.jpg",
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-6.jpg",
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-7.jpg",
+  "images/wicked/moon-knight/moon-knight-stls-sculpture-ready-for-printing/moon-knight-stls-sculpture-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMoon Knight model based on Marvel comics. Fan Art Sculpture (1/6 scale) tested and ready for 3d printing. Part of our January term.\nSTL file cutted and tested, ready for your collection!\n🔔 Join us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel MCU 3D Sculpture & Bust tested and ready for printing!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-black-panther-killmonger-vs-black-panther-diorama-base",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Killmonger vs Black Panther base (Diorama)",
+ "images": [
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-1.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-2.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-3.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-4.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-5.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-6.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKillmonger vs Black Panther diorama base. Base to put together the models. (1/6 scale) tested and ready for 3d printing.\nPart of our January Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-black-panther-killmonger-stls-sculpture-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Killmonger",
+ "images": [
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-1.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-2.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-3.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-4.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-5.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-6.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-7.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nEric Killmonger model based on Black Panther movie. Fan Art Sculpture (1/6 scale) tested and ready for 3d printing. Part of our January Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel MCU 3D Sculpture & Bust tested and ready for printing!\nHappy 2021! Lets make it one of our best years!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-black-panther-captain-america-vs-black-panther-diorama-base",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Captain America vs Black Panther base (Diorama)",
+ "images": [
+  "images/wicked/black-panther/captain-america-vs-black-panther-diorama-base/captain-america-vs-black-panther-diorama-base-1.jpg",
+  "images/wicked/black-panther/captain-america-vs-black-panther-diorama-base/captain-america-vs-black-panther-diorama-base-2.jpg",
+  "images/wicked/black-panther/captain-america-vs-black-panther-diorama-base/captain-america-vs-black-panther-diorama-base-3.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America vs Black Panther diorama base. Base to put together the models. (1/6 scale) tested and ready for 3d printing\nPart of our December Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-captain-america-civil-war-stls-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain America: Civil War",
+ "images": [
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-1.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-2.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-3.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-4.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America model based on Captain America Civil War. Fan Art Sculpture (1/6 scale) tested and ready for 3d printing.\nPart of our December Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy 2021! Lets make it one of our best years!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-black-panther-black-panther-1",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Black Panther",
+ "images": [
+  "images/wicked/black-panther/black-panther-1/black-panther-1-1.jpg",
+  "images/wicked/black-panther/black-panther-1/black-panther-1-2.jpg",
+  "images/wicked/black-panther/black-panther-1/black-panther-1-3.jpg",
+  "images/wicked/black-panther/black-panther-1/black-panther-1-4.jpg",
+  "images/wicked/black-panther/black-panther-1/black-panther-1-5.jpg",
+  "images/wicked/black-panther/black-panther-1/black-panther-1-6.jpg",
+  "images/wicked/black-panther/black-panther-1/black-panther-1-7.jpg",
+  "images/wicked/black-panther/black-panther-1/black-panther-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Panther model based on Captain America Civil War. Fan Art Sculpture (1/6 scale) tested and ready for 3d printing.\nPart of our December Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-ultron",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Ultron",
+ "images": [
+  "images/wicked/avengers/ultron/ultron-1.jpg",
+  "images/wicked/avengers/ultron/ultron-2.jpg",
+  "images/wicked/avengers/ultron/ultron-3.jpg",
+  "images/wicked/avengers/ultron/ultron-4.jpg",
+  "images/wicked/avengers/ultron/ultron-5.jpg",
+  "images/wicked/avengers/ultron/ultron-6.jpg",
+  "images/wicked/avengers/ultron/ultron-7.jpg",
+  "images/wicked/avengers/ultron/ultron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nUltron based on Avengers Age of Ultron movie. Fan Art Sculpture (1/6 scale) tested and ready for 3d printing\nPart of our October + November Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing !\nBe Wicked, Stay Wicked amigos!~"
+},
+ {
+ "id": "wicked-avengers-scarlet-witch-1",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Scarlet Witch",
+ "images": [
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-1.jpg",
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-2.jpg",
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-3.jpg",
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-4.jpg",
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-5.jpg",
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-6.jpg",
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-7.jpg",
+  "images/wicked/avengers/scarlet-witch-1/scarlet-witch-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nScarlet Witch based on Avengers Age of Ultron movie. Fan Art Sculpture (1/6 scale) tested and ready for 3d printing\nPart of our October + November Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing !\nBe Wicked, Stay Wicked amigos!~"
+},
+ {
+ "id": "wicked-thor-hela",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Hela",
+ "images": [
+  "images/wicked/thor/hela/hela-1.jpg",
+  "images/wicked/thor/hela/hela-2.jpg",
+  "images/wicked/thor/hela/hela-3.jpg",
+  "images/wicked/thor/hela/hela-4.jpg",
+  "images/wicked/thor/hela/hela-5.jpg",
+  "images/wicked/thor/hela/hela-6.jpg",
+  "images/wicked/thor/hela/hela-7.jpg",
+  "images/wicked/thor/hela/hela-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHela based on Thor Ragnarok movie. Fan Art sculpture (1/6 scale) tested and ready for 3d printing\nPart of our August + September Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing !\nBe Wicked, Stay Wicked amigos!~"
+},
+ {
+ "id": "wicked-avengers-avengers-rescue-pepper-potts-3d",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Avengers Rescue: Pepper Potts 3d",
+ "images": [
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-1.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-2.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-3.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-4.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-5.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-6.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-7.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPart of our June & July Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon: patreon.com/3dWicked\nWelcome to our Wicked Dream!~"
+},
+ {
+ "id": "wicked-thor-thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Thor Ragnarok 3d Sculpture: Avengers",
+ "images": [
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-1.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-2.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-3.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-4.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThor base don Thor Ragnarok movie tribute sculpture (1/6 scale) tested and ready for 3d printing\nPart of our August + September Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing !"
+},
+ {
+ "id": "wicked-avengers-hulk-3d-sculpture-avengers-stl-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hulk 3d Sculpture: Avengers",
+ "images": [
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-1.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-2.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-3.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-4.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-5.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-6.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-7.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/8 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHulk Sculpture 1/8 scale for 3d printing.\nSTL file cutted and tested, ready for your collection !\nVisit patreon.com/3dWicked for more !\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing !"
+},
+ {
+ "id": "wicked-avengers-avengers-iron-man-3d",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Avengers Iron man 3d",
+ "images": [
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-1.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-2.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-3.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-4.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-5.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-6.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-7.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSTL file cutted and tested, ready for your collection!\nVisit patreon.com/3dWicked to access +50% discounts in our models & more!\nEach month one highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nWelcome to our Wicked Dream!~"
+},
+ {
+ "id": "wicked-spider-man-scarlet-spider",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Scarlet Spider",
+ "images": [
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-1.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-2.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-3.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-4.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-5.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-6.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-7.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nScarlet Spider Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nScarlet Spider Sculpture Measures:\n- Length: 317,93mm\n- Height: 464,26mm\n- Width: 341,84mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-the-spot",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "The Spot",
+ "images": [
+  "images/wicked/spider-man/the-spot/the-spot-1.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-2.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-3.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-4.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-5.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-6.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-7.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Spot Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nThe Spot Sculpture Measures:\n- Length: 293,89mm\n- Height: 475,12mm\n- Width: 272,32mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-spider-punk",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider Punk",
+ "images": [
+  "images/wicked/spider-man/spider-punk/spider-punk-1.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-2.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-3.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-4.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-5.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-6.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-7.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpider-Punk Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSpider Punk Sculpture Measures:\n- Length: 303,2mm\n- Height: 439,89mm\n- Width: 246,89mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-fantastic-four-wicked-promo-fantastic-four-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "FANTASTIC FOUR (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-1.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-2.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-3.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-4.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-5.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-6.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "🔥 Unleash the Power of the Fantastic Four Sculpture  Promo Pack! 🔥\nListen up, dudes! Ready to bring the heat and vibe with the fantastic crew in the universe? We've got you covered with the most mind-blowing 3D sculpture pack around – Fantastic Four Diorama-!\n4 sculpture + 4 busts x Only 50 USD!\nGet Your Swag On with the Fantastic Four:\nRedd Richards: The Elastic Scientist!\nSusan Storm: The Invisible Woman!\nThing: The big, strong rock dude\nJhony Storm: Flame on, baby!\nTake a taste of the Wicked Flavor with this freebie: https://linktr.ee/wicked3d\nThanks for all, and have a Wicked Day!"
+},
+ {
+ "id": "wicked-harry-potter-harry-potter-diorama",
+ "artist": "3D Wicked",
+ "series": "Harry Potter",
+ "title": "Harry Potter (Diorama)",
+ "images": [
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-1.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-2.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-3.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-4.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-5.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-6.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-7.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHarry Potter Diorama Sculpture based on the Harry Potter Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHarry Potter Diorama Sculpture Measures:\n- Length: 270mm\n- Height: 404,97mm\n- Width: 304,5mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-harry-potter-voldemort",
+ "artist": "3D Wicked",
+ "series": "Harry Potter",
+ "title": "Voldemort",
+ "images": [
+  "images/wicked/harry-potter/voldemort/voldemort-1.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-2.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-3.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-4.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-5.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-6.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-7.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVoldemort Sculpture based on the Harry Potter Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nVoldemort Sculpture Measures:\n- Length: 187,37mm\n- Height: 379,21mm\n- Width: 214,47mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-harry-potter-harry-potter",
+ "artist": "3D Wicked",
+ "series": "Harry Potter",
+ "title": "Harry Potter",
+ "images": [
+  "images/wicked/harry-potter/harry-potter/harry-potter-1.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-2.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-3.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-4.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-5.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-6.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHarry Potter Sculpture based on the Harry Potter Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHarry Potter Sculpture Measures:\n- Length: 166,27mm\n- Height: 330mm\n- Width: 168,42mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-peter-b-parker-and-mayday",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Peter B Parker and Mayday",
+ "images": [
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-1.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-2.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-3.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-4.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-5.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-6.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-7.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPeter B Parker and Mayday Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPeter B Parker Sculpture Measures:\n- Length: 287mm\n- Height: 475,18mm\n- Width: 344,05mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-taskmaster",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Taskmaster",
+ "images": [
+  "images/wicked/avengers/taskmaster/taskmaster-1.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-2.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-3.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-4.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-5.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-6.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-7.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTaskmaster Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nTaskmaster Sculpture Measures:\n- Length: 350mm\n- Height: 500mm\n- Width: 328mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-psylocke",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Psylocke",
+ "images": [
+  "images/wicked/x-men/psylocke/psylocke-1.jpg",
+  "images/wicked/x-men/psylocke/psylocke-2.jpg",
+  "images/wicked/x-men/psylocke/psylocke-3.jpg",
+  "images/wicked/x-men/psylocke/psylocke-4.jpg",
+  "images/wicked/x-men/psylocke/psylocke-5.jpg",
+  "images/wicked/x-men/psylocke/psylocke-6.jpg",
+  "images/wicked/x-men/psylocke/psylocke-7.jpg",
+  "images/wicked/x-men/psylocke/psylocke-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPsylocke Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPsylocke Sculpture Measures:\n- Length: 339,15mm\n- Height: 430mm\n- Width: 295,81mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-spider-woman-spiderverse",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider Woman Spiderverse",
+ "images": [
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-1.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-2.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-3.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-4.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-5.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-6.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-7.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpider Woman Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSpider Woman Sculpture Measures:\n- Length: 340,54mm\n- Height: 490mm\n- Width: 223,91mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-spiderman-2099",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spiderman 2099",
+ "images": [
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-1.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-2.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-3.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-4.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-5.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-6.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-7.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpiderman 2099 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSpiderman 2099 Sculpture Measures:\n- Length: 352,53mm\n- Height: 490,45mm\n- Width: 258,84mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-witcher-geralt-de-rivia-and-ciri-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "The Witcher",
+ "title": "Geralt de Rivia and Ciri (Diorama)",
+ "images": [
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-1.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-2.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-3.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-4.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-5.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-6.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-7.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGeralt de Rivia and Ciri Diorama based on the Witcher Video Game Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBase Diorama Witcher Measures:\n- Length: 784mm\n- Height: 776mm\n- Width: 681,85mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-witcher-ciri",
+ "artist": "3D Wicked",
+ "series": "The Witcher",
+ "title": "Ciri",
+ "images": [
+  "images/wicked/the-witcher/ciri/ciri-1.jpg",
+  "images/wicked/the-witcher/ciri/ciri-2.jpg",
+  "images/wicked/the-witcher/ciri/ciri-3.jpg",
+  "images/wicked/the-witcher/ciri/ciri-4.jpg",
+  "images/wicked/the-witcher/ciri/ciri-5.jpg",
+  "images/wicked/the-witcher/ciri/ciri-6.jpg",
+  "images/wicked/the-witcher/ciri/ciri-7.jpg",
+  "images/wicked/the-witcher/ciri/ciri-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCiri Sculpture based on the Witcher Video Game Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCiri Sculpture Measures:\n- Length: 282,34mm\n- Height: 280mm\n- Width: 229,19mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-witcher-geralt-de-rivia",
+ "artist": "3D Wicked",
+ "series": "The Witcher",
+ "title": "Geralt de Rivia",
+ "images": [
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-1.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-2.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-3.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-4.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-5.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-6.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-7.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGeralt de Rivia Sculpture based on the Witcher Video Game Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGeralt de Rivia Sculpture Measures:\n- Length: 362,09mm\n- Height: 431,61mm\n- Width: 314,09mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-spider-gwen",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider Gwen",
+ "images": [
+  "images/wicked/spider-man/spider-gwen/spider-gwen-1.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-2.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-3.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-4.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-5.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-6.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-7.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpider Gwen Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSpider Gwen Sculpture Measures:\n- Length: 196,54mm\n- Height: 342mm\n- Width: 229,99mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-miles-morales",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Miles Morales",
+ "images": [
+  "images/wicked/spider-man/miles-morales/miles-morales-1.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-2.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-3.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-4.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-5.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-6.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-7.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMiles Morales Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMiles Morales Sculpture Measures:\n- Length: 372mm\n- Height: 405mm\n- Width: 353,34mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-marvel-other-angela",
+ "artist": "3D Wicked",
+ "series": "Marvel Comics",
+ "title": "Angela",
+ "images": [
+  "images/wicked/marvel-other/angela/angela-1.jpg",
+  "images/wicked/marvel-other/angela/angela-2.jpg",
+  "images/wicked/marvel-other/angela/angela-3.jpg",
+  "images/wicked/marvel-other/angela/angela-4.jpg",
+  "images/wicked/marvel-other/angela/angela-5.jpg",
+  "images/wicked/marvel-other/angela/angela-6.jpg",
+  "images/wicked/marvel-other/angela/angela-7.jpg",
+  "images/wicked/marvel-other/angela/angela-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAngela Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAngela Sculpture Measures:\n- Length: 172,89mm\n- Height 420mm\n- Width: 206,9mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-bishop-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Bishop",
+ "images": [
+  "images/wicked/x-men/bishop-1/bishop-1-1.jpg",
+  "images/wicked/x-men/bishop-1/bishop-1-2.jpg",
+  "images/wicked/x-men/bishop-1/bishop-1-3.jpg",
+  "images/wicked/x-men/bishop-1/bishop-1-4.jpg",
+  "images/wicked/x-men/bishop-1/bishop-1-5.jpg",
+  "images/wicked/x-men/bishop-1/bishop-1-6.jpg",
+  "images/wicked/x-men/bishop-1/bishop-1-7.jpg",
+  "images/wicked/x-men/bishop-1/bishop-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBishop Sculpture based on the Marvel Comics Fan Art Model (1/6 scale Approx) Tested and ready for 3D printing.\nBishop Sculpture Measures\n- Length: 194,54mm\n- Height 3575mm\n- Width: 245mm\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-wicked-promo-black-order-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "BLACK ORDER (Diorama)",
+ "images": [
+  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-1.jpg",
+  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-2.jpg",
+  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-3.jpg",
+  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-4.jpg",
+  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-5.jpg",
+  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-6.jpg",
+  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "🔥 Unleash the Power of the Children of Thanos 3D Sculpture  Promo Pack! 🔥\nListen up, dudes! Ready to bring the heat and vibe with the baddest crew in the universe? We got you covered with the most mind-blowing 3D sculpture pack around – Children of Thanos Diorama-!\n5 sculpture + 5 bustos x Only 50 USD!\nGet Your Swag On with the Children of Thanos:\n💀 Proxima Midnight: Fierce and unapologetic, this goddess ain't here to play!\n💀 Corvus Glaive: Slice and dice, he's got that edge. Get amped with a 3D sculpture that shows off Corvus Glaive's fierce warrior spirit.\n💀 Ebony Maw: The smooth talker and master manipulator – he's got game. This 3D sculpture captures Ebony Maw's mind-blowing presence.\n💀 Cull Obsidian: Brute strength on another level – he's ready to wreck it. Embrace the power with this larger-than-life 3D sculpture.\n🔥 Bow Down to the Mad Titan - Thanos! 🔥 The boss of all bosses, the mad titan in the flesh. Own the universe with this jaw-dropping 3D sculpture of the one who shook the cosmos.\n🚨 Limited Time Offer: Cop This Exclusive Pack until 10 de agosto! 🚨\nDon't miss out on owning the illest 3D sculptures in the galaxy!  Know more here:\nTake a taste of the Wicked Flavor with this freebie: https://linktr.ee/wicked3d\nThanks for all, and have a Wicked Day!"
+},
+ {
+ "id": "wicked-aliens-aliens-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Aliens",
+ "title": "Aliens (Diorama)",
+ "images": [
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-1.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-2.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-3.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-4.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-5.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-6.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-7.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAlien Diorama Sculpture based on the Aliens Movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-bishop-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Bishop",
+ "images": [
+  "images/wicked/x-men/bishop-2/bishop-2-1.jpg",
+  "images/wicked/x-men/bishop-2/bishop-2-2.jpg",
+  "images/wicked/x-men/bishop-2/bishop-2-3.jpg",
+  "images/wicked/x-men/bishop-2/bishop-2-4.jpg",
+  "images/wicked/x-men/bishop-2/bishop-2-5.jpg",
+  "images/wicked/x-men/bishop-2/bishop-2-6.jpg",
+  "images/wicked/x-men/bishop-2/bishop-2-7.jpg",
+  "images/wicked/x-men/bishop-2/bishop-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBishop Sculpture based on the Aliens Movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-aliens-alien-warrior",
+ "artist": "3D Wicked",
+ "series": "Aliens",
+ "title": "Alien Warrior",
+ "images": [
+  "images/wicked/aliens/alien-warrior/alien-warrior-1.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-2.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-3.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-4.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-5.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-6.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-7.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAlien Warrior Sculpture based on the Aliens Movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-aliens-power-loader-and-ripley",
+ "artist": "3D Wicked",
+ "series": "Aliens",
+ "title": "Power Loader and Ripley",
+ "images": [
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-1.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-2.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-3.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-4.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-5.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-6.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-7.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPower Loader and Ripley Sculpture based on the Aliens Movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-aliens-rebecca-newt-jorden",
+ "artist": "3D Wicked",
+ "series": "Aliens",
+ "title": "Rebecca Newt Jorden",
+ "images": [
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-1.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-2.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-3.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-4.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-5.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-6.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-7.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRebecca Newt Jorden Sculpture based on the Aliens Movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-aliens-queen-alien",
+ "artist": "3D Wicked",
+ "series": "Aliens",
+ "title": "Queen Alien",
+ "images": [
+  "images/wicked/aliens/queen-alien/queen-alien-1.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-2.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-3.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-4.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-5.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-6.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-7.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nQueen Alien Sculpture based on the Aliens Movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-aliens-facehugger",
+ "artist": "3D Wicked",
+ "series": "Aliens",
+ "title": "Facehugger",
+ "images": [
+  "images/wicked/aliens/facehugger/facehugger-1.jpg",
+  "images/wicked/aliens/facehugger/facehugger-2.jpg",
+  "images/wicked/aliens/facehugger/facehugger-3.jpg",
+  "images/wicked/aliens/facehugger/facehugger-4.jpg",
+  "images/wicked/aliens/facehugger/facehugger-5.jpg",
+  "images/wicked/aliens/facehugger/facehugger-6.jpg",
+  "images/wicked/aliens/facehugger/facehugger-7.jpg",
+  "images/wicked/aliens/facehugger/facehugger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFacehugger Sculpture based on the Aliens Movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-m-o-d-o-k",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "M.O.D.O.K",
+ "images": [
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-1.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-2.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-3.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-4.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-5.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-6.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-7.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nM.O.D.O.K Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-iceman",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Iceman",
+ "images": [
+  "images/wicked/x-men/iceman/iceman-1.jpg",
+  "images/wicked/x-men/iceman/iceman-2.jpg",
+  "images/wicked/x-men/iceman/iceman-3.jpg",
+  "images/wicked/x-men/iceman/iceman-4.jpg",
+  "images/wicked/x-men/iceman/iceman-5.jpg",
+  "images/wicked/x-men/iceman/iceman-6.jpg",
+  "images/wicked/x-men/iceman/iceman-7.jpg",
+  "images/wicked/x-men/iceman/iceman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIceman Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-hulk-and-bruce-banner-sculptures-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hulk and Bruce Banner (Diorama)",
+ "images": [
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-1.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-2.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-3.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-4.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-5.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-6.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-7.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHulk and Bruce Banner Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-bruce-banner",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Bruce Banner",
+ "images": [
+  "images/wicked/avengers/bruce-banner/bruce-banner-1.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-2.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-3.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-4.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-5.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-6.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-7.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBruce Banner Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-hulk-2023",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hulk 2023",
+ "images": [
+  "images/wicked/avengers/hulk-2023/hulk-2023-1.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-2.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-3.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-4.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-5.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-6.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-7.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHulk 2023 Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-mortal-kombat-sub-zero-vs-scorpion-diorama-spine-rip",
+ "artist": "3D Wicked",
+ "series": "Mortal Kombat",
+ "title": "Sub Zero Vs Scorpion SPINE RIP (Diorama)",
+ "images": [
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-1.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-2.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-3.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-4.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-5.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-6.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-7.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSub Zero Vs Scorpion SNIPE RIP sculpture. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-mortal-kombat-scorpion-vs-sub-zero-diorama-toasty",
+ "artist": "3D Wicked",
+ "series": "Mortal Kombat",
+ "title": "Scorpion Vs Sub Zero TOASTY (Diorama)",
+ "images": [
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-1.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-2.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-3.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-4.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-5.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-6.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-7.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nScorpion Vs Sub Zero Sculpture TOASTY. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-mortal-kombat-sub-zero",
+ "artist": "3D Wicked",
+ "series": "Mortal Kombat",
+ "title": "Sub Zero",
+ "images": [
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-1.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-2.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-3.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-4.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-5.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-6.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-7.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSub Zero Sculpture. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-mortal-kombat-scorpion",
+ "artist": "3D Wicked",
+ "series": "Mortal Kombat",
+ "title": "Scorpion",
+ "images": [
+  "images/wicked/mortal-kombat/scorpion/scorpion-1.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-2.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-3.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-4.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-5.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-6.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-7.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nScorpion Sculpture. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-iron-man-and-tony-stark-sculptures-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Iron Man and Tony Stark (Diorama)",
+ "images": [
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-1.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-2.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-3.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-4.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-5.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-6.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-7.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Man and Tony Stark Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-tony-stark",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Tony Stark",
+ "images": [
+  "images/wicked/avengers/tony-stark/tony-stark-1.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-2.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-3.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-4.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-5.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-6.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-7.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTony Stark 2023 Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-iron-man-2023",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Iron Man 2023",
+ "images": [
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-1.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-2.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-3.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-4.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-5.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-6.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-7.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Man 2023 Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-daredevil-and-kingpin-sculptures-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Daredevil and Kingpin (Diorama)",
+ "images": [
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-1.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-2.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-3.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-4.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-5.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-6.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-7.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDaredevil and Kingpin Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-kingpin-1",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Kingpin",
+ "images": [
+  "images/wicked/daredevil/kingpin-1/kingpin-1-1.jpg",
+  "images/wicked/daredevil/kingpin-1/kingpin-1-2.jpg",
+  "images/wicked/daredevil/kingpin-1/kingpin-1-3.jpg",
+  "images/wicked/daredevil/kingpin-1/kingpin-1-4.jpg",
+  "images/wicked/daredevil/kingpin-1/kingpin-1-5.jpg",
+  "images/wicked/daredevil/kingpin-1/kingpin-1-6.jpg",
+  "images/wicked/daredevil/kingpin-1/kingpin-1-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKingpin Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-daredevil-1",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Daredevil",
+ "images": [
+  "images/wicked/daredevil/daredevil-1/daredevil-1-1.jpg",
+  "images/wicked/daredevil/daredevil-1/daredevil-1-2.jpg",
+  "images/wicked/daredevil/daredevil-1/daredevil-1-3.jpg",
+  "images/wicked/daredevil/daredevil-1/daredevil-1-4.jpg",
+  "images/wicked/daredevil/daredevil-1/daredevil-1-5.jpg",
+  "images/wicked/daredevil/daredevil-1/daredevil-1-6.jpg",
+  "images/wicked/daredevil/daredevil-1/daredevil-1-7.jpg",
+  "images/wicked/daredevil/daredevil-1/daredevil-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDaredevil Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-captain-america-and-steve-rogers-sculptures-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain America and Steve Rogers (Diorama)",
+ "images": [
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-1.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-2.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-3.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-4.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-5.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-6.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-7.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America and Steve Rogers Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-captain-america",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/avengers/captain-america/captain-america-1.jpg",
+  "images/wicked/avengers/captain-america/captain-america-2.jpg",
+  "images/wicked/avengers/captain-america/captain-america-3.jpg",
+  "images/wicked/avengers/captain-america/captain-america-4.jpg",
+  "images/wicked/avengers/captain-america/captain-america-5.jpg",
+  "images/wicked/avengers/captain-america/captain-america-6.jpg",
+  "images/wicked/avengers/captain-america/captain-america-7.jpg",
+  "images/wicked/avengers/captain-america/captain-america-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-steve-rogers",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Steve Rogers",
+ "images": [
+  "images/wicked/avengers/steve-rogers/steve-rogers-1.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-2.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-3.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-4.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-5.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-6.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-7.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSteve Rogers Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-power-rangers-tigerzord",
+ "artist": "3D Wicked",
+ "series": "Power Rangers",
+ "title": "Tigerzord",
+ "images": [
+  "images/wicked/power-rangers/tigerzord/tigerzord-1.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-2.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-3.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-4.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-5.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-6.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-7.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTigerzord Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-spider-woman",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider Woman",
+ "images": [
+  "images/wicked/spider-man/spider-woman/spider-woman-1.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-2.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-3.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-4.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-5.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-6.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-7.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpider Woman Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-beast",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Beast",
+ "images": [
+  "images/wicked/x-men/beast/beast-1.jpg",
+  "images/wicked/x-men/beast/beast-2.jpg",
+  "images/wicked/x-men/beast/beast-3.jpg",
+  "images/wicked/x-men/beast/beast-4.jpg",
+  "images/wicked/x-men/beast/beast-5.jpg",
+  "images/wicked/x-men/beast/beast-6.jpg",
+  "images/wicked/x-men/beast/beast-7.jpg",
+  "images/wicked/x-men/beast/beast-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBeast Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-power-rangers-power-ranger-green-and-power-ranger-white-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Power Rangers",
+ "title": "Power Ranger Green and Power Ranger White (Diorama)",
+ "images": [
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-1.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-2.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-3.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-4.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-5.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-6.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-7.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPower Ranger Green and Power Ranger White Diorama Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-power-rangers-power-ranger-green",
+ "artist": "3D Wicked",
+ "series": "Power Rangers",
+ "title": "Power Ranger Green",
+ "images": [
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-1.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-2.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-3.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-4.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-5.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-6.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-7.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPower Ranger Green Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-power-rangers-power-ranger-white",
+ "artist": "3D Wicked",
+ "series": "Power Rangers",
+ "title": "Power Ranger White",
+ "images": [
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-1.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-2.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-3.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-4.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-5.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-6.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-7.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPower Ranger White Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-deadpool-and-cable-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Deadpool and Cable (Diorama)",
+ "images": [
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-1.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-2.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-3.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-4.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-5.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-6.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-7.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDeadpool and Cable DIORAMA COMPLETE based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-cable",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Cable",
+ "images": [
+  "images/wicked/x-men/cable/cable-1.jpg",
+  "images/wicked/x-men/cable/cable-2.jpg",
+  "images/wicked/x-men/cable/cable-3.jpg",
+  "images/wicked/x-men/cable/cable-4.jpg",
+  "images/wicked/x-men/cable/cable-5.jpg",
+  "images/wicked/x-men/cable/cable-6.jpg",
+  "images/wicked/x-men/cable/cable-7.jpg",
+  "images/wicked/x-men/cable/cable-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCable Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-deadpool-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Deadpool",
+ "images": [
+  "images/wicked/x-men/deadpool-1/deadpool-1-1.jpg",
+  "images/wicked/x-men/deadpool-1/deadpool-1-2.jpg",
+  "images/wicked/x-men/deadpool-1/deadpool-1-3.jpg",
+  "images/wicked/x-men/deadpool-1/deadpool-1-4.jpg",
+  "images/wicked/x-men/deadpool-1/deadpool-1-5.jpg",
+  "images/wicked/x-men/deadpool-1/deadpool-1-6.jpg",
+  "images/wicked/x-men/deadpool-1/deadpool-1-7.jpg",
+  "images/wicked/x-men/deadpool-1/deadpool-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDeadpool Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-the-sentry",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "The Sentry",
+ "images": [
+  "images/wicked/avengers/the-sentry/the-sentry-1.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-2.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-3.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-4.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-5.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-6.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-7.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Sentry Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-jean-grey-and-cyclops-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Jean Grey and Cyclops (Diorama)",
+ "images": [
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-1.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-2.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-3.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-4.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-5.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-6.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-7.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJean Grey and Cyclops DIORAMA COMPLETE based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-jean-grey",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Jean Grey",
+ "images": [
+  "images/wicked/x-men/jean-grey/jean-grey-1.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-2.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-3.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-4.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-5.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-6.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-7.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJean Grey Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-super-mario-mario-and-luigi",
+ "artist": "3D Wicked",
+ "series": "Super Mario",
+ "title": "Mario and Luigi",
+ "images": [
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-1.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-2.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-3.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-4.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-5.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-6.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-7.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nMario and Luigi Diorama Complete. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-super-mario-super-mario-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Super Mario",
+ "title": "Super Mario (Diorama)",
+ "images": [
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-1.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-2.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-3.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-4.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-5.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-6.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSuper Mario Diorama Complete. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-bros-movie",
+ "artist": "3D Wicked",
+ "series": "Super Mario",
+ "title": "Only Super Mario Bros Movie",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-bros-movie/only-super-mario-bros-movie-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSuper Mario Bros Movie. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-64",
+ "artist": "3D Wicked",
+ "series": "Super Mario",
+ "title": "Only Super Mario 64",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-64/only-super-mario-64-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSuper Mario 64. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-world",
+ "artist": "3D Wicked",
+ "series": "Super Mario",
+ "title": "Only Super Mario World",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-world/only-super-mario-world-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSuper Mario World. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-bros-3",
+ "artist": "3D Wicked",
+ "series": "Super Mario",
+ "title": "Only Super Mario Bros 3",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-bros-3/only-super-mario-bros-3-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSuper Mario Bros 3. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-bros",
+ "artist": "3D Wicked",
+ "series": "Super Mario",
+ "title": "Only Super Mario Bros",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-bros/only-super-mario-bros-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!\nSuper Mario Bros. Fan Art Model (1/6 scale approx.) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-cyclops-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Cyclops",
+ "images": [
+  "images/wicked/x-men/cyclops-1/cyclops-1-1.jpg",
+  "images/wicked/x-men/cyclops-1/cyclops-1-2.jpg",
+  "images/wicked/x-men/cyclops-1/cyclops-1-3.jpg",
+  "images/wicked/x-men/cyclops-1/cyclops-1-4.jpg",
+  "images/wicked/x-men/cyclops-1/cyclops-1-5.jpg",
+  "images/wicked/x-men/cyclops-1/cyclops-1-6.jpg",
+  "images/wicked/x-men/cyclops-1/cyclops-1-7.jpg",
+  "images/wicked/x-men/cyclops-1/cyclops-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCyclops Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-black-order-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Black Order (Diorama)",
+ "images": [
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-1.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-2.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-3.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-4.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-5.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-6.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Order DIORAMA COMPLETE based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-gandalf-and-balrog-diorama-complete",
+ "artist": "3D Wicked",
+ "series": "The Lord of the Rings",
+ "title": "Gandalf and Balrog (Diorama)",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-1.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-2.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-3.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-4.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-5.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-6.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-7.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGandalf and Barlog Diorama Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-balrog",
+ "artist": "3D Wicked",
+ "series": "The Lord of the Rings",
+ "title": "Balrog",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-1.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-2.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-3.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-4.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-5.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-6.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-7.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBalrog Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-gandalf",
+ "artist": "3D Wicked",
+ "series": "The Lord of the Rings",
+ "title": "Gandalf",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-1.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-2.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-3.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-4.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-5.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-6.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-7.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGandalf Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-lady-death-and-thanos-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Lady Death and Thanos (Diorama)",
+ "images": [
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-1.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-2.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-3.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-4.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-5.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-6.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-7.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLady Death and Thanos Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-lady-death",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Lady Death",
+ "images": [
+  "images/wicked/avengers/lady-death/lady-death-1.jpg",
+  "images/wicked/avengers/lady-death/lady-death-2.jpg",
+  "images/wicked/avengers/lady-death/lady-death-3.jpg",
+  "images/wicked/avengers/lady-death/lady-death-4.jpg",
+  "images/wicked/avengers/lady-death/lady-death-5.jpg",
+  "images/wicked/avengers/lady-death/lady-death-6.jpg",
+  "images/wicked/avengers/lady-death/lady-death-7.jpg",
+  "images/wicked/avengers/lady-death/lady-death-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLady Death Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-thanos-comic",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Thanos Comic",
+ "images": [
+  "images/wicked/avengers/thanos-comic/thanos-comic-1.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-2.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-3.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-4.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-5.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-6.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-7.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThanos Comic Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-corvus-glaive",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Corvus Glaive",
+ "images": [
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-1.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-2.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-3.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-4.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-5.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-6.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-7.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCorvus Glaive Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-transformers-diorama-base-optimus-sculpture-megatron",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "BASE + Optimus + Megatron (Diorama)",
+ "images": [
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-1.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-2.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-3.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-4.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-5.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-6.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-7.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDIORAMA BASE + Optimus Sculpture + Megatron Sculpture based on the Transformers Movie. Fan Art Model (1/6 scale approx.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-transformers-megatron",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "Megatron",
+ "images": [
+  "images/wicked/transformers/megatron/megatron-1.jpg",
+  "images/wicked/transformers/megatron/megatron-2.jpg",
+  "images/wicked/transformers/megatron/megatron-3.jpg",
+  "images/wicked/transformers/megatron/megatron-4.jpg",
+  "images/wicked/transformers/megatron/megatron-5.jpg",
+  "images/wicked/transformers/megatron/megatron-6.jpg",
+  "images/wicked/transformers/megatron/megatron-7.jpg",
+  "images/wicked/transformers/megatron/megatron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMegatron Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-transformers-megatron-gun",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "Megatron Gun",
+ "images": [
+  "images/wicked/transformers/megatron-gun/megatron-gun-1.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-2.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-3.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-4.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-5.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-6.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-7.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMegatron Gun Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-storm-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Storm",
+ "images": [
+  "images/wicked/x-men/storm-1/storm-1-1.jpg",
+  "images/wicked/x-men/storm-1/storm-1-2.jpg",
+  "images/wicked/x-men/storm-1/storm-1-3.jpg",
+  "images/wicked/x-men/storm-1/storm-1-4.jpg",
+  "images/wicked/x-men/storm-1/storm-1-5.jpg",
+  "images/wicked/x-men/storm-1/storm-1-6.jpg",
+  "images/wicked/x-men/storm-1/storm-1-7.jpg",
+  "images/wicked/x-men/storm-1/storm-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStorm Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-thanos-1",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Thanos",
+ "images": [
+  "images/wicked/avengers/thanos-1/thanos-1-1.jpg",
+  "images/wicked/avengers/thanos-1/thanos-1-2.jpg",
+  "images/wicked/avengers/thanos-1/thanos-1-3.jpg",
+  "images/wicked/avengers/thanos-1/thanos-1-4.jpg",
+  "images/wicked/avengers/thanos-1/thanos-1-5.jpg",
+  "images/wicked/avengers/thanos-1/thanos-1-6.jpg",
+  "images/wicked/avengers/thanos-1/thanos-1-7.jpg",
+  "images/wicked/avengers/thanos-1/thanos-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThanos Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-street-fighter-street-fighter-diorama",
+ "artist": "3D Wicked",
+ "series": "Street Fighter",
+ "title": "Street Fighter (Diorama)",
+ "images": [
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-1.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-2.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-3.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-4.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-5.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-6.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-7.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStreet Fighter Diorama based on the Street Fighter Video Game. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-street-fighter-ken",
+ "artist": "3D Wicked",
+ "series": "Street Fighter",
+ "title": "Ken",
+ "images": [
+  "images/wicked/street-fighter/ken/ken-1.jpg",
+  "images/wicked/street-fighter/ken/ken-2.jpg",
+  "images/wicked/street-fighter/ken/ken-3.jpg",
+  "images/wicked/street-fighter/ken/ken-4.jpg",
+  "images/wicked/street-fighter/ken/ken-5.jpg",
+  "images/wicked/street-fighter/ken/ken-6.jpg",
+  "images/wicked/street-fighter/ken/ken-7.jpg",
+  "images/wicked/street-fighter/ken/ken-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKen Sculpture based on the Street Fighter Video Game. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-street-fighter-ryu",
+ "artist": "3D Wicked",
+ "series": "Street Fighter",
+ "title": "Ryu",
+ "images": [
+  "images/wicked/street-fighter/ryu/ryu-1.jpg",
+  "images/wicked/street-fighter/ryu/ryu-2.jpg",
+  "images/wicked/street-fighter/ryu/ryu-3.jpg",
+  "images/wicked/street-fighter/ryu/ryu-4.jpg",
+  "images/wicked/street-fighter/ryu/ryu-5.jpg",
+  "images/wicked/street-fighter/ryu/ryu-6.jpg",
+  "images/wicked/street-fighter/ryu/ryu-7.jpg",
+  "images/wicked/street-fighter/ryu/ryu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRyu Sculpture based on the Street Gighter Video Game. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-proxima-midnight",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Proxima Midnight",
+ "images": [
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-1.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-2.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-3.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-4.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-5.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-6.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-7.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nProxima Midnight Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-transformers-optimus-prime-truck",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "Optimus Prime Truck",
+ "images": [
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-1.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-2.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-3.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-4.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-5.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-6.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-7.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nOptimus Prime Truck Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-transformers-optimus-prime",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "Optimus Prime",
+ "images": [
+  "images/wicked/transformers/optimus-prime/optimus-prime-1.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-2.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-3.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-4.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-5.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-6.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-7.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nOptimus Prime Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-diorama-base-rogue-sculpture-gambit",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "BASE + Rogue + Gambit (Diorama)",
+ "images": [
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-1.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-2.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-3.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-4.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-5.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-6.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-7.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDIORAMA BASE + Rogue Sculpture + Gambit Sculpture based on the MCU. Fan Art Model (1/6 scale approx.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-rogue-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Rogue",
+ "images": [
+  "images/wicked/x-men/rogue-1/rogue-1-1.jpg",
+  "images/wicked/x-men/rogue-1/rogue-1-2.jpg",
+  "images/wicked/x-men/rogue-1/rogue-1-3.jpg",
+  "images/wicked/x-men/rogue-1/rogue-1-4.jpg",
+  "images/wicked/x-men/rogue-1/rogue-1-5.jpg",
+  "images/wicked/x-men/rogue-1/rogue-1-6.jpg",
+  "images/wicked/x-men/rogue-1/rogue-1-7.jpg",
+  "images/wicked/x-men/rogue-1/rogue-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRogue Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-ebony-maw",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Ebony Maw",
+ "images": [
+  "images/wicked/avengers/ebony-maw/ebony-maw-1.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-2.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-3.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-4.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-5.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-6.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-7.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nEbony Maw Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-cull-obsidian",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Cull Obsidian",
+ "images": [
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-1.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-2.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-3.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-4.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-5.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-6.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-7.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCull Obsidian Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "x Uncle Jessy: Magneto Helmet 1:1 scale for 3d Printing",
+ "images": [
+  "images/wicked/x-men/x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing/x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/1 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMagneto's Helmet for 3d printing. Fan Art Model (1/1 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\nMuchas gracias to Uncle Jessy for all the love and support to our art! You can check his videos here:\nhttps://www.youtube.com/@UncleJessy\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month 12+ NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-jingle-all-the-way-turboman",
+ "artist": "3D Wicked",
+ "series": "Jingle All the Way",
+ "title": "Turboman",
+ "images": [
+  "images/wicked/jingle-all-the-way/turboman/turboman-1.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-2.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-3.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-4.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-5.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-6.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-7.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTurboman Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-die-hard-john-mcclane",
+ "artist": "3D Wicked",
+ "series": "Die Hard",
+ "title": "John McClane",
+ "images": [
+  "images/wicked/die-hard/john-mcclane/john-mcclane-1.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-2.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-3.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-4.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-5.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-6.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-7.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJohn McClane Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-man-spider",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Man Spider",
+ "images": [
+  "images/wicked/spider-man/man-spider/man-spider-1.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-2.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-3.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-4.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-5.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-6.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMan-Spider Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-thor-gorr",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Gorr",
+ "images": [
+  "images/wicked/thor/gorr/gorr-1.jpg",
+  "images/wicked/thor/gorr/gorr-2.jpg",
+  "images/wicked/thor/gorr/gorr-3.jpg",
+  "images/wicked/thor/gorr/gorr-4.jpg",
+  "images/wicked/thor/gorr/gorr-5.jpg",
+  "images/wicked/thor/gorr/gorr-6.jpg",
+  "images/wicked/thor/gorr/gorr-7.jpg",
+  "images/wicked/thor/gorr/gorr-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGorr Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-devil-may-cry-dante-and-vergil-diorama",
+ "artist": "3D Wicked",
+ "series": "Devil May Cry",
+ "title": "Dante and Vergil (Diorama)",
+ "images": [
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-1.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-2.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-3.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-4.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-5.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-6.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-7.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDante and Vergil Diorama Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-magneto-and-xavier-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Magneto and Xavier (Diorama)",
+ "images": [
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-1.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-2.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-3.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-4.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-5.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-6.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-7.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMagneto and Xavier Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-ronan",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Ronan",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRonan Sculpture is based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-devil-may-cry-vergil",
+ "artist": "3D Wicked",
+ "series": "Devil May Cry",
+ "title": "Vergil",
+ "images": [
+  "images/wicked/devil-may-cry/vergil/vergil-1.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-2.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-3.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-4.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-5.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-6.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-7.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVergil Sculpture based on the Devil May Cry Video Game. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-devil-may-cry-dante",
+ "artist": "3D Wicked",
+ "series": "Devil May Cry",
+ "title": "Dante",
+ "images": [
+  "images/wicked/devil-may-cry/dante/dante-1.jpg",
+  "images/wicked/devil-may-cry/dante/dante-2.jpg",
+  "images/wicked/devil-may-cry/dante/dante-3.jpg",
+  "images/wicked/devil-may-cry/dante/dante-4.jpg",
+  "images/wicked/devil-may-cry/dante/dante-5.jpg",
+  "images/wicked/devil-may-cry/dante/dante-6.jpg",
+  "images/wicked/devil-may-cry/dante/dante-7.jpg",
+  "images/wicked/devil-may-cry/dante/dante-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDante Sculpture based on the Devil May Cry Video Game. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-charles-xavier",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Charles Xavier",
+ "images": [
+  "images/wicked/x-men/charles-xavier/charles-xavier-1.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-2.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-3.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-4.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-5.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-6.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-7.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCharles Xavier Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-magneto-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Magneto",
+ "images": [
+  "images/wicked/x-men/magneto-1/magneto-1-1.jpg",
+  "images/wicked/x-men/magneto-1/magneto-1-2.jpg",
+  "images/wicked/x-men/magneto-1/magneto-1-3.jpg",
+  "images/wicked/x-men/magneto-1/magneto-1-4.jpg",
+  "images/wicked/x-men/magneto-1/magneto-1-5.jpg",
+  "images/wicked/x-men/magneto-1/magneto-1-6.jpg",
+  "images/wicked/x-men/magneto-1/magneto-1-7.jpg",
+  "images/wicked/x-men/magneto-1/magneto-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMagneto Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-kraven-1",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Kraven",
+ "images": [
+  "images/wicked/spider-man/kraven-1/kraven-1-1.jpg",
+  "images/wicked/spider-man/kraven-1/kraven-1-2.jpg",
+  "images/wicked/spider-man/kraven-1/kraven-1-3.jpg",
+  "images/wicked/spider-man/kraven-1/kraven-1-4.jpg",
+  "images/wicked/spider-man/kraven-1/kraven-1-5.jpg",
+  "images/wicked/spider-man/kraven-1/kraven-1-6.jpg",
+  "images/wicked/spider-man/kraven-1/kraven-1-7.jpg",
+  "images/wicked/spider-man/kraven-1/kraven-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKraven Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-shining-jack-torrance",
+ "artist": "3D Wicked",
+ "series": "The Shining",
+ "title": "Jack Torrance",
+ "images": [
+  "images/wicked/the-shining/jack-torrance/jack-torrance-1.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-2.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-3.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-4.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-5.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-6.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJack Torrance Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-crossbones",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Crossbones",
+ "images": [
+  "images/wicked/avengers/crossbones/crossbones-1.jpg",
+  "images/wicked/avengers/crossbones/crossbones-2.jpg",
+  "images/wicked/avengers/crossbones/crossbones-3.jpg",
+  "images/wicked/avengers/crossbones/crossbones-4.jpg",
+  "images/wicked/avengers/crossbones/crossbones-5.jpg",
+  "images/wicked/avengers/crossbones/crossbones-6.jpg",
+  "images/wicked/avengers/crossbones/crossbones-7.jpg",
+  "images/wicked/avengers/crossbones/crossbones-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCrossbones Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-red-skull",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Red Skull",
+ "images": [
+  "images/wicked/avengers/red-skull/red-skull-1.jpg",
+  "images/wicked/avengers/red-skull/red-skull-2.jpg",
+  "images/wicked/avengers/red-skull/red-skull-3.jpg",
+  "images/wicked/avengers/red-skull/red-skull-4.jpg",
+  "images/wicked/avengers/red-skull/red-skull-5.jpg",
+  "images/wicked/avengers/red-skull/red-skull-6.jpg",
+  "images/wicked/avengers/red-skull/red-skull-7.jpg",
+  "images/wicked/avengers/red-skull/red-skull-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRed Skull Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-a-nightmare-on-elm-street-fredy-krueger",
+ "artist": "3D Wicked",
+ "series": "A Nightmare on Elm Street",
+ "title": "Fredy Krueger",
+ "images": [
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-1.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-2.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-3.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-4.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-5.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-6.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-7.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFredy Krueger Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-thor-thor-avengers-diorama",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Thor (Avengers) (Diorama)",
+ "images": [
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-1.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-2.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-3.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-4.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-5.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-6.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-7.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThor (Avenger Diorama) Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-thor-beta-ray-bill",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Beta Ray Bill",
+ "images": [
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-1.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-2.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-3.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-4.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-5.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-6.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-7.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBeta Ray Bill Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-juggernaut-and-colossus-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Juggernaut and Colossus (Diorama)",
+ "images": [
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-1.jpg",
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-2.jpg",
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-3.jpg",
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJuggernaut and Colossus Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-iron-man",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Iron Man",
+ "images": [
+  "images/wicked/avengers/iron-man/iron-man-1.jpg",
+  "images/wicked/avengers/iron-man/iron-man-2.jpg",
+  "images/wicked/avengers/iron-man/iron-man-3.jpg",
+  "images/wicked/avengers/iron-man/iron-man-4.jpg",
+  "images/wicked/avengers/iron-man/iron-man-5.jpg",
+  "images/wicked/avengers/iron-man/iron-man-6.jpg",
+  "images/wicked/avengers/iron-man/iron-man-7.jpg",
+  "images/wicked/avengers/iron-man/iron-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Man Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-colossus",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Colossus",
+ "images": [
+  "images/wicked/x-men/colossus/colossus-1.jpg",
+  "images/wicked/x-men/colossus/colossus-2.jpg",
+  "images/wicked/x-men/colossus/colossus-3.jpg",
+  "images/wicked/x-men/colossus/colossus-4.jpg",
+  "images/wicked/x-men/colossus/colossus-5.jpg",
+  "images/wicked/x-men/colossus/colossus-6.jpg",
+  "images/wicked/x-men/colossus/colossus-7.jpg",
+  "images/wicked/x-men/colossus/colossus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nColossus Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-predator-predator-and-naru-diorama",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Predator and Naru (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-1.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-2.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-3.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-4.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-5.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-6.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPredator and Naru Diorama Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-predator-predator",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Predator",
+ "images": [
+  "images/wicked/predator/predator/predator-1.jpg",
+  "images/wicked/predator/predator/predator-2.jpg",
+  "images/wicked/predator/predator/predator-3.jpg",
+  "images/wicked/predator/predator/predator-4.jpg",
+  "images/wicked/predator/predator/predator-5.jpg",
+  "images/wicked/predator/predator/predator-6.jpg",
+  "images/wicked/predator/predator/predator-7.jpg",
+  "images/wicked/predator/predator/predator-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPredator Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-predator-naru",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Naru",
+ "images": [
+  "images/wicked/predator/naru/naru-1.jpg",
+  "images/wicked/predator/naru/naru-2.jpg",
+  "images/wicked/predator/naru/naru-3.jpg",
+  "images/wicked/predator/naru/naru-4.jpg",
+  "images/wicked/predator/naru/naru-5.jpg",
+  "images/wicked/predator/naru/naru-6.jpg",
+  "images/wicked/predator/naru/naru-7.jpg",
+  "images/wicked/predator/naru/naru-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNaru Sculpture (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-nova",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Nova",
+ "images": [
+  "images/wicked/x-men/nova/nova-1.jpg",
+  "images/wicked/x-men/nova/nova-2.jpg",
+  "images/wicked/x-men/nova/nova-3.jpg",
+  "images/wicked/x-men/nova/nova-4.jpg",
+  "images/wicked/x-men/nova/nova-5.jpg",
+  "images/wicked/x-men/nova/nova-6.jpg",
+  "images/wicked/x-men/nova/nova-7.jpg",
+  "images/wicked/x-men/nova/nova-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNova Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-doom-doom-slayer-diorama",
+ "artist": "3D Wicked",
+ "series": "Doom",
+ "title": "Doom Slayer (Diorama)",
+ "images": [
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-1.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-2.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-3.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-4.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-5.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-6.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-7.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDoom Slayer Diorama based on the Doom Video Game. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-juggernaut",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Juggernaut",
+ "images": [
+  "images/wicked/x-men/juggernaut/juggernaut-1.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-2.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-3.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-4.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-5.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-6.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJuggernaut Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-hulk-avengers-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hulk (Avengers) (Diorama)",
+ "images": [
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-1.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-2.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-3.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-4.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-5.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-6.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-7.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHulk (Avenger Diorama) Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-hawkeye-avengers-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hawkeye (Avengers) (Diorama)",
+ "images": [
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-1.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-2.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-3.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-4.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-5.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-6.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-7.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHawkeye Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-black-widow",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Black Widow",
+ "images": [
+  "images/wicked/avengers/black-widow/black-widow-1.jpg",
+  "images/wicked/avengers/black-widow/black-widow-2.jpg",
+  "images/wicked/avengers/black-widow/black-widow-3.jpg",
+  "images/wicked/avengers/black-widow/black-widow-4.jpg",
+  "images/wicked/avengers/black-widow/black-widow-5.jpg",
+  "images/wicked/avengers/black-widow/black-widow-6.jpg",
+  "images/wicked/avengers/black-widow/black-widow-7.jpg",
+  "images/wicked/avengers/black-widow/black-widow-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Widow Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-captain-america-first-avenger",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain America (First Avenger)",
+ "images": [
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-1.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-2.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-3.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-4.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-5.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-6.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-7.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America (First Avenger) Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-4f-diorama",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "4F (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-1.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-2.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-3.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-4.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-5.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\n4F Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-archangel",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Archangel",
+ "images": [
+  "images/wicked/x-men/archangel/archangel-1.jpg",
+  "images/wicked/x-men/archangel/archangel-2.jpg",
+  "images/wicked/x-men/archangel/archangel-3.jpg",
+  "images/wicked/x-men/archangel/archangel-4.jpg",
+  "images/wicked/x-men/archangel/archangel-5.jpg",
+  "images/wicked/x-men/archangel/archangel-6.jpg",
+  "images/wicked/x-men/archangel/archangel-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nArchangel Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-dr-doom-f4-diorama-version",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Dr Doom (F4 Version) (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-1.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-2.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-3.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-4.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-5.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-6.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-7.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr Doom Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-reed-richards",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Reed Richards",
+ "images": [
+  "images/wicked/fantastic-four/reed-richards/reed-richards-1.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-2.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-3.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-4.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-5.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-6.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-7.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nReed Richards Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-susan-storm",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Susan Storm",
+ "images": [
+  "images/wicked/fantastic-four/susan-storm/susan-storm-1.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-2.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-3.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-4.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-5.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-6.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-7.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSusan Storm Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-captain-marvel",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain Marvel",
+ "images": [
+  "images/wicked/avengers/captain-marvel/captain-marvel-1.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-2.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-3.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-4.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-5.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-6.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-7.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain Marvel Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-moon-knight-moon-knight-diorama-base-and-logo",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "Moon Knight Base and Logo (Diorama)",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-1.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-2.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-3.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-4.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-5.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMoon Knight Diorama Base and Logo Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-moon-knight-scarlet-scarab",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "Scarlet Scarab",
+ "images": [
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-1.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-2.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-3.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-4.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-5.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-6.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-7.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nScarlet Scarab Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-jhonny-storm-human-torch",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Jhonny Storm (Human Torch)",
+ "images": [
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-1.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-2.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-3.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-4.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-5.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-6.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-7.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHuman Torch Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-war-machine",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "War Machine",
+ "images": [
+  "images/wicked/avengers/war-machine/war-machine-1.jpg",
+  "images/wicked/avengers/war-machine/war-machine-2.jpg",
+  "images/wicked/avengers/war-machine/war-machine-3.jpg",
+  "images/wicked/avengers/war-machine/war-machine-4.jpg",
+  "images/wicked/avengers/war-machine/war-machine-5.jpg",
+  "images/wicked/avengers/war-machine/war-machine-6.jpg",
+  "images/wicked/avengers/war-machine/war-machine-7.jpg",
+  "images/wicked/avengers/war-machine/war-machine-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe War Machine Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-moon-knight-khonshu",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "Khonshu",
+ "images": [
+  "images/wicked/moon-knight/khonshu/khonshu-1.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-2.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-3.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-4.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-5.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-6.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-7.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKhonshu Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-moon-knight-mr-knight",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "Mr Knight",
+ "images": [
+  "images/wicked/moon-knight/mr-knight/mr-knight-1.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-2.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-3.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-4.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-5.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-6.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-7.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMr Knight Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-moon-knight-moon-knight-1",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "Moon Knight",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-1.jpg",
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-2.jpg",
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-3.jpg",
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-4.jpg",
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-5.jpg",
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-6.jpg",
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-7.jpg",
+  "images/wicked/moon-knight/moon-knight-1/moon-knight-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMoon Knight Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-moon-knight-war-tank",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "War Tank",
+ "images": [
+  "images/wicked/moon-knight/war-tank/war-tank-1.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-2.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-3.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-4.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-5.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-6.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-7.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe War Tank Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-jack-o-lantern",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Jack O Lantern",
+ "images": [
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-1.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-2.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-3.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-4.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-5.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-6.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-7.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Jack O Lantern Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-the-thing",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "The Thing",
+ "images": [
+  "images/wicked/fantastic-four/the-thing/the-thing-1.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-2.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-3.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-4.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-5.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-6.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-7.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Thing Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-ant-man-and-wasp-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Ant Man and Wasp (Diorama)",
+ "images": [
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-1.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-2.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-3.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-4.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-5.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-6.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-7.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAnt Man and Wasp Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-the-wasp-1",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "The Wasp",
+ "images": [
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-1.jpg",
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-2.jpg",
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-3.jpg",
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-4.jpg",
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-5.jpg",
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-6.jpg",
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-7.jpg",
+  "images/wicked/avengers/the-wasp-1/the-wasp-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Wasp Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-ant-man",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Ant Man",
+ "images": [
+  "images/wicked/avengers/ant-man/ant-man-1.jpg",
+  "images/wicked/avengers/ant-man/ant-man-2.jpg",
+  "images/wicked/avengers/ant-man/ant-man-3.jpg",
+  "images/wicked/avengers/ant-man/ant-man-4.jpg",
+  "images/wicked/avengers/ant-man/ant-man-5.jpg",
+  "images/wicked/avengers/ant-man/ant-man-6.jpg",
+  "images/wicked/avengers/ant-man/ant-man-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAnt Man Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-wanda-and-vision-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Wanda and Vision (Diorama)",
+ "images": [
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-1.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-2.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-3.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-4.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-5.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-6.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-7.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWanda and Vision Diorama Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-silver-surfer",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Silver Surfer",
+ "images": [
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-1.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-2.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-3.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-4.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-5.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-6.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-7.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSilver Surfer Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-vision",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Vision",
+ "images": [
+  "images/wicked/avengers/vision/vision-1.jpg",
+  "images/wicked/avengers/vision/vision-2.jpg",
+  "images/wicked/avengers/vision/vision-3.jpg",
+  "images/wicked/avengers/vision/vision-4.jpg",
+  "images/wicked/avengers/vision/vision-5.jpg",
+  "images/wicked/avengers/vision/vision-6.jpg",
+  "images/wicked/avengers/vision/vision-7.jpg",
+  "images/wicked/avengers/vision/vision-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVision Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-wanda",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Wanda",
+ "images": [
+  "images/wicked/avengers/wanda/wanda-1.jpg",
+  "images/wicked/avengers/wanda/wanda-2.jpg",
+  "images/wicked/avengers/wanda/wanda-3.jpg",
+  "images/wicked/avengers/wanda/wanda-4.jpg",
+  "images/wicked/avengers/wanda/wanda-5.jpg",
+  "images/wicked/avengers/wanda/wanda-6.jpg",
+  "images/wicked/avengers/wanda/wanda-7.jpg",
+  "images/wicked/avengers/wanda/wanda-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWanda Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-blade-blade",
+ "artist": "3D Wicked",
+ "series": "Blade",
+ "title": "Blade",
+ "images": [
+  "images/wicked/blade/blade/blade-1.jpg",
+  "images/wicked/blade/blade/blade-2.jpg",
+  "images/wicked/blade/blade/blade-3.jpg",
+  "images/wicked/blade/blade/blade-4.jpg",
+  "images/wicked/blade/blade/blade-5.jpg",
+  "images/wicked/blade/blade/blade-6.jpg",
+  "images/wicked/blade/blade/blade-7.jpg",
+  "images/wicked/blade/blade/blade-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlade Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-galactus",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Galactus",
+ "images": [
+  "images/wicked/fantastic-four/galactus/galactus-1.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-2.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-3.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-4.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-5.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-6.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-7.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGalactus Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-green-goblin",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Green Goblin",
+ "images": [
+  "images/wicked/spider-man/green-goblin/green-goblin-1.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-2.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-3.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-4.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-5.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-6.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-7.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGreen Goblin Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-spiderman-tom-holland",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spiderman (Tom Holland)",
+ "images": [
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-1.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-2.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-3.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-4.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-5.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-6.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-7.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpider-Man (Tom Holland) Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-nebula",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Nebula",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNebula Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-mr-sinister",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Mr. Sinister",
+ "images": [
+  "images/wicked/x-men/mr-sinister/mr-sinister-1.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-2.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-3.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-4.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-5.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-6.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-7.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMr. Sinister Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-gambit-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Gambit",
+ "images": [
+  "images/wicked/x-men/gambit-1/gambit-1-1.jpg",
+  "images/wicked/x-men/gambit-1/gambit-1-2.jpg",
+  "images/wicked/x-men/gambit-1/gambit-1-3.jpg",
+  "images/wicked/x-men/gambit-1/gambit-1-4.jpg",
+  "images/wicked/x-men/gambit-1/gambit-1-5.jpg",
+  "images/wicked/x-men/gambit-1/gambit-1-6.jpg",
+  "images/wicked/x-men/gambit-1/gambit-1-7.jpg",
+  "images/wicked/x-men/gambit-1/gambit-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGambit Sculpture based on the Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-electro",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Electro",
+ "images": [
+  "images/wicked/spider-man/electro/electro-1.jpg",
+  "images/wicked/spider-man/electro/electro-2.jpg",
+  "images/wicked/spider-man/electro/electro-3.jpg",
+  "images/wicked/spider-man/electro/electro-4.jpg",
+  "images/wicked/spider-man/electro/electro-5.jpg",
+  "images/wicked/spider-man/electro/electro-6.jpg",
+  "images/wicked/spider-man/electro/electro-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nElectro Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-spider-man-andrew-garfield",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider man (Andrew Garfield)",
+ "images": [
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-1.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-2.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-3.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-4.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-5.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-6.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-7.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpiderman Sculpture (Andrew Garfield) based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-spider-man-sculpture-tobey",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider man Sculpture (Tobey)",
+ "images": [
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-1.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-2.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-3.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-4.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-5.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-6.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-7.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpiderman Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-dr-octupus",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Dr. Octupus",
+ "images": [
+  "images/wicked/spider-man/dr-octupus/dr-octupus-1.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-2.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-3.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-4.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-5.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-6.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-7.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr. Octupus Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-omega-red-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Omega Red",
+ "images": [
+  "images/wicked/x-men/omega-red-1/omega-red-1-1.jpg",
+  "images/wicked/x-men/omega-red-1/omega-red-1-2.jpg",
+  "images/wicked/x-men/omega-red-1/omega-red-1-3.jpg",
+  "images/wicked/x-men/omega-red-1/omega-red-1-4.jpg",
+  "images/wicked/x-men/omega-red-1/omega-red-1-5.jpg",
+  "images/wicked/x-men/omega-red-1/omega-red-1-6.jpg",
+  "images/wicked/x-men/omega-red-1/omega-red-1-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nOmega Red Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-wolverine",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Wolverine",
+ "images": [
+  "images/wicked/x-men/wolverine/wolverine-1.jpg",
+  "images/wicked/x-men/wolverine/wolverine-2.jpg",
+  "images/wicked/x-men/wolverine/wolverine-3.jpg",
+  "images/wicked/x-men/wolverine/wolverine-4.jpg",
+  "images/wicked/x-men/wolverine/wolverine-5.jpg",
+  "images/wicked/x-men/wolverine/wolverine-6.jpg",
+  "images/wicked/x-men/wolverine/wolverine-7.jpg",
+  "images/wicked/x-men/wolverine/wolverine-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWolverine Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT highly detailed Marvel Comics 3D models (Sculptures & Busts) tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-nightcrawler",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Nightcrawler",
+ "images": [
+  "images/wicked/x-men/nightcrawler/nightcrawler-1.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-2.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-3.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-4.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-5.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-6.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-7.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNightcrawler Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-hulk-age-of-ultron",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hulk Age of Ultron",
+ "images": [
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-1.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-2.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-3.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-4.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-5.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-6.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-7.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHulk Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-cap-carter-hydra-stomper",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Cap. Carter + Hydra Stomper",
+ "images": [
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-1.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-2.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-3.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-4.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-5.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-6.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHydra Stomper + Cap. Carter Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-domino",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Domino",
+ "images": [
+  "images/wicked/x-men/domino/domino-1.jpg",
+  "images/wicked/x-men/domino/domino-2.jpg",
+  "images/wicked/x-men/domino/domino-3.jpg",
+  "images/wicked/x-men/domino/domino-4.jpg",
+  "images/wicked/x-men/domino/domino-5.jpg",
+  "images/wicked/x-men/domino/domino-6.jpg",
+  "images/wicked/x-men/domino/domino-7.jpg",
+  "images/wicked/x-men/domino/domino-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDomino Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-venom-vs-carnage-diorama-1",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Venom vs Carnage (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-1.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-2.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-3.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-4.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-5.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-6.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-7.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVenom vs Carnage Diorama based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-venom",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Venom",
+ "images": [
+  "images/wicked/spider-man/venom/venom-1.jpg",
+  "images/wicked/spider-man/venom/venom-2.jpg",
+  "images/wicked/spider-man/venom/venom-3.jpg",
+  "images/wicked/spider-man/venom/venom-4.jpg",
+  "images/wicked/spider-man/venom/venom-5.jpg",
+  "images/wicked/spider-man/venom/venom-6.jpg",
+  "images/wicked/spider-man/venom/venom-7.jpg",
+  "images/wicked/spider-man/venom/venom-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVenom Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-carnage",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Carnage",
+ "images": [
+  "images/wicked/spider-man/carnage/carnage-1.jpg",
+  "images/wicked/spider-man/carnage/carnage-2.jpg",
+  "images/wicked/spider-man/carnage/carnage-3.jpg",
+  "images/wicked/spider-man/carnage/carnage-4.jpg",
+  "images/wicked/spider-man/carnage/carnage-5.jpg",
+  "images/wicked/spider-man/carnage/carnage-6.jpg",
+  "images/wicked/spider-man/carnage/carnage-7.jpg",
+  "images/wicked/spider-man/carnage/carnage-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCarnage Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-phoenix",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Phoenix",
+ "images": [
+  "images/wicked/x-men/phoenix/phoenix-1.jpg",
+  "images/wicked/x-men/phoenix/phoenix-2.jpg",
+  "images/wicked/x-men/phoenix/phoenix-3.jpg",
+  "images/wicked/x-men/phoenix/phoenix-4.jpg",
+  "images/wicked/x-men/phoenix/phoenix-5.jpg",
+  "images/wicked/x-men/phoenix/phoenix-6.jpg",
+  "images/wicked/x-men/phoenix/phoenix-7.jpg",
+  "images/wicked/x-men/phoenix/phoenix-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPhoenix Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-mantis",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Mantis",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMantis Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-drax",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Drax",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/drax/drax-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDrax Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the this model and tons more at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-marvel-other-mephisto",
+ "artist": "3D Wicked",
+ "series": "Marvel Comics",
+ "title": "Mephisto",
+ "images": [
+  "images/wicked/marvel-other/mephisto/mephisto-1.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-2.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-3.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-4.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-5.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-6.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-7.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMephisto Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-groot",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Groot",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/groot/groot-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGroot Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-yondu",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Yondu",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nYondu Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-thor-loki-sylvie-diorama",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Loki & Sylvie (Diorama)",
+ "images": [
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-1.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-2.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-3.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-4.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLoki & Sylvie's Diorama based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-ghost-rider-cosmic-ghost-rider",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Cosmic Ghost Rider",
+ "images": [
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-1.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-2.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-3.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-4.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-5.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-6.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-7.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCosmic Ghost Rider Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-thor-loki",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Loki",
+ "images": [
+  "images/wicked/thor/loki/loki-1.jpg",
+  "images/wicked/thor/loki/loki-2.jpg",
+  "images/wicked/thor/loki/loki-3.jpg",
+  "images/wicked/thor/loki/loki-4.jpg",
+  "images/wicked/thor/loki/loki-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLoki Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-thor-sylvie",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Sylvie",
+ "images": [
+  "images/wicked/thor/sylvie/sylvie-1.jpg",
+  "images/wicked/thor/sylvie/sylvie-2.jpg",
+  "images/wicked/thor/sylvie/sylvie-3.jpg",
+  "images/wicked/thor/sylvie/sylvie-4.jpg",
+  "images/wicked/thor/sylvie/sylvie-5.jpg",
+  "images/wicked/thor/sylvie/sylvie-6.jpg",
+  "images/wicked/thor/sylvie/sylvie-7.jpg",
+  "images/wicked/thor/sylvie/sylvie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSylvie Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-spider-man-vs-vulture-diorama",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider man vs Vulture (Diorama)",
+ "images": [
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-1.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-2.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-3.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-4.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-5.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-6.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpider man vs Vulture Diorama based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our July Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-knull",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Knull",
+ "images": [
+  "images/wicked/spider-man/knull/knull-1.jpg",
+  "images/wicked/spider-man/knull/knull-2.jpg",
+  "images/wicked/spider-man/knull/knull-3.jpg",
+  "images/wicked/spider-man/knull/knull-4.jpg",
+  "images/wicked/spider-man/knull/knull-5.jpg",
+  "images/wicked/spider-man/knull/knull-6.jpg",
+  "images/wicked/spider-man/knull/knull-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKnull Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our July Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-vulture",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Vulture",
+ "images": [
+  "images/wicked/spider-man/vulture/vulture-1.jpg",
+  "images/wicked/spider-man/vulture/vulture-2.jpg",
+  "images/wicked/spider-man/vulture/vulture-3.jpg",
+  "images/wicked/spider-man/vulture/vulture-4.jpg",
+  "images/wicked/spider-man/vulture/vulture-5.jpg",
+  "images/wicked/spider-man/vulture/vulture-6.jpg",
+  "images/wicked/spider-man/vulture/vulture-7.jpg",
+  "images/wicked/spider-man/vulture/vulture-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVulture Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our July Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-spider-man-spider-man",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spider man",
+ "images": [
+  "images/wicked/spider-man/spider-man/spider-man-1.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-2.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-3.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-4.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-5.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-6.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-7.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpider man Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our July Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-x-men-deadpool-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Deadpool",
+ "images": [
+  "images/wicked/x-men/deadpool-2/deadpool-2-1.jpg",
+  "images/wicked/x-men/deadpool-2/deadpool-2-2.jpg",
+  "images/wicked/x-men/deadpool-2/deadpool-2-3.jpg",
+  "images/wicked/x-men/deadpool-2/deadpool-2-4.jpg",
+  "images/wicked/x-men/deadpool-2/deadpool-2-5.jpg",
+  "images/wicked/x-men/deadpool-2/deadpool-2-6.jpg",
+  "images/wicked/x-men/deadpool-2/deadpool-2-7.jpg",
+  "images/wicked/x-men/deadpool-2/deadpool-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDeadpool Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Gamora + Star Lord - Guardians of the Galaxy - (only base, no models) (Diorama)",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGuardians of the Galaxy: Star Lord and Gamora - Diorama Base based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our June Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-star-lord-sculpture-guardians-of-the-galaxy",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Star Lord Sculpture: Guardians of the Galaxy",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStar Lord Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our June Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-gamora-sculpture-guardians-of-the-galaxy",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Gamora Sculpture: Guardians of the Galaxy",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGamora Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our June Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Comics 3D Sculptures & Busts tested and ready for printing!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-falcon-captain-america",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Falcon - Captain America",
+ "images": [
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-1.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-2.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-3.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-4.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-5.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-6.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-7.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWinter Soldier Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our May Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-winter-soldier",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Winter Soldier",
+ "images": [
+  "images/wicked/avengers/winter-soldier/winter-soldier-1.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-2.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-3.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-4.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-5.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-6.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-7.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWinter Soldier Sculpture based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our May Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-avengers-may-diorama-winter-soldier-falcon-stls-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "May : Winter Soldier + Falcon (Diorama)",
+ "images": [
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-1.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-2.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-3.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-4.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-5.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-6.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-7.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMay Diorama: Winter Soldier + Falcon based on the MCU. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our May Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-fantastic-four-dr-doom",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Dr. Doom",
+ "images": [
+  "images/wicked/fantastic-four/dr-doom/dr-doom-1.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-2.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-3.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-4.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-5.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-6.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr. Doom Sculpture based on Marvel Comics. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our May Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month SIX highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-doctor-strange-doctor-strange-vs-dormammu-diorama",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Doctor Strange vs Dormammu (Diorama)",
+ "images": [
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-1.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-2.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-3.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-4.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-5.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr. Strange vs Dormammu Diorama based on Marvel movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our April Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month four highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-doctor-strange-dormammu",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Dormammu",
+ "images": [
+  "images/wicked/doctor-strange/dormammu/dormammu-1.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-2.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-3.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-4.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-5.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-6.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-7.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDormammu Sculpture based on Marvel movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our April Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month four highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-doctor-strange-doctor-strange",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Doctor Strange",
+ "images": [
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-1.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-2.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-3.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-4.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-5.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-6.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-7.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDoctor Strange Sculpture based on Marvel movie. Fan Art Model (1/6 scale aprox.) Tested and ready for 3d printing.\nPart of our April Diorama.\nSTL file cut and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month four highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-daredevil-marvel-netflix-daredevil-sculpture-stls-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": ": Netflix Daredevil",
+ "images": [
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-1.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-2.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-3.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-4.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-5.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-6.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-7.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDaredevil Sculpture based on Netflix show. Fan Art Model (1/6 scale aprox.) tested and ready for 3d printing.\nPart of our March Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month four highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-daredevil-punisher-vs-daredevil-diorama-base-stls-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Punisher vs Daredevil base (Diorama)",
+ "images": [
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-1.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-2.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-3.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-4.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-5.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-6.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPunisher vs Daredevil Diorama Sculpture based on Netflix show. Fan Art Model (1/6 scale aprox.) tested and ready for 3d printing.\nPart of our March Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month four highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-daredevil-marvel-netflix-punisher-sculpture-stls-ready-for-printing",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": ": Netflix Punisher",
+ "images": [
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-1.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-2.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-3.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-4.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-5.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-6.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-7.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPunisher Sculpture based on Netflix show. Fan Art Model (1/6 scale aprox.) tested and ready for 3d printing.\nPart of our March Diorama.\nSTL file cutted and tested, ready for your collection!\n🔔 Get the Diorama at a special price by joining us in Patreon:\nhttps://www.patreon.com/3dWicked\nEach month four highly detailed Marvel Avenger 3D Sculpture & Bust tested and ready for printing!\nHappy printing and enjoy!\nBe Wicked, Stay Wicked amigos! ~"
+},
+ {
+ "id": "wicked-predator-predator-and-dutch-diorama",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Predator and Dutch (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-1.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-2.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-3.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-4.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-5.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-6.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-7.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPredator and Dutch Diorama Sculpture based on the Predator Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPredator and Dutch Diorama Measures:\n- Length: 416mm\n- Height: 573mm\n- Width: 360mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-predator-the-predator",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "The Predator",
+ "images": [
+  "images/wicked/predator/the-predator/the-predator-1.jpg",
+  "images/wicked/predator/the-predator/the-predator-2.jpg",
+  "images/wicked/predator/the-predator/the-predator-3.jpg",
+  "images/wicked/predator/the-predator/the-predator-4.jpg",
+  "images/wicked/predator/the-predator/the-predator-5.jpg",
+  "images/wicked/predator/the-predator/the-predator-6.jpg",
+  "images/wicked/predator/the-predator/the-predator-7.jpg",
+  "images/wicked/predator/the-predator/the-predator-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Predator Sculpture based on the Predator Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nThe Predator Sculpture Measures:\n- Length: 234mm\n- Height: 592mm\n- Width: 360mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-predator-dutch",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Dutch",
+ "images": [
+  "images/wicked/predator/dutch/dutch-1.jpg",
+  "images/wicked/predator/dutch/dutch-2.jpg",
+  "images/wicked/predator/dutch/dutch-3.jpg",
+  "images/wicked/predator/dutch/dutch-4.jpg",
+  "images/wicked/predator/dutch/dutch-5.jpg",
+  "images/wicked/predator/dutch/dutch-6.jpg",
+  "images/wicked/predator/dutch/dutch-7.jpg",
+  "images/wicked/predator/dutch/dutch-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDutch Sculpture based on the Predator Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDutch Sculpture Measures:\n- Length: 252mm\n- Height: 350mm\n- Width: 209mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-predator-predator-and-dutch-diorama-v2-lifting-the-torch",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Predator and Dutch V2 (Lifting the torch) (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-1.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-2.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-3.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-4.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-5.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-6.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-7.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPredator and Dutch Diorama V2 (Lifting the torch) Sculpture based on the Predator Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPredator and Dutch Diorama V2 (Lifting the torch) Measures:\n- Length: 416mm\n- Height: 573mm\n- Width: 360mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-predator-predator-vs-alien-diorama",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Predator VS Alien (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-1.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-2.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-3.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-4.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-5.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-6.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-7.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPredator VS Alien Diorama Sculpture based on the Predator Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPredator VS Alien Diorama Measures:\n- Length: 345mm\n- Height: 650mm\n- Width: 404mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghost-rider-johnny-blaze-ghost-rider",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Johnny Blaze Ghost Rider",
+ "images": [
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-1.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-2.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-3.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-4.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-5.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-6.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-7.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJohnny Blaze Ghost Rider Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nJohnny Blaze Ghost Rider Sculpture Measures:\n- Length: 646mm\n- Height: 382mm\n- Width: 493mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghost-rider-danny-ketch-ghost-rider",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Danny Ketch Ghost Rider",
+ "images": [
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-1.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-2.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-3.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-4.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-5.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-6.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-7.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDanny Ketch Ghost Rider Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDanny Ketch Ghost Rider Sculpture Measures:\n- Length: 578mm\n- Height: 370mm\n- Width: 382mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-diorama",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider (Diorama)",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGhost Rider Diorama Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGhost Rider Diorama Sculpture Measures:\n- Length: 861mm\n- Height: 648mm\n- Width: 751mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-x-23",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "X-23",
+ "images": [
+  "images/wicked/x-men/x-23/x-23-1.jpg",
+  "images/wicked/x-men/x-23/x-23-2.jpg",
+  "images/wicked/x-men/x-23/x-23-3.jpg",
+  "images/wicked/x-men/x-23/x-23-4.jpg",
+  "images/wicked/x-men/x-23/x-23-5.jpg",
+  "images/wicked/x-men/x-23/x-23-6.jpg",
+  "images/wicked/x-men/x-23/x-23-7.jpg",
+  "images/wicked/x-men/x-23/x-23-8.jpg",
+  "images/wicked/x-men/x-23/x-23-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nX-23 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nX-23 Sculpture Measures:\n- Length: 188mm\n- Height: 300mm\n- Width: 174mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-punisher-2024",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Punisher 2024",
+ "images": [
+  "images/wicked/daredevil/punisher-2024/punisher-2024-1.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-2.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-3.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-4.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-5.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-6.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPunisher 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPunisher 2024 Sculpture Measures:\n- Length: 279mm\n- Height: 390mm\n- Width: 333mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-archangel-2024",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Archangel 2024",
+ "images": [
+  "images/wicked/x-men/archangel-2024/archangel-2024-1.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-2.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-3.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-4.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-5.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-6.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-7.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nArchangel 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nArchangel 2024 Sculpture Measures:\n- Length: 206mm\n- Height: 457mm\n- Width: 360mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-famine",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Famine",
+ "images": [
+  "images/wicked/x-men/famine/famine-1.jpg",
+  "images/wicked/x-men/famine/famine-2.jpg",
+  "images/wicked/x-men/famine/famine-3.jpg",
+  "images/wicked/x-men/famine/famine-4.jpg",
+  "images/wicked/x-men/famine/famine-5.jpg",
+  "images/wicked/x-men/famine/famine-6.jpg",
+  "images/wicked/x-men/famine/famine-7.jpg",
+  "images/wicked/x-men/famine/famine-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFamine Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nFamine Sculpture Measures:\n- Length: 225mm\n- Height: 386mm\n- Width: 236mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-war",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "War",
+ "images": [
+  "images/wicked/x-men/war/war-1.jpg",
+  "images/wicked/x-men/war/war-2.jpg",
+  "images/wicked/x-men/war/war-3.jpg",
+  "images/wicked/x-men/war/war-4.jpg",
+  "images/wicked/x-men/war/war-5.jpg",
+  "images/wicked/x-men/war/war-6.jpg",
+  "images/wicked/x-men/war/war-7.jpg",
+  "images/wicked/x-men/war/war-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWar Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nWar Sculpture Measures:\n- Length: 202mm\n- Height: 468mm\n- Width: 199mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-apocalypse",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Apocalypse",
+ "images": [
+  "images/wicked/x-men/apocalypse/apocalypse-1.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-2.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-3.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-4.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-5.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-6.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-7.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nApocalypse Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nApocalypse Sculpture Measures:\n- Length: 342mm\n- Height: 520mm\n- Width: 313mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-black-panther-and-namor-diorama",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Black Panther and Namor (Diorama)",
+ "images": [
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-1.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-2.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-3.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-4.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-5.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-6.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-7.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Panther and Namor Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBlack Panther and Namor Diorama Measures:\n- Length: 319mm\n- Height: 490mm\n- Width: 392mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-black-panther-shuri-2024",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Black Panther Shuri 2024",
+ "images": [
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-1.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-2.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-3.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-4.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-5.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-6.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Panther 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBlack Panther 2024 Sculpture Measures:\n- Length: 243mm\n- Height: 550mm\n- Width: 331mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-namor",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Namor",
+ "images": [
+  "images/wicked/black-panther/namor/namor-1.jpg",
+  "images/wicked/black-panther/namor/namor-2.jpg",
+  "images/wicked/black-panther/namor/namor-3.jpg",
+  "images/wicked/black-panther/namor/namor-4.jpg",
+  "images/wicked/black-panther/namor/namor-5.jpg",
+  "images/wicked/black-panther/namor/namor-6.jpg",
+  "images/wicked/black-panther/namor/namor-7.jpg",
+  "images/wicked/black-panther/namor/namor-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNamor Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nNamor Sculpture Measures:\n- Length: 238mm\n- Height: 550mm\n- Width: 331mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-robocop-robocop-and-ed-209-diorama",
+ "artist": "3D Wicked",
+ "series": "RoboCop",
+ "title": "Robocop and ED 209 (Diorama)",
+ "images": [
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-1.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-2.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-3.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-4.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-5.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-6.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRobocop and ED 209 Diorama Sculpture based on the Robocop Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRobocop and ED 209 Diorama Measures:\n- Length: 366mm\n- Height: 421mm\n- Width: 641mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-robocop-robocop",
+ "artist": "3D Wicked",
+ "series": "RoboCop",
+ "title": "Robocop",
+ "images": [
+  "images/wicked/robocop/robocop/robocop-1.jpg",
+  "images/wicked/robocop/robocop/robocop-2.jpg",
+  "images/wicked/robocop/robocop/robocop-3.jpg",
+  "images/wicked/robocop/robocop/robocop-4.jpg",
+  "images/wicked/robocop/robocop/robocop-5.jpg",
+  "images/wicked/robocop/robocop/robocop-6.jpg",
+  "images/wicked/robocop/robocop/robocop-7.jpg",
+  "images/wicked/robocop/robocop/robocop-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRobocop Sculpture based on the Robocop Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRobocop Sculpture Measures:\n- Length: 317mm\n- Height: 386mm\n- Width: 204mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-robocop-ed-209",
+ "artist": "3D Wicked",
+ "series": "RoboCop",
+ "title": "ED 209",
+ "images": [
+  "images/wicked/robocop/ed-209/ed-209-1.jpg",
+  "images/wicked/robocop/ed-209/ed-209-2.jpg",
+  "images/wicked/robocop/ed-209/ed-209-3.jpg",
+  "images/wicked/robocop/ed-209/ed-209-4.jpg",
+  "images/wicked/robocop/ed-209/ed-209-5.jpg",
+  "images/wicked/robocop/ed-209/ed-209-6.jpg",
+  "images/wicked/robocop/ed-209/ed-209-7.jpg",
+  "images/wicked/robocop/ed-209/ed-209-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nED 209 Sculpture based on the Robocop Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nED 209 Sculpture Measures:\n- Length: 322mm\n- Height: 398mm\n- Width: 383mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-pestilence",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Pestilence",
+ "images": [
+  "images/wicked/x-men/pestilence/pestilence-1.jpg",
+  "images/wicked/x-men/pestilence/pestilence-2.jpg",
+  "images/wicked/x-men/pestilence/pestilence-3.jpg",
+  "images/wicked/x-men/pestilence/pestilence-4.jpg",
+  "images/wicked/x-men/pestilence/pestilence-5.jpg",
+  "images/wicked/x-men/pestilence/pestilence-6.jpg",
+  "images/wicked/x-men/pestilence/pestilence-7.jpg",
+  "images/wicked/x-men/pestilence/pestilence-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPestilence Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPestilence Sculpture Measures:\n- Length: 178mm\n- Height: 368mm\n- Width: 208mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-robocop-robocop-gun",
+ "artist": "3D Wicked",
+ "series": "RoboCop",
+ "title": "Robocop Gun",
+ "images": [
+  "images/wicked/robocop/robocop-gun/robocop-gun-1.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-2.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-3.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-4.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-5.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-6.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-7.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/1 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRobocop Gun based on the Robocop Movie Fan Art Model (1/1 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRobocop Gun Measures:\n- Length: 105mm\n- Height: 194mm\n- Width: 370mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-black-widow-2024",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Black Widow 2024",
+ "images": [
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-1.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-2.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-3.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-4.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-5.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-6.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-7.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Widow 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBlack Widow 2024 Sculpture Measures:\n- Length: 265mm\n- Height: 330mm\n- Width: 229mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-rocky-rocky-balboa",
+ "artist": "3D Wicked",
+ "series": "Rocky",
+ "title": "Rocky Balboa",
+ "images": [
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-1.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-2.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-3.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-4.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-5.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRocky Balboa Sculpture based on the Rocky Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRocky Balboa Sculpture Measures:\n- Length: 254mm\n- Height: 340mm\n- Width: 240mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-rocky-apollo-creed",
+ "artist": "3D Wicked",
+ "series": "Rocky",
+ "title": "Apollo Creed",
+ "images": [
+  "images/wicked/rocky/apollo-creed/apollo-creed-1.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-2.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-3.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-4.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-5.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nApollo Creed Sculpture based on the Rocky Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nApollo Creed Sculpture Measures:\n- Length: 248mm\n- Height: 345mm\n- Width: 240mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-rocky-rocky-balboa-and-apollo-creed-diorama",
+ "artist": "3D Wicked",
+ "series": "Rocky",
+ "title": "Rocky Balboa and Apollo Creed (Diorama)",
+ "images": [
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-1.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-2.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-3.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-4.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-5.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-6.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-7.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRocky Balboa and Apollo Creed Diorama Sculpture based on the Rocky Movie Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRocky Balboa and Apollo Creed Diorama Sculpture Measures:\n- Length: 450mm\n- Height: 336mm\n- Width: 443mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-hawkeye-2024",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hawkeye 2024",
+ "images": [
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-1.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-2.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-3.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-4.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-5.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-6.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHawkeye 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHawkeye 2024 Sculpture Measures:\n- Length: 310mm\n- Height: 501mm\n- Width: 265mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-hawkeye-and-black-widow-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Hawkeye and Black Widow (Diorama)",
+ "images": [
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-1.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-2.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-3.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-4.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-5.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-6.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-7.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHawkeye and Black Widow Diorama Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHawkeye and Black Widow Diorama Sculpture Measures:\n- Length: 358mm\n- Height: 512mm\n- Width: 367mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-iron-man-and-iron-monger-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Iron Man and Iron Monger (Diorama)",
+ "images": [
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-1.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-2.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-3.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-4.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-5.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-6.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-7.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Man and Iron Monger Diorama Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nIron Man and Iron Monger Diorama Sculpture Measures:\n- Length: 435mm\n- Height: 600mm\n- Width: 385mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-iron-monger",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Iron Monger",
+ "images": [
+  "images/wicked/avengers/iron-monger/iron-monger-1.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-2.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-3.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-4.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-5.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-6.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-7.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Monger Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nIron Monger Sculpture Measures:\n- Length: 369mm\n- Height: 550mm\n- Width: 354mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-gladiator",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Gladiator",
+ "images": [
+  "images/wicked/avengers/gladiator/gladiator-1.jpg",
+  "images/wicked/avengers/gladiator/gladiator-2.jpg",
+  "images/wicked/avengers/gladiator/gladiator-3.jpg",
+  "images/wicked/avengers/gladiator/gladiator-4.jpg",
+  "images/wicked/avengers/gladiator/gladiator-5.jpg",
+  "images/wicked/avengers/gladiator/gladiator-6.jpg",
+  "images/wicked/avengers/gladiator/gladiator-7.jpg",
+  "images/wicked/avengers/gladiator/gladiator-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGladiator Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGladiator Sculpture Measures:\n- Length: 330mm\n- Height: 400mm\n- Width: 305mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-mystique-1",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Mystique",
+ "images": [
+  "images/wicked/x-men/mystique-1/mystique-1-1.jpg",
+  "images/wicked/x-men/mystique-1/mystique-1-2.jpg",
+  "images/wicked/x-men/mystique-1/mystique-1-3.jpg",
+  "images/wicked/x-men/mystique-1/mystique-1-4.jpg",
+  "images/wicked/x-men/mystique-1/mystique-1-5.jpg",
+  "images/wicked/x-men/mystique-1/mystique-1-6.jpg",
+  "images/wicked/x-men/mystique-1/mystique-1-7.jpg",
+  "images/wicked/x-men/mystique-1/mystique-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMystique Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMystique Sculpture Measures:\n- Length: 219mm\n- Height: 385mm\n- Width: 208mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-kang",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Kang",
+ "images": [
+  "images/wicked/avengers/kang/kang-1.jpg",
+  "images/wicked/avengers/kang/kang-2.jpg",
+  "images/wicked/avengers/kang/kang-3.jpg",
+  "images/wicked/avengers/kang/kang-4.jpg",
+  "images/wicked/avengers/kang/kang-5.jpg",
+  "images/wicked/avengers/kang/kang-6.jpg",
+  "images/wicked/avengers/kang/kang-7.jpg",
+  "images/wicked/avengers/kang/kang-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKang Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nKang Sculpture Measures:\n- Length: 217mm\n- Height: 420mm\n- Width: 217mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-magic",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Magic",
+ "images": [
+  "images/wicked/x-men/magic/magic-1.jpg",
+  "images/wicked/x-men/magic/magic-2.jpg",
+  "images/wicked/x-men/magic/magic-3.jpg",
+  "images/wicked/x-men/magic/magic-4.jpg",
+  "images/wicked/x-men/magic/magic-5.jpg",
+  "images/wicked/x-men/magic/magic-6.jpg",
+  "images/wicked/x-men/magic/magic-7.jpg",
+  "images/wicked/x-men/magic/magic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMagic Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMagic Sculpture Measures:\n- Length: 296mm\n- Height: 500mm\n- Width: 354mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-universal-soldier-luc-deveraux",
+ "artist": "3D Wicked",
+ "series": "Universal Soldier",
+ "title": "Luc Deveraux",
+ "images": [
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-1.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-2.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-3.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-4.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-5.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-6.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-7.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLuc Deveraux Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLuke Deveraux Sculpture Measures:\n- Length: 257mm\n- Height: 344mm\n- Width: 214mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-universal-soldier-andrew-scott",
+ "artist": "3D Wicked",
+ "series": "Universal Soldier",
+ "title": "Andrew Scott",
+ "images": [
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-1.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-2.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-3.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-4.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-5.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-6.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-7.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAndrew Scott Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAndrew Scott Sculpture Measures:\n- Length: 386mm\n- Height: 370mm\n- Width: 272mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-universal-soldier-universal-soldier-diorama",
+ "artist": "3D Wicked",
+ "series": "Universal Soldier",
+ "title": "Universal Soldier (Diorama)",
+ "images": [
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-1.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-2.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-3.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-4.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-5.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-6.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-7.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nUniversal Soldier Diorama Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nUniversal Soldier Diorama Sculpture Measures:\n- Length: 350mm\n- Height: 372mm\n- Width: 324mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-lethal-weapon-lethal-weapon-diorama",
+ "artist": "3D Wicked",
+ "series": "Lethal Weapon",
+ "title": "Lethal Weapon (Diorama)",
+ "images": [
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-1.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-2.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-3.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-4.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLethal Weapon Diorama Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLethal Weapon Diorama Measures:\n- Length: 270mm\n- Height: 376mm\n- Width: 236mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-lethal-weapon-riggs",
+ "artist": "3D Wicked",
+ "series": "Lethal Weapon",
+ "title": "Riggs",
+ "images": [
+  "images/wicked/lethal-weapon/riggs/riggs-1.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-2.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-3.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-4.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-5.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-6.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRiggs Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRiggs Sculpture Measures:\n- Length: 151mm\n- Height: 360mm\n- Width: 152mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-lethal-weapon-roger",
+ "artist": "3D Wicked",
+ "series": "Lethal Weapon",
+ "title": "Roger",
+ "images": [
+  "images/wicked/lethal-weapon/roger/roger-1.jpg",
+  "images/wicked/lethal-weapon/roger/roger-2.jpg",
+  "images/wicked/lethal-weapon/roger/roger-3.jpg",
+  "images/wicked/lethal-weapon/roger/roger-4.jpg",
+  "images/wicked/lethal-weapon/roger/roger-5.jpg",
+  "images/wicked/lethal-weapon/roger/roger-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRoger Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRoger Sculpture Measures:\n- Length: 151mm\n- Height: 360mm\n- Width: 152mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-fantastic-four-super-skrull-diorama",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Super Skrull (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-1.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-2.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-3.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-4.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-5.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-6.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-7.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSuper Skrull Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSuper Skrull Diorama Measures:\n- Length: 464mm\n- Height: 450mm\n- Width: 417mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-venom-and-spiderman-diorama",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Venom and Spiderman (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-1.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-2.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-3.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-4.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-5.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-6.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-7.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVenom and Spiderman Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nVenom and Spiderman Diorama Measures:\n- Length: 331mm\n- Height: 450mm\n- Width: 374mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-venom-sculpture-2024",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Venom Sculpture 2024",
+ "images": [
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-1.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-2.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-3.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-4.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-5.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-6.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-7.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVenom Sculpture 2024 based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nVenom Sculpture 2024 Measures:\n- Length: 520mm\n- Height: 400mm\n- Width: 201mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-kitty-pryde",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Kitty Pryde",
+ "images": [
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-1.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-2.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-3.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-4.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-5.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-6.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKitty Pryde Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nKitty Pryde Sculpture Measures:\n- Length: 174mm\n- Height: 330mm\n- Width: 207mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-apocalypse-and-horseman-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Apocalypse and Horseman (Diorama)",
+ "images": [
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-1.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-2.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-3.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-4.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-5.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-6.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-7.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nApocalypse and Horseman Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nApocalypse and Horseman Diorama Measures:\n- Length: 681mm\n- Height: 639mm\n- Width: 835mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-venom-and-spiderman-v2-diorama",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Venom and Spiderman V2 (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-1.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-2.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-3.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-4.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVenom and Spiderman V2 Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nVenom and Spiderman V2 Diorama Measures:\n- Length: 333mm\n- Height: 413mm\n- Width: 353mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-crow-the-crow",
+ "artist": "3D Wicked",
+ "series": "The Crow",
+ "title": "The Crow",
+ "images": [
+  "images/wicked/the-crow/the-crow/the-crow-1.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-2.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-3.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-4.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-5.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-6.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-7.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Crow Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nThe Crow Sculpture Measures:\n- Length: 192mm\n- Height: 530mm\n- Width: 250mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-crow-the-crow-diorama",
+ "artist": "3D Wicked",
+ "series": "The Crow",
+ "title": "The Crow (Diorama)",
+ "images": [
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-1.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-2.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-3.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-4.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-5.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-6.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-7.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Crow Diorama Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nThe Crow Diorama Measures:\n- Length: 260mm\n- Height: 350mm\n- Width: 233mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-dead-strange-and-scarlet-witch-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Dead Strange and Scarlet Witch (Diorama)",
+ "images": [
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-1.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-2.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-3.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-4.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-5.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-6.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-7.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDead Strange and Scarlet Witch Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDead Strange and Scarlet Witch Diorama Measures:\n- Length: 498mm\n- Height: 732mm\n- Width: 706mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-doctor-strange-dead-strange",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Dead Strange",
+ "images": [
+  "images/wicked/doctor-strange/dead-strange/dead-strange-1.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-2.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-3.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-4.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-5.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-6.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-7.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDead Strange Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDead Strange Sculpture Measures:\n- Length: 238mm\n- Height: 439mm\n- Width: 706mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-scarlet-witch-2",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Scarlet Witch",
+ "images": [
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-1.jpg",
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-2.jpg",
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-3.jpg",
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-4.jpg",
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-5.jpg",
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-6.jpg",
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-7.jpg",
+  "images/wicked/avengers/scarlet-witch-2/scarlet-witch-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nScarlet Witch Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nScarlet Witch Sculpture Measures:\n- Length: 209mm\n- Height: 330mm\n- Width: 221mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-scarlet-witch-second",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Scarlet Witch Second",
+ "images": [
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-1.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-2.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-3.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-4.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/4 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nScarlet Witch Second Sculpture based on the Marvel Comics Fan Art Model (1/4 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nScarlet Witch Second Sculpture Measures:\n- Length: 188mm\n- Height: 290mm\n- Width: 196mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-onslaught",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Onslaught",
+ "images": [
+  "images/wicked/x-men/onslaught/onslaught-1.jpg",
+  "images/wicked/x-men/onslaught/onslaught-2.jpg",
+  "images/wicked/x-men/onslaught/onslaught-3.jpg",
+  "images/wicked/x-men/onslaught/onslaught-4.jpg",
+  "images/wicked/x-men/onslaught/onslaught-5.jpg",
+  "images/wicked/x-men/onslaught/onslaught-6.jpg",
+  "images/wicked/x-men/onslaught/onslaught-7.jpg",
+  "images/wicked/x-men/onslaught/onslaught-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nOnslaught Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nOnslaught Sculpture Measures:\n- Length: 517mm\n- Height: 740mm\n- Width: 401mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-namor-comic-silver-age",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Namor Comic Silver Age",
+ "images": [
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-1.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-2.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-3.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-4.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-5.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-6.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-7.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNamor Comic Silver Age Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nNamor Comic Silver Age Sculpture Measures:\n- Length: 283mm\n- Height: 400mm\n- Width: 275mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-namor-modern",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Namor Modern",
+ "images": [
+  "images/wicked/black-panther/namor-modern/namor-modern-1.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-2.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-3.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-4.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-5.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-6.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-7.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNamor Modern Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nNamor Modern Sculpture Measures:\n- Length: 283mm\n- Height: 400mm\n- Width: 275mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-havok",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Havok",
+ "images": [
+  "images/wicked/x-men/havok/havok-1.jpg",
+  "images/wicked/x-men/havok/havok-2.jpg",
+  "images/wicked/x-men/havok/havok-3.jpg",
+  "images/wicked/x-men/havok/havok-4.jpg",
+  "images/wicked/x-men/havok/havok-5.jpg",
+  "images/wicked/x-men/havok/havok-6.jpg",
+  "images/wicked/x-men/havok/havok-7.jpg",
+  "images/wicked/x-men/havok/havok-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHavok Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHavok Sculpture Measures:\n- Length: 275mm\n- Height: 400mm\n- Width: 262mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-doctor-strange-wong",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Wong",
+ "images": [
+  "images/wicked/doctor-strange/wong/wong-1.jpg",
+  "images/wicked/doctor-strange/wong/wong-2.jpg",
+  "images/wicked/doctor-strange/wong/wong-3.jpg",
+  "images/wicked/doctor-strange/wong/wong-4.jpg",
+  "images/wicked/doctor-strange/wong/wong-5.jpg",
+  "images/wicked/doctor-strange/wong/wong-6.jpg",
+  "images/wicked/doctor-strange/wong/wong-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWong Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nWong Sculpture Measures:\n- Length: 247mm\n- Height: 330mm\n- Width: 271mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-star-trek-star-trek-diorama",
+ "artist": "3D Wicked",
+ "series": "Star Trek",
+ "title": "Star Trek (Diorama)",
+ "images": [
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-1.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-2.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-3.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-4.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-5.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStar Trek Diorama Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nStar Trek Diorama Measures:\n- Length: 264mm\n- Height: 347mm\n- Width: 246mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-star-trek-kirk",
+ "artist": "3D Wicked",
+ "series": "Star Trek",
+ "title": "Kirk",
+ "images": [
+  "images/wicked/star-trek/kirk/kirk-1.jpg",
+  "images/wicked/star-trek/kirk/kirk-2.jpg",
+  "images/wicked/star-trek/kirk/kirk-3.jpg",
+  "images/wicked/star-trek/kirk/kirk-4.jpg",
+  "images/wicked/star-trek/kirk/kirk-5.jpg",
+  "images/wicked/star-trek/kirk/kirk-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKirk Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nKirk Sculpture Measures:\n- Length: 166mm\n- Height: 333mm\n- Width: 152mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-star-trek-spock",
+ "artist": "3D Wicked",
+ "series": "Star Trek",
+ "title": "Spock",
+ "images": [
+  "images/wicked/star-trek/spock/spock-1.jpg",
+  "images/wicked/star-trek/spock/spock-2.jpg",
+  "images/wicked/star-trek/spock/spock-3.jpg",
+  "images/wicked/star-trek/spock/spock-4.jpg",
+  "images/wicked/star-trek/spock/spock-5.jpg",
+  "images/wicked/star-trek/spock/spock-6.jpg",
+  "images/wicked/star-trek/spock/spock-7.jpg",
+  "images/wicked/star-trek/spock/spock-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpock Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSpock Sculpture Measures:\n- Length: 177mm\n- Height: 340mm\n- Width: 160mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-star-lord-comic-version",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Star Lord Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStar Lord Comic Version Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nStar Lord Comic Version Sculpture Measures:\n- Length: 230mm\n- Height: 430mm\n- Width: 221mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-gamora-comic-version",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Gamora Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGamora Comic Version Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGamora Comic Version Sculpture Measures:\n- Length: 228mm\n- Height: 366mm\n- Width: 225mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-black-cat",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Black Cat",
+ "images": [
+  "images/wicked/spider-man/black-cat/black-cat-1.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-2.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-3.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-4.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-5.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-6.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-7.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Cat Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBlack Cat Sculpture Measures:\n- Length: 160mm\n- Height: 460mm\n- Width: 290mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-groot-comic-version",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Groot Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGroot Comic Version Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGroot Comic Version Sculpture Measures:\n- Length: 354mm\n- Height: 479mm\n- Width: 304mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-rocket-comic-version",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Rocket Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRocket Comic Version Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRocket Comic Version Sculpture Measures:\n- Length: 195mm\n- Height: 194mm\n- Width: 205mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-groot-and-rocket-diorama-comic-version",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Groot and Rocket Comic Version (Diorama)",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGroot and Rocket Diorama Comic Version Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGroot and Rocket Diorama Comic Version Sculpture Measures:\n- Length: 323mm\n- Height: 529mm\n- Width: 304mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-rocket-handgun",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Rocket Handgun",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRocket Handgun based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRocket Handgun Measures:\n- Length: 64mm\n- Height: 201mm\n- Width: 400mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-deadpool-and-wolverine-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Deadpool and Wolverine (Diorama)",
+ "images": [
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-1.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-2.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-3.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-4.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-5.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-6.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDeadpool and Wolverine Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDeadpool and Wolverine Sculpture Measures:\n- Length: 319mm\n- Height: 422mm\n- Width: 286mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-deadpool-2024",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Deadpool 2024",
+ "images": [
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-1.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-2.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-3.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-4.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-5.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-6.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDeadpool 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDeadpool 2024 Sculpture Measures:\n- Length: 250mm\n- Height: 380mm\n- Width: 283mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-wolverine-2024",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Wolverine 2024",
+ "images": [
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-1.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-2.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-3.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-4.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-5.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-6.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-7.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWolverine 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nWolverine 2024 Sculpture Measures:\n- Length: 236mm\n- Height: 304mm\n- Width: 228mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-lady-deadpool",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Lady Deadpool",
+ "images": [
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-1.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-2.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-3.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-4.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-5.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-6.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-7.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLady Deadpool Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLady Deadpool Sculpture Measures:\n- Length: 222mm\n- Height: 370mm\n- Width: 270mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-back-to-the-future-back-to-the-future-diorama",
+ "artist": "3D Wicked",
+ "series": "Back to the Future",
+ "title": "Back To The Future (Diorama)",
+ "images": [
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-1.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-2.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-3.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-4.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-5.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-6.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-7.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBack To The Future Diorama Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBack To The Future Diorama Sculpture Measures:\n- Length: 285mm\n- Height: 347mm\n- Width: 332mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-back-to-the-future-marty-mcfly",
+ "artist": "3D Wicked",
+ "series": "Back to the Future",
+ "title": "Marty McFly",
+ "images": [
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-1.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-2.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-3.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-4.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-5.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-6.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMarty McFly Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMarty McFly Sculpture Measures:\n- Length: 220mm\n- Height: 310mm\n- Width: 326mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-back-to-the-future-dr-emmett-brown",
+ "artist": "3D Wicked",
+ "series": "Back to the Future",
+ "title": "Dr. Emmett Brown",
+ "images": [
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-1.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-2.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-3.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-4.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-5.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-6.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-7.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr. Emmett Brown Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDr. Emmett Brown Sculpture Measures:\n- Length: 226mm\n- Height: 340mm\n- Width: 277mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-back-to-the-future-delorean",
+ "artist": "3D Wicked",
+ "series": "Back to the Future",
+ "title": "DeLorean",
+ "images": [
+  "images/wicked/back-to-the-future/delorean/delorean-1.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-2.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-3.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-4.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-5.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-6.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDeLorean Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDeLorean Sculpture Measures:\n- Length: 755mm\n- Height: 320mm\n- Width: 349mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-back-to-the-future-back-to-the-future-diorama-with-delorean",
+ "artist": "3D Wicked",
+ "series": "Back to the Future",
+ "title": "Back To The Future With DeLorean (Diorama)",
+ "images": [
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-1.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-2.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-3.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-4.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-5.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-6.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBack To The Future Diorama With DeLorean Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBack To The Future Diorama With DeLorean Sculpture Measures:\n- Length: 509mm\n- Height: 320mm\n- Width: 755mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghostbusters-winston",
+ "artist": "3D Wicked",
+ "series": "Ghostbusters",
+ "title": "Winston",
+ "images": [
+  "images/wicked/ghostbusters/winston/winston-1.jpg",
+  "images/wicked/ghostbusters/winston/winston-2.jpg",
+  "images/wicked/ghostbusters/winston/winston-3.jpg",
+  "images/wicked/ghostbusters/winston/winston-4.jpg",
+  "images/wicked/ghostbusters/winston/winston-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWinston Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nWinston Sculpture Measures:\n- Length: 247mm\n- Height: 325mm\n- Width: 227mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghostbusters-egon",
+ "artist": "3D Wicked",
+ "series": "Ghostbusters",
+ "title": "Egon",
+ "images": [
+  "images/wicked/ghostbusters/egon/egon-1.jpg",
+  "images/wicked/ghostbusters/egon/egon-2.jpg",
+  "images/wicked/ghostbusters/egon/egon-3.jpg",
+  "images/wicked/ghostbusters/egon/egon-4.jpg",
+  "images/wicked/ghostbusters/egon/egon-5.jpg",
+  "images/wicked/ghostbusters/egon/egon-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nEgon Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nEgon Sculpture Measures:\n- Length: 230mm\n- Height: 320mm\n- Width: 200mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghostbusters-peter",
+ "artist": "3D Wicked",
+ "series": "Ghostbusters",
+ "title": "Peter",
+ "images": [
+  "images/wicked/ghostbusters/peter/peter-1.jpg",
+  "images/wicked/ghostbusters/peter/peter-2.jpg",
+  "images/wicked/ghostbusters/peter/peter-3.jpg",
+  "images/wicked/ghostbusters/peter/peter-4.jpg",
+  "images/wicked/ghostbusters/peter/peter-5.jpg",
+  "images/wicked/ghostbusters/peter/peter-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPeter Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPeter Sculpture Measures:\n- Length: 229mm\n- Height: 318mm\n- Width: 203mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghostbusters-ray",
+ "artist": "3D Wicked",
+ "series": "Ghostbusters",
+ "title": "Ray",
+ "images": [
+  "images/wicked/ghostbusters/ray/ray-1.jpg",
+  "images/wicked/ghostbusters/ray/ray-2.jpg",
+  "images/wicked/ghostbusters/ray/ray-3.jpg",
+  "images/wicked/ghostbusters/ray/ray-4.jpg",
+  "images/wicked/ghostbusters/ray/ray-5.jpg",
+  "images/wicked/ghostbusters/ray/ray-6.jpg",
+  "images/wicked/ghostbusters/ray/ray-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRay Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRay Sculpture Measures:\n- Length: 309mm\n- Height: 322mm\n- Width: 268mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghostbusters-mr-stay-puft",
+ "artist": "3D Wicked",
+ "series": "Ghostbusters",
+ "title": "Mr Stay Puft",
+ "images": [
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-1.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-2.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-3.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-4.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMr Stay Puft Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMr Stay Puft Sculpture Measures:\n- Length: 284mm\n- Height: 400mm\n- Width: 281mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-ghostbusters-slimer",
+ "artist": "3D Wicked",
+ "series": "Ghostbusters",
+ "title": "Slimer",
+ "images": [
+  "images/wicked/ghostbusters/slimer/slimer-1.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-2.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-3.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-4.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSilmer Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSilmer Sculpture Measures:\n- Length: 166mm\n- Height: 280mm\n- Width: 205mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-mantis-comic-version",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Mantis Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMantis Comic Version Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMantis Comic Version Sculpture Measures:\n- Length: 231mm\n- Height: 317mm\n- Width: 228mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-adam-warlock",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Adam Warlock",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAdam Warlock Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAdam Warlock Sculpture Measures:\n- Length: 193mm\n- Height: 444mm\n- Width: 298mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-marvel-zombies-spiderman-zombie",
+ "artist": "3D Wicked",
+ "series": "Marvel Zombies",
+ "title": "Spiderman Zombie",
+ "images": [
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-1.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-2.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-3.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-4.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-5.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpiderman Zombie Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSpiderman Zombie Sculpture Measures:\n- Length: 195mm\n- Height: 380mm\n- Width: 308mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-marvel-zombies-cyclops-zombie",
+ "artist": "3D Wicked",
+ "series": "Marvel Zombies",
+ "title": "Cyclops Zombie",
+ "images": [
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-1.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-2.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-3.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-4.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-5.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-6.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-7.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCyclops Zombie Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCyclops Zombie Sculpture Measures:\n- Length: 329mm\n- Height: 520mm\n- Width: 328mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-universal-monsters-frankenstein",
+ "artist": "3D Wicked",
+ "series": "Universal Monsters",
+ "title": "Frankenstein",
+ "images": [
+  "images/wicked/universal-monsters/frankenstein/frankenstein-1.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-2.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-3.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-4.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-5.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-6.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-7.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFrankenstein Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nFrankenstein Sculpture Measures:\n- Length: 325mm\n- Height: 420mm\n- Width: 222mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-universal-monsters-creature-of-the-black-lagoon",
+ "artist": "3D Wicked",
+ "series": "Universal Monsters",
+ "title": "Creature of the Black Lagoon",
+ "images": [
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-1.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-2.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-3.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-4.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-5.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-6.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-7.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCreature of the Black Lagoon Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCreature of the Black Lagoon Sculpture Measures:\n- Length: 232mm\n- Height: 410mm\n- Width: 183mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-cosmo",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Cosmo",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCosmo Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCosmo Sculpture Measures:\n- Length: 254mm\n- Height: 244mm\n- Width: 159mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-marvel-zombies-wolverine-zombie",
+ "artist": "3D Wicked",
+ "series": "Marvel Zombies",
+ "title": "Wolverine Zombie",
+ "images": [
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-1.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-2.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-3.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-4.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-5.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-6.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-7.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWolverine Zombie Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nWolverine Zombie Sculpture Measures:\n- Length: 252mm\n- Height: 345mm\n- Width: 236mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-marvel-zombies-captain-america-zombie",
+ "artist": "3D Wicked",
+ "series": "Marvel Zombies",
+ "title": "Captain America Zombie",
+ "images": [
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-1.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-2.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-3.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-4.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-5.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-6.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-7.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America Zombie Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCaptain America Zombie Sculpture Measures:\n- Length: 247mm\n- Height: 380mm\n- Width: 223mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-drax-comic-version",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Drax Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDrax Comic Version Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDrax Comic Version Sculpture Measures:\n- Length: 272mm\n- Height: 492mm\n- Width: 302mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-quasar",
+ "artist": "3D Wicked",
+ "series": "Guardians of the Galaxy",
+ "title": "Quasar",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nQuasar Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nQuasar Sculpture Measures:\n- Length: 232mm\n- Height: 398mm\n- Width: 254mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-nightmare-before-christmas-diorama",
+ "artist": "3D Wicked",
+ "series": "The Nightmare Before Christmas",
+ "title": "Nightmare Before Christmas (Diorama)",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNightmare Before Christmas Diorama Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nNightmare Before Christmas Diorama Sculpture Measures:\n- Length: 306mm\n- Height: 358mm\n- Width: 500mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-jack-and-sally-diorama",
+ "artist": "3D Wicked",
+ "series": "The Nightmare Before Christmas",
+ "title": "Jack and Sally (Diorama)",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJack and Sally Diorama Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nJack and Sally Diorama Sculpture Measures:\n- Length: 136mm\n- Height: 247mm\n- Width: 252mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-mayor",
+ "artist": "3D Wicked",
+ "series": "The Nightmare Before Christmas",
+ "title": "Mayor",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMayor Sculpture Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMayor Sculpture Measures:\n- Length: 74mm\n- Height: 133mm\n- Width: 79mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-oogie-boogie",
+ "artist": "3D Wicked",
+ "series": "The Nightmare Before Christmas",
+ "title": "Oogie Boogie",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nOogie Boogie Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nOogie Boogie Sculpture Measures:\n- Length: 82mm\n- Height: 127mm\n- Width: 88mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-zero",
+ "artist": "3D Wicked",
+ "series": "The Nightmare Before Christmas",
+ "title": "Zero",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/zero/zero-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nZero Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nZero Sculpture Measures:\n- Length: 58mm\n- Height: 55mm\n- Width: 57mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-nick-fury-and-falcon-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Nick Fury and Falcon (Diorama)",
+ "images": [
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-1.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-2.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-3.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-4.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-5.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-6.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-7.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNick Fury and Falcon Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nNick Fury and Falcon Diorama Measures:\n- Length: 339mm\n- Height: 608mm\n- Width: 341mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-nick-fury",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Nick Fury",
+ "images": [
+  "images/wicked/avengers/nick-fury/nick-fury-1.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-2.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-3.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-4.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-5.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-6.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-7.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNick Fury Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nNick Fury Sculpture Measures:\n- Length: 269mm\n- Height: 500mm\n- Width: 186mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-falcon-sculpture-2024",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Falcon Sculpture 2024",
+ "images": [
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-1.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-2.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-3.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-4.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-5.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-6.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-7.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFalcon 2024 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nFalcon 2024 Sculpture Measures:\n- Length: 264mm\n- Height: 436mm\n- Width: 236mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-mojo",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Mojo",
+ "images": [
+  "images/wicked/x-men/mojo/mojo-1.jpg",
+  "images/wicked/x-men/mojo/mojo-2.jpg",
+  "images/wicked/x-men/mojo/mojo-3.jpg",
+  "images/wicked/x-men/mojo/mojo-4.jpg",
+  "images/wicked/x-men/mojo/mojo-5.jpg",
+  "images/wicked/x-men/mojo/mojo-6.jpg",
+  "images/wicked/x-men/mojo/mojo-7.jpg",
+  "images/wicked/x-men/mojo/mojo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMojo Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMojo Sculpture Measures:\n- Length: 415mm\n- Height: 550mm\n- Width: 381mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-quicksilver",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Quicksilver",
+ "images": [
+  "images/wicked/avengers/quicksilver/quicksilver-1.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-2.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-3.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-4.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-5.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-6.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-7.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nQuicksilver Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nQuicksilver Sculpture Measures:\n- Length: 270mm\n- Height: 340mm\n- Width: 376mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-grinch-grinch-cindy-and-dog-diorama",
+ "artist": "3D Wicked",
+ "series": "The Grinch",
+ "title": "Grinch, Cindy and Dog (Diorama)",
+ "images": [
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-1.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-2.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-3.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-4.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-5.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-6.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-7.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGrinch, Cindy, and Dog Diorama Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGrinch, Cindy, and Dog Diorama Sculpture Measures:\n- Length: 293mm\n- Height: 514mm\n- Width: 415mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-grinch-grinch-jim-carry",
+ "artist": "3D Wicked",
+ "series": "The Grinch",
+ "title": "Grinch (Jim Carry)",
+ "images": [
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-1.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-2.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-3.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-4.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-5.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-6.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-7.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGrinch (Jim Carry) Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGrinch (Jim Carry) Sculpture Measures:\n- Length: 154mm\n- Height: 420mm\n- Width: 201mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-grinch-cindy",
+ "artist": "3D Wicked",
+ "series": "The Grinch",
+ "title": "Cindy",
+ "images": [
+  "images/wicked/the-grinch/cindy/cindy-1.jpg",
+  "images/wicked/the-grinch/cindy/cindy-2.jpg",
+  "images/wicked/the-grinch/cindy/cindy-3.jpg",
+  "images/wicked/the-grinch/cindy/cindy-4.jpg",
+  "images/wicked/the-grinch/cindy/cindy-5.jpg",
+  "images/wicked/the-grinch/cindy/cindy-6.jpg",
+  "images/wicked/the-grinch/cindy/cindy-7.jpg",
+  "images/wicked/the-grinch/cindy/cindy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCindy Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCindy Sculpture Measures:\n- Length: 126mm\n- Height: 353mm\n- Width: 148mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-grinch-max",
+ "artist": "3D Wicked",
+ "series": "The Grinch",
+ "title": "Max",
+ "images": [
+  "images/wicked/the-grinch/max/max-1.jpg",
+  "images/wicked/the-grinch/max/max-2.jpg",
+  "images/wicked/the-grinch/max/max-3.jpg",
+  "images/wicked/the-grinch/max/max-4.jpg",
+  "images/wicked/the-grinch/max/max-5.jpg",
+  "images/wicked/the-grinch/max/max-6.jpg",
+  "images/wicked/the-grinch/max/max-7.jpg",
+  "images/wicked/the-grinch/max/max-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMax Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMax Sculpture Measures:\n- Length: 145mm\n- Height: 307mm\n- Width: 146mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-daredevil-and-electra-diorama",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Daredevil and Electra (Diorama)",
+ "images": [
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-1.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-2.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-3.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-4.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-5.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-6.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-7.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDaredevil and Electra Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDaredevil and Electra Diorama Measures:\n- Length: 475mm\n- Height: 550mm\n- Width: 332mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-jubilee",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Jubilee",
+ "images": [
+  "images/wicked/x-men/jubilee/jubilee-1.jpg",
+  "images/wicked/x-men/jubilee/jubilee-2.jpg",
+  "images/wicked/x-men/jubilee/jubilee-3.jpg",
+  "images/wicked/x-men/jubilee/jubilee-4.jpg",
+  "images/wicked/x-men/jubilee/jubilee-5.jpg",
+  "images/wicked/x-men/jubilee/jubilee-6.jpg",
+  "images/wicked/x-men/jubilee/jubilee-7.jpg",
+  "images/wicked/x-men/jubilee/jubilee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJubilee Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nJubilee Sculpture Measures:\n- Length: 322mm\n- Height: 430mm\n- Width: 180mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-black-heart",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Black Heart",
+ "images": [
+  "images/wicked/daredevil/black-heart/black-heart-1.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-2.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-3.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-4.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-5.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-6.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-7.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Heart Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBlack Heart Sculpture Measures:\n- Length: 333mm\n- Height: 550mm\n- Width: 352mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-marvel-other-stan-lee",
+ "artist": "3D Wicked",
+ "series": "Marvel Comics",
+ "title": "Stan Lee",
+ "images": [
+  "images/wicked/marvel-other/stan-lee/stan-lee-1.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-2.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-3.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-4.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-5.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-6.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-7.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStan Lee Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nStan Lee Sculpture Measures:\n- Length: 180mm\n- Height: 410mm\n- Width: 180mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-hulk-and-punisher-diorama",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Hulk and Punisher (Diorama)",
+ "images": [
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-1.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-2.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-3.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-4.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-5.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHulk and Punisher Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx). It is tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHulk and Punisher Diorama Measures:\n- Length: 464mm\n- Height: 570mm\n- Width: 603mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-agent-venom",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Agent Venom",
+ "images": [
+  "images/wicked/spider-man/agent-venom/agent-venom-1.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-2.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-3.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-4.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-5.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-6.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-7.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAgent Venom Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAgent Venom Sculpture Measures:\n- Length: 343mm\n- Height: 500mm\n- Width: 376mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-cable-2025",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Cable 2025",
+ "images": [
+  "images/wicked/x-men/cable-2025/cable-2025-1.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-2.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-3.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-4.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-5.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-6.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-7.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCable 2025 Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCable 2025 Sculpture Measures:\n- Length: 350mm\n- Height: 500mm\n- Width: 375mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-cloak-and-dagger-diorama",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Cloak and Dagger (Diorama)",
+ "images": [
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-1.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-2.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-3.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-4.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-5.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-6.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-7.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCloak and Dagger Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nCloak and Dagger Diorama Measures:\n- Length: 299mm\n- Height: 610mm\n- Width: 392mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-evil-dead-ash",
+ "artist": "3D Wicked",
+ "series": "Evil Dead",
+ "title": "Ash",
+ "images": [
+  "images/wicked/evil-dead/ash/ash-1.jpg",
+  "images/wicked/evil-dead/ash/ash-2.jpg",
+  "images/wicked/evil-dead/ash/ash-3.jpg",
+  "images/wicked/evil-dead/ash/ash-4.jpg",
+  "images/wicked/evil-dead/ash/ash-5.jpg",
+  "images/wicked/evil-dead/ash/ash-6.jpg",
+  "images/wicked/evil-dead/ash/ash-7.jpg",
+  "images/wicked/evil-dead/ash/ash-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAsh Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAsh Sculpture Measures:\n- Length: 403mm\n- Height: 410mm\n- Width: 297mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-evil-dead-henrietta",
+ "artist": "3D Wicked",
+ "series": "Evil Dead",
+ "title": "Henrietta",
+ "images": [
+  "images/wicked/evil-dead/henrietta/henrietta-1.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-2.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-3.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-4.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-5.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-6.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-7.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHenrietta Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHenrietta Sculpture Measures:\n- Length: 355mm\n- Height: 420mm\n- Width: 233mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-black-panther-vs-predator-diorama",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Black Panther VS Predator (Diorama)",
+ "images": [
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-1.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-2.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-3.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-4.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-5.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-6.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-7.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Panther VS Predator Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nBlack Panther VS Predator Diorama Measures:\n- Length: 461mm\n- Height: 600mm\n- Width: 376mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-blink-joe-madureira",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Blink (Joe Madureira)",
+ "images": [
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-1.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-2.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-3.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-4.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-5.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-6.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlink (Joe Madureira) Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBlink (Joe Madureira) Sculpture Measures:\n- Length: 286mm\n- Height: 400mm\n- Width: 282mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-warhammer-40-000-titus-warhammer",
+ "artist": "3D Wicked",
+ "series": "Warhammer 40,000",
+ "title": "Titus Warhammer",
+ "images": [
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-1.jpg",
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-2.jpg",
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-3.jpg",
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-4.jpg",
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-5.jpg",
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-6.jpg",
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-7.jpg",
+  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTitus Warhammer Sculpture based on Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nTitus Warhammer Sculpture Measures:\n- Length: 507mm\n- Height: 700mm\n- Width: 468mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-fantastic-four-dr-doom-horse",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Dr. Doom Horse",
+ "images": [
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-1.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-2.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-3.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-4.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-5.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-6.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-7.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr. Doom Horse Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx) Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDr. Doom Horse Sculpture Measures:\n- Length: 499mm\n- Height: 650mm\n- Width: 571mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-terminator-terminator-1-diorama",
+ "artist": "3D Wicked",
+ "series": "Terminator",
+ "title": "Terminator 1 (Diorama)",
+ "images": [
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-1.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-2.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-3.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-4.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-5.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-6.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-7.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTerminator 1 Diorama Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nTerminator 1 Diorama Measures:\n- Length: 233mm\n- Height: 510mm\n- Width: 243mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-terminator-terminator-1",
+ "artist": "3D Wicked",
+ "series": "Terminator",
+ "title": "Terminator 1",
+ "images": [
+  "images/wicked/terminator/terminator-1/terminator-1-1.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-2.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-3.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-4.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-5.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-6.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-7.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTerminator 1 Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nTerminator 1 Sculpture Measures:\n- Length: 207mm\n- Height: 480mm\n- Width: 216mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-terminator-t-800",
+ "artist": "3D Wicked",
+ "series": "Terminator",
+ "title": "T 800",
+ "images": [
+  "images/wicked/terminator/t-800/t-800-1.jpg",
+  "images/wicked/terminator/t-800/t-800-2.jpg",
+  "images/wicked/terminator/t-800/t-800-3.jpg",
+  "images/wicked/terminator/t-800/t-800-4.jpg",
+  "images/wicked/terminator/t-800/t-800-5.jpg",
+  "images/wicked/terminator/t-800/t-800-6.jpg",
+  "images/wicked/terminator/t-800/t-800-7.jpg",
+  "images/wicked/terminator/t-800/t-800-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nT 800 Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nT 800 Sculpture Measures:\n- Length: 193mm\n- Height: 444mm\n- Width: 205mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-predator-weapon-x-vs-predator-diorama",
+ "artist": "3D Wicked",
+ "series": "Predator",
+ "title": "Weapon X VS Predator (Diorama)",
+ "images": [
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-1.jpg",
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-2.jpg",
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-3.jpg",
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWeapon X VS Predator Diorama based on the Marvel Comics Fan Art Model (1/6 scale approx). Tested and ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nWeapon X VS Predator Diorama Measures:\n- Length: 305mm\n- Height: 650mm\n- Width: 366mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-angel",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Angel",
+ "images": [
+  "images/wicked/x-men/angel/angel-1.jpg",
+  "images/wicked/x-men/angel/angel-2.jpg",
+  "images/wicked/x-men/angel/angel-3.jpg",
+  "images/wicked/x-men/angel/angel-4.jpg",
+  "images/wicked/x-men/angel/angel-5.jpg",
+  "images/wicked/x-men/angel/angel-6.jpg",
+  "images/wicked/x-men/angel/angel-7.jpg",
+  "images/wicked/x-men/angel/angel-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAngel Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx). Tested and ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nAngel Sculpture Measures:\n- Length: 240mm\n- Height: 650mm\n- Width: 475mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-nimrod",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Nimrod",
+ "images": [
+  "images/wicked/x-men/nimrod/nimrod-1.jpg",
+  "images/wicked/x-men/nimrod/nimrod-2.jpg",
+  "images/wicked/x-men/nimrod/nimrod-3.jpg",
+  "images/wicked/x-men/nimrod/nimrod-4.jpg",
+  "images/wicked/x-men/nimrod/nimrod-5.jpg",
+  "images/wicked/x-men/nimrod/nimrod-6.jpg",
+  "images/wicked/x-men/nimrod/nimrod-7.jpg",
+  "images/wicked/x-men/nimrod/nimrod-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNimrod Sculpture based on the Marvel Comics Fan Art Model (1/6 scale approx). Tested and ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nNimrod Sculpture Measures:\n- Length: 359mm\n- Height: 650mm\n- Width: 366mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month YOU GET TEN + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-bloodsport-bloodsport-diorama",
+ "artist": "3D Wicked",
+ "series": "Bloodsport",
+ "title": "Bloodsport (Diorama)",
+ "images": [
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-1.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-2.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-3.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-4.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-5.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-6.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-7.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBloodsport Diorama Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBloodsport Diorama Measures:\n- Length: 274mm\n- Height: 472mm\n- Width: 273mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-bloodsport-frank-dux",
+ "artist": "3D Wicked",
+ "series": "Bloodsport",
+ "title": "Frank Dux",
+ "images": [
+  "images/wicked/bloodsport/frank-dux/frank-dux-1.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-2.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-3.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-4.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-5.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-6.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-7.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFrank Dux Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nFrank Dux Sculpture Measures:\n- Length: 228mm\n- Height: 480mm\n- Width: 220mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-bloodsport-chong-li",
+ "artist": "3D Wicked",
+ "series": "Bloodsport",
+ "title": "Chong Li",
+ "images": [
+  "images/wicked/bloodsport/chong-li/chong-li-1.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-2.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-3.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-4.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-5.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-6.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-7.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nChong Li Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nChong Li Sculpture Measures:\n- Length: 235mm\n- Height: 441mm\n- Width: 212mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-thor-thor-and-loki-diorama",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Thor and Loki (Diorama)",
+ "images": [
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-1.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-2.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-3.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-4.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-5.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-6.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-7.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThor and Loki Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nThor and Loki Diorama Measures:\n- Length: 346mm\n- Height: 615mm\n- Width: 442mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-she-hulk",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "She Hulk",
+ "images": [
+  "images/wicked/avengers/she-hulk/she-hulk-1.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-2.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-3.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-4.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-5.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-6.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-7.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nShe Hulk Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nShe Hulk Sculpture Measures:\n- Length: 401mm\n- Height: 550mm\n- Width: 290mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-dazzler",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Dazzler",
+ "images": [
+  "images/wicked/x-men/dazzler/dazzler-1.jpg",
+  "images/wicked/x-men/dazzler/dazzler-2.jpg",
+  "images/wicked/x-men/dazzler/dazzler-3.jpg",
+  "images/wicked/x-men/dazzler/dazzler-4.jpg",
+  "images/wicked/x-men/dazzler/dazzler-5.jpg",
+  "images/wicked/x-men/dazzler/dazzler-6.jpg",
+  "images/wicked/x-men/dazzler/dazzler-7.jpg",
+  "images/wicked/x-men/dazzler/dazzler-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDazzler Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nDazzler Sculpture Measures:\n- Length: 294mm\n- Height: 530mm\n- Width: 321mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-god-of-war-god-of-war-4-diorama",
+ "artist": "3D Wicked",
+ "series": "God of War",
+ "title": "God Of War 4 (Diorama)",
+ "images": [
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-1.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-2.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-3.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-4.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-5.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-6.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-7.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGod of War 4 Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nGod Of War 4 Diorama Measures:\n- Length: 433mm\n- Height: 558mm\n- Width: 627mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-god-of-war-kratos",
+ "artist": "3D Wicked",
+ "series": "God of War",
+ "title": "Kratos",
+ "images": [
+  "images/wicked/god-of-war/kratos/kratos-1.jpg",
+  "images/wicked/god-of-war/kratos/kratos-2.jpg",
+  "images/wicked/god-of-war/kratos/kratos-3.jpg",
+  "images/wicked/god-of-war/kratos/kratos-4.jpg",
+  "images/wicked/god-of-war/kratos/kratos-5.jpg",
+  "images/wicked/god-of-war/kratos/kratos-6.jpg",
+  "images/wicked/god-of-war/kratos/kratos-7.jpg",
+  "images/wicked/god-of-war/kratos/kratos-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKratos Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nKratos Sculpture Measures:\n- Length: 304mm\n- Height: 440mm\n- Width: 296mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-god-of-war-atreus",
+ "artist": "3D Wicked",
+ "series": "God of War",
+ "title": "Atreus",
+ "images": [
+  "images/wicked/god-of-war/atreus/atreus-1.jpg",
+  "images/wicked/god-of-war/atreus/atreus-2.jpg",
+  "images/wicked/god-of-war/atreus/atreus-3.jpg",
+  "images/wicked/god-of-war/atreus/atreus-4.jpg",
+  "images/wicked/god-of-war/atreus/atreus-5.jpg",
+  "images/wicked/god-of-war/atreus/atreus-6.jpg",
+  "images/wicked/god-of-war/atreus/atreus-7.jpg",
+  "images/wicked/god-of-war/atreus/atreus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAtreu Sculpture 1/6 scale approx. It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nAtreus Sculpture Measures:\n- Length: 283mm\n- Height: 216mm\n- Width: 291mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-matrix-neo",
+ "artist": "3D Wicked",
+ "series": "The Matrix",
+ "title": "Neo",
+ "images": [
+  "images/wicked/the-matrix/neo/neo-1.jpg",
+  "images/wicked/the-matrix/neo/neo-2.jpg",
+  "images/wicked/the-matrix/neo/neo-3.jpg",
+  "images/wicked/the-matrix/neo/neo-4.jpg",
+  "images/wicked/the-matrix/neo/neo-5.jpg",
+  "images/wicked/the-matrix/neo/neo-6.jpg",
+  "images/wicked/the-matrix/neo/neo-7.jpg",
+  "images/wicked/the-matrix/neo/neo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNeo Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nNeo Sculpture Measures:\n- Length: 292mm\n- Height: 452mm\n- Width: 289mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-matrix-trinity",
+ "artist": "3D Wicked",
+ "series": "The Matrix",
+ "title": "Trinity",
+ "images": [
+  "images/wicked/the-matrix/trinity/trinity-1.jpg",
+  "images/wicked/the-matrix/trinity/trinity-2.jpg",
+  "images/wicked/the-matrix/trinity/trinity-3.jpg",
+  "images/wicked/the-matrix/trinity/trinity-4.jpg",
+  "images/wicked/the-matrix/trinity/trinity-5.jpg",
+  "images/wicked/the-matrix/trinity/trinity-6.jpg",
+  "images/wicked/the-matrix/trinity/trinity-7.jpg",
+  "images/wicked/the-matrix/trinity/trinity-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTrinity Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nTrinity Sculpture Measures:\n- Length: 124mm\n- Height: 307mm\n- Width: 165mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-red-hulk-and-ross-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Red Hulk and Ross (Diorama)",
+ "images": [
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-1.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-2.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-3.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-4.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-5.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-6.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-7.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRed Hulk and Ross Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nRed Hulk and Ross Diorama Measures:\n- Length: 465mm\n- Height: 546mm\n- Width: 404mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-red-hulk",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Red Hulk",
+ "images": [
+  "images/wicked/avengers/red-hulk/red-hulk-1.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-2.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-3.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-4.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-5.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-6.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-7.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRed Hulk Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nRed Hulk Sculpture Measures:\n- Length: 316mm\n- Height: 475mm\n- Width: 337mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-ross",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Ross",
+ "images": [
+  "images/wicked/avengers/ross/ross-1.jpg",
+  "images/wicked/avengers/ross/ross-2.jpg",
+  "images/wicked/avengers/ross/ross-3.jpg",
+  "images/wicked/avengers/ross/ross-4.jpg",
+  "images/wicked/avengers/ross/ross-5.jpg",
+  "images/wicked/avengers/ross/ross-6.jpg",
+  "images/wicked/avengers/ross/ross-7.jpg",
+  "images/wicked/avengers/ross/ross-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRoss Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nRoss Sculpture Measures:\n- Length: 214mm\n- Height: 410mm\n- Width: 205mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-pyro",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Pyro",
+ "images": [
+  "images/wicked/x-men/pyro/pyro-1.jpg",
+  "images/wicked/x-men/pyro/pyro-2.jpg",
+  "images/wicked/x-men/pyro/pyro-3.jpg",
+  "images/wicked/x-men/pyro/pyro-4.jpg",
+  "images/wicked/x-men/pyro/pyro-5.jpg",
+  "images/wicked/x-men/pyro/pyro-6.jpg",
+  "images/wicked/x-men/pyro/pyro-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPyro Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nPyro Sculpture Measures:\n- Lenght 396mm\n- Height 600mm\n- Width 414mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-captain-marvel-2025",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain Marvel 2025",
+ "images": [
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-1.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-2.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-3.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-4.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-5.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-6.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-7.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain Marvel 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file was cut and tested and is ready for your collection!\nCaptain Marvel 2025 Sculpture Measures:\n- Length: 232mm\n- Height: 500mm\n- Width: 245mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-matrix-matrix-diorama-neo-trinity-and-morpheus",
+ "artist": "3D Wicked",
+ "series": "The Matrix",
+ "title": "Matrix (Neo, Trinity, and Morpheus) (Diorama)",
+ "images": [
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-1.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-2.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-3.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-4.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-5.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-6.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-7.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMatrix Diorama (Neo, Trinity, and Morpheus) Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMatrix Diorama (Neo, Trinity, and Morpheus) Measures:\n- Length: 471mm\n- Height: 471mm\n- Width: 428mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-matrix-morpheus",
+ "artist": "3D Wicked",
+ "series": "The Matrix",
+ "title": "Morpheus",
+ "images": [
+  "images/wicked/the-matrix/morpheus/morpheus-1.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-2.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-3.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-4.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-5.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-6.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-7.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMorpheus Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMorpheus Sculpture Measures:\n- Length: 257mm\n- Height: 482mm\n- Width: 284mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-matrix-smith",
+ "artist": "3D Wicked",
+ "series": "The Matrix",
+ "title": "Smith",
+ "images": [
+  "images/wicked/the-matrix/smith/smith-1.jpg",
+  "images/wicked/the-matrix/smith/smith-2.jpg",
+  "images/wicked/the-matrix/smith/smith-3.jpg",
+  "images/wicked/the-matrix/smith/smith-4.jpg",
+  "images/wicked/the-matrix/smith/smith-5.jpg",
+  "images/wicked/the-matrix/smith/smith-6.jpg",
+  "images/wicked/the-matrix/smith/smith-7.jpg",
+  "images/wicked/the-matrix/smith/smith-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSmith Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSmith Sculpture Measures:\n- Length: 257mm\n- Height: 460mm\n- Width: 284mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-sonic",
+ "artist": "3D Wicked",
+ "series": "Sonic the Hedgehog",
+ "title": "Sonic",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-1.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-2.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-3.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-4.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-5.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-6.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-7.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSonic Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSonic Sculpture Measures:\n- Length: 155mm\n- Height: 240mm\n- Width: 220mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-dr-eggman",
+ "artist": "3D Wicked",
+ "series": "Sonic the Hedgehog",
+ "title": "Dr Eggman",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-1.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-2.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-3.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-4.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-5.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-6.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-7.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr Eggman Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDr Eggman Sculpture Measures:\n- Length: 221mm\n- Height: 450mm\n- Width: 399mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-sonic-diorama",
+ "artist": "3D Wicked",
+ "series": "Sonic the Hedgehog",
+ "title": "Sonic (Diorama)",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-1.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-2.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-3.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-4.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-5.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-6.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSonic Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSonic Diorama Measures:\n- Length: 316mm\n- Height: 450mm\n- Width: 406mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-spiderman-and-gwen-stacy-diorama",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spiderman and Gwen Stacy (Diorama)",
+ "images": [
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-1.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-2.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-3.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-4.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-5.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-6.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-7.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpiderman and Gwen Stacy Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSpiderman and Gwen Stacy Diorama Measures:\n- Length: 385mm\n- Height: 420mm\n- Width: 450mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-gwen-stacy",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Gwen Stacy",
+ "images": [
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-1.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-2.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-3.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-4.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-5.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-6.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-7.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGwen Stacy Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGwen Stacy Sculpture Measures:\n- Length: 204mm\n- Height: 440mm\n- Width: 232mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-ultron-2025",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Ultron 2025",
+ "images": [
+  "images/wicked/avengers/ultron-2025/ultron-2025-1.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-2.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-3.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-4.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-5.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-6.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-7.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nUltron 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nUltron 2025 Sculpture Measures:\nWidth: 410 mm\nLength: 529 mm\nHeight: 540 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-forge",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Forge",
+ "images": [
+  "images/wicked/x-men/forge/forge-1.jpg",
+  "images/wicked/x-men/forge/forge-2.jpg",
+  "images/wicked/x-men/forge/forge-3.jpg",
+  "images/wicked/x-men/forge/forge-4.jpg",
+  "images/wicked/x-men/forge/forge-5.jpg",
+  "images/wicked/x-men/forge/forge-6.jpg",
+  "images/wicked/x-men/forge/forge-7.jpg",
+  "images/wicked/x-men/forge/forge-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nForge Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nForge Sculpture Measures:\n- Length: 417mm\n- Height: 500mm\n- Width: 337mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-sonic-sculpture-2",
+ "artist": "3D Wicked",
+ "series": "Sonic the Hedgehog",
+ "title": "Sonic Sculpture #2",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-1.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-2.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-3.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-4.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-5.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-6.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-7.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSonic Sculpture #2 (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSonic Sculpture #2 Measures:\n- Length: 189mm\n- Height: 270mm\n- Width: 156mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-dr-eggman-sculpture-2",
+ "artist": "3D Wicked",
+ "series": "Sonic the Hedgehog",
+ "title": "Dr Eggman Sculpture #2",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-1.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-2.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-3.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-4.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-5.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-6.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-7.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr Eggman Sculpture #2 (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDr Eggman Sculpture #2 Measures:\n- Length: 142mm\n- Height: 405mm\n- Width: 241mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-godzilla-vs-kong-godzilla-vs-kong-diorama",
+ "artist": "3D Wicked",
+ "series": "Godzilla vs. Kong",
+ "title": "Godzilla VS Kong (Diorama)",
+ "images": [
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-1.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-2.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-3.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-4.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-5.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-6.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-7.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGodzilla VS Kong Diorama (1/6 scale approx) Sculpture Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGodzilla VS Kong Diorama Sculpture Measures:\n- Length: 1034mm\n- Height: 899mm\n- Width: 1299mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-godzilla-vs-kong-godzilla",
+ "artist": "3D Wicked",
+ "series": "Godzilla vs. Kong",
+ "title": "Godzilla",
+ "images": [
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-1.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-2.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-3.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-4.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-5.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-6.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-7.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGodzilla Sculpture (1/6 scale approx) Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGodzilla Sculpture Measures:\n- Length: 812mm\n- Height: 700mm\n- Width: 836mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-godzilla-vs-kong-kong",
+ "artist": "3D Wicked",
+ "series": "Godzilla vs. Kong",
+ "title": "Kong",
+ "images": [
+  "images/wicked/godzilla-vs-kong/kong/kong-1.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-2.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-3.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-4.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-5.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-6.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-7.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKong Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nKong Sculpture Measures:\n- Length: 439mm\n- Height: 877mm\n- Width: 712mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-halo-halo-diorama",
+ "artist": "3D Wicked",
+ "series": "Halo",
+ "title": "Halo (Diorama)",
+ "images": [
+  "images/wicked/halo/halo-diorama/halo-diorama-1.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-2.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-3.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-4.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-5.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-6.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-7.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHalo Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nHalo Diorama Measures:\n- Length: 440mm\n- Height: 574mm\n- Width: 616mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-halo-master-chief",
+ "artist": "3D Wicked",
+ "series": "Halo",
+ "title": "Master Chief",
+ "images": [
+  "images/wicked/halo/master-chief/master-chief-1.jpg",
+  "images/wicked/halo/master-chief/master-chief-2.jpg",
+  "images/wicked/halo/master-chief/master-chief-3.jpg",
+  "images/wicked/halo/master-chief/master-chief-4.jpg",
+  "images/wicked/halo/master-chief/master-chief-5.jpg",
+  "images/wicked/halo/master-chief/master-chief-6.jpg",
+  "images/wicked/halo/master-chief/master-chief-7.jpg",
+  "images/wicked/halo/master-chief/master-chief-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMaster Chief Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMaster Chief Sculpture Measures:\n- Length: 302mm\n- Height: 410mm\n- Width: 320mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-halo-the-arbiter",
+ "artist": "3D Wicked",
+ "series": "Halo",
+ "title": "The Arbiter",
+ "images": [
+  "images/wicked/halo/the-arbiter/the-arbiter-1.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-2.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-3.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-4.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-5.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-6.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-7.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Arbiter Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nThe Arbiter Sculpture Measures:\n- Length: 195mm\n- Height: 337mm\n- Width: 341mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-doctor-strange-dr-strange-and-shuma-gorath-diorama",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Dr Strange and Shuma Gorath (Diorama)",
+ "images": [
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-1.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-2.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-3.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-4.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-5.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-6.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-7.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr Strange and Shuma Gorath Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDr Strange and Shuma Gorath Diorama Measures:\n- Length: 642mm\n- Height: 628mm\n- Width: 572mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-doctor-strange-dr-strange-2025",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Dr Strange 2025",
+ "images": [
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-1.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-2.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-3.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-4.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-5.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-6.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-7.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDr Strange 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDr Strange 2025 Sculpture Measures:\n- Length: 414mm\n- Height: 450mm\n- Width: 353mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-doctor-strange-shuma-gorath",
+ "artist": "3D Wicked",
+ "series": "Doctor Strange",
+ "title": "Shuma Gorath",
+ "images": [
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-1.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-2.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-3.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-4.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-5.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-6.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-7.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nShuma Gorath Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nShuma Gorat Sculpture Measures:\n- Length: 509mm\n- Height: 550mm\n- Width: 619mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-professor-x-helmet",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Professor X Helmet",
+ "images": [
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-1.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-2.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-3.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-4.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-5.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-6.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-7.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nProfessor X Helmet Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nProfessor X Helmet Sculpture Measures:\n- Length: 233mm\n- Height: 500mm\n- Width: 250mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-fantastic-four-annihilus",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Annihilus",
+ "images": [
+  "images/wicked/fantastic-four/annihilus/annihilus-1.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-2.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-3.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-4.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-5.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-6.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-7.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAnnihilus Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nAnnihilus Sculpture Measures:\n- Length: 386mm\n- Height: 630mm\n- Width: 364mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-tomb-raider-tomb-raider-diorama",
+ "artist": "3D Wicked",
+ "series": "Tomb Raider",
+ "title": "Tomb Raider (Diorama)",
+ "images": [
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-1.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-2.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-3.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-4.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-5.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-6.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-7.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTomb Raider Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nTomb Raider Diorama Measures:\n- Length: 657mm\n- Height: 620mm\n- Width: 837mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-tomb-raider-lara-croft",
+ "artist": "3D Wicked",
+ "series": "Tomb Raider",
+ "title": "Lara Croft",
+ "images": [
+  "images/wicked/tomb-raider/lara-croft/lara-croft-1.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-2.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-3.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-4.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-5.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-6.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-7.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLara Croft Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nLara Croft Sculpture Measures:\n- Length: 391mm\n- Height: 620mm\n- Width: 496mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-tomb-raider-t-rex-1",
+ "artist": "3D Wicked",
+ "series": "Tomb Raider",
+ "title": "T-REX",
+ "images": [
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-1.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-2.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-3.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-4.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-5.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-6.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-7.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nT-REX Sculpture. It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nT-REX Sculpture Measures:\n- Length: 616mm\n- Height: 537mm\n- Width: 836mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-thor-thor",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "Thor",
+ "images": [
+  "images/wicked/thor/thor/thor-1.jpg",
+  "images/wicked/thor/thor/thor-2.jpg",
+  "images/wicked/thor/thor/thor-3.jpg",
+  "images/wicked/thor/thor/thor-4.jpg",
+  "images/wicked/thor/thor/thor-5.jpg",
+  "images/wicked/thor/thor/thor-6.jpg",
+  "images/wicked/thor/thor/thor-7.jpg",
+  "images/wicked/thor/thor/thor-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThor Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nThor Sculpture Measures:\n- Length: 226mm\n- Height: 507mm\n- Width: 323mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-the-wasp-2",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "The Wasp",
+ "images": [
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-1.jpg",
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-2.jpg",
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-3.jpg",
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-4.jpg",
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-5.jpg",
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-6.jpg",
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-7.jpg",
+  "images/wicked/avengers/the-wasp-2/the-wasp-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Wasp Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nThe Wasp Sculpture Measures:\n- Length: 245mm\n- Height: 440mm\n- Width: 202mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-banshee",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Banshee",
+ "images": [
+  "images/wicked/x-men/banshee/banshee-1.jpg",
+  "images/wicked/x-men/banshee/banshee-2.jpg",
+  "images/wicked/x-men/banshee/banshee-3.jpg",
+  "images/wicked/x-men/banshee/banshee-4.jpg",
+  "images/wicked/x-men/banshee/banshee-5.jpg",
+  "images/wicked/x-men/banshee/banshee-6.jpg",
+  "images/wicked/x-men/banshee/banshee-7.jpg",
+  "images/wicked/x-men/banshee/banshee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBanshee Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBanshee Sculpture Measures:\n- Length: 275mm\n- Height: 420mm\n- Width: 290mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-marvel-other-man-thing",
+ "artist": "3D Wicked",
+ "series": "Marvel Comics",
+ "title": "Man Thing",
+ "images": [
+  "images/wicked/marvel-other/man-thing/man-thing-1.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-2.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-3.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-4.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-5.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-6.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-7.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMan Thing Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMan Thing Sculpture Measures:\n- Length: 326mm\n- Height: 450mm\n- Width: 300mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-iron-man-2025",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Iron Man 2025",
+ "images": [
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-1.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-2.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-3.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-4.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-5.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-6.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-7.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nIron Man 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nIron Man 2025 Sculpture Measures:\n- Length: 200mm\n- Height: 420mm\n- Width: 219mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-captain-america-2025",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain America 2025",
+ "images": [
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-1.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-2.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-3.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-4.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-5.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-6.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-7.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nCaptain America 2025 Sculpture Measures:\n- Length: 202mm\n- Height: 400mm\n- Width: 192mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-hobgoblin",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Hobgoblin",
+ "images": [
+  "images/wicked/spider-man/hobgoblin/hobgoblin-1.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-2.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-3.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-4.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-5.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-6.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-7.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHobgoblin Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nHobgoblin Sculpture Measures:\n- Length: 309mm\n- Height: 480mm\n- Width: 273mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-inhumans-black-bolt",
+ "artist": "3D Wicked",
+ "series": "Inhumans",
+ "title": "Black Bolt",
+ "images": [
+  "images/wicked/inhumans/black-bolt/black-bolt-1.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-2.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-3.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-4.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-5.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-6.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-7.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Bolt Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBlack Bolt Sculpture Measures:\n- Length: 271mm\n- Height: 410mm\n- Width: 215mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-pirates-of-the-caribbean-pirates-of-the-caribbean-diorama",
+ "artist": "3D Wicked",
+ "series": "Pirates of the Caribbean",
+ "title": "Pirates of the Caribbean (Diorama)",
+ "images": [
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-1.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-2.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-3.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-4.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-5.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-6.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-7.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPirates of the Caribbean Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPirates of the Caribbean Diorama Measures:\n- Length: 353mm\n- Height: 470mm\n- Width: 496mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-pirates-of-the-caribbean-jack-sparrow",
+ "artist": "3D Wicked",
+ "series": "Pirates of the Caribbean",
+ "title": "Jack Sparrow",
+ "images": [
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-1.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-2.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-3.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-4.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-5.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-6.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-7.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJack Sparrow Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nJack Sparrow Sculpture Measures:\n- Length: 237mm\n- Height: 377mm\n- Width: 300mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-pirates-of-the-caribbean-hector-barbossa",
+ "artist": "3D Wicked",
+ "series": "Pirates of the Caribbean",
+ "title": "Hector Barbossa",
+ "images": [
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-1.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-2.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-3.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-4.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-5.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-6.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-7.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHector Barbossa Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHector Barbossa Sculpture Measures:\n- Length: 233mm\n- Height: 412mm\n- Width: 387mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-universal-monsters-the-mummy",
+ "artist": "3D Wicked",
+ "series": "Universal Monsters",
+ "title": "The Mummy",
+ "images": [
+  "images/wicked/universal-monsters/the-mummy/the-mummy-1.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-2.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-3.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-4.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-5.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-6.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-7.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Mummy Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nThe Mummy Sculpture Measures:\n- Length: 340mm\n- Height: 480mm\n- Width: 270mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-universal-monsters-invisible-man",
+ "artist": "3D Wicked",
+ "series": "Universal Monsters",
+ "title": "Invisible Man",
+ "images": [
+  "images/wicked/universal-monsters/invisible-man/invisible-man-1.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-2.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-3.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-4.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-5.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-6.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-7.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nInvisible Man Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nInvisible Man Sculpture Measures:\n- Length: 333mm\n- Height: 410mm\n- Width: 333mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-blade-blade-vs-dracula-diorama",
+ "artist": "3D Wicked",
+ "series": "Blade",
+ "title": "Blade VS Dracula (Diorama)",
+ "images": [
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-1.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-2.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-3.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-4.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-5.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-6.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-7.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlade VS Dracula Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBlade VS Dracula Diorama Measures:\n- Length: 470mm\n- Height: 686mm\n- Width: 485mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-blade-blade-2025",
+ "artist": "3D Wicked",
+ "series": "Blade",
+ "title": "Blade 2025",
+ "images": [
+  "images/wicked/blade/blade-2025/blade-2025-1.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-2.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-3.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-4.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-5.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-6.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-7.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlade 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBlade 2025 Sculpture Measures:\n- Length: 339mm\n- Height: 650mm\n- Width: 400mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-blade-dracula",
+ "artist": "3D Wicked",
+ "series": "Blade",
+ "title": "Dracula",
+ "images": [
+  "images/wicked/blade/dracula/dracula-1.jpg",
+  "images/wicked/blade/dracula/dracula-2.jpg",
+  "images/wicked/blade/dracula/dracula-3.jpg",
+  "images/wicked/blade/dracula/dracula-4.jpg",
+  "images/wicked/blade/dracula/dracula-5.jpg",
+  "images/wicked/blade/dracula/dracula-6.jpg",
+  "images/wicked/blade/dracula/dracula-7.jpg",
+  "images/wicked/blade/dracula/dracula-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDracula Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDracula Sculpture Measures:\n- Length: 309mm\n- Height: 433mm\n- Width: 282mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-marvel-zombies-deadpool-zombie",
+ "artist": "3D Wicked",
+ "series": "Marvel Zombies",
+ "title": "Deadpool Zombie",
+ "images": [
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-1.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-2.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-3.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-4.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-5.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-6.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-7.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDeadpool Zombie Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDeadpool Zombie Sculpture Measures:\n- Length: 242mm\n- Height: 480mm\n- Width: 245mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-giant-man",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Giant Man",
+ "images": [
+  "images/wicked/avengers/giant-man/giant-man-1.jpg",
+  "images/wicked/avengers/giant-man/giant-man-2.jpg",
+  "images/wicked/avengers/giant-man/giant-man-3.jpg",
+  "images/wicked/avengers/giant-man/giant-man-4.jpg",
+  "images/wicked/avengers/giant-man/giant-man-5.jpg",
+  "images/wicked/avengers/giant-man/giant-man-6.jpg",
+  "images/wicked/avengers/giant-man/giant-man-7.jpg",
+  "images/wicked/avengers/giant-man/giant-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGiant Man Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGiant Man Sculpture Measures:\n- Length: 202mm\n- Height: 393mm\n- Width: 219mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-hellraiser-hellraiser-diorama",
+ "artist": "3D Wicked",
+ "series": "Hellraiser",
+ "title": "Hellraiser (Diorama)",
+ "images": [
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-1.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-2.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-3.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-4.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-5.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-6.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-7.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nHellraiser Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nHellraiser Diorama Measures:\n- Length: 206mm\n- Height: 330mm\n- Width: 224mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-hellraiser-pinhead",
+ "artist": "3D Wicked",
+ "series": "Hellraiser",
+ "title": "Pinhead",
+ "images": [
+  "images/wicked/hellraiser/pinhead/pinhead-1.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-2.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-3.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-4.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-5.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-6.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPinhead Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPinhead Sculpture Measures:\n- Length: 225mm\n- Height 397mm\n- Width: 240mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-hellraiser-butternall",
+ "artist": "3D Wicked",
+ "series": "Hellraiser",
+ "title": "Butternall",
+ "images": [
+  "images/wicked/hellraiser/butternall/butternall-1.jpg",
+  "images/wicked/hellraiser/butternall/butternall-2.jpg",
+  "images/wicked/hellraiser/butternall/butternall-3.jpg",
+  "images/wicked/hellraiser/butternall/butternall-4.jpg",
+  "images/wicked/hellraiser/butternall/butternall-5.jpg",
+  "images/wicked/hellraiser/butternall/butternall-6.jpg",
+  "images/wicked/hellraiser/butternall/butternall-7.jpg",
+  "images/wicked/hellraiser/butternall/butternall-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nButternall Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nButternall Sculpture Measures:\n- Length: 202mm\n- Height 389mm\n- Width: 237mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-silent-hill-silent-hill-diorama",
+ "artist": "3D Wicked",
+ "series": "Silent Hill",
+ "title": "Silent Hill (Diorama)",
+ "images": [
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-1.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-2.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-3.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-4.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-5.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-6.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-7.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSilent Hill Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSilent Hill Diorama Measures:\n- Length: 536mm\n- Height: 447mm\n- Width: 581mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-silent-hill-james",
+ "artist": "3D Wicked",
+ "series": "Silent Hill",
+ "title": "James",
+ "images": [
+  "images/wicked/silent-hill/james/james-1.jpg",
+  "images/wicked/silent-hill/james/james-2.jpg",
+  "images/wicked/silent-hill/james/james-3.jpg",
+  "images/wicked/silent-hill/james/james-4.jpg",
+  "images/wicked/silent-hill/james/james-5.jpg",
+  "images/wicked/silent-hill/james/james-6.jpg",
+  "images/wicked/silent-hill/james/james-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJames Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nJames Sculpture Measures:\n- Length: 268mm\n- Height: 370mm\n- Width: 295mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-silent-hill-pyramid-head",
+ "artist": "3D Wicked",
+ "series": "Silent Hill",
+ "title": "Pyramid Head",
+ "images": [
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-1.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-2.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-3.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-4.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-5.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-6.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPyramid Head Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nPyramid Head Sculpture Measures:\n- Length: 401mm\n- Height: 372mm\n- Width: 304mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-resident-evil-diorama-resident-evil",
+ "artist": "3D Wicked",
+ "series": "Resident Evil",
+ "title": "Resident Evil (Diorama)",
+ "images": [
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-1.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-2.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-3.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-4.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-5.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-6.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-7.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDiorama Resident Evil (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDiorama Resident Evil Measures:\n- Length: 403mm\n- Height: 442mm\n- Width: 369mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-resident-evil-chris-resident-evil",
+ "artist": "3D Wicked",
+ "series": "Resident Evil",
+ "title": "Chris Resident Evil",
+ "images": [
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-1.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-2.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-3.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-4.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-5.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-6.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-7.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nChris Resident Evil Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nChris Resident Evil Sculpture Measures:\n- Length: 323mm\n- Height: 360mm\n- Width: 232mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-resident-evil-jill-resident-evil",
+ "artist": "3D Wicked",
+ "series": "Resident Evil",
+ "title": "Jill Resident Evil",
+ "images": [
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-1.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-2.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-3.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-4.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-5.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-6.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-7.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJill Resident Evil Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nJill Resident Evil Sculpture Measures:\n- Length: 231mm\n- Height: 326mm\n- Width: 221mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-hellraiser-chatterer",
+ "artist": "3D Wicked",
+ "series": "Hellraiser",
+ "title": "Chatterer",
+ "images": [
+  "images/wicked/hellraiser/chatterer/chatterer-1.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-2.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-3.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-4.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-5.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-6.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-7.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nChatterer Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nChatterer Sculpture Measures:\n- Length: 226mm\n- Height: 440mm\n- Width: 224mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-hellraiser-female-cenobite",
+ "artist": "3D Wicked",
+ "series": "Hellraiser",
+ "title": "Female Cenobite",
+ "images": [
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-1.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-2.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-3.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-4.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-5.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-6.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-7.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFemale Cenobite Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nFemale Cenobite Sculpture Measures:\n- Length: 205mm\n- Height: 387mm\n- Width: 220mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-inhumans-medusa-inhumans",
+ "artist": "3D Wicked",
+ "series": "Inhumans",
+ "title": "Medusa Inhumans",
+ "images": [
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-1.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-2.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-3.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-4.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-5.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-6.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-7.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMedusa Inhumans Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMedusa Inhumans Sculpture Measures:\n- Length: 264mm\n- Height: 490mm\n- Width: 265mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-winter-soldier-2025",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Winter Soldier 2025",
+ "images": [
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-1.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-2.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-3.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-4.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-5.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-6.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-7.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWinter Soldier 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nWinter Soldier 2025 Sculpture Measures:\n- Length: 182mm\n- Height: 440mm\n- Width: 182mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-venom-2025",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Venom 2025",
+ "images": [
+  "images/wicked/spider-man/venom-2025/venom-2025-1.jpg",
+  "images/wicked/spider-man/venom-2025/venom-2025-2.jpg",
+  "images/wicked/spider-man/venom-2025/venom-2025-3.jpg",
+  "images/wicked/spider-man/venom-2025/venom-2025-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVenom 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nVenom 2025 Sculpture Measures:\n- Length: 289mm\n- Height: 490mm\n- Width: 303mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-carnage-2025",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Carnage 2025",
+ "images": [
+  "images/wicked/spider-man/carnage-2025/carnage-2025-1.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-2.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-3.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-4.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-5.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-6.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCarnage 2025 Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nCarnage 2025 Sculpture Measures:\n- Length: 259mm\n- Height: 611mm\n- Width: 368mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-venom-vs-carnage-diorama-2",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Venom VS Carnage (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-1.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-2.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-3.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-4.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-5.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-6.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-7.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVenom VS Carnage Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nVenom VS Carnage Diorama Measures:\n- Length: 321mm\n- Height: 775mm\n- Width: 407mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-logan",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Logan",
+ "images": [
+  "images/wicked/x-men/logan/logan-1.jpg",
+  "images/wicked/x-men/logan/logan-2.jpg",
+  "images/wicked/x-men/logan/logan-3.jpg",
+  "images/wicked/x-men/logan/logan-4.jpg",
+  "images/wicked/x-men/logan/logan-5.jpg",
+  "images/wicked/x-men/logan/logan-6.jpg",
+  "images/wicked/x-men/logan/logan-7.jpg",
+  "images/wicked/x-men/logan/logan-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLogan Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nLogan Sculpture Measures:\n- Length: 279mm\n- Height: 330mm\n- Width: 269mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-juggernaut-comic-version",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Juggernaut Comic Version",
+ "images": [
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-1.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-2.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-3.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-4.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-5.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-6.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-7.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJuggernaut Comic Version Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nJuggernaut Comic Version Sculpture Measures:\n- Length: 283mm\n- Height: 466mm\n- Width: 274mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-logan-vs-juggernaut-comic-version-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Logan VS Juggernaut Comic Version (Diorama)",
+ "images": [
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-1.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-2.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-3.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-4.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-5.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-6.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-7.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLogan VS Juggernaut Comic Version Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nLogan VS Juggernaut Comic Version Diorama Measures:\n- Length: 336mm\n- Height: 477mm\n- Width: 442mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-marvel-other-darkhawk",
+ "artist": "3D Wicked",
+ "series": "Marvel Comics",
+ "title": "Darkhawk",
+ "images": [
+  "images/wicked/marvel-other/darkhawk/darkhawk-1.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-2.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-3.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-4.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-5.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-6.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDarkhawk Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDarkhawk Sculpture Measures:\n- Length: 180mm\n- Height: 640mm\n- Width: 237mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-donkey-kong-donkey-kong-donkey-and-diddy-diorama",
+ "artist": "3D Wicked",
+ "series": "Donkey Kong",
+ "title": "Donkey Kong (Donkey and Diddy) (Diorama)",
+ "images": [
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-1.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-2.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-3.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-4.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-5.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-6.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-7.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDonkey Kong (Donkey and Diddy) Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDonkey Kong (Donkey and Diddy) Diorama Measures:\n- Length: 368mm\n- Height: 350mm\n- Width: 336mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-donkey-kong-cranky",
+ "artist": "3D Wicked",
+ "series": "Donkey Kong",
+ "title": "Cranky",
+ "images": [
+  "images/wicked/donkey-kong/cranky/cranky-1.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-2.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-3.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-4.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCranky Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nCranky Sculpture Measures:\n- Length: 280mm\n- Height: 250mm\n- Width: 272mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-donkey-kong-king-rool",
+ "artist": "3D Wicked",
+ "series": "Donkey Kong",
+ "title": "King Rool",
+ "images": [
+  "images/wicked/donkey-kong/king-rool/king-rool-1.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-2.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-3.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-4.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-5.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-6.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-7.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKing Rool Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nKing Rool Sculpture Measures:\n- Length: 334mm\n- Height: 365mm\n- Width: 333mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-elf-elf",
+ "artist": "3D Wicked",
+ "series": "Elf",
+ "title": "Elf",
+ "images": [
+  "images/wicked/elf/elf/elf-1.jpg",
+  "images/wicked/elf/elf/elf-2.jpg",
+  "images/wicked/elf/elf/elf-3.jpg",
+  "images/wicked/elf/elf/elf-4.jpg",
+  "images/wicked/elf/elf/elf-5.jpg",
+  "images/wicked/elf/elf/elf-6.jpg",
+  "images/wicked/elf/elf/elf-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nElf Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nElf Sculpture Measures:\n- Length: 351mm\n- Height: 400mm\n- Width: 244mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-planet-hulk",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Planet Hulk",
+ "images": [
+  "images/wicked/avengers/planet-hulk/planet-hulk-1.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-2.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-3.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-4.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-5.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-6.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-7.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPlanet Hulk Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nPlanet Hulk Sculpture Measures:\n- Length: 438mm\n- Height: 700mm\n- Width: 451mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-fantastic-four-silver-surfer-comic",
+ "artist": "3D Wicked",
+ "series": "Fantastic Four",
+ "title": "Silver Surfer Comic",
+ "images": [
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-1.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-2.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-3.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-4.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-5.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-6.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-7.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSilver Surfer Comic Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSilver Surfer 2026 Sculpture Measures:\n- Length: 306mm\n- Height: 452mm\n- Width: 340mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-kingpin-2",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Kingpin",
+ "images": [
+  "images/wicked/daredevil/kingpin-2/kingpin-2-1.jpg",
+  "images/wicked/daredevil/kingpin-2/kingpin-2-2.jpg",
+  "images/wicked/daredevil/kingpin-2/kingpin-2-3.jpg",
+  "images/wicked/daredevil/kingpin-2/kingpin-2-4.jpg",
+  "images/wicked/daredevil/kingpin-2/kingpin-2-5.jpg",
+  "images/wicked/daredevil/kingpin-2/kingpin-2-6.jpg",
+  "images/wicked/daredevil/kingpin-2/kingpin-2-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKingpin Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nKingpin Comic Sculpture Measures:\n- Length: 260mm\n- Height: 430mm\n- Width: 257mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-planet-hulk-diorama",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Planet Hulk (Diorama)",
+ "images": [
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-1.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-2.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-3.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-4.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-5.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-6.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-7.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPlanet Hulk Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nPlanet Hulk Diorama Measures:\n- Length: 554mm\n- Height: 716mm\n- Width: 574mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama",
+ "artist": "3D Wicked",
+ "series": "The Lord of the Rings",
+ "title": "Legolas Vs Troll (Diorama)",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-1.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-2.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-3.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-4.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-5.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-6.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/8 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLegolas Vs Troll Diorama (1/8 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLegolas Vs Troll Diorama Measures:\n- Length: 450mm\n- Height: 750mm\n- Width: 591mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month 18+ highly detailed 3D models (Sculptures and Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-avengers-nick-fury-mcu",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Nick Fury MCU",
+ "images": [
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-1.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-2.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-3.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-4.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-5.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-6.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nNick Fury MCU Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nNick Fury MCU Sculpture Measures:\n- Length: 420mm\n- Height: 325.24mm\n- Width: 325.22mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-moon-knight-moon-knight-2",
+ "artist": "3D Wicked",
+ "series": "Moon Knight",
+ "title": "Moon Knight",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-2/moon-knight-2-1.jpg",
+  "images/wicked/moon-knight/moon-knight-2/moon-knight-2-2.jpg",
+  "images/wicked/moon-knight/moon-knight-2/moon-knight-2-3.jpg",
+  "images/wicked/moon-knight/moon-knight-2/moon-knight-2-4.jpg",
+  "images/wicked/moon-knight/moon-knight-2/moon-knight-2-5.jpg",
+  "images/wicked/moon-knight/moon-knight-2/moon-knight-2-6.jpg",
+  "images/wicked/moon-knight/moon-knight-2/moon-knight-2-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMoon Knight Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMoon Knight Sculpture Measures:\n- Length: 293mm\n- Height: 500mm\n- Width: 318mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 10 + NEW 3D models (Sculpture and Bust) of Marvel Comics in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-way-of-the-dragon-the-way-of-the-dragon-diorama",
+ "artist": "3D Wicked",
+ "series": "The Way of the Dragon",
+ "title": "The Way of the Dragon (Diorama)",
+ "images": [
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-1.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-2.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-3.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-4.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-5.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-6.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Way of the Dragon Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nThe Way of the Dragon Diorama Measures:\n- Length: 352mm\n- Height: 420mm\n- Width: 447mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-way-of-the-dragon-bruce-lee",
+ "artist": "3D Wicked",
+ "series": "The Way of the Dragon",
+ "title": "Bruce Lee",
+ "images": [
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-1.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-2.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-3.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-4.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-5.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-6.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-7.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBruce Lee Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nBruce Lee Sculpture Measures:\n- Length: 226mm\n- Height: 301mm\n- Width: 313mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-way-of-the-dragon-chuck-norris",
+ "artist": "3D Wicked",
+ "series": "The Way of the Dragon",
+ "title": "Chuck Norris",
+ "images": [
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-1.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-2.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-3.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-4.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-5.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-6.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nChuck Norris Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nChuck Norris Sculpture Measures:\n- Length: 233mm\n- Height: 314mm\n- Width: 306mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month EIGHT NEW highly detailed Marvel Comics 3D models (Sculptures & Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama-lite-version",
+ "artist": "3D Wicked",
+ "series": "The Lord of the Rings",
+ "title": "Legolas Vs Troll (Lite Version) (Diorama)",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-1.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-2.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-3.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-4.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-5.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-6.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/8 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLegolas Vs Troll Diorama (Lite Version) (1/8 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLegolas Vs Troll Diorama (Lite Version) Measures:\n- Length: 397mm\n- Height: 505mm\n- Width: 377mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEach month 18+ highly detailed 3D models (Sculptures and Busts) are tested and ready for printing!\nHappy printing and enjoy!"
+},
+ {
+ "id": "wicked-x-men-cyclops-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Cyclops",
+ "images": [
+  "images/wicked/x-men/cyclops-2/cyclops-2-1.jpg",
+  "images/wicked/x-men/cyclops-2/cyclops-2-2.jpg",
+  "images/wicked/x-men/cyclops-2/cyclops-2-3.jpg",
+  "images/wicked/x-men/cyclops-2/cyclops-2-4.jpg",
+  "images/wicked/x-men/cyclops-2/cyclops-2-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCyclops Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nCyclops Sculpture Measures:\nW: 289 mm\nH: 350 mm\nL: 225 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-jean",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Jean",
+ "images": [
+  "images/wicked/x-men/jean/jean-1.jpg",
+  "images/wicked/x-men/jean/jean-2.jpg",
+  "images/wicked/x-men/jean/jean-3.jpg",
+  "images/wicked/x-men/jean/jean-4.jpg",
+  "images/wicked/x-men/jean/jean-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJean Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nJean Sculpture Measures:\nW: 297 mm\nH: 384 mm\nL: 168 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-cyclops-and-jean-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Cyclops and Jean (Diorama)",
+ "images": [
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-1.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-2.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-3.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-4.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-5.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-6.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-7.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCyclops and Jean Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nCyclops and Jean Diorama Measures:\nW: 469 mm\nH: 412 mm\nL: 247 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-thor-the-mighty-thor",
+ "artist": "3D Wicked",
+ "series": "Thor",
+ "title": "The Mighty Thor",
+ "images": [
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-1.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-2.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-3.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-4.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-5.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-6.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Mighty Thor Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nThe Mighty Thor Sculpture Measures:\nW: 282 mm\nH: 450 mm\nL: 228 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-captain-america-winter-soldier",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Captain America Winter Soldier",
+ "images": [
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-1.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-2.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-3.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-4.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-5.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-6.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nCaptain America Winter Soldier Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nCaptain America Winter Soldier Sculpture Measures:\nW: 180 mm\nH: 402 mm\nL: 182 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-metroid-metroid-diorama",
+ "artist": "3D Wicked",
+ "series": "Metroid",
+ "title": "Metroid (Diorama)",
+ "images": [
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-1.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-2.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-3.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-4.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-5.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMetroid Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMetroid Diorama Measures:\nW: 346 mm\nH: 437 mm\nL: 222 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-metroid-samus",
+ "artist": "3D Wicked",
+ "series": "Metroid",
+ "title": "Samus",
+ "images": [
+  "images/wicked/metroid/samus/samus-1.jpg",
+  "images/wicked/metroid/samus/samus-2.jpg",
+  "images/wicked/metroid/samus/samus-3.jpg",
+  "images/wicked/metroid/samus/samus-4.jpg",
+  "images/wicked/metroid/samus/samus-5.jpg",
+  "images/wicked/metroid/samus/samus-6.jpg",
+  "images/wicked/metroid/samus/samus-7.jpg",
+  "images/wicked/metroid/samus/samus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSamus Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSamus Sculpture Measures:\nW: 329 mm\nH: 370 mm\nL: 249 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-metroid-samus-varia-suit",
+ "artist": "3D Wicked",
+ "series": "Metroid",
+ "title": "Samus Varia Suit",
+ "images": [
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-1.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-2.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-3.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-4.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-5.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSamus Varia Suit Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSamus Varia Suit Sculpture Measures:\nW: 346 mm\nH: 407 mm\nL: 204 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-metroid-chozo",
+ "artist": "3D Wicked",
+ "series": "Metroid",
+ "title": "Chozo",
+ "images": [
+  "images/wicked/metroid/chozo/chozo-1.jpg",
+  "images/wicked/metroid/chozo/chozo-2.jpg",
+  "images/wicked/metroid/chozo/chozo-3.jpg",
+  "images/wicked/metroid/chozo/chozo-4.jpg",
+  "images/wicked/metroid/chozo/chozo-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/4 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nChozo Sculpture (1/4 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nChozo Sculpture Measures:\nW: 196 mm\nH: 300 mm\nL: 365 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-karate-kid-karate-kid-diorama",
+ "artist": "3D Wicked",
+ "series": "The Karate Kid",
+ "title": "Karate Kid (Diorama)",
+ "images": [
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-1.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-2.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-3.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-4.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKarate Kid Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nKarate Kid Diorama Measures:\nW: 213 mm\nH: 490 mm\nL: 227 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-karate-kid-larusso",
+ "artist": "3D Wicked",
+ "series": "The Karate Kid",
+ "title": "Larusso",
+ "images": [
+  "images/wicked/the-karate-kid/larusso/larusso-1.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-2.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-3.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-4.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-5.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-6.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-7.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLarusso Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLarusso Sculpture Measures:\nW: 213 mm\nH: 443 mm\nL: 227 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-karate-kid-miyagi",
+ "artist": "3D Wicked",
+ "series": "The Karate Kid",
+ "title": "Miyagi",
+ "images": [
+  "images/wicked/the-karate-kid/miyagi/miyagi-1.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-2.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-3.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-4.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-5.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-6.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-7.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMiyagi Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMiyagi Sculpture Measures:\nW: 213 mm\nH: 490 mm\nL: 227 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-jurassic-park-jurassic-park-diorama",
+ "artist": "3D Wicked",
+ "series": "Jurassic Park",
+ "title": "Jurassic Park (Diorama)",
+ "images": [
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-1.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-2.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-3.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-4.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-5.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-6.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-7.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/12 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJurassic Park Diorama (1/12 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nJurassic Park Diorama Measures:\nW: 627 mm\nH: 363 mm\nL: 973 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-jurassic-park-alan-grant",
+ "artist": "3D Wicked",
+ "series": "Jurassic Park",
+ "title": "Alan Grant",
+ "images": [
+  "images/wicked/jurassic-park/alan-grant/alan-grant-1.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-2.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-3.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-4.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-5.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-6.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-7.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/12 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAlan Grant Sculpture (1/12 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAlan Grant Sculpture Measures:\nW: 157 mm\nH: 200 mm\nL: 127 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-tomb-raider-t-rex-2",
+ "artist": "3D Wicked",
+ "series": "Tomb Raider",
+ "title": "T-Rex",
+ "images": [
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-1.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-2.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-3.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-4.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-5.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-6.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-7.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/12 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nT-Rex Sculpture (1/12 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nT-Rex Sculpture Measures:\nW: 167 mm\nH: 350 mm\nL: 324 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-gears-of-war-gears-of-wars-diorama",
+ "artist": "3D Wicked",
+ "series": "Gears of War",
+ "title": "Gears of Wars (Diorama)",
+ "images": [
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-1.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-2.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-3.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-4.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-5.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGears of Wars Diorama (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGears of Wars Diorama Measures:\nW: 386 mm\nH: 520 mm\nL: 440 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-gears-of-war-dominic-santiago",
+ "artist": "3D Wicked",
+ "series": "Gears of War",
+ "title": "Dominic Santiago",
+ "images": [
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-1.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-2.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-3.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-4.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-5.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-6.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-7.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDominic Santiago Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDominic Santiago Sculpture Measures:\nW: 263 mm\nH: 414 mm\nL: 276 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-gears-of-war-marcus-fenix",
+ "artist": "3D Wicked",
+ "series": "Gears of War",
+ "title": "Marcus Fenix",
+ "images": [
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-1.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-2.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-3.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-4.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-5.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-6.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-7.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMarcus Fenix Sculpture (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMarcus Fenix Sculpture Measures:\nW: 286 mm\nH: 450 mm\nL: 281 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-black-panther-and-storm-diorama",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Black Panther and Storm (Diorama)",
+ "images": [
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-1.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-2.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-3.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-4.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-5.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-6.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Panther and Storm Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBlack Panther and Storm Diorama Measures:\nW: 459 mm\nH: 456 mm\nL: 439 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-black-panther-black-panther-2",
+ "artist": "3D Wicked",
+ "series": "Black Panther",
+ "title": "Black Panther",
+ "images": [
+  "images/wicked/black-panther/black-panther-2/black-panther-2-1.jpg",
+  "images/wicked/black-panther/black-panther-2/black-panther-2-2.jpg",
+  "images/wicked/black-panther/black-panther-2/black-panther-2-3.jpg",
+  "images/wicked/black-panther/black-panther-2/black-panther-2-4.jpg",
+  "images/wicked/black-panther/black-panther-2/black-panther-2-5.jpg",
+  "images/wicked/black-panther/black-panther-2/black-panther-2-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBlack Panther Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBlack Panther Sculpture Measures:\nW: 410 mm\nH: 449 mm\nL: 410 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-storm-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Storm",
+ "images": [
+  "images/wicked/x-men/storm-2/storm-2-1.jpg",
+  "images/wicked/x-men/storm-2/storm-2-2.jpg",
+  "images/wicked/x-men/storm-2/storm-2-3.jpg",
+  "images/wicked/x-men/storm-2/storm-2-4.jpg",
+  "images/wicked/x-men/storm-2/storm-2-5.jpg",
+  "images/wicked/x-men/storm-2/storm-2-6.jpg",
+  "images/wicked/x-men/storm-2/storm-2-7.jpg",
+  "images/wicked/x-men/storm-2/storm-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStorm Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nStorm Sculpture Measures:\nW: 293 mm\nH: 380 mm\nL: 245 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-daredevil-2",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Daredevil",
+ "images": [
+  "images/wicked/daredevil/daredevil-2/daredevil-2-1.jpg",
+  "images/wicked/daredevil/daredevil-2/daredevil-2-2.jpg",
+  "images/wicked/daredevil/daredevil-2/daredevil-2-3.jpg",
+  "images/wicked/daredevil/daredevil-2/daredevil-2-4.jpg",
+  "images/wicked/daredevil/daredevil-2/daredevil-2-5.jpg",
+  "images/wicked/daredevil/daredevil-2/daredevil-2-6.jpg",
+  "images/wicked/daredevil/daredevil-2/daredevil-2-7.jpg",
+  "images/wicked/daredevil/daredevil-2/daredevil-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDaredevil Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nDaredevil Sculpture Measures:\nW: 257 mm\nH: 418 mm\nL: 267 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-conan-the-barbarian-conan-the-barbarian",
+ "artist": "3D Wicked",
+ "series": "Conan the Barbarian",
+ "title": "Conan The Barbarian",
+ "images": [
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-1.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-2.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-3.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-4.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-5.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-6.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-7.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nConan The Barbarian Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nConan The Barbarian Sculpture Measures:\nW: 361 mm\nH: 430 mm\nL: 228 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-stranger-things-stranger-things-diorama",
+ "artist": "3D Wicked",
+ "series": "Stranger Things",
+ "title": "Stranger Things (Diorama)",
+ "images": [
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-1.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-2.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-3.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-4.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-5.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-6.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-7.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStranger Things Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nStranger Things Diorama Measures:\nW: 537 mm\nH: 526 mm\nL: 407 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-stranger-things-eleven",
+ "artist": "3D Wicked",
+ "series": "Stranger Things",
+ "title": "Eleven",
+ "images": [
+  "images/wicked/stranger-things/eleven/eleven-1.jpg",
+  "images/wicked/stranger-things/eleven/eleven-2.jpg",
+  "images/wicked/stranger-things/eleven/eleven-3.jpg",
+  "images/wicked/stranger-things/eleven/eleven-4.jpg",
+  "images/wicked/stranger-things/eleven/eleven-5.jpg",
+  "images/wicked/stranger-things/eleven/eleven-6.jpg",
+  "images/wicked/stranger-things/eleven/eleven-7.jpg",
+  "images/wicked/stranger-things/eleven/eleven-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nEleven Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nEleven Sculpture Measures:\nW: 200 mm\nH: 320 mm\nL: 205 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-stranger-things-vecna",
+ "artist": "3D Wicked",
+ "series": "Stranger Things",
+ "title": "Vecna",
+ "images": [
+  "images/wicked/stranger-things/vecna/vecna-1.jpg",
+  "images/wicked/stranger-things/vecna/vecna-2.jpg",
+  "images/wicked/stranger-things/vecna/vecna-3.jpg",
+  "images/wicked/stranger-things/vecna/vecna-4.jpg",
+  "images/wicked/stranger-things/vecna/vecna-5.jpg",
+  "images/wicked/stranger-things/vecna/vecna-6.jpg",
+  "images/wicked/stranger-things/vecna/vecna-7.jpg",
+  "images/wicked/stranger-things/vecna/vecna-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nVecna Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nVecna Sculpture Measures:\nW: 333 mm\nH: 452 mm\nL: 232 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-warcraft-warcraft-diorama",
+ "artist": "3D Wicked",
+ "series": "Warcraft",
+ "title": "Warcraft (Diorama)",
+ "images": [
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-1.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-2.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-3.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-4.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-5.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-6.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-7.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWarcraft Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nWarcraft Diorama Measures:\nW: 514 mm\nH: 535 mm\nL: 487 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-warcraft-arthas",
+ "artist": "3D Wicked",
+ "series": "Warcraft",
+ "title": "Arthas",
+ "images": [
+  "images/wicked/warcraft/arthas/arthas-1.jpg",
+  "images/wicked/warcraft/arthas/arthas-2.jpg",
+  "images/wicked/warcraft/arthas/arthas-3.jpg",
+  "images/wicked/warcraft/arthas/arthas-4.jpg",
+  "images/wicked/warcraft/arthas/arthas-5.jpg",
+  "images/wicked/warcraft/arthas/arthas-6.jpg",
+  "images/wicked/warcraft/arthas/arthas-7.jpg",
+  "images/wicked/warcraft/arthas/arthas-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nArthas Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nArthas Sculpture Measures:\nW: 358 mm\nH: 396 mm\nL: 347 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-warcraft-thrall",
+ "artist": "3D Wicked",
+ "series": "Warcraft",
+ "title": "Thrall",
+ "images": [
+  "images/wicked/warcraft/thrall/thrall-1.jpg",
+  "images/wicked/warcraft/thrall/thrall-2.jpg",
+  "images/wicked/warcraft/thrall/thrall-3.jpg",
+  "images/wicked/warcraft/thrall/thrall-4.jpg",
+  "images/wicked/warcraft/thrall/thrall-5.jpg",
+  "images/wicked/warcraft/thrall/thrall-6.jpg",
+  "images/wicked/warcraft/thrall/thrall-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThrall Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nThrall Sculpture Measures:\nW: 364 mm\nH: 520 mm\nL: 347 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-caleb",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider Caleb",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGhost Rider Caleb Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGhost Rider Caleb Sculpture Measures:\nW: 440 mm\nH: 460 mm\nL: 439 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-billy",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider Billy",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGhost Rider Billy Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGhost Rider Billly Sculpture Measures:\nW: 421 mm\nH: 460 mm\nL: 439 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-daredevil-punisher-born-again",
+ "artist": "3D Wicked",
+ "series": "Daredevil",
+ "title": "Punisher Born Again",
+ "images": [
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-1.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-2.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-3.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-4.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-5.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-6.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-7.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPunisher Born Again Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nPunisher Born Again Sculpture Measures:\nW: mm\nH: mm\nL: mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-lady-deathstrike",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Lady Deathstrike",
+ "images": [
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-1.jpg",
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-2.jpg",
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-3.jpg",
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-4.jpg",
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-5.jpg",
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-6.jpg",
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-7.jpg",
+  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLady Deathstrike Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nLady Deathstrike Sculpture Measures:\nW: 306 mm\nH: 390 mm\nL: 237 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-last-of-us-last-of-us-diorama",
+ "artist": "3D Wicked",
+ "series": "The Last of Us",
+ "title": "Last of Us (Diorama)",
+ "images": [
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-1.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-2.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-3.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-4.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-5.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-6.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLast of Us Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLast of Us Diorama Measures:\nW: 289 mm\nH: 409 mm\nL: 457 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-last-of-us-joel",
+ "artist": "3D Wicked",
+ "series": "The Last of Us",
+ "title": "Joel",
+ "images": [
+  "images/wicked/the-last-of-us/joel/joel-1.jpg",
+  "images/wicked/the-last-of-us/joel/joel-2.jpg",
+  "images/wicked/the-last-of-us/joel/joel-3.jpg",
+  "images/wicked/the-last-of-us/joel/joel-4.jpg",
+  "images/wicked/the-last-of-us/joel/joel-5.jpg",
+  "images/wicked/the-last-of-us/joel/joel-6.jpg",
+  "images/wicked/the-last-of-us/joel/joel-7.jpg",
+  "images/wicked/the-last-of-us/joel/joel-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJoel Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nJoel Sculpture Measures:\nW: 305 mm\nH: 409 mm\nL: 271 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-the-last-of-us-ellie",
+ "artist": "3D Wicked",
+ "series": "The Last of Us",
+ "title": "Ellie",
+ "images": [
+  "images/wicked/the-last-of-us/ellie/ellie-1.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-2.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-3.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-4.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-5.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-6.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-7.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nEllie Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nEllie Sculpture Measures:\nW: 243 mm\nH: 310 mm\nL: 217 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-pacific-rim-pacific-rim-diorama",
+ "artist": "3D Wicked",
+ "series": "Pacific Rim",
+ "title": "Pacific Rim (Diorama)",
+ "images": [
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-1.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-2.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-3.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-4.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-5.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-6.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-7.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPacific Rim Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPacific Rim Diorama Measures:\nW: 530mm\nH: 525mm\nL: 839mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-pacific-rim-gipsy-danger",
+ "artist": "3D Wicked",
+ "series": "Pacific Rim",
+ "title": "Gipsy Danger",
+ "images": [
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-1.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-2.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-3.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-4.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGipsy Danger Sculpture. Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nGipsy Danger Sculpture Measures:\nW: 331 mm\nH: 450 mm\nL: 422 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-pacific-rim-leatherback",
+ "artist": "3D Wicked",
+ "series": "Pacific Rim",
+ "title": "Leatherback",
+ "images": [
+  "images/wicked/pacific-rim/leatherback/leatherback-1.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-2.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-3.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-4.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-5.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-6.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-7.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLeatherback Sculpture. Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLeatherback Sculpture Measures:\nW: 512 mm\nH: 507 mm\nL: 669 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-caleb-diorama",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider Caleb (Diorama)",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGhost Rider Caleb Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGhost Rider Caleb Diorama Measures:\nW: 477mm\nH: 522mm\nL: 517mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-billy-diorama",
+ "artist": "3D Wicked",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider Billy (Diorama)",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGhost Rider Billy Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGhost Rider Billy Diorama Measures:\nW: 477mm\nH: 522mm\nL: 517mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-the-last-hunt-spiderman-diorama",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "The Last Hunt Spiderman (Diorama)",
+ "images": [
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-1.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-2.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-3.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-4.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-5.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-6.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-7.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThe Last Hunt Spiderman Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nThe Last Hunt Spiderman Diorama Measures:\nW: 296 mm\nH: 474 mm\nL: 457 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-spiderman",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Spiderman",
+ "images": [
+  "images/wicked/spider-man/spiderman/spiderman-1.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-2.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-3.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-4.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-5.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-6.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-7.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSpiderman Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSpiderman Sculpture Measures:\nW: 229 mm\nH: 332 mm\nL: 206 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-spider-man-kraven-2",
+ "artist": "3D Wicked",
+ "series": "Spider-Man",
+ "title": "Kraven",
+ "images": [
+  "images/wicked/spider-man/kraven-2/kraven-2-1.jpg",
+  "images/wicked/spider-man/kraven-2/kraven-2-2.jpg",
+  "images/wicked/spider-man/kraven-2/kraven-2-3.jpg",
+  "images/wicked/spider-man/kraven-2/kraven-2-4.jpg",
+  "images/wicked/spider-man/kraven-2/kraven-2-5.jpg",
+  "images/wicked/spider-man/kraven-2/kraven-2-6.jpg",
+  "images/wicked/spider-man/kraven-2/kraven-2-7.jpg",
+  "images/wicked/spider-man/kraven-2/kraven-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nKraven Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nKraven Sculpture Measures:\nW: 228 mm\nH: 420 mm\nL: 307 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-quick-silver",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Quick Silver",
+ "images": [
+  "images/wicked/avengers/quick-silver/quick-silver-1.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-2.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-3.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-4.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-5.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-6.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-7.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nQuick Silver Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nQuick Silver Sculpture Measures:\nW: 203 mm\nH: 420 mm\nL: 199 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-baron",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Baron",
+ "images": [
+  "images/wicked/avengers/baron/baron-1.jpg",
+  "images/wicked/avengers/baron/baron-2.jpg",
+  "images/wicked/avengers/baron/baron-3.jpg",
+  "images/wicked/avengers/baron/baron-4.jpg",
+  "images/wicked/avengers/baron/baron-5.jpg",
+  "images/wicked/avengers/baron/baron-6.jpg",
+  "images/wicked/avengers/baron/baron-7.jpg",
+  "images/wicked/avengers/baron/baron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBaron Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBaron Sculpture Measures:\nW: 240 mm\nH: 390 mm\nL: 251 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-thanos-2",
+ "artist": "3D Wicked",
+ "series": "Avengers (Infinity Saga)",
+ "title": "Thanos",
+ "images": [
+  "images/wicked/avengers/thanos-2/thanos-2-1.jpg",
+  "images/wicked/avengers/thanos-2/thanos-2-2.jpg",
+  "images/wicked/avengers/thanos-2/thanos-2-3.jpg",
+  "images/wicked/avengers/thanos-2/thanos-2-4.jpg",
+  "images/wicked/avengers/thanos-2/thanos-2-5.jpg",
+  "images/wicked/avengers/thanos-2/thanos-2-6.jpg",
+  "images/wicked/avengers/thanos-2/thanos-2-7.jpg",
+  "images/wicked/avengers/thanos-2/thanos-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nThanos Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nThanos Sculpture Measures:\nW: 270 mm\nH: 480 mm\nL: 351 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-omega-red-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Omega Red",
+ "images": [
+  "images/wicked/x-men/omega-red-2/omega-red-2-1.jpg",
+  "images/wicked/x-men/omega-red-2/omega-red-2-2.jpg",
+  "images/wicked/x-men/omega-red-2/omega-red-2-3.jpg",
+  "images/wicked/x-men/omega-red-2/omega-red-2-4.jpg",
+  "images/wicked/x-men/omega-red-2/omega-red-2-5.jpg",
+  "images/wicked/x-men/omega-red-2/omega-red-2-6.jpg",
+  "images/wicked/x-men/omega-red-2/omega-red-2-7.jpg",
+  "images/wicked/x-men/omega-red-2/omega-red-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nOmega Red Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nOmega Red Sculpture Measures:\nW: 348 mm\nH: 490 mm\nL: 227 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-red-sonja-red-sonja",
+ "artist": "3D Wicked",
+ "series": "Red Sonja",
+ "title": "Red Sonja",
+ "images": [
+  "images/wicked/red-sonja/red-sonja/red-sonja-1.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-2.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-3.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-4.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-5.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-6.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-7.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRed Sonja Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nRed Sonja Sculpture Measures:\nW: 319 mm\nH: 460 mm\nL: 245 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-magneto-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Magneto",
+ "images": [
+  "images/wicked/x-men/magneto-2/magneto-2-1.jpg",
+  "images/wicked/x-men/magneto-2/magneto-2-2.jpg",
+  "images/wicked/x-men/magneto-2/magneto-2-3.jpg",
+  "images/wicked/x-men/magneto-2/magneto-2-4.jpg",
+  "images/wicked/x-men/magneto-2/magneto-2-5.jpg",
+  "images/wicked/x-men/magneto-2/magneto-2-6.jpg",
+  "images/wicked/x-men/magneto-2/magneto-2-7.jpg",
+  "images/wicked/x-men/magneto-2/magneto-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMagneto Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMagneto Sculpture Measures:\nW: 185 mm\nH: 434 mm\nL: 216 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-lone-wolf-mcquade-lone-wolf-mcquade-diorama",
+ "artist": "3D Wicked",
+ "series": "Lone Wolf McQuade",
+ "title": "Lone Wolf McQuade (Diorama)",
+ "images": [
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-1.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-2.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-3.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-4.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-5.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-6.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-7.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLone Wolf McQuade Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLone Wolf McQuade Diorama Measures:\nW: 438 mm\nH: 350 mm\nL: 337 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-lone-wolf-mcquade-chuck-norris-lone-wolf",
+ "artist": "3D Wicked",
+ "series": "Lone Wolf McQuade",
+ "title": "Chuck Norris Lone Wolf",
+ "images": [
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-1.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-2.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-3.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-4.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-5.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-6.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-7.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nChuck Norris Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nChuck Norris Sculpture Measures:\nW: 236 mm\nH: 350 mm\nL: 197 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-lone-wolf-mcquade-rawley-wilke",
+ "artist": "3D Wicked",
+ "series": "Lone Wolf McQuade",
+ "title": "Rawley Wilke",
+ "images": [
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-1.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-2.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-3.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-4.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-5.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-6.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRawley Wilke Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRawley Wilke Sculpture Measures:\nW: 281 mm\nH: 340 mm\nL: 243 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-assassin-s-creed-assassin-s-creed-1-diorama",
+ "artist": "3D Wicked",
+ "series": "Assassin's Creed",
+ "title": "Assassin’s Creed 1 (Diorama)",
+ "images": [
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-1.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-2.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-3.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-4.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-5.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-6.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-7.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAssassin’s Creed 1 Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAssassin’s Creed 1 Measures:\nW: 332 mm\nH: 520 mm\nL: 340 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-assassin-s-creed-altair",
+ "artist": "3D Wicked",
+ "series": "Assassin's Creed",
+ "title": "Altair",
+ "images": [
+  "images/wicked/assassin-s-creed/altair/altair-1.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-2.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-3.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-4.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-5.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-6.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-7.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nAltair Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nAltair Sculpture Measures:\nW: 158 mm\nH: 390 mm\nL: 160 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-rogue-and-gambit-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Rogue and Gambit (Diorama)",
+ "images": [
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-1.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-2.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-3.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-4.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-5.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-6.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-7.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRogue and Gambit Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nRogue and Gambit Diorama Measures:\nW: 796 mm\nH: 470 mm\nL: 389 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-rogue-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Rogue",
+ "images": [
+  "images/wicked/x-men/rogue-2/rogue-2-1.jpg",
+  "images/wicked/x-men/rogue-2/rogue-2-2.jpg",
+  "images/wicked/x-men/rogue-2/rogue-2-3.jpg",
+  "images/wicked/x-men/rogue-2/rogue-2-4.jpg",
+  "images/wicked/x-men/rogue-2/rogue-2-5.jpg",
+  "images/wicked/x-men/rogue-2/rogue-2-6.jpg",
+  "images/wicked/x-men/rogue-2/rogue-2-7.jpg",
+  "images/wicked/x-men/rogue-2/rogue-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRogue Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nRogue Sculpture Measures:\nW: 275 mm\nH: 470 mm\nL: 310 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-gambit-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Gambit",
+ "images": [
+  "images/wicked/x-men/gambit-2/gambit-2-1.jpg",
+  "images/wicked/x-men/gambit-2/gambit-2-2.jpg",
+  "images/wicked/x-men/gambit-2/gambit-2-3.jpg",
+  "images/wicked/x-men/gambit-2/gambit-2-4.jpg",
+  "images/wicked/x-men/gambit-2/gambit-2-5.jpg",
+  "images/wicked/x-men/gambit-2/gambit-2-6.jpg",
+  "images/wicked/x-men/gambit-2/gambit-2-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nGambit Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nGambit Sculpture Measures:\nW: 324 mm\nH: 422 mm\nL: 389 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-avengers-clint-barton-ronin",
+ "artist": "3D Wicked",
+ "series": "Avengers",
+ "title": "Clint Barton Ronin",
+ "images": [
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-1.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-2.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-3.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-4.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-5.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-6.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nClint Barton Ronin Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nClint Barton Ronin Sculpture Measures:\nW: 228 mm\nH: 440 mm\nL: 361 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-diablo-diablo-diorama",
+ "artist": "3D Wicked",
+ "series": "Diablo",
+ "title": "Diablo (Diorama)",
+ "images": [
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-1.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-2.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-3.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-4.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-5.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-6.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDiablo Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDiablo Diorama Measures:\nW: 720 mm\nH: 664 mm\nL: 590 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-diablo-diablo",
+ "artist": "3D Wicked",
+ "series": "Diablo",
+ "title": "Diablo",
+ "images": [
+  "images/wicked/diablo/diablo/diablo-1.jpg",
+  "images/wicked/diablo/diablo/diablo-2.jpg",
+  "images/wicked/diablo/diablo/diablo-3.jpg",
+  "images/wicked/diablo/diablo/diablo-4.jpg",
+  "images/wicked/diablo/diablo/diablo-5.jpg",
+  "images/wicked/diablo/diablo/diablo-6.jpg",
+  "images/wicked/diablo/diablo/diablo-7.jpg",
+  "images/wicked/diablo/diablo/diablo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nDiablo Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nDiablo Sculpture Measures:\nW: 376 mm\nH: 654 mm\nL: 499 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-diablo-tyrael",
+ "artist": "3D Wicked",
+ "series": "Diablo",
+ "title": "Tyrael",
+ "images": [
+  "images/wicked/diablo/tyrael/tyrael-1.jpg",
+  "images/wicked/diablo/tyrael/tyrael-2.jpg",
+  "images/wicked/diablo/tyrael/tyrael-3.jpg",
+  "images/wicked/diablo/tyrael/tyrael-4.jpg",
+  "images/wicked/diablo/tyrael/tyrael-5.jpg",
+  "images/wicked/diablo/tyrael/tyrael-6.jpg",
+  "images/wicked/diablo/tyrael/tyrael-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTyrael Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nTyrael Sculpture Measures:\nW: 464 mm\nH: 500 mm\nL: 493 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-fight-club-fight-club-diorama",
+ "artist": "3D Wicked",
+ "series": "Fight Club",
+ "title": "Fight Club (Diorama)",
+ "images": [
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-1.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-2.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-3.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-4.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-5.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nFight Club Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nFight Club Diorama Measures:\nW: mm\nH: mm\nL: mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-fight-club-tyler",
+ "artist": "3D Wicked",
+ "series": "Fight Club",
+ "title": "Tyler",
+ "images": [
+  "images/wicked/fight-club/tyler/tyler-1.jpg",
+  "images/wicked/fight-club/tyler/tyler-2.jpg",
+  "images/wicked/fight-club/tyler/tyler-3.jpg",
+  "images/wicked/fight-club/tyler/tyler-4.jpg",
+  "images/wicked/fight-club/tyler/tyler-5.jpg",
+  "images/wicked/fight-club/tyler/tyler-6.jpg",
+  "images/wicked/fight-club/tyler/tyler-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nTyler Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nTyler Sculpture Measures:\nW: 297 mm\nH: 350 mm\nL: 189 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-fight-club-edward-norton",
+ "artist": "3D Wicked",
+ "series": "Fight Club",
+ "title": "Edward Norton",
+ "images": [
+  "images/wicked/fight-club/edward-norton/edward-norton-1.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-2.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-3.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-4.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-5.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-6.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nEdward Norton Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nEdward Norton Sculpture Measures:\nW: 223 mm\nH: 334 mm\nL: 176 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-transformers-tranformers-bumbublee-and-starscream-diorama",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "Tranformers Bumbublee and Starscream (Diorama)",
+ "images": [
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-1.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-2.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-3.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-4.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-5.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBumbublee and Starscream Diorama Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBumbublee and Starscream Diorama Measures:\nW: mm\nH: mm\nL: mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-transformers-bumbublee",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "Bumbublee",
+ "images": [
+  "images/wicked/transformers/bumbublee/bumbublee-1.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-2.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-3.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-4.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-5.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-6.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-7.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nBumbublee Sculpture Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nBumbublee Sculpture Measures:\nW: 356 mm\nH: 454 mm\nL: 472 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-transformers-starscream",
+ "artist": "3D Wicked",
+ "series": "Transformers",
+ "title": "Starscream",
+ "images": [
+  "images/wicked/transformers/starscream/starscream-1.jpg",
+  "images/wicked/transformers/starscream/starscream-2.jpg",
+  "images/wicked/transformers/starscream/starscream-3.jpg",
+  "images/wicked/transformers/starscream/starscream-4.jpg",
+  "images/wicked/transformers/starscream/starscream-5.jpg",
+  "images/wicked/transformers/starscream/starscream-6.jpg",
+  "images/wicked/transformers/starscream/starscream-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nStarscream Sculpture Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nStarscream Sculpture Measures:\nW: 393 mm\nH: 495 mm\nL: 426 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-mystique-2",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Mystique",
+ "images": [
+  "images/wicked/x-men/mystique-2/mystique-2-1.jpg",
+  "images/wicked/x-men/mystique-2/mystique-2-2.jpg",
+  "images/wicked/x-men/mystique-2/mystique-2-3.jpg",
+  "images/wicked/x-men/mystique-2/mystique-2-4.jpg",
+  "images/wicked/x-men/mystique-2/mystique-2-5.jpg",
+  "images/wicked/x-men/mystique-2/mystique-2-6.jpg",
+  "images/wicked/x-men/mystique-2/mystique-2-7.jpg",
+  "images/wicked/x-men/mystique-2/mystique-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMystique Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nMystique Sculpture Measures:\nW: 203 mm\nH: 412 mm\nL: 184 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-marvel-other-squirrel",
+ "artist": "3D Wicked",
+ "series": "Marvel Comics",
+ "title": "Squirrel",
+ "images": [
+  "images/wicked/marvel-other/squirrel/squirrel-1.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-2.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-3.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-4.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-5.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-6.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSquirrel Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nSquirrel Sculpture Measures:\nW: 239 mm\nH: 450 mm\nL: 469 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-punch-out-punch-out-diorama",
+ "artist": "3D Wicked",
+ "series": "Punch-Out!!",
+ "title": "Punch Out (Diorama)",
+ "images": [
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-1.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-2.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-3.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-4.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-5.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nPunch Out Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nPunch Out Diorama Measures:\nW: 525 mm\nH: 450 mm\nL: 276 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-punch-out-mike-tyson",
+ "artist": "3D Wicked",
+ "series": "Punch-Out!!",
+ "title": "Mike Tyson",
+ "images": [
+  "images/wicked/punch-out/mike-tyson/mike-tyson-1.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-2.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-3.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-4.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-5.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nMike Tyson Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nMike Tyson Sculpture Measures:\nW: 280 mm\nH: 405 mm\nL: 161 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-punch-out-little-mac",
+ "artist": "3D Wicked",
+ "series": "Punch-Out!!",
+ "title": "Little Mac",
+ "images": [
+  "images/wicked/punch-out/little-mac/little-mac-1.jpg",
+  "images/wicked/punch-out/little-mac/little-mac-2.jpg",
+  "images/wicked/punch-out/little-mac/little-mac-3.jpg",
+  "images/wicked/punch-out/little-mac/little-mac-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nLittle Mac Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nLittle Mac Sculpture Measures:\nW: 221 mm\nH: 310 mm\nL: 155 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-wolverine-pack-weapon-x",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Wolverine Pack - Weapon X",
+ "images": [
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-1.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-2.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-3.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-4.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-5.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-6.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-7.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWeapon X Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nWeapon X Sculpture Measures:\nW: 279 mm\nH: 330 mm\nL: 297 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-wolverine-pack-wolverine-and-sabretooth-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Wolverine Pack - Wolverine and Sabretooth (Diorama)",
+ "images": [
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-1.jpg",
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-2.jpg",
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-3.jpg",
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWolverine and Sabretooth Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nWolverine and Sabretooth Diorama Measures:\nW: 306 mm\nH: 565 mm\nL: 272 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-x-men-wolverine-pack-weapon-x-vs-predator-diorama",
+ "artist": "3D Wicked",
+ "series": "X-Men",
+ "title": "Wolverine Pack - Weapon X VS Predator (Diorama)",
+ "images": [
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-1.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-2.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-3.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWeapon X VS Predator Diorama is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nWeapon X VS Predator Diorama Measures:\nW: 366 mm\nH: 650 mm\nL: 305 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-marvel-zombies-wolverine-pack-wolverine-zombie",
+ "artist": "3D Wicked",
+ "series": "Marvel Zombies",
+ "title": "Wolverine Pack - Wolverine Zombie",
+ "images": [
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-1.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-2.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-3.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-4.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-5.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nWolverine Zombie Sculpture is based on the Marvel Comics Fan Art Model (1/6 scale approx.). It has been tested and is ready for 3D printing.\nThe STL file has been cut and tested, and it is now ready for your collection.\nWolverine Zombie Sculpture Measures:\nW: 237 mm\nH: 345 mm\nL: 253 mm\nGet this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-rambo-rambo-first-blood-diorama",
+ "artist": "3D Wicked",
+ "series": "Rambo",
+ "title": "Rambo First Blood (Diorama)",
+ "images": [
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-1.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-2.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-3.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-4.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-5.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-6.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-7.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nRambo First Blood Diorama (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nRambo First Blood Diorama Measures:\nW: 420 mm\nH: 495 mm\nL: 253 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-rambo-john-rambo",
+ "artist": "3D Wicked",
+ "series": "Rambo",
+ "title": "John Rambo",
+ "images": [
+  "images/wicked/rambo/john-rambo/john-rambo-1.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-2.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-3.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-4.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-5.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-6.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-7.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nJohn Rambo Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nJohn Rambo Sculpture Measures:\nW: 284 mm\nH: 362 mm\nL: 253 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
+},
+ {
+ "id": "wicked-rambo-sheriff",
+ "artist": "3D Wicked",
+ "series": "Rambo",
+ "title": "Sheriff",
+ "images": [
+  "images/wicked/rambo/sheriff/sheriff-1.jpg",
+  "images/wicked/rambo/sheriff/sheriff-2.jpg",
+  "images/wicked/rambo/sheriff/sheriff-3.jpg",
+  "images/wicked/rambo/sheriff/sheriff-4.jpg",
+  "images/wicked/rambo/sheriff/sheriff-5.jpg",
+  "images/wicked/rambo/sheriff/sheriff-6.jpg",
+  "images/wicked/rambo/sheriff/sheriff-7.jpg",
+  "images/wicked/rambo/sheriff/sheriff-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Welcome to Wicked!~\nSheriff Sculpture (1/6 scale approx). Fan Art Model Tested and ready for 3D printing.\nSTL file cut and tested, ready for your collection!\nSheriff Sculpture Measures:\nW: 309 mm\nH: 363 mm\nL: 233 mm\n🔔 Get this model and tons more at a special price by joining us on Patreon:\nhttps://www.patreon.com/3dWicked\nEvery month, YOU GET 20 + NEW 3D models (Sculpture and Bust) of Marvel Comics, Movies and Video Games in full detail and ready to print!\nHappy printing, and enjoy!"
 },
 ];
