@@ -28141,7 +28141,7 @@ const MODELS = [
  "id": "esm-laura-croft-v3",
  "artist": "ESMonster",
  "series": "Tomb Raider",
- "title": "Laura Croft (Swimsuit v1)",
+ "title": "Laura Croft (Swimsuit V1)",
  "images": [
   "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-1.jpg",
   "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-2.jpg",

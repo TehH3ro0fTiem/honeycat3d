@@ -12890,7 +12890,7 @@ const MODELS = [
   "id": "bulka-maelle-real-ver",
   "artist": "Bulkamancer Sculpts",
   "series": "Clair Obscur: Expedition 33",
-  "title": "Maelle (Real)",
+  "title": "Maelle (Real Ver)",
   "images": [
    "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-1.jpg",
    "images/bulkamancer/clair-obscur-expedition-33/maelle-real-ver/bulka-maelle-real-ver-2.jpg",
@@ -13790,7 +13790,7 @@ const MODELS = [
   "id": "bulka-edelgard-von-hresvelg-student-ver",
   "artist": "Bulkamancer Sculpts",
   "series": "Fire Emblem",
-  "title": "Edelgard von Hresvelg (Student ver)",
+  "title": "Edelgard von Hresvelg (Student Ver)",
   "images": [
    "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-1.jpg",
    "images/bulkamancer/fire-emblem/edelgard-von-hresvelg-student-ver/bulka-edelgard-von-hresvelg-student-ver-2.jpg",
@@ -27920,7 +27920,7 @@ const MODELS = [
  "id": "esm-princess-zelda-v1",
  "artist": "ESMonster",
  "series": "The Legend of Zelda",
- "title": "Zelda (Adventure ver) [BotW]",
+ "title": "Zelda (Adventure Ver) [BotW]",
  "images": [
   "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-1.jpg",
   "images/esmonster/the-legend-of-zelda/princess-zelda-v1/princess-zelda-v1-2.jpg",
@@ -27949,7 +27949,7 @@ const MODELS = [
  "id": "esm-princess-zelda-v3",
  "artist": "ESMonster",
  "series": "The Legend of Zelda",
- "title": "Zelda (Swimwear v1) [BotW]",
+ "title": "Zelda (Bikini Ver) [BotW]",
  "images": [
   "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-1.jpg",
   "images/esmonster/the-legend-of-zelda/princess-zelda-v3/princess-zelda-v3-2.jpg",
@@ -27980,7 +27980,7 @@ const MODELS = [
  "id": "esm-princess-zelda-v2",
  "artist": "ESMonster",
  "series": "The Legend of Zelda",
- "title": "Zelda (Swimwear v2) [BotW]",
+ "title": "Zelda (Goth Swimwear Ver) [BotW]",
  "images": [
   "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-1.jpg",
   "images/esmonster/the-legend-of-zelda/princess-zelda-v2/princess-zelda-v2-2.jpg",
@@ -28141,7 +28141,7 @@ const MODELS = [
  "id": "esm-laura-croft-v3",
  "artist": "ESMonster",
  "series": "Tomb Raider",
- "title": "Laura Croft (Swimsuit v1)",
+ "title": "Laura Croft (Ancient Ruins Explorer Dive Suit Ver)",
  "images": [
   "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-1.jpg",
   "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-2.jpg",
@@ -29166,7 +29166,7 @@ const MODELS = [
  "id": "esm-ada-wong-v2-suntanned-ver",
  "artist": "ESMonster",
  "series": "Resident Evil 4",
- "title": "Ada Wong (Swimsuit ver)",
+ "title": "Ada Wong (Chinese-American Female Agent Suntanned Ver)",
  "images": [
   "images/esmonster/resident-evil-4/ada-wong-v2/ada-wong-v2-1.jpg",
   "images/esmonster/resident-evil-4/ada-wong-v2/ada-wong-v2-2.jpg",
@@ -30025,7 +30025,7 @@ const MODELS = [
  "id": "esm-bowsette-dark-themed-princess-swimsuit-ver",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Bowsette (Dark-themed princess Swimsuit ver.)",
+ "title": "Bowsette (Dark-themed princess Swimsuit Ver.)",
  "images": [
   "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-1.jpg",
   "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-2.jpg",
@@ -30047,7 +30047,7 @@ const MODELS = [
  "id": "esm-bowsette-dark-themed-princess-suntanned-ver",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Bowsette (Dark-themed princess Suntanned ver)",
+ "title": "Bowsette (Dark-themed princess Suntanned Ver)",
  "images": [
   "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-1.jpg",
   "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-2.jpg",
@@ -30203,7 +30203,7 @@ const MODELS = [
  "id": "esm-albedo-armored-v1",
  "artist": "ESMonster",
  "series": "Overlord",
- "title": "Albedo [Armored v1]",
+ "title": "Albedo [Armored Ver v1]",
  "images": [
   "images/esmonster/overlord/albedo-armored/albedo-armored-1.jpg",
   "images/esmonster/overlord/albedo-armored/albedo-armored-2.jpg",
@@ -30822,7 +30822,7 @@ const MODELS = [
  "id": "esm-faye-valentine-v2",
  "artist": "ESMonster",
  "series": "Cowboy Bebop",
- "title": "Faye Valentine (Swimsuit v1)",
+ "title": "Faye Valentine (Swimsuit ver 1)",
  "images": [
   "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-1.jpg",
   "images/esmonster/cowboy-bebop/faye-valentine-v2/faye-valentine-v2-2.jpg",
@@ -30845,7 +30845,7 @@ const MODELS = [
  "id": "esm-faye-valentine-v3",
  "artist": "ESMonster",
  "series": "Cowboy Bebop",
- "title": "Faye Valentine (Swimsuit v2)",
+ "title": "Faye Valentine (Swimsuit ver 2)",
  "images": [
   "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-1.jpg",
   "images/esmonster/cowboy-bebop/faye-valentine-v3/faye-valentine-v3-2.jpg",
@@ -31442,7 +31442,7 @@ const MODELS = [
  "id": "esm-cammy-white-killer-bee-soldier-p1-bikini-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Cammy White (Killer Bee Soldier P1 Bikini ver)",
+ "title": "Cammy White (Killer Bee Soldier P1 Bikini Ver)",
  "images": [
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-1.jpg",
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p1-bikini-ver/cammy-white-killer-bee-soldier-p1-bikini-ver-2.jpg",
@@ -31474,7 +31474,7 @@ const MODELS = [
  "id": "esm-cammy-white-killer-bee-soldier-p3-bikini-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Cammy White (Killer Bee Soldier P3 Bikini ver)",
+ "title": "Cammy White (Killer Bee Soldier P3 Bikini Ver)",
  "images": [
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-1.jpg",
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-p3-bikini-ver/cammy-white-killer-bee-soldier-p3-bikini-ver-2.jpg",
@@ -31556,7 +31556,7 @@ const MODELS = [
  "id": "esm-cammy-white-killer-bee-soldier-military-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Cammy White (Killer Bee Soldier Military ver)",
+ "title": "Cammy White (Killer Bee Soldier Military Ver)",
  "images": [
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-1.jpg",
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldier-military-ver/cammy-white-killer-bee-soldier-military-ver-2.jpg",
@@ -31639,7 +31639,7 @@ const MODELS = [
  "id": "esm-cammy-white-killer-bee-soldierp2-bikini-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Cammy White (Killer Bee SoldierP2 Bikini ver)",
+ "title": "Cammy White (Killer Bee SoldierP2 Bikini Ver)",
  "images": [
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-1.jpg",
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-2.jpg",
@@ -31690,7 +31690,7 @@ const MODELS = [
  "id": "esm-juri-han-korean-style-villain-fighter-girl-swimsuit-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Juri Han (Korean-Style Villain Fighter Girl Swimsuit ver)",
+ "title": "Juri Han (Korean-Style Villain Fighter Girl Swimsuit Ver)",
  "images": [
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-1.jpg",
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-2.jpg",
@@ -33765,7 +33765,7 @@ const MODELS = [
  "id": "esm-jill-valentine-v2",
  "artist": "ESMonster",
  "series": "Resident Evil 3",
- "title": "Jill Valentine (Swimsuit ver)",
+ "title": "Jill Valentine (Swimsuit Ver)",
  "images": [
   "images/esmonster/resident-evil-3/jill-valentine-v2/jill-valentine-v2-1.jpg",
   "images/esmonster/resident-evil-3/jill-valentine-v2/jill-valentine-v2-2.jpg",
@@ -34545,7 +34545,7 @@ const MODELS = [
  "id": "esm-2b-v3",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (Swimsuit ver)",
+ "title": "2B (Swimsuit Ver)",
  "images": [
   "images/esmonster/nier-automata/2b-v3/2b-v3-1.jpg",
   "images/esmonster/nier-automata/2b-v3/2b-v3-2.jpg",
