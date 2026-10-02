@@ -27132,7 +27132,7 @@ const MODELS = [
   "id": "ca3d-swimsuit-2b",
   "artist": "CA3D Studios",
   "series": "NieR: Automata",
-  "title": "2B (Swimsuit ver)",
+  "title": "Swimsuit 2B",
   "images": [
    "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-1.jpg",
    "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-2.jpg",
@@ -29246,7 +29246,7 @@ const MODELS = [
  "id": "esm-chompette-chompette-by-esm",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Chompette (v1)",
+ "title": "Chompette (Chompette BY ESM)",
  "images": [
   "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-1.jpg",
   "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-2.jpg",
@@ -29288,7 +29288,7 @@ const MODELS = [
  "id": "esm-chompette-fit-bad-girl",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Chompette (v2)",
+ "title": "Chompette (Fit Bad Girl)",
  "images": [
   "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-1.jpg",
   "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-2.jpg",
@@ -30025,7 +30025,7 @@ const MODELS = [
  "id": "esm-bowsette-dark-themed-princess-swimsuit-ver",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Bowsette (v1)",
+ "title": "Bowsette (Dark-themed princess Swimsuit ver.)",
  "images": [
   "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-1.jpg",
   "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-2.jpg",
@@ -30047,7 +30047,7 @@ const MODELS = [
  "id": "esm-bowsette-dark-themed-princess-suntanned-ver",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Bowsette (Swimsuit ver)",
+ "title": "Bowsette (Dark-themed princess Suntanned ver)",
  "images": [
   "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-1.jpg",
   "images/esmonster/super-mario/bowsette-dark-themed-princess-suntanned-ver/bowsette-dark-themed-princess-suntanned-ver-2.jpg",
@@ -30101,7 +30101,7 @@ const MODELS = [
  "id": "esm-bowsette-villain-princess",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Bowsette (v2)",
+ "title": "Bowsette (Villain Princess)",
  "images": [
   "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-1.jpg",
   "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-2.jpg",
@@ -31690,7 +31690,7 @@ const MODELS = [
  "id": "esm-juri-han-korean-style-villain-fighter-girl-swimsuit-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Juri Han (Swimsuit ver)",
+ "title": "Juri Han (Korean-Style Villain Fighter Girl Swimsuit ver)",
  "images": [
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-1.jpg",
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-2.jpg",
@@ -34524,7 +34524,7 @@ const MODELS = [
  "id": "esm-2b-v4",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (Swimsuit v2)",
+ "title": "2B (Swimsuit V2)",
  "images": [
   "images/esmonster/nier-automata/2b-v4/2b-v4-1.jpg",
   "images/esmonster/nier-automata/2b-v4/2b-v4-2.jpg",
@@ -34545,7 +34545,7 @@ const MODELS = [
  "id": "esm-2b-v3",
  "artist": "ESMonster",
  "series": "NieR: Automata",
- "title": "2B (Swimsuit v1)",
+ "title": "2B (Swimsuit ver)",
  "images": [
   "images/esmonster/nier-automata/2b-v3/2b-v3-1.jpg",
   "images/esmonster/nier-automata/2b-v3/2b-v3-2.jpg",
@@ -36605,7 +36605,24 @@ const MODELS = [
  ],
  "description": "Original resin sculpt of Only Super Mario Bros 3 from Super Mario."
 },
+ {
+ "id": "wicked-super-mario-only-super-mario-bros",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Only Super Mario Bros",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-bros/only-super-mario-bros-1.jpg"
+ ],
+ "scaleOptions": [
   {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Only Super Mario Bros from Super Mario."
+},
+ {
  "id": "wicked-cyclops-v1",
  "artist": "Wicked 3D",
  "series": "X-Men",

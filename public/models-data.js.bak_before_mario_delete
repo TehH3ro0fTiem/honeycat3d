@@ -36605,7 +36605,24 @@ const MODELS = [
  ],
  "description": "Original resin sculpt of Only Super Mario Bros 3 from Super Mario."
 },
+ {
+ "id": "wicked-super-mario-only-super-mario-bros",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Only Super Mario Bros",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-bros/only-super-mario-bros-1.jpg"
+ ],
+ "scaleOptions": [
   {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Only Super Mario Bros from Super Mario."
+},
+ {
  "id": "wicked-cyclops-v1",
  "artist": "Wicked 3D",
  "series": "X-Men",
