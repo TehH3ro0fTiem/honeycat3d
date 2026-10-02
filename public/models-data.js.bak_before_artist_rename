@@ -34734,7 +34734,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-avengers-captain-america-3d",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Avengers Captain America 3d",
  "images": [
@@ -34756,7 +34756,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Avengers Endgame: Iron Patriot + Rocket Base (Diorama)",
  "images": [
@@ -34780,7 +34780,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-avengers-endgame-iron-patriot-sculpture-stls-ready-for-print",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Avengers Endgame: Iron Patriot",
  "images": [
@@ -34804,7 +34804,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Avengers Endgame: Rocket Racoon",
  "images": [
@@ -34828,7 +34828,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "Moon Knight",
  "images": [
@@ -34852,7 +34852,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-killmonger-vs-black-panther-diorama-base",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Killmonger vs Black Panther base (Diorama)",
  "images": [
@@ -34875,7 +34875,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-killmonger-stls-sculpture-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Killmonger",
  "images": [
@@ -34899,7 +34899,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-captain-america-vs-black-panther-diorama-base",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Captain America vs Black Panther base (Diorama)",
  "images": [
@@ -34918,7 +34918,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-america-civil-war-stls-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain America: Civil War",
  "images": [
@@ -34939,7 +34939,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Black Panther",
  "images": [
@@ -34963,7 +34963,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-ultron",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Ultron",
  "images": [
@@ -34987,7 +34987,7 @@ const MODELS = [
 },
  {
  "id": "wicked-scarlet-witch-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Scarlet Witch",
  "images": [
@@ -35011,7 +35011,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-hela",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Hela",
  "images": [
@@ -35035,7 +35035,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-avengers-rescue-pepper-potts-3d",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Avengers Rescue: Pepper Potts 3d",
  "images": [
@@ -35059,7 +35059,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Thor Ragnarok 3d Sculpture: Avengers",
  "images": [
@@ -35080,7 +35080,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hulk-3d-sculpture-avengers-stl-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hulk 3d Sculpture: Avengers",
  "images": [
@@ -35104,7 +35104,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-avengers-iron-man-3d",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Avengers Iron man 3d",
  "images": [
@@ -35128,7 +35128,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-scarlet-spider",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Scarlet Spider",
  "images": [
@@ -35152,7 +35152,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-the-spot",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "The Spot",
  "images": [
@@ -35176,7 +35176,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-punk",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider Punk",
  "images": [
@@ -35200,7 +35200,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-wicked-promo-fantastic-four-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "FANTASTIC FOUR (Diorama)",
  "images": [
@@ -35223,7 +35223,7 @@ const MODELS = [
 },
  {
  "id": "wicked-harry-potter-harry-potter-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Harry Potter",
  "title": "Harry Potter (Diorama)",
  "images": [
@@ -35247,7 +35247,7 @@ const MODELS = [
 },
  {
  "id": "wicked-harry-potter-voldemort",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Harry Potter",
  "title": "Voldemort",
  "images": [
@@ -35271,7 +35271,7 @@ const MODELS = [
 },
  {
  "id": "wicked-harry-potter-harry-potter",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Harry Potter",
  "title": "Harry Potter",
  "images": [
@@ -35294,7 +35294,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-peter-b-parker-and-mayday",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Peter B Parker and Mayday",
  "images": [
@@ -35318,7 +35318,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-taskmaster",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Taskmaster",
  "images": [
@@ -35342,7 +35342,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-psylocke",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Psylocke",
  "images": [
@@ -35366,7 +35366,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-woman-spiderverse",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider Woman Spiderverse",
  "images": [
@@ -35390,7 +35390,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spiderman-2099",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spiderman 2099",
  "images": [
@@ -35414,7 +35414,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-witcher-geralt-de-rivia-and-ciri-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Witcher",
  "title": "Geralt de Rivia and Ciri (Diorama)",
  "images": [
@@ -35438,7 +35438,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-witcher-ciri",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Witcher",
  "title": "Ciri",
  "images": [
@@ -35462,7 +35462,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-witcher-geralt-de-rivia",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Witcher",
  "title": "Geralt de Rivia",
  "images": [
@@ -35486,7 +35486,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-gwen",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider Gwen",
  "images": [
@@ -35510,7 +35510,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-miles-morales",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Miles Morales",
  "images": [
@@ -35534,7 +35534,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-other-angela",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Comics",
  "title": "Angela",
  "images": [
@@ -35558,7 +35558,7 @@ const MODELS = [
 },
  {
  "id": "wicked-bishop-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Bishop",
  "images": [
@@ -35582,7 +35582,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-wicked-promo-black-order-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "BLACK ORDER (Diorama)",
  "images": [
@@ -35605,7 +35605,7 @@ const MODELS = [
 },
  {
  "id": "wicked-aliens-aliens-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Aliens",
  "title": "Aliens (Diorama)",
  "images": [
@@ -35629,7 +35629,7 @@ const MODELS = [
 },
  {
  "id": "wicked-bishop-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Bishop",
  "images": [
@@ -35653,7 +35653,7 @@ const MODELS = [
 },
  {
  "id": "wicked-aliens-alien-warrior",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Aliens",
  "title": "Alien Warrior",
  "images": [
@@ -35677,7 +35677,7 @@ const MODELS = [
 },
  {
  "id": "wicked-aliens-power-loader-and-ripley",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Aliens",
  "title": "Power Loader and Ripley",
  "images": [
@@ -35701,7 +35701,7 @@ const MODELS = [
 },
  {
  "id": "wicked-aliens-rebecca-newt-jorden",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Aliens",
  "title": "Rebecca Newt Jorden",
  "images": [
@@ -35725,7 +35725,7 @@ const MODELS = [
 },
  {
  "id": "wicked-aliens-queen-alien",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Aliens",
  "title": "Queen Alien",
  "images": [
@@ -35749,7 +35749,7 @@ const MODELS = [
 },
  {
  "id": "wicked-aliens-facehugger",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Aliens",
  "title": "Facehugger",
  "images": [
@@ -35773,7 +35773,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-m-o-d-o-k",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "M.O.D.O.K",
  "images": [
@@ -35797,7 +35797,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-iceman",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Iceman",
  "images": [
@@ -35821,7 +35821,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hulk-and-bruce-banner-sculptures-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hulk and Bruce Banner (Diorama)",
  "images": [
@@ -35845,7 +35845,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-bruce-banner",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Bruce Banner",
  "images": [
@@ -35869,7 +35869,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hulk-2023",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hulk 2023",
  "images": [
@@ -35893,7 +35893,7 @@ const MODELS = [
 },
  {
  "id": "wicked-mortal-kombat-sub-zero-vs-scorpion-diorama-spine-rip",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Mortal Kombat",
  "title": "Sub Zero Vs Scorpion SPINE RIP (Diorama)",
  "images": [
@@ -35917,7 +35917,7 @@ const MODELS = [
 },
  {
  "id": "wicked-mortal-kombat-scorpion-vs-sub-zero-diorama-toasty",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Mortal Kombat",
  "title": "Scorpion Vs Sub Zero TOASTY (Diorama)",
  "images": [
@@ -35941,7 +35941,7 @@ const MODELS = [
 },
  {
  "id": "wicked-mortal-kombat-sub-zero",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Mortal Kombat",
  "title": "Sub Zero",
  "images": [
@@ -35965,7 +35965,7 @@ const MODELS = [
 },
  {
  "id": "wicked-mortal-kombat-scorpion",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Mortal Kombat",
  "title": "Scorpion",
  "images": [
@@ -35989,7 +35989,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-iron-man-and-tony-stark-sculptures-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Iron Man and Tony Stark (Diorama)",
  "images": [
@@ -36013,7 +36013,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-tony-stark",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Tony Stark",
  "images": [
@@ -36037,7 +36037,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-iron-man-2023",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Iron Man 2023",
  "images": [
@@ -36061,7 +36061,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-daredevil-and-kingpin-sculptures-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Daredevil and Kingpin (Diorama)",
  "images": [
@@ -36085,7 +36085,7 @@ const MODELS = [
 },
  {
  "id": "wicked-kingpin-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Kingpin",
  "images": [
@@ -36108,7 +36108,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Daredevil",
  "images": [
@@ -36132,7 +36132,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-america-and-steve-rogers-sculptures-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain America and Steve Rogers (Diorama)",
  "images": [
@@ -36156,7 +36156,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-america",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain America",
  "images": [
@@ -36180,7 +36180,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-steve-rogers",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Steve Rogers",
  "images": [
@@ -36204,7 +36204,7 @@ const MODELS = [
 },
  {
  "id": "wicked-power-rangers-tigerzord",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Power Rangers",
  "title": "Tigerzord",
  "images": [
@@ -36228,7 +36228,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-woman",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider Woman",
  "images": [
@@ -36252,7 +36252,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-beast",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Beast",
  "images": [
@@ -36276,7 +36276,7 @@ const MODELS = [
 },
  {
  "id": "wicked-power-rangers-power-ranger-green-and-power-ranger-white-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Power Rangers",
  "title": "Power Ranger Green and Power Ranger White (Diorama)",
  "images": [
@@ -36300,7 +36300,7 @@ const MODELS = [
 },
  {
  "id": "wicked-power-rangers-power-ranger-green",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Power Rangers",
  "title": "Power Ranger Green",
  "images": [
@@ -36324,7 +36324,7 @@ const MODELS = [
 },
  {
  "id": "wicked-power-rangers-power-ranger-white",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Power Rangers",
  "title": "Power Ranger White",
  "images": [
@@ -36348,7 +36348,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-deadpool-and-cable-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Deadpool and Cable (Diorama)",
  "images": [
@@ -36372,7 +36372,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-cable",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Cable",
  "images": [
@@ -36396,7 +36396,7 @@ const MODELS = [
 },
  {
  "id": "wicked-deadpool-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Deadpool",
  "images": [
@@ -36420,7 +36420,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-the-sentry",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "The Sentry",
  "images": [
@@ -36444,7 +36444,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-jean-grey-and-cyclops-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Jean Grey and Cyclops (Diorama)",
  "images": [
@@ -36468,7 +36468,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-jean-grey",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Jean Grey",
  "images": [
@@ -36492,7 +36492,7 @@ const MODELS = [
 },
  {
  "id": "wicked-super-mario-mario-and-luigi",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Super Mario",
  "title": "Mario and Luigi",
  "images": [
@@ -36516,7 +36516,7 @@ const MODELS = [
 },
  {
  "id": "wicked-super-mario-super-mario-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Super Mario",
  "title": "Super Mario (Diorama)",
  "images": [
@@ -36539,7 +36539,7 @@ const MODELS = [
 },
  {
  "id": "wicked-super-mario-only-super-mario-bros-movie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Super Mario",
  "title": "Only Super Mario Bros Movie",
  "images": [
@@ -36556,7 +36556,7 @@ const MODELS = [
 },
  {
  "id": "wicked-super-mario-only-super-mario-64",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Super Mario",
  "title": "Only Super Mario 64",
  "images": [
@@ -36573,7 +36573,7 @@ const MODELS = [
 },
  {
  "id": "wicked-super-mario-only-super-mario-world",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Super Mario",
  "title": "Only Super Mario World",
  "images": [
@@ -36590,7 +36590,7 @@ const MODELS = [
 },
  {
  "id": "wicked-super-mario-only-super-mario-bros-3",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Super Mario",
  "title": "Only Super Mario Bros 3",
  "images": [
@@ -36607,7 +36607,7 @@ const MODELS = [
 },
  {
  "id": "wicked-super-mario-only-super-mario-bros",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Super Mario",
  "title": "Only Super Mario Bros",
  "images": [
@@ -36624,7 +36624,7 @@ const MODELS = [
 },
  {
  "id": "wicked-cyclops-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Cyclops",
  "images": [
@@ -36648,7 +36648,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-black-order-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Black Order (Diorama)",
  "images": [
@@ -36671,7 +36671,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-lord-of-the-rings-gandalf-and-balrog-diorama-complete",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Lord of the Rings",
  "title": "Gandalf and Balrog (Diorama)",
  "images": [
@@ -36695,7 +36695,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-lord-of-the-rings-balrog",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Lord of the Rings",
  "title": "Balrog",
  "images": [
@@ -36719,7 +36719,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-lord-of-the-rings-gandalf",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Lord of the Rings",
  "title": "Gandalf",
  "images": [
@@ -36743,7 +36743,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-lady-death-and-thanos-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Lady Death and Thanos (Diorama)",
  "images": [
@@ -36767,7 +36767,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-lady-death",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Lady Death",
  "images": [
@@ -36791,7 +36791,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-thanos-comic",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Thanos Comic",
  "images": [
@@ -36815,7 +36815,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-corvus-glaive",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Corvus Glaive",
  "images": [
@@ -36839,7 +36839,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-diorama-base-optimus-sculpture-megatron",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "BASE + Optimus + Megatron (Diorama)",
  "images": [
@@ -36863,7 +36863,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-megatron",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "Megatron",
  "images": [
@@ -36887,7 +36887,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-megatron-gun",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "Megatron Gun",
  "images": [
@@ -36911,7 +36911,7 @@ const MODELS = [
 },
  {
  "id": "wicked-storm-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Storm",
  "images": [
@@ -36935,7 +36935,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thanos-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Thanos",
  "images": [
@@ -36959,7 +36959,7 @@ const MODELS = [
 },
  {
  "id": "wicked-street-fighter-street-fighter-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Street Fighter",
  "title": "Street Fighter (Diorama)",
  "images": [
@@ -36983,7 +36983,7 @@ const MODELS = [
 },
  {
  "id": "wicked-street-fighter-ken",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Street Fighter",
  "title": "Ken",
  "images": [
@@ -37007,7 +37007,7 @@ const MODELS = [
 },
  {
  "id": "wicked-street-fighter-ryu",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Street Fighter",
  "title": "Ryu",
  "images": [
@@ -37031,7 +37031,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-proxima-midnight",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Proxima Midnight",
  "images": [
@@ -37055,7 +37055,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-optimus-prime-truck",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "Optimus Prime Truck",
  "images": [
@@ -37079,7 +37079,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-optimus-prime",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "Optimus Prime",
  "images": [
@@ -37103,7 +37103,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-diorama-base-rogue-sculpture-gambit",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "BASE + Rogue + Gambit (Diorama)",
  "images": [
@@ -37127,7 +37127,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rogue-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Rogue",
  "images": [
@@ -37151,7 +37151,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-ebony-maw",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Ebony Maw",
  "images": [
@@ -37175,7 +37175,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-cull-obsidian",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Cull Obsidian",
  "images": [
@@ -37199,7 +37199,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "x Uncle Jessy: Magneto Helmet 1:1 scale for 3d Printing",
  "images": [
@@ -37216,7 +37216,7 @@ const MODELS = [
 },
  {
  "id": "wicked-jingle-all-the-way-turboman",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Jingle All the Way",
  "title": "Turboman",
  "images": [
@@ -37240,7 +37240,7 @@ const MODELS = [
 },
  {
  "id": "wicked-die-hard-john-mcclane",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Die Hard",
  "title": "John McClane",
  "images": [
@@ -37264,7 +37264,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-man-spider",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Man Spider",
  "images": [
@@ -37287,7 +37287,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-gorr",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Gorr",
  "images": [
@@ -37311,7 +37311,7 @@ const MODELS = [
 },
  {
  "id": "wicked-devil-may-cry-dante-and-vergil-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Devil May Cry",
  "title": "Dante and Vergil (Diorama)",
  "images": [
@@ -37335,7 +37335,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-magneto-and-xavier-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Magneto and Xavier (Diorama)",
  "images": [
@@ -37359,7 +37359,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-ronan",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Ronan",
  "images": [
@@ -37383,7 +37383,7 @@ const MODELS = [
 },
  {
  "id": "wicked-devil-may-cry-vergil",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Devil May Cry",
  "title": "Vergil",
  "images": [
@@ -37407,7 +37407,7 @@ const MODELS = [
 },
  {
  "id": "wicked-devil-may-cry-dante",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Devil May Cry",
  "title": "Dante",
  "images": [
@@ -37431,7 +37431,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-charles-xavier",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Charles Xavier",
  "images": [
@@ -37455,7 +37455,7 @@ const MODELS = [
 },
  {
  "id": "wicked-magneto-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Magneto",
  "images": [
@@ -37479,7 +37479,7 @@ const MODELS = [
 },
  {
  "id": "wicked-kraven-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Kraven",
  "images": [
@@ -37503,7 +37503,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-shining-jack-torrance",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Shining",
  "title": "Jack Torrance",
  "images": [
@@ -37526,7 +37526,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-crossbones",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Crossbones",
  "images": [
@@ -37550,7 +37550,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-red-skull",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Red Skull",
  "images": [
@@ -37574,7 +37574,7 @@ const MODELS = [
 },
  {
  "id": "wicked-a-nightmare-on-elm-street-fredy-krueger",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "A Nightmare on Elm Street",
  "title": "Fredy Krueger",
  "images": [
@@ -37598,7 +37598,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-thor-avengers-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Thor (Avengers) (Diorama)",
  "images": [
@@ -37622,7 +37622,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-beta-ray-bill",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Beta Ray Bill",
  "images": [
@@ -37646,7 +37646,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-juggernaut-and-colossus-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Juggernaut and Colossus (Diorama)",
  "images": [
@@ -37666,7 +37666,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-iron-man",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Iron Man",
  "images": [
@@ -37690,7 +37690,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-colossus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Colossus",
  "images": [
@@ -37714,7 +37714,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-predator-and-naru-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Predator and Naru (Diorama)",
  "images": [
@@ -37737,7 +37737,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-predator",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Predator",
  "images": [
@@ -37761,7 +37761,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-naru",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Naru",
  "images": [
@@ -37785,7 +37785,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-nova",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Nova",
  "images": [
@@ -37809,7 +37809,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doom-doom-slayer-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doom",
  "title": "Doom Slayer (Diorama)",
  "images": [
@@ -37833,7 +37833,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-juggernaut",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Juggernaut",
  "images": [
@@ -37856,7 +37856,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hulk-avengers-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hulk (Avengers) (Diorama)",
  "images": [
@@ -37880,7 +37880,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hawkeye-avengers-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hawkeye (Avengers) (Diorama)",
  "images": [
@@ -37904,7 +37904,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-black-widow",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Black Widow",
  "images": [
@@ -37928,7 +37928,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-america-first-avenger",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain America (First Avenger)",
  "images": [
@@ -37952,7 +37952,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-4f-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "4F (Diorama)",
  "images": [
@@ -37974,7 +37974,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-archangel",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Archangel",
  "images": [
@@ -37997,7 +37997,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-dr-doom-f4-diorama-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Dr Doom (F4 Version) (Diorama)",
  "images": [
@@ -38021,7 +38021,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-reed-richards",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Reed Richards",
  "images": [
@@ -38045,7 +38045,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-susan-storm",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Susan Storm",
  "images": [
@@ -38069,7 +38069,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-marvel",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain Marvel",
  "images": [
@@ -38093,7 +38093,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-moon-knight-diorama-base-and-logo",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "Moon Knight Base and Logo (Diorama)",
  "images": [
@@ -38115,7 +38115,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-scarlet-scarab",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "Scarlet Scarab",
  "images": [
@@ -38139,7 +38139,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-jhonny-storm-human-torch",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Jhonny Storm (Human Torch)",
  "images": [
@@ -38163,7 +38163,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-war-machine",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "War Machine",
  "images": [
@@ -38187,7 +38187,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-khonshu",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "Khonshu",
  "images": [
@@ -38211,7 +38211,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-mr-knight",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "Mr Knight",
  "images": [
@@ -38235,7 +38235,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "Moon Knight",
  "images": [
@@ -38259,7 +38259,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-war-tank",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "War Tank",
  "images": [
@@ -38283,7 +38283,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-jack-o-lantern",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Jack O Lantern",
  "images": [
@@ -38307,7 +38307,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-the-thing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "The Thing",
  "images": [
@@ -38331,7 +38331,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-ant-man-and-wasp-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Ant Man and Wasp (Diorama)",
  "images": [
@@ -38355,7 +38355,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-wasp-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "The Wasp",
  "images": [
@@ -38379,7 +38379,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-ant-man",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Ant Man",
  "images": [
@@ -38402,7 +38402,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-wanda-and-vision-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Wanda and Vision (Diorama)",
  "images": [
@@ -38426,7 +38426,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-silver-surfer",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Silver Surfer",
  "images": [
@@ -38450,7 +38450,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-vision",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Vision",
  "images": [
@@ -38474,7 +38474,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-wanda",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Wanda",
  "images": [
@@ -38498,7 +38498,7 @@ const MODELS = [
 },
  {
  "id": "wicked-blade-blade",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Blade",
  "title": "Blade",
  "images": [
@@ -38522,7 +38522,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-galactus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Galactus",
  "images": [
@@ -38546,7 +38546,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-green-goblin",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Green Goblin",
  "images": [
@@ -38570,7 +38570,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spiderman-tom-holland",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spiderman (Tom Holland)",
  "images": [
@@ -38594,7 +38594,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-nebula",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Nebula",
  "images": [
@@ -38618,7 +38618,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-mr-sinister",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Mr. Sinister",
  "images": [
@@ -38642,7 +38642,7 @@ const MODELS = [
 },
  {
  "id": "wicked-gambit-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Gambit",
  "images": [
@@ -38666,7 +38666,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-electro",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Electro",
  "images": [
@@ -38689,7 +38689,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-man-andrew-garfield",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider man (Andrew Garfield)",
  "images": [
@@ -38713,7 +38713,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-man-sculpture-tobey",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider man Sculpture (Tobey)",
  "images": [
@@ -38737,7 +38737,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-dr-octupus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Dr. Octupus",
  "images": [
@@ -38761,7 +38761,7 @@ const MODELS = [
 },
  {
  "id": "wicked-omega-red-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Omega Red",
  "images": [
@@ -38784,7 +38784,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-wolverine",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Wolverine",
  "images": [
@@ -38808,7 +38808,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-nightcrawler",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Nightcrawler",
  "images": [
@@ -38832,7 +38832,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hulk-age-of-ultron",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hulk Age of Ultron",
  "images": [
@@ -38856,7 +38856,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-cap-carter-hydra-stomper",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Cap. Carter + Hydra Stomper",
  "images": [
@@ -38879,7 +38879,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-domino",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Domino",
  "images": [
@@ -38903,7 +38903,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-venom-vs-carnage-diorama-1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Venom vs Carnage (Diorama)",
  "images": [
@@ -38927,7 +38927,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-venom",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Venom",
  "images": [
@@ -38951,7 +38951,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-carnage",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Carnage",
  "images": [
@@ -38975,7 +38975,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-phoenix",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Phoenix",
  "images": [
@@ -38999,7 +38999,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-mantis",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Mantis",
  "images": [
@@ -39023,7 +39023,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-drax",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Drax",
  "images": [
@@ -39046,7 +39046,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-other-mephisto",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Comics",
  "title": "Mephisto",
  "images": [
@@ -39070,7 +39070,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-groot",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Groot",
  "images": [
@@ -39094,7 +39094,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-yondu",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Yondu",
  "images": [
@@ -39118,7 +39118,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-loki-sylvie-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Loki & Sylvie (Diorama)",
  "images": [
@@ -39139,7 +39139,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-cosmic-ghost-rider",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Cosmic Ghost Rider",
  "images": [
@@ -39163,7 +39163,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-loki",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Loki",
  "images": [
@@ -39184,7 +39184,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-sylvie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Sylvie",
  "images": [
@@ -39208,7 +39208,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-man-vs-vulture-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider man vs Vulture (Diorama)",
  "images": [
@@ -39231,7 +39231,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-knull",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Knull",
  "images": [
@@ -39254,7 +39254,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-vulture",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Vulture",
  "images": [
@@ -39278,7 +39278,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spider-man",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spider man",
  "images": [
@@ -39302,7 +39302,7 @@ const MODELS = [
 },
  {
  "id": "wicked-deadpool-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Deadpool",
  "images": [
@@ -39326,7 +39326,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Gamora + Star Lord - Guardians of the Galaxy - (only base, no models) (Diorama)",
  "images": [
@@ -39349,7 +39349,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-star-lord-sculpture-guardians-of-the-galaxy",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Star Lord Sculpture: Guardians of the Galaxy",
  "images": [
@@ -39373,7 +39373,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-gamora-sculpture-guardians-of-the-galaxy",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Gamora Sculpture: Guardians of the Galaxy",
  "images": [
@@ -39397,7 +39397,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-falcon-captain-america",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Falcon - Captain America",
  "images": [
@@ -39421,7 +39421,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-winter-soldier",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Winter Soldier",
  "images": [
@@ -39445,7 +39445,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-may-diorama-winter-soldier-falcon-stls-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "May : Winter Soldier + Falcon (Diorama)",
  "images": [
@@ -39469,7 +39469,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-dr-doom",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Dr. Doom",
  "images": [
@@ -39492,7 +39492,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-doctor-strange-vs-dormammu-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Doctor Strange vs Dormammu (Diorama)",
  "images": [
@@ -39514,7 +39514,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-dormammu",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Dormammu",
  "images": [
@@ -39538,7 +39538,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-doctor-strange",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Doctor Strange",
  "images": [
@@ -39562,7 +39562,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-marvel-netflix-daredevil-sculpture-stls-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": ": Netflix Daredevil",
  "images": [
@@ -39586,7 +39586,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-punisher-vs-daredevil-diorama-base-stls-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Punisher vs Daredevil base (Diorama)",
  "images": [
@@ -39609,7 +39609,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-marvel-netflix-punisher-sculpture-stls-ready-for-printing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": ": Netflix Punisher",
  "images": [
@@ -39633,7 +39633,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-predator-and-dutch-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Predator and Dutch (Diorama)",
  "images": [
@@ -39657,7 +39657,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-the-predator",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "The Predator",
  "images": [
@@ -39681,7 +39681,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-dutch",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Dutch",
  "images": [
@@ -39705,7 +39705,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-predator-and-dutch-diorama-v2-lifting-the-torch",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Predator and Dutch V2 (Lifting the torch) (Diorama)",
  "images": [
@@ -39729,7 +39729,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-predator-vs-alien-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Predator VS Alien (Diorama)",
  "images": [
@@ -39753,7 +39753,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-johnny-blaze-ghost-rider",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Johnny Blaze Ghost Rider",
  "images": [
@@ -39777,7 +39777,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-danny-ketch-ghost-rider",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Danny Ketch Ghost Rider",
  "images": [
@@ -39801,7 +39801,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Ghost Rider (Diorama)",
  "images": [
@@ -39825,7 +39825,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-x-23",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "X-23",
  "images": [
@@ -39850,7 +39850,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-punisher-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Punisher 2024",
  "images": [
@@ -39873,7 +39873,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-archangel-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Archangel 2024",
  "images": [
@@ -39897,7 +39897,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-famine",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Famine",
  "images": [
@@ -39921,7 +39921,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-war",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "War",
  "images": [
@@ -39945,7 +39945,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-apocalypse",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Apocalypse",
  "images": [
@@ -39969,7 +39969,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-black-panther-and-namor-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Black Panther and Namor (Diorama)",
  "images": [
@@ -39993,7 +39993,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-black-panther-shuri-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Black Panther Shuri 2024",
  "images": [
@@ -40016,7 +40016,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-namor",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Namor",
  "images": [
@@ -40040,7 +40040,7 @@ const MODELS = [
 },
  {
  "id": "wicked-robocop-robocop-and-ed-209-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "RoboCop",
  "title": "Robocop and ED 209 (Diorama)",
  "images": [
@@ -40063,7 +40063,7 @@ const MODELS = [
 },
  {
  "id": "wicked-robocop-robocop",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "RoboCop",
  "title": "Robocop",
  "images": [
@@ -40087,7 +40087,7 @@ const MODELS = [
 },
  {
  "id": "wicked-robocop-ed-209",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "RoboCop",
  "title": "ED 209",
  "images": [
@@ -40111,7 +40111,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-pestilence",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Pestilence",
  "images": [
@@ -40135,7 +40135,7 @@ const MODELS = [
 },
  {
  "id": "wicked-robocop-robocop-gun",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "RoboCop",
  "title": "Robocop Gun",
  "images": [
@@ -40159,7 +40159,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-black-widow-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Black Widow 2024",
  "images": [
@@ -40183,7 +40183,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rocky-rocky-balboa",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Rocky",
  "title": "Rocky Balboa",
  "images": [
@@ -40205,7 +40205,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rocky-apollo-creed",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Rocky",
  "title": "Apollo Creed",
  "images": [
@@ -40227,7 +40227,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rocky-rocky-balboa-and-apollo-creed-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Rocky",
  "title": "Rocky Balboa and Apollo Creed (Diorama)",
  "images": [
@@ -40251,7 +40251,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hawkeye-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hawkeye 2024",
  "images": [
@@ -40274,7 +40274,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-hawkeye-and-black-widow-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Hawkeye and Black Widow (Diorama)",
  "images": [
@@ -40298,7 +40298,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-iron-man-and-iron-monger-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Iron Man and Iron Monger (Diorama)",
  "images": [
@@ -40322,7 +40322,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-iron-monger",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Iron Monger",
  "images": [
@@ -40346,7 +40346,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-gladiator",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Gladiator",
  "images": [
@@ -40370,7 +40370,7 @@ const MODELS = [
 },
  {
  "id": "wicked-mystique-v1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Mystique",
  "images": [
@@ -40394,7 +40394,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-kang",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Kang",
  "images": [
@@ -40418,7 +40418,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-magic",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Magic",
  "images": [
@@ -40442,7 +40442,7 @@ const MODELS = [
 },
  {
  "id": "wicked-universal-soldier-luc-deveraux",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Universal Soldier",
  "title": "Luc Deveraux",
  "images": [
@@ -40466,7 +40466,7 @@ const MODELS = [
 },
  {
  "id": "wicked-universal-soldier-andrew-scott",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Universal Soldier",
  "title": "Andrew Scott",
  "images": [
@@ -40490,7 +40490,7 @@ const MODELS = [
 },
  {
  "id": "wicked-universal-soldier-universal-soldier-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Universal Soldier",
  "title": "Universal Soldier (Diorama)",
  "images": [
@@ -40514,7 +40514,7 @@ const MODELS = [
 },
  {
  "id": "wicked-lethal-weapon-lethal-weapon-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Lethal Weapon",
  "title": "Lethal Weapon (Diorama)",
  "images": [
@@ -40535,7 +40535,7 @@ const MODELS = [
 },
  {
  "id": "wicked-lethal-weapon-riggs",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Lethal Weapon",
  "title": "Riggs",
  "images": [
@@ -40558,7 +40558,7 @@ const MODELS = [
 },
  {
  "id": "wicked-lethal-weapon-roger",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Lethal Weapon",
  "title": "Roger",
  "images": [
@@ -40580,7 +40580,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-super-skrull-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Super Skrull (Diorama)",
  "images": [
@@ -40604,7 +40604,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-venom-and-spiderman-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Venom and Spiderman (Diorama)",
  "images": [
@@ -40628,7 +40628,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-venom-sculpture-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Venom Sculpture 2024",
  "images": [
@@ -40652,7 +40652,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-kitty-pryde",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Kitty Pryde",
  "images": [
@@ -40675,7 +40675,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-apocalypse-and-horseman-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Apocalypse and Horseman (Diorama)",
  "images": [
@@ -40699,7 +40699,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-venom-and-spiderman-v2-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Venom and Spiderman V2 (Diorama)",
  "images": [
@@ -40720,7 +40720,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-crow-the-crow",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Crow",
  "title": "The Crow",
  "images": [
@@ -40744,7 +40744,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-crow-the-crow-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Crow",
  "title": "The Crow (Diorama)",
  "images": [
@@ -40768,7 +40768,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-dead-strange-and-scarlet-witch-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Dead Strange and Scarlet Witch (Diorama)",
  "images": [
@@ -40792,7 +40792,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-dead-strange",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Dead Strange",
  "images": [
@@ -40816,7 +40816,7 @@ const MODELS = [
 },
  {
  "id": "wicked-scarlet-witch-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Scarlet Witch",
  "images": [
@@ -40840,7 +40840,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-scarlet-witch-second",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Scarlet Witch Second",
  "images": [
@@ -40861,7 +40861,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-onslaught",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Onslaught",
  "images": [
@@ -40885,7 +40885,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-namor-comic-silver-age",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Namor Comic Silver Age",
  "images": [
@@ -40909,7 +40909,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-namor-modern",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Namor Modern",
  "images": [
@@ -40933,7 +40933,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-havok",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Havok",
  "images": [
@@ -40957,7 +40957,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-wong",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Wong",
  "images": [
@@ -40980,7 +40980,7 @@ const MODELS = [
 },
  {
  "id": "wicked-star-trek-star-trek-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Star Trek",
  "title": "Star Trek (Diorama)",
  "images": [
@@ -41002,7 +41002,7 @@ const MODELS = [
 },
  {
  "id": "wicked-star-trek-kirk",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Star Trek",
  "title": "Kirk",
  "images": [
@@ -41024,7 +41024,7 @@ const MODELS = [
 },
  {
  "id": "wicked-star-trek-spock",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Star Trek",
  "title": "Spock",
  "images": [
@@ -41048,7 +41048,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-star-lord-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Star Lord Comic Version",
  "images": [
@@ -41071,7 +41071,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-gamora-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Gamora Comic Version",
  "images": [
@@ -41094,7 +41094,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-black-cat",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Black Cat",
  "images": [
@@ -41118,7 +41118,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-groot-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Groot Comic Version",
  "images": [
@@ -41142,7 +41142,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-rocket-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Rocket Comic Version",
  "images": [
@@ -41165,7 +41165,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-groot-and-rocket-diorama-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Groot and Rocket Comic Version (Diorama)",
  "images": [
@@ -41188,7 +41188,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-rocket-handgun",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Rocket Handgun",
  "images": [
@@ -41209,7 +41209,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-deadpool-and-wolverine-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Deadpool and Wolverine (Diorama)",
  "images": [
@@ -41232,7 +41232,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-deadpool-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Deadpool 2024",
  "images": [
@@ -41255,7 +41255,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-wolverine-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Wolverine 2024",
  "images": [
@@ -41279,7 +41279,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-lady-deadpool",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Lady Deadpool",
  "images": [
@@ -41303,7 +41303,7 @@ const MODELS = [
 },
  {
  "id": "wicked-back-to-the-future-back-to-the-future-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Back to the Future",
  "title": "Back To The Future (Diorama)",
  "images": [
@@ -41327,7 +41327,7 @@ const MODELS = [
 },
  {
  "id": "wicked-back-to-the-future-marty-mcfly",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Back to the Future",
  "title": "Marty McFly",
  "images": [
@@ -41350,7 +41350,7 @@ const MODELS = [
 },
  {
  "id": "wicked-back-to-the-future-dr-emmett-brown",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Back to the Future",
  "title": "Dr. Emmett Brown",
  "images": [
@@ -41374,7 +41374,7 @@ const MODELS = [
 },
  {
  "id": "wicked-back-to-the-future-delorean",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Back to the Future",
  "title": "DeLorean",
  "images": [
@@ -41397,7 +41397,7 @@ const MODELS = [
 },
  {
  "id": "wicked-back-to-the-future-back-to-the-future-diorama-with-delorean",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Back to the Future",
  "title": "Back To The Future With DeLorean (Diorama)",
  "images": [
@@ -41420,7 +41420,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghostbusters-winston",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghostbusters",
  "title": "Winston",
  "images": [
@@ -41441,7 +41441,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghostbusters-egon",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghostbusters",
  "title": "Egon",
  "images": [
@@ -41463,7 +41463,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghostbusters-peter",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghostbusters",
  "title": "Peter",
  "images": [
@@ -41485,7 +41485,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghostbusters-ray",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghostbusters",
  "title": "Ray",
  "images": [
@@ -41508,7 +41508,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghostbusters-mr-stay-puft",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghostbusters",
  "title": "Mr Stay Puft",
  "images": [
@@ -41529,7 +41529,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghostbusters-slimer",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghostbusters",
  "title": "Slimer",
  "images": [
@@ -41550,7 +41550,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-mantis-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Mantis Comic Version",
  "images": [
@@ -41574,7 +41574,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-adam-warlock",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Adam Warlock",
  "images": [
@@ -41597,7 +41597,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-zombies-spiderman-zombie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Zombies",
  "title": "Spiderman Zombie",
  "images": [
@@ -41619,7 +41619,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-zombies-cyclops-zombie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Zombies",
  "title": "Cyclops Zombie",
  "images": [
@@ -41643,7 +41643,7 @@ const MODELS = [
 },
  {
  "id": "wicked-universal-monsters-frankenstein",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Universal Monsters",
  "title": "Frankenstein",
  "images": [
@@ -41667,7 +41667,7 @@ const MODELS = [
 },
  {
  "id": "wicked-universal-monsters-creature-of-the-black-lagoon",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Universal Monsters",
  "title": "Creature of the Black Lagoon",
  "images": [
@@ -41691,7 +41691,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-cosmo",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Cosmo",
  "images": [
@@ -41715,7 +41715,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-zombies-wolverine-zombie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Zombies",
  "title": "Wolverine Zombie",
  "images": [
@@ -41739,7 +41739,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-zombies-captain-america-zombie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Zombies",
  "title": "Captain America Zombie",
  "images": [
@@ -41763,7 +41763,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-drax-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Drax Comic Version",
  "images": [
@@ -41787,7 +41787,7 @@ const MODELS = [
 },
  {
  "id": "wicked-guardians-of-the-galaxy-quasar",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Guardians of the Galaxy",
  "title": "Quasar",
  "images": [
@@ -41811,7 +41811,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-nightmare-before-christmas-nightmare-before-christmas-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Nightmare Before Christmas",
  "title": "Nightmare Before Christmas (Diorama)",
  "images": [
@@ -41835,7 +41835,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-nightmare-before-christmas-jack-and-sally-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Nightmare Before Christmas",
  "title": "Jack and Sally (Diorama)",
  "images": [
@@ -41859,7 +41859,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-nightmare-before-christmas-mayor",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Nightmare Before Christmas",
  "title": "Mayor",
  "images": [
@@ -41883,7 +41883,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-nightmare-before-christmas-oogie-boogie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Nightmare Before Christmas",
  "title": "Oogie Boogie",
  "images": [
@@ -41907,7 +41907,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-nightmare-before-christmas-zero",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Nightmare Before Christmas",
  "title": "Zero",
  "images": [
@@ -41931,7 +41931,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-nick-fury-and-falcon-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Nick Fury and Falcon (Diorama)",
  "images": [
@@ -41955,7 +41955,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-nick-fury",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Nick Fury",
  "images": [
@@ -41979,7 +41979,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-falcon-sculpture-2024",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Falcon Sculpture 2024",
  "images": [
@@ -42003,7 +42003,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-mojo",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Mojo",
  "images": [
@@ -42027,7 +42027,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-quicksilver",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Quicksilver",
  "images": [
@@ -42051,7 +42051,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-grinch-grinch-cindy-and-dog-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Grinch",
  "title": "Grinch, Cindy and Dog (Diorama)",
  "images": [
@@ -42075,7 +42075,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-grinch-grinch-jim-carry",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Grinch",
  "title": "Grinch (Jim Carry)",
  "images": [
@@ -42099,7 +42099,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-grinch-cindy",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Grinch",
  "title": "Cindy",
  "images": [
@@ -42123,7 +42123,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-grinch-max",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Grinch",
  "title": "Max",
  "images": [
@@ -42147,7 +42147,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-daredevil-and-electra-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Daredevil and Electra (Diorama)",
  "images": [
@@ -42171,7 +42171,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-jubilee",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Jubilee",
  "images": [
@@ -42195,7 +42195,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-black-heart",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Black Heart",
  "images": [
@@ -42219,7 +42219,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-other-stan-lee",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Comics",
  "title": "Stan Lee",
  "images": [
@@ -42243,7 +42243,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-hulk-and-punisher-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Hulk and Punisher (Diorama)",
  "images": [
@@ -42265,7 +42265,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-agent-venom",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Agent Venom",
  "images": [
@@ -42289,7 +42289,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-cable-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Cable 2025",
  "images": [
@@ -42313,7 +42313,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-cloak-and-dagger-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Cloak and Dagger (Diorama)",
  "images": [
@@ -42337,7 +42337,7 @@ const MODELS = [
 },
  {
  "id": "wicked-evil-dead-ash",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Evil Dead",
  "title": "Ash",
  "images": [
@@ -42361,7 +42361,7 @@ const MODELS = [
 },
  {
  "id": "wicked-evil-dead-henrietta",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Evil Dead",
  "title": "Henrietta",
  "images": [
@@ -42385,7 +42385,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-black-panther-vs-predator-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Black Panther VS Predator (Diorama)",
  "images": [
@@ -42409,7 +42409,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-blink-joe-madureira",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Blink (Joe Madureira)",
  "images": [
@@ -42432,7 +42432,7 @@ const MODELS = [
 },
  {
  "id": "wicked-warhammer-40-000-titus-warhammer",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Warhammer 40,000",
  "title": "Titus Warhammer",
  "images": [
@@ -42456,7 +42456,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-dr-doom-horse",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Dr. Doom Horse",
  "images": [
@@ -42480,7 +42480,7 @@ const MODELS = [
 },
  {
  "id": "wicked-terminator-terminator-1-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Terminator",
  "title": "Terminator 1 (Diorama)",
  "images": [
@@ -42504,7 +42504,7 @@ const MODELS = [
 },
  {
  "id": "wicked-terminator-terminator-1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Terminator",
  "title": "Terminator 1",
  "images": [
@@ -42528,7 +42528,7 @@ const MODELS = [
 },
  {
  "id": "wicked-terminator-t-800",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Terminator",
  "title": "T 800",
  "images": [
@@ -42552,7 +42552,7 @@ const MODELS = [
 },
  {
  "id": "wicked-predator-weapon-x-vs-predator-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Predator",
  "title": "Weapon X VS Predator (Diorama)",
  "images": [
@@ -42572,7 +42572,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-angel",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Angel",
  "images": [
@@ -42596,7 +42596,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-nimrod",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Nimrod",
  "images": [
@@ -42620,7 +42620,7 @@ const MODELS = [
 },
  {
  "id": "wicked-bloodsport-bloodsport-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Bloodsport",
  "title": "Bloodsport (Diorama)",
  "images": [
@@ -42644,7 +42644,7 @@ const MODELS = [
 },
  {
  "id": "wicked-bloodsport-frank-dux",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Bloodsport",
  "title": "Frank Dux",
  "images": [
@@ -42668,7 +42668,7 @@ const MODELS = [
 },
  {
  "id": "wicked-bloodsport-chong-li",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Bloodsport",
  "title": "Chong Li",
  "images": [
@@ -42692,7 +42692,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-thor-and-loki-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Thor and Loki (Diorama)",
  "images": [
@@ -42716,7 +42716,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-she-hulk",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "She Hulk",
  "images": [
@@ -42740,7 +42740,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-dazzler",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Dazzler",
  "images": [
@@ -42764,7 +42764,7 @@ const MODELS = [
 },
  {
  "id": "wicked-god-of-war-god-of-war-4-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "God of War",
  "title": "God Of War 4 (Diorama)",
  "images": [
@@ -42788,7 +42788,7 @@ const MODELS = [
 },
  {
  "id": "wicked-god-of-war-kratos",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "God of War",
  "title": "Kratos",
  "images": [
@@ -42812,7 +42812,7 @@ const MODELS = [
 },
  {
  "id": "wicked-god-of-war-atreus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "God of War",
  "title": "Atreus",
  "images": [
@@ -42836,7 +42836,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-matrix-neo",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Matrix",
  "title": "Neo",
  "images": [
@@ -42860,7 +42860,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-matrix-trinity",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Matrix",
  "title": "Trinity",
  "images": [
@@ -42884,7 +42884,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-red-hulk-and-ross-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Red Hulk and Ross (Diorama)",
  "images": [
@@ -42908,7 +42908,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-red-hulk",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Red Hulk",
  "images": [
@@ -42932,7 +42932,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-ross",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Ross",
  "images": [
@@ -42956,7 +42956,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-pyro",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Pyro",
  "images": [
@@ -42979,7 +42979,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-marvel-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain Marvel 2025",
  "images": [
@@ -43003,7 +43003,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-matrix-matrix-diorama-neo-trinity-and-morpheus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Matrix",
  "title": "Matrix (Neo, Trinity, and Morpheus) (Diorama)",
  "images": [
@@ -43027,7 +43027,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-matrix-morpheus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Matrix",
  "title": "Morpheus",
  "images": [
@@ -43051,7 +43051,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-matrix-smith",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Matrix",
  "title": "Smith",
  "images": [
@@ -43075,7 +43075,7 @@ const MODELS = [
 },
  {
  "id": "wicked-sonic-the-hedgehog-sonic",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Sonic the Hedgehog",
  "title": "Sonic",
  "images": [
@@ -43099,7 +43099,7 @@ const MODELS = [
 },
  {
  "id": "wicked-sonic-the-hedgehog-dr-eggman",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Sonic the Hedgehog",
  "title": "Dr Eggman",
  "images": [
@@ -43123,7 +43123,7 @@ const MODELS = [
 },
  {
  "id": "wicked-sonic-the-hedgehog-sonic-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Sonic the Hedgehog",
  "title": "Sonic (Diorama)",
  "images": [
@@ -43146,7 +43146,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spiderman-and-gwen-stacy-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spiderman and Gwen Stacy (Diorama)",
  "images": [
@@ -43170,7 +43170,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-gwen-stacy",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Gwen Stacy",
  "images": [
@@ -43194,7 +43194,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-ultron-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Ultron 2025",
  "images": [
@@ -43218,7 +43218,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-forge",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Forge",
  "images": [
@@ -43242,7 +43242,7 @@ const MODELS = [
 },
  {
  "id": "wicked-sonic-the-hedgehog-sonic-sculpture-2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Sonic the Hedgehog",
  "title": "Sonic Sculpture #2",
  "images": [
@@ -43266,7 +43266,7 @@ const MODELS = [
 },
  {
  "id": "wicked-sonic-the-hedgehog-dr-eggman-sculpture-2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Sonic the Hedgehog",
  "title": "Dr Eggman Sculpture #2",
  "images": [
@@ -43290,7 +43290,7 @@ const MODELS = [
 },
  {
  "id": "wicked-godzilla-vs-kong-godzilla-vs-kong-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Godzilla vs. Kong",
  "title": "Godzilla VS Kong (Diorama)",
  "images": [
@@ -43314,7 +43314,7 @@ const MODELS = [
 },
  {
  "id": "wicked-godzilla-vs-kong-godzilla",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Godzilla vs. Kong",
  "title": "Godzilla",
  "images": [
@@ -43338,7 +43338,7 @@ const MODELS = [
 },
  {
  "id": "wicked-godzilla-vs-kong-kong",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Godzilla vs. Kong",
  "title": "Kong",
  "images": [
@@ -43362,7 +43362,7 @@ const MODELS = [
 },
  {
  "id": "wicked-halo-halo-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Halo",
  "title": "Halo (Diorama)",
  "images": [
@@ -43386,7 +43386,7 @@ const MODELS = [
 },
  {
  "id": "wicked-halo-master-chief",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Halo",
  "title": "Master Chief",
  "images": [
@@ -43410,7 +43410,7 @@ const MODELS = [
 },
  {
  "id": "wicked-halo-the-arbiter",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Halo",
  "title": "The Arbiter",
  "images": [
@@ -43434,7 +43434,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-dr-strange-and-shuma-gorath-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Dr Strange and Shuma Gorath (Diorama)",
  "images": [
@@ -43458,7 +43458,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-dr-strange-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Dr Strange 2025",
  "images": [
@@ -43482,7 +43482,7 @@ const MODELS = [
 },
  {
  "id": "wicked-doctor-strange-shuma-gorath",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Doctor Strange",
  "title": "Shuma Gorath",
  "images": [
@@ -43506,7 +43506,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-professor-x-helmet",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Professor X Helmet",
  "images": [
@@ -43530,7 +43530,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-annihilus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Annihilus",
  "images": [
@@ -43554,7 +43554,7 @@ const MODELS = [
 },
  {
  "id": "wicked-tomb-raider-tomb-raider-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Tomb Raider",
  "title": "Tomb Raider (Diorama)",
  "images": [
@@ -43578,7 +43578,7 @@ const MODELS = [
 },
  {
  "id": "wicked-tomb-raider-lara-croft",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Tomb Raider",
  "title": "Lara Croft",
  "images": [
@@ -43602,7 +43602,7 @@ const MODELS = [
 },
  {
  "id": "wicked-tomb-raider-t-rex-1",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Tomb Raider",
  "title": "T-REX",
  "images": [
@@ -43626,7 +43626,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-thor",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "Thor",
  "images": [
@@ -43650,7 +43650,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-wasp-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "The Wasp",
  "images": [
@@ -43674,7 +43674,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-banshee",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Banshee",
  "images": [
@@ -43698,7 +43698,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-other-man-thing",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Comics",
  "title": "Man Thing",
  "images": [
@@ -43722,7 +43722,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-iron-man-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Iron Man 2025",
  "images": [
@@ -43746,7 +43746,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-america-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain America 2025",
  "images": [
@@ -43770,7 +43770,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-hobgoblin",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Hobgoblin",
  "images": [
@@ -43794,7 +43794,7 @@ const MODELS = [
 },
  {
  "id": "wicked-inhumans-black-bolt",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Inhumans",
  "title": "Black Bolt",
  "images": [
@@ -43818,7 +43818,7 @@ const MODELS = [
 },
  {
  "id": "wicked-pirates-of-the-caribbean-pirates-of-the-caribbean-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Pirates of the Caribbean",
  "title": "Pirates of the Caribbean (Diorama)",
  "images": [
@@ -43842,7 +43842,7 @@ const MODELS = [
 },
  {
  "id": "wicked-pirates-of-the-caribbean-jack-sparrow",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Pirates of the Caribbean",
  "title": "Jack Sparrow",
  "images": [
@@ -43866,7 +43866,7 @@ const MODELS = [
 },
  {
  "id": "wicked-pirates-of-the-caribbean-hector-barbossa",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Pirates of the Caribbean",
  "title": "Hector Barbossa",
  "images": [
@@ -43890,7 +43890,7 @@ const MODELS = [
 },
  {
  "id": "wicked-universal-monsters-the-mummy",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Universal Monsters",
  "title": "The Mummy",
  "images": [
@@ -43914,7 +43914,7 @@ const MODELS = [
 },
  {
  "id": "wicked-universal-monsters-invisible-man",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Universal Monsters",
  "title": "Invisible Man",
  "images": [
@@ -43938,7 +43938,7 @@ const MODELS = [
 },
  {
  "id": "wicked-blade-blade-vs-dracula-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Blade",
  "title": "Blade VS Dracula (Diorama)",
  "images": [
@@ -43962,7 +43962,7 @@ const MODELS = [
 },
  {
  "id": "wicked-blade-blade-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Blade",
  "title": "Blade 2025",
  "images": [
@@ -43986,7 +43986,7 @@ const MODELS = [
 },
  {
  "id": "wicked-blade-dracula",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Blade",
  "title": "Dracula",
  "images": [
@@ -44010,7 +44010,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-zombies-deadpool-zombie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Zombies",
  "title": "Deadpool Zombie",
  "images": [
@@ -44034,7 +44034,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-giant-man",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Giant Man",
  "images": [
@@ -44058,7 +44058,7 @@ const MODELS = [
 },
  {
  "id": "wicked-hellraiser-hellraiser-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Hellraiser",
  "title": "Hellraiser (Diorama)",
  "images": [
@@ -44082,7 +44082,7 @@ const MODELS = [
 },
  {
  "id": "wicked-hellraiser-pinhead",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Hellraiser",
  "title": "Pinhead",
  "images": [
@@ -44105,7 +44105,7 @@ const MODELS = [
 },
  {
  "id": "wicked-hellraiser-butternall",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Hellraiser",
  "title": "Butternall",
  "images": [
@@ -44129,7 +44129,7 @@ const MODELS = [
 },
  {
  "id": "wicked-silent-hill-silent-hill-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Silent Hill",
  "title": "Silent Hill (Diorama)",
  "images": [
@@ -44153,7 +44153,7 @@ const MODELS = [
 },
  {
  "id": "wicked-silent-hill-james",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Silent Hill",
  "title": "James",
  "images": [
@@ -44176,7 +44176,7 @@ const MODELS = [
 },
  {
  "id": "wicked-silent-hill-pyramid-head",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Silent Hill",
  "title": "Pyramid Head",
  "images": [
@@ -44199,7 +44199,7 @@ const MODELS = [
 },
  {
  "id": "wicked-resident-evil-diorama-resident-evil",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Resident Evil",
  "title": "Resident Evil (Diorama)",
  "images": [
@@ -44223,7 +44223,7 @@ const MODELS = [
 },
  {
  "id": "wicked-resident-evil-chris-resident-evil",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Resident Evil",
  "title": "Chris Resident Evil",
  "images": [
@@ -44247,7 +44247,7 @@ const MODELS = [
 },
  {
  "id": "wicked-resident-evil-jill-resident-evil",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Resident Evil",
  "title": "Jill Resident Evil",
  "images": [
@@ -44271,7 +44271,7 @@ const MODELS = [
 },
  {
  "id": "wicked-hellraiser-chatterer",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Hellraiser",
  "title": "Chatterer",
  "images": [
@@ -44295,7 +44295,7 @@ const MODELS = [
 },
  {
  "id": "wicked-hellraiser-female-cenobite",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Hellraiser",
  "title": "Female Cenobite",
  "images": [
@@ -44319,7 +44319,7 @@ const MODELS = [
 },
  {
  "id": "wicked-inhumans-medusa-inhumans",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Inhumans",
  "title": "Medusa Inhumans",
  "images": [
@@ -44343,7 +44343,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-winter-soldier-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Winter Soldier 2025",
  "images": [
@@ -44367,7 +44367,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-venom-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Venom 2025",
  "images": [
@@ -44387,7 +44387,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-carnage-2025",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Carnage 2025",
  "images": [
@@ -44410,7 +44410,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-venom-vs-carnage-diorama-2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Venom VS Carnage (Diorama)",
  "images": [
@@ -44434,7 +44434,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-logan",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Logan",
  "images": [
@@ -44458,7 +44458,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-juggernaut-comic-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Juggernaut Comic Version",
  "images": [
@@ -44482,7 +44482,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-logan-vs-juggernaut-comic-version-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Logan VS Juggernaut Comic Version (Diorama)",
  "images": [
@@ -44506,7 +44506,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-other-darkhawk",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Comics",
  "title": "Darkhawk",
  "images": [
@@ -44529,7 +44529,7 @@ const MODELS = [
 },
  {
  "id": "wicked-donkey-kong-donkey-kong-donkey-and-diddy-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Donkey Kong",
  "title": "Donkey Kong (Donkey and Diddy) (Diorama)",
  "images": [
@@ -44553,7 +44553,7 @@ const MODELS = [
 },
  {
  "id": "wicked-donkey-kong-cranky",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Donkey Kong",
  "title": "Cranky",
  "images": [
@@ -44574,7 +44574,7 @@ const MODELS = [
 },
  {
  "id": "wicked-donkey-kong-king-rool",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Donkey Kong",
  "title": "King Rool",
  "images": [
@@ -44598,7 +44598,7 @@ const MODELS = [
 },
  {
  "id": "wicked-elf-elf",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Elf",
  "title": "Elf",
  "images": [
@@ -44621,7 +44621,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-planet-hulk",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Planet Hulk",
  "images": [
@@ -44645,7 +44645,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fantastic-four-silver-surfer-comic",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fantastic Four",
  "title": "Silver Surfer Comic",
  "images": [
@@ -44669,7 +44669,7 @@ const MODELS = [
 },
  {
  "id": "wicked-kingpin-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Kingpin",
  "images": [
@@ -44692,7 +44692,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-planet-hulk-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Planet Hulk (Diorama)",
  "images": [
@@ -44716,7 +44716,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Lord of the Rings",
  "title": "Legolas Vs Troll (Diorama)",
  "images": [
@@ -44739,7 +44739,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-nick-fury-mcu",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Nick Fury MCU",
  "images": [
@@ -44762,7 +44762,7 @@ const MODELS = [
 },
  {
  "id": "wicked-moon-knight-v3",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Moon Knight",
  "title": "Moon Knight",
  "images": [
@@ -44785,7 +44785,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-way-of-the-dragon-the-way-of-the-dragon-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Way of the Dragon",
  "title": "The Way of the Dragon (Diorama)",
  "images": [
@@ -44808,7 +44808,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-way-of-the-dragon-bruce-lee",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Way of the Dragon",
  "title": "Bruce Lee",
  "images": [
@@ -44832,7 +44832,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-way-of-the-dragon-chuck-norris",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Way of the Dragon",
  "title": "Chuck Norris",
  "images": [
@@ -44855,7 +44855,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama-lite-version",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Lord of the Rings",
  "title": "Legolas Vs Troll (Lite Version) (Diorama)",
  "images": [
@@ -44878,7 +44878,7 @@ const MODELS = [
 },
  {
  "id": "wicked-cyclops-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Cyclops",
  "images": [
@@ -44899,7 +44899,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-jean",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Jean",
  "images": [
@@ -44920,7 +44920,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-cyclops-and-jean-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Cyclops and Jean (Diorama)",
  "images": [
@@ -44944,7 +44944,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thor-the-mighty-thor",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Thor",
  "title": "The Mighty Thor",
  "images": [
@@ -44967,7 +44967,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-captain-america-winter-soldier",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Captain America Winter Soldier",
  "images": [
@@ -44990,7 +44990,7 @@ const MODELS = [
 },
  {
  "id": "wicked-metroid-metroid-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Metroid",
  "title": "Metroid (Diorama)",
  "images": [
@@ -45012,7 +45012,7 @@ const MODELS = [
 },
  {
  "id": "wicked-metroid-samus",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Metroid",
  "title": "Samus",
  "images": [
@@ -45036,7 +45036,7 @@ const MODELS = [
 },
  {
  "id": "wicked-metroid-samus-varia-suit",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Metroid",
  "title": "Samus Varia Suit",
  "images": [
@@ -45058,7 +45058,7 @@ const MODELS = [
 },
  {
  "id": "wicked-metroid-chozo",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Metroid",
  "title": "Chozo",
  "images": [
@@ -45079,7 +45079,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-karate-kid-karate-kid-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Karate Kid",
  "title": "Karate Kid (Diorama)",
  "images": [
@@ -45100,7 +45100,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-karate-kid-larusso",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Karate Kid",
  "title": "Larusso",
  "images": [
@@ -45124,7 +45124,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-karate-kid-miyagi",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Karate Kid",
  "title": "Miyagi",
  "images": [
@@ -45148,7 +45148,7 @@ const MODELS = [
 },
  {
  "id": "wicked-jurassic-park-jurassic-park-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Jurassic Park",
  "title": "Jurassic Park (Diorama)",
  "images": [
@@ -45172,7 +45172,7 @@ const MODELS = [
 },
  {
  "id": "wicked-jurassic-park-alan-grant",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Jurassic Park",
  "title": "Alan Grant",
  "images": [
@@ -45196,7 +45196,7 @@ const MODELS = [
 },
  {
  "id": "wicked-tomb-raider-t-rex-2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Tomb Raider",
  "title": "T-Rex",
  "images": [
@@ -45220,7 +45220,7 @@ const MODELS = [
 },
  {
  "id": "wicked-gears-of-war-gears-of-wars-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Gears of War",
  "title": "Gears of Wars (Diorama)",
  "images": [
@@ -45242,7 +45242,7 @@ const MODELS = [
 },
  {
  "id": "wicked-gears-of-war-dominic-santiago",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Gears of War",
  "title": "Dominic Santiago",
  "images": [
@@ -45266,7 +45266,7 @@ const MODELS = [
 },
  {
  "id": "wicked-gears-of-war-marcus-fenix",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Gears of War",
  "title": "Marcus Fenix",
  "images": [
@@ -45290,7 +45290,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-black-panther-and-storm-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Black Panther and Storm (Diorama)",
  "images": [
@@ -45313,7 +45313,7 @@ const MODELS = [
 },
  {
  "id": "wicked-black-panther-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Black Panther",
  "title": "Black Panther",
  "images": [
@@ -45335,7 +45335,7 @@ const MODELS = [
 },
  {
  "id": "wicked-storm-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Storm",
  "images": [
@@ -45359,7 +45359,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Daredevil",
  "images": [
@@ -45383,7 +45383,7 @@ const MODELS = [
 },
  {
  "id": "wicked-conan-the-barbarian-conan-the-barbarian",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Conan the Barbarian",
  "title": "Conan The Barbarian",
  "images": [
@@ -45407,7 +45407,7 @@ const MODELS = [
 },
  {
  "id": "wicked-stranger-things-stranger-things-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Stranger Things",
  "title": "Stranger Things (Diorama)",
  "images": [
@@ -45431,7 +45431,7 @@ const MODELS = [
 },
  {
  "id": "wicked-stranger-things-eleven",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Stranger Things",
  "title": "Eleven",
  "images": [
@@ -45455,7 +45455,7 @@ const MODELS = [
 },
  {
  "id": "wicked-stranger-things-vecna",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Stranger Things",
  "title": "Vecna",
  "images": [
@@ -45479,7 +45479,7 @@ const MODELS = [
 },
  {
  "id": "wicked-warcraft-warcraft-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Warcraft",
  "title": "Warcraft (Diorama)",
  "images": [
@@ -45503,7 +45503,7 @@ const MODELS = [
 },
  {
  "id": "wicked-warcraft-arthas",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Warcraft",
  "title": "Arthas",
  "images": [
@@ -45527,7 +45527,7 @@ const MODELS = [
 },
  {
  "id": "wicked-warcraft-thrall",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Warcraft",
  "title": "Thrall",
  "images": [
@@ -45550,7 +45550,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-caleb",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Ghost Rider Caleb",
  "images": [
@@ -45574,7 +45574,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-billy",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Ghost Rider Billy",
  "images": [
@@ -45598,7 +45598,7 @@ const MODELS = [
 },
  {
  "id": "wicked-daredevil-punisher-born-again",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Daredevil",
  "title": "Punisher Born Again",
  "images": [
@@ -45622,7 +45622,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-lady-deathstrike",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Lady Deathstrike",
  "images": [
@@ -45646,7 +45646,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-last-of-us-last-of-us-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Last of Us",
  "title": "Last of Us (Diorama)",
  "images": [
@@ -45669,7 +45669,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-last-of-us-joel",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Last of Us",
  "title": "Joel",
  "images": [
@@ -45693,7 +45693,7 @@ const MODELS = [
 },
  {
  "id": "wicked-the-last-of-us-ellie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "The Last of Us",
  "title": "Ellie",
  "images": [
@@ -45717,7 +45717,7 @@ const MODELS = [
 },
  {
  "id": "wicked-pacific-rim-pacific-rim-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Pacific Rim",
  "title": "Pacific Rim (Diorama)",
  "images": [
@@ -45741,7 +45741,7 @@ const MODELS = [
 },
  {
  "id": "wicked-pacific-rim-gipsy-danger",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Pacific Rim",
  "title": "Gipsy Danger",
  "images": [
@@ -45762,7 +45762,7 @@ const MODELS = [
 },
  {
  "id": "wicked-pacific-rim-leatherback",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Pacific Rim",
  "title": "Leatherback",
  "images": [
@@ -45786,7 +45786,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-caleb-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Ghost Rider Caleb (Diorama)",
  "images": [
@@ -45810,7 +45810,7 @@ const MODELS = [
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-billy-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Ghost Rider",
  "title": "Ghost Rider Billy (Diorama)",
  "images": [
@@ -45832,7 +45832,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-the-last-hunt-spiderman-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "The Last Hunt Spiderman (Diorama)",
  "images": [
@@ -45856,7 +45856,7 @@ const MODELS = [
 },
  {
  "id": "wicked-spider-man-spiderman",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Spiderman",
  "images": [
@@ -45880,7 +45880,7 @@ const MODELS = [
 },
  {
  "id": "wicked-kraven-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Spider-Man",
  "title": "Kraven",
  "images": [
@@ -45904,7 +45904,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-quick-silver",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Quick Silver",
  "images": [
@@ -45928,7 +45928,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-baron",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Baron",
  "images": [
@@ -45952,7 +45952,7 @@ const MODELS = [
 },
  {
  "id": "wicked-thanos-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers (Infinity Saga)",
  "title": "Thanos",
  "images": [
@@ -45976,7 +45976,7 @@ const MODELS = [
 },
  {
  "id": "wicked-omega-red-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Omega Red",
  "images": [
@@ -46000,7 +46000,7 @@ const MODELS = [
 },
  {
  "id": "wicked-red-sonja-red-sonja",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Red Sonja",
  "title": "Red Sonja",
  "images": [
@@ -46024,7 +46024,7 @@ const MODELS = [
 },
  {
  "id": "wicked-magneto-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Magneto",
  "images": [
@@ -46048,7 +46048,7 @@ const MODELS = [
 },
  {
  "id": "wicked-lone-wolf-mcquade-lone-wolf-mcquade-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Lone Wolf McQuade",
  "title": "Lone Wolf McQuade (Diorama)",
  "images": [
@@ -46072,7 +46072,7 @@ const MODELS = [
 },
  {
  "id": "wicked-lone-wolf-mcquade-chuck-norris-lone-wolf",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Lone Wolf McQuade",
  "title": "Chuck Norris Lone Wolf",
  "images": [
@@ -46096,7 +46096,7 @@ const MODELS = [
 },
  {
  "id": "wicked-lone-wolf-mcquade-rawley-wilke",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Lone Wolf McQuade",
  "title": "Rawley Wilke",
  "images": [
@@ -46119,7 +46119,7 @@ const MODELS = [
 },
  {
  "id": "wicked-assassin-s-creed-assassin-s-creed-1-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Assassin's Creed",
  "title": "Assassin’s Creed 1 (Diorama)",
  "images": [
@@ -46143,7 +46143,7 @@ const MODELS = [
 },
  {
  "id": "wicked-assassin-s-creed-altair",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Assassin's Creed",
  "title": "Altair",
  "images": [
@@ -46167,7 +46167,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-rogue-and-gambit-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Rogue and Gambit (Diorama)",
  "images": [
@@ -46191,7 +46191,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rogue-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Rogue",
  "images": [
@@ -46215,7 +46215,7 @@ const MODELS = [
 },
  {
  "id": "wicked-gambit-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Gambit",
  "images": [
@@ -46238,7 +46238,7 @@ const MODELS = [
 },
  {
  "id": "wicked-avengers-clint-barton-ronin",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Avengers",
  "title": "Clint Barton Ronin",
  "images": [
@@ -46261,7 +46261,7 @@ const MODELS = [
 },
  {
  "id": "wicked-diablo-diablo-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Diablo",
  "title": "Diablo (Diorama)",
  "images": [
@@ -46284,7 +46284,7 @@ const MODELS = [
 },
  {
  "id": "wicked-diablo-diablo",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Diablo",
  "title": "Diablo",
  "images": [
@@ -46308,7 +46308,7 @@ const MODELS = [
 },
  {
  "id": "wicked-diablo-tyrael",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Diablo",
  "title": "Tyrael",
  "images": [
@@ -46331,7 +46331,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fight-club-fight-club-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fight Club",
  "title": "Fight Club (Diorama)",
  "images": [
@@ -46353,7 +46353,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fight-club-tyler",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fight Club",
  "title": "Tyler",
  "images": [
@@ -46376,7 +46376,7 @@ const MODELS = [
 },
  {
  "id": "wicked-fight-club-edward-norton",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Fight Club",
  "title": "Edward Norton",
  "images": [
@@ -46399,7 +46399,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-tranformers-bumbublee-and-starscream-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "Tranformers Bumbublee and Starscream (Diorama)",
  "images": [
@@ -46421,7 +46421,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-bumbublee",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "Bumbublee",
  "images": [
@@ -46445,7 +46445,7 @@ const MODELS = [
 },
  {
  "id": "wicked-transformers-starscream",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Transformers",
  "title": "Starscream",
  "images": [
@@ -46468,7 +46468,7 @@ const MODELS = [
 },
  {
  "id": "wicked-mystique-v2",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Mystique",
  "images": [
@@ -46492,7 +46492,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-other-squirrel",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Comics",
  "title": "Squirrel",
  "images": [
@@ -46515,7 +46515,7 @@ const MODELS = [
 },
  {
  "id": "wicked-punch-out-punch-out-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Punch-Out!!",
  "title": "Punch Out (Diorama)",
  "images": [
@@ -46537,7 +46537,7 @@ const MODELS = [
 },
  {
  "id": "wicked-punch-out-mike-tyson",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Punch-Out!!",
  "title": "Mike Tyson",
  "images": [
@@ -46559,7 +46559,7 @@ const MODELS = [
 },
  {
  "id": "wicked-punch-out-little-mac",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Punch-Out!!",
  "title": "Little Mac",
  "images": [
@@ -46579,7 +46579,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-wolverine-pack-weapon-x",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Wolverine Pack - Weapon X",
  "images": [
@@ -46603,7 +46603,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-wolverine-pack-wolverine-and-sabretooth-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Wolverine Pack - Wolverine and Sabretooth (Diorama)",
  "images": [
@@ -46623,7 +46623,7 @@ const MODELS = [
 },
  {
  "id": "wicked-x-men-wolverine-pack-weapon-x-vs-predator-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "X-Men",
  "title": "Wolverine Pack - Weapon X VS Predator (Diorama)",
  "images": [
@@ -46643,7 +46643,7 @@ const MODELS = [
 },
  {
  "id": "wicked-marvel-zombies-wolverine-pack-wolverine-zombie",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Marvel Zombies",
  "title": "Wolverine Pack - Wolverine Zombie",
  "images": [
@@ -46665,7 +46665,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rambo-rambo-first-blood-diorama",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Rambo",
  "title": "Rambo First Blood (Diorama)",
  "images": [
@@ -46689,7 +46689,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rambo-john-rambo",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Rambo",
  "title": "John Rambo",
  "images": [
@@ -46713,7 +46713,7 @@ const MODELS = [
 },
  {
  "id": "wicked-rambo-sheriff",
- "artist": "Wicked 3D",
+ "artist": "3D Wicked",
  "series": "Rambo",
  "title": "Sheriff",
  "images": [
