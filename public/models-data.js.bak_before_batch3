@@ -1959,7 +1959,7 @@ const MODELS = [
   "id": "abe-batwoman-bombshell",
   "artist": "Abe3D",
   "series": "Batman",
-  "title": "Batwoman [Bombshell ver]",
+  "title": "Batwoman Bombshell",
   "images": [
    "images/abe3d/batman/batwoman-bombshell/abe-batwoman-bombshell-1.jpg",
    "images/abe3d/batman/batwoman-bombshell/abe-batwoman-bombshell-2.jpg",
@@ -2745,7 +2745,7 @@ const MODELS = [
   "id": "abe-ariel-mermaid",
   "artist": "Abe3D",
   "series": "Disney's The Little Mermaid",
-  "title": "Ariel",
+  "title": "Ariel - The Little Mermaid",
   "images": [
    "images/abe3d/disney/ariel-mermaid/abe-ariel-mermaid-1.jpg",
    "images/abe3d/disney/ariel-mermaid/abe-ariel-mermaid-2.jpg",
@@ -2841,7 +2841,7 @@ const MODELS = [
   "id": "abe-aerith",
   "artist": "Abe3D",
   "series": "Final Fantasy VII",
-  "title": "Aerith Gainsborough",
+  "title": "Aerith",
   "images": [
    "images/abe3d/final-fantasy-vii/aerith/abe-aerith-1.jpg",
    "images/abe3d/final-fantasy-vii/aerith/abe-aerith-2.jpg",
@@ -3095,7 +3095,7 @@ const MODELS = [
   "id": "abe-atom-eve",
   "artist": "Abe3D",
   "series": "Invincible",
-  "title": "Atom Eve",
+  "title": "Atom Eve by Jungles",
   "images": [
    "images/abe3d/invincible/atom-eve/abe-atom-eve-1.jpg",
    "images/abe3d/invincible/atom-eve/abe-atom-eve-2.jpg",
@@ -5395,7 +5395,7 @@ const MODELS = [
   "id": "abe-asuka",
   "artist": "Abe3D",
   "series": "Neon Genesis Evangelion",
-  "title": "Asuka Langley Soryu",
+  "title": "Asuka",
   "images": [
    "images/abe3d/neon-genesis-evangelion/asuka/abe-asuka-1.jpg"
   ],
@@ -11654,7 +11654,7 @@ const MODELS = [
   "id": "moonn-tifa",
   "artist": "3Dmoonn",
   "series": "Final Fantasy VII",
-  "title": "Tifa Lockhart",
+  "title": "Tifa",
   "images": [
    "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-1.jpg",
    "images/3dmoonn/final-fantasy-vii/tifa/moonn-tifa-2.jpg",
@@ -18992,7 +18992,7 @@ const MODELS = [
   "id": "tanuki-anya-chibi",
   "artist": "Tanuki Figures",
   "series": "Spy x Family",
-  "title": "Anya Forger (Chibi)",
+  "title": "Anya (Chibi)",
   "images": [
    "images/tanuki-figures/spy-x-family/anya-chibi/anya-chibi-1.jpg",
    "images/tanuki-figures/spy-x-family/anya-chibi/anya-chibi-2.jpg",
@@ -19037,7 +19037,7 @@ const MODELS = [
   "id": "tanuki-tifa",
   "artist": "Tanuki Figures",
   "series": "Final Fantasy VII",
-  "title": "Tifa Lockhart",
+  "title": "Tifa",
   "images": [
    "images/tanuki-figures/final-fantasy-vii/tifa/tifa-1.jpg",
    "images/tanuki-figures/final-fantasy-vii/tifa/tifa-2.jpg",
@@ -21121,7 +21121,7 @@ const MODELS = [
   "id": "ca3d-anakin",
   "artist": "CA3D Studios",
   "series": "Star Wars",
-  "title": "Anakin Skywalker",
+  "title": "Anakin",
   "images": [
    "images/ca3d/star-wars/anakin/anakin-1.jpg",
    "images/ca3d/star-wars/anakin/anakin-2.jpg",
@@ -27446,7 +27446,7 @@ const MODELS = [
   "id": "ca3d-tifa",
   "artist": "CA3D Studios",
   "series": "Final Fantasy VII",
-  "title": "Tifa Lockhart",
+  "title": "Tifa",
   "images": [
    "images/ca3d/final-fantasy-vii/tifa/tifa-1.jpg",
    "images/ca3d/final-fantasy-vii/tifa/tifa-2.jpg",
@@ -28565,21 +28565,35 @@ const MODELS = [
  "description": "Original resin sculpt of Yoruichi Shihoin from Bleach."
 },
  {
- "id": "esm-black-cat-v1",
+ "id": "esm-black-cat-black-cat-woman",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Black Cat",
+ "title": "Black Cat (Black Cat Woman)",
  "images": [
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-1.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-2.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-3.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-4.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-5.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-6.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-7.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-8.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-9.jpg",
-  "images/esmonster/spider-man/black-cat-v1/black-cat-v1-10.jpg"
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-1.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-2.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-3.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-4.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-5.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-6.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-7.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-8.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-9.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-10.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-11.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-12.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-13.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-14.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-15.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-16.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-17.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-18.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-19.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-20.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-21.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-22.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-23.jpg",
+  "images/esmonster/spider-man/black-cat-black-cat-woman/black-cat-black-cat-woman-24.jpg"
  ],
  "scaleOptions": [
   {
@@ -28591,17 +28605,20 @@ const MODELS = [
  "description": "Original resin sculpt of Black Cat from Spider-Man."
 },
  {
- "id": "esm-black-cat-v2",
+ "id": "esm-black-cat-cat-burglar-of-the-night",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Black Cat
+ "title": "Black Cat (Cat Burglar of the Night)",
  "images": [
-  "images/esmonster/spider-man/black-cat-v2/black-cat-v2-1.jpg",
-  "images/esmonster/spider-man/black-cat-v2/black-cat-v2-2.jpg",
-  "images/esmonster/spider-man/black-cat-v2/black-cat-v2-3.jpg",
-  "images/esmonster/spider-man/black-cat-v2/black-cat-v2-4.jpg",
-  "images/esmonster/spider-man/black-cat-v2/black-cat-v2-5.jpg",
-  "images/esmonster/spider-man/black-cat-v2/black-cat-v2-6.jpg"
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-1.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-2.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-3.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-4.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-5.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-6.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-7.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-8.jpg",
+  "images/esmonster/spider-man/black-cat-cat-burglar-of-the-night/black-cat-cat-burglar-of-the-night-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -29203,7 +29220,7 @@ const MODELS = [
  "id": "esm-ada-wong-v3",
  "artist": "ESMonster",
  "series": "Resident Evil 4",
- "title": "Ada Wong",
+ "title": "Ada Wong (Female Agent)",
  "images": [
   "images/esmonster/resident-evil-4/ada-wong-v3/ada-wong-v3-1.jpg",
   "images/esmonster/resident-evil-4/ada-wong-v3/ada-wong-v3-2.jpg",
@@ -30186,7 +30203,7 @@ const MODELS = [
  "id": "esm-albedo-armored-v1",
  "artist": "ESMonster",
  "series": "Overlord",
- "title": "Albedo",
+ "title": "Albedo [Armored v1]",
  "images": [
   "images/esmonster/overlord/albedo-armored/albedo-armored-1.jpg",
   "images/esmonster/overlord/albedo-armored/albedo-armored-2.jpg",
@@ -30948,7 +30965,7 @@ const MODELS = [
  "id": "esm-batgirl",
  "artist": "ESMonster",
  "series": "Batman",
- "title": "Batgirl",
+ "title": "Batgirl | Barbara Gordon",
  "images": [
   "images/esmonster/batman/batgirl/batgirl-01.jpg",
   "images/esmonster/batman/batgirl/batgirl-02.jpg",
@@ -31899,7 +31916,7 @@ const MODELS = [
  "id": "esm-akuma-master-of-the-ultimate-fist",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Akuma",
+ "title": "Akuma (Master of the Ultimate Fist)",
  "images": [
   "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-1.jpg",
   "images/esmonster/street-fighter/akuma-master-of-the-ultimate-fist/akuma-master-of-the-ultimate-fist-2.jpg",
@@ -31926,7 +31943,7 @@ const MODELS = [
  "id": "esm-akuma-red-ogre-fighter",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Akuma",
+ "title": "Akuma (Red Ogre Fighter)",
  "images": [
   "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-1.jpg",
   "images/esmonster/street-fighter/akuma-red-ogre-fighter/akuma-red-ogre-fighter-2.jpg",
@@ -34719,7 +34736,7 @@ const MODELS = [
  "id": "wicked-avengers-avengers-captain-america-3d",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Captain America",
+ "title": "Avengers Captain America 3d",
  "images": [
   "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-1.jpg",
   "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-3.jpg",
@@ -34741,7 +34758,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Iron Patriot + Rocket Base (Diorama) [Avengers Endgame]",
+ "title": "Avengers Endgame: Iron Patriot + Rocket Base (Diorama)",
  "images": [
   "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-1.jpg",
   "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-2.jpg",
@@ -34765,7 +34782,7 @@ const MODELS = [
  "id": "wicked-avengers-avengers-endgame-iron-patriot-sculpture-stls-ready-for-print",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Iron Patriot [Avengers Endgame]",
+ "title": "Avengers Endgame: Iron Patriot",
  "images": [
   "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-1.jpg",
   "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-2.jpg",
@@ -34789,7 +34806,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Rocket Racoon [Avengers Endgame]",
+ "title": "Avengers Endgame: Rocket Racoon",
  "images": [
   "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-1.jpg",
   "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-2.jpg",
@@ -35020,7 +35037,7 @@ const MODELS = [
  "id": "wicked-avengers-avengers-rescue-pepper-potts-3d",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Rescue | Pepper Potts [Avengers Endgame]",
+ "title": "Avengers Rescue: Pepper Potts 3d",
  "images": [
   "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-1.jpg",
   "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-2.jpg",
@@ -35089,7 +35106,7 @@ const MODELS = [
  "id": "wicked-avengers-avengers-iron-man-3d",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Iron Man",
+ "title": "Avengers Iron man 3d",
  "images": [
   "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-1.jpg",
   "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-2.jpg",
@@ -35613,17 +35630,17 @@ const MODELS = [
  {
  "id": "wicked-bishop-v2",
  "artist": "Wicked 3D",
- "series": "Aliens",
+ "series": "X-Men",
  "title": "Bishop",
  "images": [
-  "images/wicked/aliens/bishop-v2/bishop-v2-1.jpg",
-  "images/wicked/aliens/bishop-v2/bishop-v2-2.jpg",
-  "images/wicked/aliens/bishop-v2/bishop-v2-3.jpg",
-  "images/wicked/aliens/bishop-v2/bishop-v2-4.jpg",
-  "images/wicked/aliens/bishop-v2/bishop-v2-5.jpg",
-  "images/wicked/aliens/bishop-v2/bishop-v2-6.jpg",
-  "images/wicked/aliens/bishop-v2/bishop-v2-7.jpg",
-  "images/wicked/aliens/bishop-v2/bishop-v2-8.jpg"
+  "images/wicked/x-men/bishop-v2/bishop-v2-1.jpg",
+  "images/wicked/x-men/bishop-v2/bishop-v2-2.jpg",
+  "images/wicked/x-men/bishop-v2/bishop-v2-3.jpg",
+  "images/wicked/x-men/bishop-v2/bishop-v2-4.jpg",
+  "images/wicked/x-men/bishop-v2/bishop-v2-5.jpg",
+  "images/wicked/x-men/bishop-v2/bishop-v2-6.jpg",
+  "images/wicked/x-men/bishop-v2/bishop-v2-7.jpg",
+  "images/wicked/x-men/bishop-v2/bishop-v2-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -35632,7 +35649,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of the android Bishop from Aliens."
+ "description": "Original resin sculpt of Bishop from X-Men."
 },
  {
  "id": "wicked-aliens-alien-warrior",
@@ -37920,7 +37937,7 @@ const MODELS = [
  "id": "wicked-fantastic-four-4f-diorama",
  "artist": "Wicked 3D",
  "series": "Fantastic Four",
- "title": "Fantastic 4 (Diorama)",
+ "title": "4F (Diorama)",
  "images": [
   "images/wicked/fantastic-four/4f-diorama/4f-diorama-1.jpg",
   "images/wicked/fantastic-four/4f-diorama/4f-diorama-2.jpg",
@@ -39530,7 +39547,7 @@ const MODELS = [
  "id": "wicked-daredevil-marvel-netflix-daredevil-sculpture-stls-ready-for-printing",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Daredevil [Netflix]",
+ "title": ": Netflix Daredevil",
  "images": [
   "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-1.jpg",
   "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-2.jpg",
@@ -39577,7 +39594,7 @@ const MODELS = [
  "id": "wicked-daredevil-marvel-netflix-punisher-sculpture-stls-ready-for-printing",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Punisher [Netflix]",
+ "title": ": Netflix Punisher",
  "images": [
   "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-1.jpg",
   "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-2.jpg",
@@ -42305,7 +42322,7 @@ const MODELS = [
  "id": "wicked-evil-dead-ash",
  "artist": "Wicked 3D",
  "series": "Evil Dead",
- "title": "Ash Williams",
+ "title": "Ash",
  "images": [
   "images/wicked/evil-dead/ash/ash-1.jpg",
   "images/wicked/evil-dead/ash/ash-2.jpg",
@@ -45140,7 +45157,7 @@ const MODELS = [
  "id": "wicked-jurassic-park-alan-grant",
  "artist": "Wicked 3D",
  "series": "Jurassic Park",
- "title": "Dr. Alan Grant",
+ "title": "Alan Grant",
  "images": [
   "images/wicked/jurassic-park/alan-grant/alan-grant-1.jpg",
   "images/wicked/jurassic-park/alan-grant/alan-grant-2.jpg",
@@ -45896,7 +45913,7 @@ const MODELS = [
  "id": "wicked-avengers-baron",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Baron Zemo",
+ "title": "Baron",
  "images": [
   "images/wicked/avengers/baron/baron-1.jpg",
   "images/wicked/avengers/baron/baron-2.jpg",
