@@ -6951,7 +6951,7 @@ const MODELS = [
   "id": "abe-princess-zelda",
   "artist": "Abe3D",
   "series": "The Legend of Zelda",
-  "title": "Zelda [BotW]",
+  "title": "Princess Zelda",
   "images": [
    "images/abe3d/the-legend-of-zelda/princess-zelda/abe-princess-zelda-1.jpg",
    "images/abe3d/the-legend-of-zelda/princess-zelda/abe-princess-zelda-2.jpg",
@@ -10768,7 +10768,7 @@ const MODELS = [
   "id": "moonn-midna",
   "artist": "3Dmoonn",
   "series": "The Legend of Zelda",
-  "title": "Midna [TP]",
+  "title": "Midna",
   "images": [
    "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-1.jpg",
    "images/3dmoonn/the-legend-of-zelda/midna/moonn-midna-2.jpg",
@@ -11094,7 +11094,7 @@ const MODELS = [
   "id": "moonn-purah",
   "artist": "3Dmoonn",
   "series": "The Legend of Zelda",
-  "title": "Purah [TotK]",
+  "title": "Purah",
   "images": [
    "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-1.jpg",
    "images/3dmoonn/the-legend-of-zelda/purah/moonn-purah-2.jpg",
@@ -16105,7 +16105,7 @@ const MODELS = [
   "id": "bulka-link",
   "artist": "Bulkamancer Sculpts",
   "series": "The Legend of Zelda",
-  "title": "Link [BotW]",
+  "title": "Link",
   "images": [
    "images/bulkamancer/the-legend-of-zelda/link/bulka-link-1.jpg",
    "images/bulkamancer/the-legend-of-zelda/link/bulka-link-2.jpg",
@@ -16130,7 +16130,7 @@ const MODELS = [
   "id": "bulka-zelda-breath-of-the-wild",
   "artist": "Bulkamancer Sculpts",
   "series": "The Legend of Zelda",
-  "title": "Zelda [BotW]",
+  "title": "Zelda (Breath of the Wild)",
   "images": [
    "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-1.jpg",
    "images/bulkamancer/the-legend-of-zelda/zelda-breath-of-the-wild/bulka-zelda-breath-of-the-wild-2.jpg",
@@ -16157,7 +16157,7 @@ const MODELS = [
   "id": "bulka-zelda-tears-of-the-kingdom",
   "artist": "Bulkamancer Sculpts",
   "series": "The Legend of Zelda",
-  "title": "Zelda [TotK]",
+  "title": "Zelda (Tears of the Kingdom)",
   "images": [
    "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-1.jpg",
    "images/bulkamancer/the-legend-of-zelda/zelda-tears-of-the-kingdom/bulka-zelda-tears-of-the-kingdom-2.jpg",
@@ -34709,7 +34709,7 @@ const MODELS = [
  "id": "b3d-adult-link",
  "artist": "Bionic3d",
  "series": "The Legend of Zelda",
- "title": "Link [OoT]",
+ "title": "Adult Link [OoT]",
  "images": [
   "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-1.jpg",
   "images/bionic3d/the-legend-of-zelda/oot-adult-link/b3d-adult-link-2.jpg",
