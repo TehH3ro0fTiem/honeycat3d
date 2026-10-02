@@ -28594,7 +28594,7 @@ const MODELS = [
  "id": "esm-black-cat-v2",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Black Cat
+ "title": "Black Cat V2",
  "images": [
   "images/esmonster/spider-man/black-cat-v2/black-cat-v2-1.jpg",
   "images/esmonster/spider-man/black-cat-v2/black-cat-v2-2.jpg",
