@@ -2112,7 +2112,7 @@ const MODELS = [
   "id": "abe-jessica-cruz-green-lantern",
   "artist": "Abe3D",
   "series": "Green Lantern",
-  "title": "Jessica Cruz | Green Lantern",
+  "title": "Green Lantern [Jessica Cruz]",
   "images": [
    "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-1.jpg",
    "images/abe3d/green-lantern/jessica-cruz-green-lantern/abe-jessica-cruz-green-lantern-2.jpg",
@@ -2221,7 +2221,7 @@ const MODELS = [
   "id": "abe-marry-marvel-bombshell",
   "artist": "Abe3D",
   "series": "Shazam",
-  "title": "Marry Marvel Bombshell",
+  "title": "Mary Marvel Bombshell",
   "images": [
    "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-1.jpg",
    "images/abe3d/shazam/marry-marvel-bombshell/abe-marry-marvel-bombshell-2.jpg",
@@ -2394,7 +2394,7 @@ const MODELS = [
   "id": "abe-star-sapphire",
   "artist": "Abe3D",
   "series": "Green Lantern",
-  "title": "Carol Ferris | Star Sapphire",
+  "title": "Star Sapphire [Carol Ferris]",
   "images": [
    "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-1.jpg",
    "images/abe3d/green-lantern/star-sapphire/abe-star-sapphire-2.jpg",
@@ -3466,7 +3466,7 @@ const MODELS = [
   "id": "abe-dazzler",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "dazzler",
+  "title": "Dazzler",
   "images": [
    "images/abe3d/x-men/dazzler/abe-dazzler-1.jpg",
    "images/abe3d/x-men/dazzler/abe-dazzler-2.jpg",
@@ -6330,7 +6330,7 @@ const MODELS = [
   "id": "abe-twilek-hostess",
   "artist": "Abe3D",
   "series": "Star Wars",
-  "title": "Twilek Hostess",
+  "title": "Twi'lek Hostess",
   "images": [
    "images/abe3d/star-wars/twilek-hostess/abe-twilek-hostess-1.jpg",
    "images/abe3d/star-wars/twilek-hostess/abe-twilek-hostess-2.jpg",
@@ -12367,7 +12367,7 @@ const MODELS = [
   "id": "bulka-laezel",
   "artist": "Bulkamancer Sculpts",
   "series": "Baldur's Gate 3",
-  "title": "Laezel",
+  "title": "Lae'zel",
   "images": [
    "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-1.jpg",
    "images/bulkamancer/baldur-s-gate-3/laezel/bulka-laezel-2.jpg",
@@ -12390,7 +12390,7 @@ const MODELS = [
   "id": "bulka-laezel-chibi",
   "artist": "Bulkamancer Sculpts",
   "series": "Baldur's Gate 3",
-  "title": "Laezel (Chibi)",
+  "title": "Lae'zel (Chibi)",
   "images": [
    "images/bulkamancer/baldur-s-gate-3/laezel-chibi/bulka-laezel-chibi-1.jpg",
    "images/bulkamancer/baldur-s-gate-3/laezel-chibi/bulka-laezel-chibi-2.jpg",
@@ -13230,7 +13230,7 @@ const MODELS = [
   "id": "bulka-sam-bridges",
   "artist": "Bulkamancer Sculpts",
   "series": "Death Stranding",
-  "title": "Sam Porter Bridges ",
+  "title": "Sam Porter Bridges",
   "images": [
    "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-1.jpg",
    "images/bulkamancer/death-stranding/sam-bridges/bulka-sam-bridges-3.jpg",
@@ -18312,7 +18312,7 @@ const MODELS = [
   "id": "tanuki-green-lantern",
   "artist": "Tanuki Figures",
   "series": "Green Lantern",
-  "title": "John Stweart | Green Lantern",
+  "title": "Green Lantern [John Stewart]",
   "images": [
    "images/tanuki-figures/green-lantern/green-lantern/green-lantern-1.jpg",
    "images/tanuki-figures/green-lantern/green-lantern/green-lantern-2.jpg",
@@ -21259,7 +21259,7 @@ const MODELS = [
   "id": "ca3d-azashara-the-drowned-princess",
   "artist": "CA3D Studios",
   "series": "World of Warcraft",
-  "title": "Azashara The Drowned Princess",
+  "title": "Azshara the Drowned Princess",
   "images": [
    "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-1.jpg",
    "images/ca3d/world-of-warcraft/azashara-the-drowned-princess/azashara-the-drowned-princess-2.jpg",
@@ -22521,7 +22521,7 @@ const MODELS = [
   "id": "ca3d-edward-elric",
   "artist": "CA3D Studios",
   "series": "Fullmetal Alchemist",
-  "title": "EDWARD ELRIC",
+  "title": "Edward Elric",
   "images": [
    "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-1.jpg",
    "images/ca3d/fullmetal-alchemist/edward-elric/edward-elric-2.jpg",
@@ -23897,7 +23897,7 @@ const MODELS = [
   "id": "ca3d-kitty-pride",
   "artist": "CA3D Studios",
   "series": "X-Men",
-  "title": "Kitty Pride",
+  "title": "Kitty Pryde",
   "images": [
    "images/ca3d/x-men/kitty-pride/kitty-pride-1.jpg",
    "images/ca3d/x-men/kitty-pride/kitty-pride-2.jpg",
@@ -25281,7 +25281,7 @@ const MODELS = [
   "id": "ca3d-nova-starcraft",
   "artist": "CA3D Studios",
   "series": "StarCraft",
-  "title": "Nova- Starcraft",
+  "title": "Nova - StarCraft",
   "images": [
    "images/ca3d/starcraft/nova-starcraft/nova-starcraft-1.jpg",
    "images/ca3d/starcraft/nova-starcraft/nova-starcraft-2.jpg",
@@ -28088,7 +28088,7 @@ const MODELS = [
  "id": "esm-laura-croft-v1",
  "artist": "ESMonster",
  "series": "Tomb Raider",
- "title": "Laura Croft",
+ "title": "Lara Croft",
  "images": [
   "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-1.jpg",
   "images/esmonster/tomb-raider/laura-croft-v1/laura-croft-v1-2.jpg",
@@ -28141,7 +28141,7 @@ const MODELS = [
  "id": "esm-laura-croft-v3",
  "artist": "ESMonster",
  "series": "Tomb Raider",
- "title": "Laura Croft (Swimsuit v1)",
+ "title": "Lara Croft (Swimsuit v1)",
  "images": [
   "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-1.jpg",
   "images/esmonster/tomb-raider/laura-croft-v3/laura-croft-v3-2.jpg",
@@ -28683,7 +28683,7 @@ const MODELS = [
  "id": "esm-chun-li-black-haired-asian-swimsuit-girlincludes-3-versions",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Chun-Li (Black-Haired Asian Swimsuit Girlincludes 3 versions)",
+ "title": "Chun-Li (Black-Haired Asian Swimsuit Girl includes 3 versions)",
  "images": [
   "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-1.jpg",
   "images/esmonster/street-fighter/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions/chun-li-black-haired-asian-swimsuit-girlincludes-3-versions-2.jpg",
@@ -30627,7 +30627,7 @@ const MODELS = [
  "id": "esm-magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Magik | Illyana Rasputin (Fiery Soulsword Sorceress includes 2 versions)",
+ "title": "Magik [Illyana Rasputin]",
  "images": [
   "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-1.jpg",
   "images/esmonster/x-men/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions/magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions-2.jpg",
@@ -30650,7 +30650,7 @@ const MODELS = [
  "id": "esm-magik-illyana-rasputin-limbo-sword-sorceress",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Magik | Illyana Rasputin (Limbo Sword Sorceress)",
+ "title": "Magik [Illyana Rasputin]",
  "images": [
   "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-1.jpg",
   "images/esmonster/x-men/magik-illyana-rasputin-limbo-sword-sorceress/magik-illyana-rasputin-limbo-sword-sorceress-2.jpg",
@@ -30879,7 +30879,7 @@ const MODELS = [
  "id": "esm-invincible-mark-grayson",
  "artist": "ESMonster",
  "series": "Invincible",
- "title": "Invincible | Mark Grayson",
+ "title": "Invincible [Mark Grayson]",
  "images": [
   "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-1.jpg",
   "images/esmonster/invincible/invincible-mark-grayson/mark-grayson-2.jpg",
@@ -31338,7 +31338,7 @@ const MODELS = [
  "id": "esm-she-hulk",
  "artist": "ESMonster",
  "series": "Marvel Comics",
- "title": "She-Hulk | Jennifer Walters",
+ "title": "She-Hulk [Jennifer Walters]",
  "images": [
   "images/esmonster/marvel-comics/she-hulk/she-hulk-1.jpg",
   "images/esmonster/marvel-comics/she-hulk/she-hulk-2.jpg",
@@ -31622,7 +31622,7 @@ const MODELS = [
  "id": "esm-cammy-white-killer-bee-soldierp2-bikini-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Cammy White (Killer Bee SoldierP2 Bikini ver)",
+ "title": "Cammy White (Killer Bee Soldier P2 Bikini ver)",
  "images": [
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-1.jpg",
   "images/esmonster/street-fighter/cammy-white-killer-bee-soldierp2-bikini-ver/cammy-white-killer-bee-soldierp2-bikini-ver-2.jpg",
@@ -31827,7 +31827,7 @@ const MODELS = [
  "id": "esm-dagger-v1",
  "artist": "ESMonster",
  "series": "Cloak & Dagger",
- "title": "Dagger | Tandy Bowen",
+ "title": "Dagger [Tandy Bowen]",
  "images": [
   "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-01.jpg",
   "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-02.jpg",
@@ -31852,7 +31852,7 @@ const MODELS = [
  "id": "esm-dagger-v2",
  "artist": "ESMonster",
  "series": "Cloak & Dagger",
- "title": "Dagger | Tandy Bowen",
+ "title": "Dagger [Tandy Bowen]",
  "images": [
   "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-01.jpg",
   "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-02.jpg",
@@ -32044,7 +32044,7 @@ const MODELS = [
  "id": "esm-spider-man-2099-miguel-o-hara",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Spider-Man 2099 | Miguel O'Hara",
+ "title": "Spider-Man 2099 [Miguel O'Hara]",
  "images": [
   "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-1.jpg",
   "images/esmonster/spider-man/spider-man-2099-miguel-o-hara/spider-man-2099-miguel-o-hara-2.jpg",
@@ -32098,7 +32098,7 @@ const MODELS = [
  "id": "esm-x-23-laura-kinney-mutant-wolf-girl",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "X-23 | Laura Kinney (Mutant Wolf Girl)",
+ "title": "X-23 [Laura Kinney]",
  "images": [
   "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-1.jpg",
   "images/esmonster/x-men/x-23-laura-kinney-mutant-wolf-girl/x-23-laura-kinney-mutant-wolf-girl-2.jpg",
@@ -32131,7 +32131,7 @@ const MODELS = [
  "id": "esm-x-23-laura-kinney-twin-claw-assassin",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "X-23 | Laura Kinney (Twin Claw Assassin)",
+ "title": "X-23 [Laura Kinney]",
  "images": [
   "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-1.jpg",
   "images/esmonster/x-men/x-23-laura-kinney-twin-claw-assassin/x-23-laura-kinney-twin-claw-assassin-2.jpg",
@@ -32337,7 +32337,7 @@ const MODELS = [
  "id": "esm-spider-woman",
  "artist": "ESMonster",
  "series": "Marvel Comics",
- "title": "Spider-Woman | Jessica Drew",
+ "title": "Spider-Woman [Jessica Drew]",
  "images": [
   "images/esmonster/marvel-comics/spider-woman/spider-woman-1.jpg",
   "images/esmonster/marvel-comics/spider-woman/spider-woman-2.jpg",
@@ -32714,7 +32714,7 @@ const MODELS = [
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Psylocke | Betsy Braddock (Purple-Clad Woman)",
+ "title": "Psylocke [Betsy Braddock]",
  "images": [
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-1.jpg",
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman/psylocke-betsy-braddock-purple-clad-woman-2.jpg",
@@ -32742,7 +32742,7 @@ const MODELS = [
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman-202507",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Psylocke | Betsy Braddock (Purple-Clad Woman 202507)",
+ "title": "Psylocke [Betsy Braddock]",
  "images": [
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-1.jpg",
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-202507/psylocke-betsy-braddock-purple-clad-woman-202507-2.jpg",
@@ -32777,7 +32777,7 @@ const MODELS = [
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman-jpskin",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Psylocke | Betsy Braddock (Purple-Clad Woman JPSKIN)",
+ "title": "Psylocke [Betsy Braddock]",
  "images": [
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-jpskin/psylocke-betsy-braddock-purple-clad-woman-jpskin-1.jpg",
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-jpskin/psylocke-betsy-braddock-purple-clad-woman-jpskin-2.jpg",
@@ -32798,7 +32798,7 @@ const MODELS = [
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Psylocke | Betsy Braddock (Purple-Clad Woman SKIN-includes 2 versions)",
+ "title": "Psylocke [Betsy Braddock]",
  "images": [
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-1.jpg",
   "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-2.jpg",
@@ -32859,7 +32859,7 @@ const MODELS = [
  "id": "esm-psylocke-betsy-braddock-marvel-rivals-ver",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Psylocke | Betsy Braddock [Marvel Rivals ver]",
+ "title": "Psylocke [Betsy Braddock] [Marvel Rivals ver]",
  "images": [
   "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-1.jpg",
   "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-2.jpg",
@@ -33876,7 +33876,7 @@ const MODELS = [
  "id": "esm-spider-gwen-gwen-stacy-street-girl",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Spider-Gwen | Gwen Stacy (Street Girl)",
+ "title": "Spider-Gwen [Gwen Stacy]",
  "images": [
   "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-1.jpg",
   "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl/spider-gwen-gwen-stacy-street-girl-2.jpg",
@@ -33899,7 +33899,7 @@ const MODELS = [
  "id": "esm-spider-gwen-gwen-stacy-street-girl-p2",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Spider-Gwen | Gwen Stacy (Street Girl P2)",
+ "title": "Spider-Gwen [Gwen Stacy]",
  "images": [
   "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl-p2/spider-gwen-gwen-stacy-street-girl-p2-1.jpg",
   "images/esmonster/spider-man/spider-gwen-gwen-stacy-street-girl-p2/spider-gwen-gwen-stacy-street-girl-p2-2.jpg",
@@ -33920,7 +33920,7 @@ const MODELS = [
  "id": "esm-spider-man-miles-morales",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Spider-Man | Miles Morales",
+ "title": "Spider-Man [Miles Morales]",
  "images": [
   "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-1.jpg",
   "images/esmonster/spider-man/spider-man-miles-morales/spider-man-miles-morales-2.jpg",
@@ -34301,7 +34301,7 @@ const MODELS = [
  "id": "esm-sue-storm-v1",
  "artist": "ESMonster",
  "series": "Fantastic Four",
- "title": "Sue Storm | Invisible Woman [Marvel Rivals ver]",
+ "title": "Invisible Woman [Sue Storm] [Marvel Rivals ver]",
  "images": [
   "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-1.jpg",
   "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-2.jpg",
@@ -34323,7 +34323,7 @@ const MODELS = [
  "id": "esm-sue-storm-v2",
  "artist": "ESMonster",
  "series": "Fantastic Four",
- "title": "Sue Storm | Invisible Woman [Marvel Rivals ver]",
+ "title": "Invisible Woman [Sue Storm] [Marvel Rivals ver]",
  "images": [
   "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-1.jpg",
   "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-2.jpg",
@@ -34789,7 +34789,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Rocket Racoon [Avengers Endgame]",
+ "title": "Rocket Raccoon [Avengers Endgame]",
  "images": [
   "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-1.jpg",
   "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-2.jpg",
@@ -35020,7 +35020,7 @@ const MODELS = [
  "id": "wicked-avengers-avengers-rescue-pepper-potts-3d",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Rescue | Pepper Potts [Avengers Endgame]",
+ "title": "Rescue [Pepper Potts] [Avengers Endgame]",
  "images": [
   "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-1.jpg",
   "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-2.jpg",
@@ -37495,7 +37495,7 @@ const MODELS = [
  "id": "wicked-a-nightmare-on-elm-street-fredy-krueger",
  "artist": "Wicked 3D",
  "series": "A Nightmare on Elm Street",
- "title": "Fredy Krueger",
+ "title": "Freddy Krueger",
  "images": [
   "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-1.jpg",
   "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-2.jpg",
@@ -38060,7 +38060,7 @@ const MODELS = [
  "id": "wicked-fantastic-four-jhonny-storm-human-torch",
  "artist": "Wicked 3D",
  "series": "Fantastic Four",
- "title": "Jhonny Storm (Human Torch)",
+ "title": "Johnny Storm (Human Torch)",
  "images": [
   "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-1.jpg",
   "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-2.jpg",
@@ -38204,7 +38204,7 @@ const MODELS = [
  "id": "wicked-spider-man-jack-o-lantern",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Jack O Lantern",
+ "title": "Jack O'Lantern",
  "images": [
   "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-1.jpg",
   "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-2.jpg",
@@ -38658,7 +38658,7 @@ const MODELS = [
  "id": "wicked-spider-man-dr-octupus",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Dr. Octupus",
+ "title": "Dr. Octopus",
  "images": [
   "images/wicked/spider-man/dr-octupus/dr-octupus-1.jpg",
   "images/wicked/spider-man/dr-octupus/dr-octupus-2.jpg",
@@ -41996,7 +41996,7 @@ const MODELS = [
  "id": "wicked-the-grinch-grinch-jim-carry",
  "artist": "Wicked 3D",
  "series": "The Grinch",
- "title": "Grinch (Jim Carry)",
+ "title": "Grinch (Jim Carrey)",
  "images": [
   "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-1.jpg",
   "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-2.jpg",
@@ -42068,7 +42068,7 @@ const MODELS = [
  "id": "wicked-daredevil-daredevil-and-electra-diorama",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Daredevil & Electra (Diorama)",
+ "title": "Daredevil & Elektra (Diorama)",
  "images": [
   "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-1.jpg",
   "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-2.jpg",
@@ -42116,7 +42116,7 @@ const MODELS = [
  "id": "wicked-daredevil-black-heart",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Black Heart",
+ "title": "Blackheart",
  "images": [
   "images/wicked/daredevil/black-heart/black-heart-1.jpg",
   "images/wicked/daredevil/black-heart/black-heart-2.jpg",
@@ -42449,7 +42449,7 @@ const MODELS = [
  "id": "wicked-terminator-t-800",
  "artist": "Wicked 3D",
  "series": "Terminator",
- "title": "T 800",
+ "title": "T-800",
  "images": [
   "images/wicked/terminator/t-800/t-800-1.jpg",
   "images/wicked/terminator/t-800/t-800-2.jpg",
@@ -43619,7 +43619,7 @@ const MODELS = [
  "id": "wicked-marvel-other-man-thing",
  "artist": "Wicked 3D",
  "series": "Marvel Comics",
- "title": "Man Thing",
+ "title": "Man-Thing",
  "images": [
   "images/wicked/marvel-other/man-thing/man-thing-1.jpg",
   "images/wicked/marvel-other/man-thing/man-thing-2.jpg",
@@ -45021,7 +45021,7 @@ const MODELS = [
  "id": "wicked-the-karate-kid-larusso",
  "artist": "Wicked 3D",
  "series": "The Karate Kid",
- "title": "Larusso",
+ "title": "LaRusso",
  "images": [
   "images/wicked/the-karate-kid/larusso/larusso-1.jpg",
   "images/wicked/the-karate-kid/larusso/larusso-2.jpg",
@@ -45141,7 +45141,7 @@ const MODELS = [
  "id": "wicked-gears-of-war-gears-of-wars-diorama",
  "artist": "Wicked 3D",
  "series": "Gears of War",
- "title": "Gears of Wars (Diorama)",
+ "title": "Gears of War (Diorama)",
  "images": [
   "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-1.jpg",
   "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-2.jpg",
@@ -45304,7 +45304,7 @@ const MODELS = [
  "id": "wicked-conan-the-barbarian-conan-the-barbarian",
  "artist": "Wicked 3D",
  "series": "Conan the Barbarian",
- "title": "Conan The Barbarian",
+ "title": "Conan the Barbarian",
  "images": [
   "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-1.jpg",
   "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-2.jpg",
@@ -45825,7 +45825,7 @@ const MODELS = [
  "id": "wicked-avengers-quick-silver",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Quick Silver",
+ "title": "Quicksilver",
  "images": [
   "images/wicked/avengers/quick-silver/quick-silver-1.jpg",
   "images/wicked/avengers/quick-silver/quick-silver-2.jpg",
@@ -46320,7 +46320,7 @@ const MODELS = [
  "id": "wicked-transformers-tranformers-bumbublee-and-starscream-diorama",
  "artist": "Wicked 3D",
  "series": "Transformers",
- "title": "Tranformers Bumbublee & Starscream (Diorama)",
+ "title": "Transformers Bumblebee & Starscream (Diorama)",
  "images": [
   "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-1.jpg",
   "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-2.jpg",
@@ -46342,7 +46342,7 @@ const MODELS = [
  "id": "wicked-transformers-bumbublee",
  "artist": "Wicked 3D",
  "series": "Transformers",
- "title": "Bumbublee",
+ "title": "Bumblebee",
  "images": [
   "images/wicked/transformers/bumbublee/bumbublee-1.jpg",
   "images/wicked/transformers/bumbublee/bumbublee-2.jpg",
