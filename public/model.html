@@ -94,6 +94,23 @@
                 <div id="related-section"></div>
             `;
 
+            // If the visitor came from the Available Models page, act like the
+            // browser Back button so they return to the same page and filters.
+            const backLink = container.querySelector(".back-link");
+            if (backLink) {
+                backLink.addEventListener("click", e => {
+                    try {
+                        const ref = new URL(document.referrer);
+                        if (ref.origin === location.origin && ref.pathname.endsWith("models.html")) {
+                            e.preventDefault();
+                            history.back();
+                        }
+                    } catch (err) {
+                        // No usable referrer: fall back to the normal link
+                    }
+                });
+            }
+
             function getRelatedModels() {
                 const RELATED_COUNT = 4;
                 const sameSeries = MODELS.filter(m => m.id !== model.id && m.series === model.series);

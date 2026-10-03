@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css?v=2">
     <title>Available Models - HoneyCat3D</title>
 </head>
 
@@ -25,8 +25,12 @@
         </nav>
     </header>
 
-    <section class="section section-wide">
-        <h1>Available Models</h1>
+    <section class="section section-wide browse-section">
+        <div class="browse-toolbar" id="browse-toolbar">
+            <h1>Available Models</h1>
+            <p class="results-count" id="results-count"></p>
+            <div class="pagination pagination-top" id="pagination-top"></div>
+        </div>
 
         <div class="browse-layout">
             <aside class="browse-sidebar">
@@ -56,7 +60,6 @@
             </aside>
 
             <div class="browse-main">
-                <p class="results-count" id="results-count"></p>
                 <div class="grid" id="models-grid"></div>
                 <div class="pagination" id="pagination"></div>
             </div>
@@ -72,6 +75,7 @@
         const grid = document.getElementById("models-grid");
         const resultsCount = document.getElementById("results-count");
         const pagination = document.getElementById("pagination");
+        const paginationTop = document.getElementById("pagination-top");
         const searchInput = document.getElementById("search-input");
         const sortSelect = document.getElementById("sort-select");
         const artistBox = document.getElementById("artist-checkboxes");
@@ -129,6 +133,7 @@
                 resultsCount.textContent = `Showing 0 of ${MODELS.length} models`;
                 grid.innerHTML = "<p>No models match those filters.</p>";
                 pagination.innerHTML = "";
+                paginationTop.innerHTML = "";
                 return;
             }
 
@@ -152,6 +157,7 @@
         function renderPagination(totalPages) {
             if (totalPages <= 1) {
                 pagination.innerHTML = "";
+                paginationTop.innerHTML = "";
                 return;
             }
 
@@ -170,22 +176,27 @@
             buttons.push(`<button class="page-btn" data-page="next" ${currentPage === totalPages ? "disabled" : ""}>Next &raquo;</button>`);
 
             pagination.innerHTML = buttons.join("");
-
-            pagination.querySelectorAll(".page-btn").forEach(btn => {
-                btn.addEventListener("click", () => {
-                    const target = btn.dataset.page;
-                    if (target === "prev") {
-                        currentPage--;
-                    } else if (target === "next") {
-                        currentPage++;
-                    } else {
-                        currentPage = parseInt(target, 10);
-                    }
-                    renderModels();
-                    grid.scrollIntoView({ behavior: "smooth", block: "start" });
-                });
-            });
+            paginationTop.innerHTML = buttons.join("");
         }
+
+        // One click handler for both the top and bottom page buttons
+        function onPageClick(e) {
+            const btn = e.target.closest(".page-btn");
+            if (!btn || btn.disabled) return;
+            const target = btn.dataset.page;
+            if (target === "prev") {
+                currentPage--;
+            } else if (target === "next") {
+                currentPage++;
+            } else {
+                currentPage = parseInt(target, 10);
+            }
+            renderModels();
+            saveStateToUrl(true);
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        }
+        pagination.addEventListener("click", onPageClick);
+        paginationTop.addEventListener("click", onPageClick);
 
         function countBy(key) {
             const counts = {};
@@ -202,18 +213,38 @@
         buildCheckboxes(artistBox, artistCounts, "artist");
         buildCheckboxes(seriesBox, seriesCounts, "series");
 
+        // Keep page, search, sort and filters in the address bar so the
+        // browser Back button returns visitors to the same spot.
         function applyUrlFilters() {
             const params = new URLSearchParams(window.location.search);
-            const seriesParam = params.get("series");
-            const artistParam = params.get("artist");
 
-            if (seriesParam) {
-                const cb = seriesBox.querySelector(`input[value="${CSS.escape(seriesParam)}"]`);
-                if (cb) cb.checked = true;
-            }
-            if (artistParam) {
-                const cb = artistBox.querySelector(`input[value="${CSS.escape(artistParam)}"]`);
-                if (cb) cb.checked = true;
+            searchInput.value = params.get("q") || "";
+            sortSelect.value = params.get("sort") || "title-asc";
+            if (!sortSelect.value) sortSelect.value = "title-asc";
+
+            const artists = params.getAll("artist");
+            const series = params.getAll("series");
+            artistBox.querySelectorAll("input").forEach(cb => { cb.checked = artists.includes(cb.value); });
+            seriesBox.querySelectorAll("input").forEach(cb => { cb.checked = series.includes(cb.value); });
+
+            currentPage = parseInt(params.get("page"), 10) || 1;
+        }
+
+        function saveStateToUrl(newHistoryEntry) {
+            const params = new URLSearchParams();
+            const query = searchInput.value.trim();
+            if (query) params.set("q", query);
+            if (sortSelect.value !== "title-asc") params.set("sort", sortSelect.value);
+            getChecked(artistBox).forEach(v => params.append("artist", v));
+            getChecked(seriesBox).forEach(v => params.append("series", v));
+            if (currentPage > 1) params.set("page", currentPage);
+
+            const qs = params.toString();
+            const url = window.location.pathname + (qs ? "?" + qs : "");
+            if (newHistoryEntry) {
+                history.pushState(null, "", url);
+            } else {
+                history.replaceState(null, "", url);
             }
         }
 
@@ -222,6 +253,7 @@
         function resetToFirstPage() {
             currentPage = 1;
             renderModels();
+            saveStateToUrl(false);
         }
 
         searchInput.addEventListener("input", resetToFirstPage);
@@ -229,7 +261,23 @@
         artistBox.addEventListener("change", resetToFirstPage);
         seriesBox.addEventListener("change", resetToFirstPage);
 
+        // Browser Back/Forward between result pages
+        window.addEventListener("popstate", () => {
+            applyUrlFilters();
+            renderModels();
+            window.scrollTo({ top: 0 });
+        });
+
+        // Measure the sticky header and toolbar so the sidebar sits right below them
+        function measureStickyBars() {
+            const root = document.documentElement;
+            root.style.setProperty("--header-h", document.querySelector("header").offsetHeight + "px");
+            root.style.setProperty("--toolbar-h", document.getElementById("browse-toolbar").offsetHeight + "px");
+        }
+        window.addEventListener("resize", measureStickyBars);
+
         renderModels();
+        measureStickyBars();
     </script>
 
 </body>
