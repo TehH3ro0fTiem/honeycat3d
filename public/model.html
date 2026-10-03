@@ -33,7 +33,7 @@
         © HoneyCat3D • Premium Resin Collectibles
     </div>
 
-    <script src="models-data.js?v=38"></script>
+    <script src="models-data.js?v=39"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
         const modelId = params.get("id");
@@ -83,7 +83,7 @@
                         </div>
 
                         <div id="etsy-link-wrap"></div>
-                        <a class="btn btn-secondary" href="contact.html">Interested in a Custom Order? Contact Us</a>
+                        <a class="btn btn-secondary" href="contact.html?model=${encodeURIComponent(model.title + ' by ' + model.artist)}&id=${encodeURIComponent(model.id)}">Interested in a Custom Order? Contact Us</a>
                     </div>
                 </div>
 

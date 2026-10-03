@@ -13041,7 +13041,7 @@ const MODELS = [
   "id": "bulka-lucy-and-david",
   "artist": "Bulkamancer Sculpts",
   "series": "Cyberpunk: Edgerunners",
-  "title": "Lucy and David",
+  "title": "Lucy & David",
   "images": [
    "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-1.jpg",
    "images/bulkamancer/cyberpunk-edgerunners/lucy-and-david/bulka-lucy-and-david-2.jpg",
@@ -13488,7 +13488,7 @@ const MODELS = [
   "id": "bulka-melina-and-torrent",
   "artist": "Bulkamancer Sculpts",
   "series": "Elden Ring",
-  "title": "Melina and Torrent",
+  "title": "Melina & Torrent",
   "images": [
    "images/bulkamancer/elden-ring/melina-and-torrent/bulka-melina-and-torrent-1.jpg",
    "images/bulkamancer/elden-ring/melina-and-torrent/bulka-melina-and-torrent-2.jpg",
@@ -15016,7 +15016,7 @@ const MODELS = [
   "id": "bulka-fubuki-and-tatsumaki",
   "artist": "Bulkamancer Sculpts",
   "series": "One Punch Man",
-  "title": "Fubuki and Tatsumaki",
+  "title": "Fubuki & Tatsumaki",
   "images": [
    "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-1.jpg",
    "images/bulkamancer/one-punch-man/fubuki-and-tatsumaki/bulka-fubuki-and-tatsumaki-2.jpg",
@@ -15534,7 +15534,7 @@ const MODELS = [
   "id": "bulka-san-and-moro",
   "artist": "Bulkamancer Sculpts",
   "series": "Princess Mononoke",
-  "title": "San and Moro",
+  "title": "San & Moro",
   "images": [
    "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-1.jpg",
    "images/bulkamancer/princess-mononoke/san-and-moro/bulka-san-and-moro-2.jpg",
@@ -16442,7 +16442,7 @@ const MODELS = [
   "id": "bulka-morticia-and-wednesday",
   "artist": "Bulkamancer Sculpts",
   "series": "Wednesday",
-  "title": "Morticia and Wednesday",
+  "title": "Morticia & Wednesday",
   "images": [
    "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-1.jpg",
    "images/bulkamancer/wednesday/morticia-and-wednesday/bulka-morticia-and-wednesday-2.jpg",
@@ -17010,7 +17010,7 @@ const MODELS = [
   "id": "tanuki-goku-and-bulma",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball",
-  "title": "Goku and Bulma - Diorama",
+  "title": "Goku & Bulma - Diorama",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-and-bulma/goku-and-bulma-1.jpg",
    "images/tanuki-figures/dragon-ball/goku-and-bulma/goku-and-bulma-2.jpg"
@@ -21455,7 +21455,7 @@ const MODELS = [
   "id": "ca3d-big-daddy-and-little-sister",
   "artist": "CA3D Studios",
   "series": "BioShock",
-  "title": "Big Daddy and Little Sister",
+  "title": "Big Daddy & Little Sister",
   "images": [
    "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-1.jpg",
    "images/ca3d/bioshock/big-daddy-and-little-sister/big-daddy-and-little-sister-2.jpg",
@@ -21889,7 +21889,7 @@ const MODELS = [
   "id": "ca3d-cloak-and-dagger",
   "artist": "CA3D Studios",
   "series": "Cloak & Dagger",
-  "title": "Cloak and Dagger",
+  "title": "Cloak & Dagger",
   "images": [
    "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-1.jpg",
    "images/ca3d/cloak-and-dagger/cloak-and-dagger/cloak-and-dagger-2.jpg",
@@ -22375,7 +22375,7 @@ const MODELS = [
   "id": "ca3d-demona-and-goliath",
   "artist": "CA3D Studios",
   "series": "Disney's Gargoyles",
-  "title": "Demona and Goliath",
+  "title": "Demona & Goliath",
   "images": [
    "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-1.jpg",
    "images/ca3d/gargoyles-disney/demona-and-goliath/demona-and-goliath-2.jpg",
@@ -24846,7 +24846,7 @@ const MODELS = [
   "id": "ca3d-mikasa-and-levi-diorama",
   "artist": "CA3D Studios",
   "series": "Attack on Titan",
-  "title": "Mikasa and Levi Diorama",
+  "title": "Mikasa & Levi Diorama",
   "images": [
    "images/ca3d/attack-on-titan/mikasa-and-levi-diorama/mikasa-and-levi-diorama-1.jpg",
    "images/ca3d/attack-on-titan/mikasa-and-levi-diorama/mikasa-and-levi-diorama-2.jpg",
@@ -25347,7 +25347,7 @@ const MODELS = [
   "id": "ca3d-obelix-and-asterix-diorama",
   "artist": "CA3D Studios",
   "series": "Asterix",
-  "title": "Obelix and Asterix - Diorama",
+  "title": "Obelix & Asterix - Diorama",
   "images": [
    "images/ca3d/asterix/obelix-and-asterix-diorama/obelix-and-asterix-diorama-1.jpg"
   ],
@@ -25521,7 +25521,7 @@ const MODELS = [
   "id": "ca3d-princess-mononoke",
   "artist": "CA3D Studios",
   "series": "Princess Mononoke",
-  "title": "San and Moro",
+  "title": "San & Moro",
   "images": [
    "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-1.jpg",
    "images/ca3d/studio-ghibli/princess-mononoke/princess-mononoke-2.jpg",
@@ -35279,7 +35279,7 @@ const MODELS = [
  "id": "wicked-spider-man-peter-b-parker-and-mayday",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Peter B Parker and Mayday",
+ "title": "Peter B Parker & Mayday",
  "images": [
   "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-1.jpg",
   "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-2.jpg",
@@ -35399,7 +35399,7 @@ const MODELS = [
  "id": "wicked-the-witcher-geralt-de-rivia-and-ciri-diorama-complete",
  "artist": "Wicked 3D",
  "series": "The Witcher",
- "title": "Geralt de Rivia and Ciri (Diorama)",
+ "title": "Geralt de Rivia & Ciri (Diorama)",
  "images": [
   "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-1.jpg",
   "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-2.jpg",
@@ -35615,7 +35615,7 @@ const MODELS = [
  "id": "wicked-aliens-power-loader-and-ripley",
  "artist": "Wicked 3D",
  "series": "Aliens",
- "title": "Power Loader and Ripley",
+ "title": "Power Loader & Ripley",
  "images": [
   "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-1.jpg",
   "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-2.jpg",
@@ -35759,7 +35759,7 @@ const MODELS = [
  "id": "wicked-avengers-hulk-and-bruce-banner-sculptures-diorama-complete",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Hulk and Bruce Banner (Diorama)",
+ "title": "Hulk & Bruce Banner (Diorama)",
  "images": [
   "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-1.jpg",
   "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-2.jpg",
@@ -35927,7 +35927,7 @@ const MODELS = [
  "id": "wicked-avengers-iron-man-and-tony-stark-sculptures-diorama-complete",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Iron Man and Tony Stark (Diorama)",
+ "title": "Iron Man & Tony Stark (Diorama)",
  "images": [
   "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-1.jpg",
   "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-2.jpg",
@@ -35999,7 +35999,7 @@ const MODELS = [
  "id": "wicked-daredevil-daredevil-and-kingpin-sculptures-diorama-complete",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Daredevil and Kingpin (Diorama)",
+ "title": "Daredevil & Kingpin (Diorama)",
  "images": [
   "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-1.jpg",
   "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-2.jpg",
@@ -36214,7 +36214,7 @@ const MODELS = [
  "id": "wicked-power-rangers-power-ranger-green-and-power-ranger-white-diorama-complete",
  "artist": "Wicked 3D",
  "series": "Power Rangers",
- "title": "Power Ranger Green and Power Ranger White (Diorama)",
+ "title": "Power Ranger Green & Power Ranger White (Diorama)",
  "images": [
   "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-1.jpg",
   "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-2.jpg",
@@ -36286,7 +36286,7 @@ const MODELS = [
  "id": "wicked-x-men-deadpool-and-cable-diorama-complete",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Deadpool and Cable (Diorama)",
+ "title": "Deadpool & Cable (Diorama)",
  "images": [
   "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-1.jpg",
   "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-2.jpg",
@@ -36382,7 +36382,7 @@ const MODELS = [
  "id": "wicked-x-men-jean-grey-and-cyclops-diorama-complete",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Jean Grey and Cyclops (Diorama)",
+ "title": "Jean Grey & Cyclops (Diorama)",
  "images": [
   "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-1.jpg",
   "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-2.jpg",
@@ -36430,7 +36430,7 @@ const MODELS = [
  "id": "wicked-super-mario-mario-and-luigi",
  "artist": "Wicked 3D",
  "series": "Super Mario",
- "title": "Mario and Luigi",
+ "title": "Mario & Luigi",
  "images": [
   "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-1.jpg",
   "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-2.jpg",
@@ -36592,7 +36592,7 @@ const MODELS = [
  "id": "wicked-the-lord-of-the-rings-gandalf-and-balrog-diorama-complete",
  "artist": "Wicked 3D",
  "series": "The Lord of the Rings",
- "title": "Gandalf and Balrog (Diorama)",
+ "title": "Gandalf & Balrog (Diorama)",
  "images": [
   "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-1.jpg",
   "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-2.jpg",
@@ -36664,7 +36664,7 @@ const MODELS = [
  "id": "wicked-avengers-lady-death-and-thanos-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers (Infinity Saga)",
- "title": "Lady Death and Thanos (Diorama)",
+ "title": "Lady Death & Thanos (Diorama)",
  "images": [
   "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-1.jpg",
   "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-2.jpg",
@@ -37232,7 +37232,7 @@ const MODELS = [
  "id": "wicked-devil-may-cry-dante-and-vergil-diorama",
  "artist": "Wicked 3D",
  "series": "Devil May Cry",
- "title": "Dante and Vergil (Diorama)",
+ "title": "Dante & Vergil (Diorama)",
  "images": [
   "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-1.jpg",
   "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-2.jpg",
@@ -37256,7 +37256,7 @@ const MODELS = [
  "id": "wicked-x-men-magneto-and-xavier-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Magneto and Xavier (Diorama)",
+ "title": "Magneto & Xavier (Diorama)",
  "images": [
   "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-1.jpg",
   "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-2.jpg",
@@ -37567,7 +37567,7 @@ const MODELS = [
  "id": "wicked-x-men-juggernaut-and-colossus-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Juggernaut and Colossus (Diorama)",
+ "title": "Juggernaut & Colossus (Diorama)",
  "images": [
   "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-1.jpg",
   "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-2.jpg",
@@ -37635,7 +37635,7 @@ const MODELS = [
  "id": "wicked-predator-predator-and-naru-diorama",
  "artist": "Wicked 3D",
  "series": "Predator",
- "title": "Predator and Naru (Diorama)",
+ "title": "Predator & Naru (Diorama)",
  "images": [
   "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-1.jpg",
   "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-2.jpg",
@@ -38014,7 +38014,7 @@ const MODELS = [
  "id": "wicked-moon-knight-moon-knight-diorama-base-and-logo",
  "artist": "Wicked 3D",
  "series": "Moon Knight",
- "title": "Moon Knight Base and Logo (Diorama)",
+ "title": "Moon Knight Base & Logo (Diorama)",
  "images": [
   "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-1.jpg",
   "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-2.jpg",
@@ -38252,7 +38252,7 @@ const MODELS = [
  "id": "wicked-avengers-ant-man-and-wasp-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Ant Man and Wasp (Diorama)",
+ "title": "Ant Man & Wasp (Diorama)",
  "images": [
   "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-1.jpg",
   "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-2.jpg",
@@ -38323,7 +38323,7 @@ const MODELS = [
  "id": "wicked-avengers-wanda-and-vision-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Wanda and Vision (Diorama)",
+ "title": "Wanda & Vision (Diorama)",
  "images": [
   "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-1.jpg",
   "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-2.jpg",
@@ -39554,7 +39554,7 @@ const MODELS = [
  "id": "wicked-predator-predator-and-dutch-diorama",
  "artist": "Wicked 3D",
  "series": "Predator",
- "title": "Predator and Dutch (Diorama)",
+ "title": "Predator & Dutch (Diorama)",
  "images": [
   "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-1.jpg",
   "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-2.jpg",
@@ -39626,7 +39626,7 @@ const MODELS = [
  "id": "wicked-predator-predator-and-dutch-diorama-v2-lifting-the-torch",
  "artist": "Wicked 3D",
  "series": "Predator",
- "title": "Predator and Dutch V2 (Lifting the torch) (Diorama)",
+ "title": "Predator & Dutch V2 (Lifting the torch) (Diorama)",
  "images": [
   "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-1.jpg",
   "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-2.jpg",
@@ -39890,7 +39890,7 @@ const MODELS = [
  "id": "wicked-black-panther-black-panther-and-namor-diorama",
  "artist": "Wicked 3D",
  "series": "Black Panther",
- "title": "Black Panther and Namor (Diorama)",
+ "title": "Black Panther & Namor (Diorama)",
  "images": [
   "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-1.jpg",
   "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-2.jpg",
@@ -39961,7 +39961,7 @@ const MODELS = [
  "id": "wicked-robocop-robocop-and-ed-209-diorama",
  "artist": "Wicked 3D",
  "series": "RoboCop",
- "title": "Robocop and ED 209 (Diorama)",
+ "title": "Robocop & ED 209 (Diorama)",
  "images": [
   "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-1.jpg",
   "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-2.jpg",
@@ -40148,7 +40148,7 @@ const MODELS = [
  "id": "wicked-rocky-rocky-balboa-and-apollo-creed-diorama",
  "artist": "Wicked 3D",
  "series": "Rocky",
- "title": "Rocky Balboa and Apollo Creed (Diorama)",
+ "title": "Rocky Balboa & Apollo Creed (Diorama)",
  "images": [
   "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-1.jpg",
   "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-2.jpg",
@@ -40195,7 +40195,7 @@ const MODELS = [
  "id": "wicked-avengers-hawkeye-and-black-widow-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Hawkeye and Black Widow (Diorama)",
+ "title": "Hawkeye & Black Widow (Diorama)",
  "images": [
   "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-1.jpg",
   "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-2.jpg",
@@ -40219,7 +40219,7 @@ const MODELS = [
  "id": "wicked-avengers-iron-man-and-iron-monger-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Iron Man and Iron Monger (Diorama)",
+ "title": "Iron Man & Iron Monger (Diorama)",
  "images": [
   "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-1.jpg",
   "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-2.jpg",
@@ -40525,7 +40525,7 @@ const MODELS = [
  "id": "wicked-spider-man-venom-and-spiderman-diorama",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Venom and Spiderman (Diorama)",
+ "title": "Venom & Spiderman (Diorama)",
  "images": [
   "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-1.jpg",
   "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-2.jpg",
@@ -40596,7 +40596,7 @@ const MODELS = [
  "id": "wicked-x-men-apocalypse-and-horseman-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Apocalypse and Horseman (Diorama)",
+ "title": "Apocalypse & Horseman (Diorama)",
  "images": [
   "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-1.jpg",
   "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-2.jpg",
@@ -40620,7 +40620,7 @@ const MODELS = [
  "id": "wicked-spider-man-venom-and-spiderman-v2-diorama",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Venom and Spiderman V2 (Diorama)",
+ "title": "Venom & Spiderman V2 (Diorama)",
  "images": [
   "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-1.jpg",
   "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-2.jpg",
@@ -40689,7 +40689,7 @@ const MODELS = [
  "id": "wicked-avengers-dead-strange-and-scarlet-witch-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Dead Strange and Scarlet Witch (Diorama)",
+ "title": "Dead Strange & Scarlet Witch (Diorama)",
  "images": [
   "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-1.jpg",
   "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-2.jpg",
@@ -41086,7 +41086,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-groot-and-rocket-diorama-comic-version",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Groot and Rocket Comic Version (Diorama)",
+ "title": "Groot & Rocket Comic Version (Diorama)",
  "images": [
   "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-1.jpg",
   "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-2.jpg",
@@ -41130,7 +41130,7 @@ const MODELS = [
  "id": "wicked-x-men-deadpool-and-wolverine-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Deadpool and Wolverine (Diorama)",
+ "title": "Deadpool & Wolverine (Diorama)",
  "images": [
   "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-1.jpg",
   "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-2.jpg",
@@ -41756,7 +41756,7 @@ const MODELS = [
  "id": "wicked-the-nightmare-before-christmas-jack-and-sally-diorama",
  "artist": "Wicked 3D",
  "series": "The Nightmare Before Christmas",
- "title": "Jack and Sally (Diorama)",
+ "title": "Jack & Sally (Diorama)",
  "images": [
   "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-1.jpg",
   "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-2.jpg",
@@ -41852,7 +41852,7 @@ const MODELS = [
  "id": "wicked-avengers-nick-fury-and-falcon-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Nick Fury and Falcon (Diorama)",
+ "title": "Nick Fury & Falcon (Diorama)",
  "images": [
   "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-1.jpg",
   "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-2.jpg",
@@ -41972,7 +41972,7 @@ const MODELS = [
  "id": "wicked-the-grinch-grinch-cindy-and-dog-diorama",
  "artist": "Wicked 3D",
  "series": "The Grinch",
- "title": "Grinch, Cindy and Dog (Diorama)",
+ "title": "Grinch, Cindy & Dog (Diorama)",
  "images": [
   "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-1.jpg",
   "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-2.jpg",
@@ -42068,7 +42068,7 @@ const MODELS = [
  "id": "wicked-daredevil-daredevil-and-electra-diorama",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Daredevil and Electra (Diorama)",
+ "title": "Daredevil & Electra (Diorama)",
  "images": [
   "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-1.jpg",
   "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-2.jpg",
@@ -42164,7 +42164,7 @@ const MODELS = [
  "id": "wicked-daredevil-hulk-and-punisher-diorama",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Hulk and Punisher (Diorama)",
+ "title": "Hulk & Punisher (Diorama)",
  "images": [
   "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-1.jpg",
   "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-2.jpg",
@@ -42234,7 +42234,7 @@ const MODELS = [
  "id": "wicked-daredevil-cloak-and-dagger-diorama",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Cloak and Dagger (Diorama)",
+ "title": "Cloak & Dagger (Diorama)",
  "images": [
   "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-1.jpg",
   "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-2.jpg",
@@ -42613,7 +42613,7 @@ const MODELS = [
  "id": "wicked-thor-thor-and-loki-diorama",
  "artist": "Wicked 3D",
  "series": "Thor",
- "title": "Thor and Loki (Diorama)",
+ "title": "Thor & Loki (Diorama)",
  "images": [
   "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-1.jpg",
   "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-2.jpg",
@@ -42805,7 +42805,7 @@ const MODELS = [
  "id": "wicked-avengers-red-hulk-and-ross-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Red Hulk and Ross (Diorama)",
+ "title": "Red Hulk & Ross (Diorama)",
  "images": [
   "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-1.jpg",
   "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-2.jpg",
@@ -42924,7 +42924,7 @@ const MODELS = [
  "id": "wicked-the-matrix-matrix-diorama-neo-trinity-and-morpheus",
  "artist": "Wicked 3D",
  "series": "The Matrix",
- "title": "Matrix (Neo, Trinity, and Morpheus) (Diorama)",
+ "title": "Matrix (Neo, Trinity & Morpheus) (Diorama)",
  "images": [
   "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-1.jpg",
   "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-2.jpg",
@@ -43067,7 +43067,7 @@ const MODELS = [
  "id": "wicked-spider-man-spiderman-and-gwen-stacy-diorama",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Spiderman and Gwen Stacy (Diorama)",
+ "title": "Spiderman & Gwen Stacy (Diorama)",
  "images": [
   "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-1.jpg",
   "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-2.jpg",
@@ -43355,7 +43355,7 @@ const MODELS = [
  "id": "wicked-doctor-strange-dr-strange-and-shuma-gorath-diorama",
  "artist": "Wicked 3D",
  "series": "Doctor Strange",
- "title": "Dr Strange and Shuma Gorath (Diorama)",
+ "title": "Dr Strange & Shuma Gorath (Diorama)",
  "images": [
   "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-1.jpg",
   "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-2.jpg",
@@ -44450,7 +44450,7 @@ const MODELS = [
  "id": "wicked-donkey-kong-donkey-kong-donkey-and-diddy-diorama",
  "artist": "Wicked 3D",
  "series": "Donkey Kong",
- "title": "Donkey Kong (Donkey and Diddy) (Diorama)",
+ "title": "Donkey Kong (Donkey & Diddy) (Diorama)",
  "images": [
   "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-1.jpg",
   "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-2.jpg",
@@ -44841,7 +44841,7 @@ const MODELS = [
  "id": "wicked-x-men-cyclops-and-jean-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Cyclops and Jean (Diorama)",
+ "title": "Cyclops & Jean (Diorama)",
  "images": [
   "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-1.jpg",
   "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-2.jpg",
@@ -45211,7 +45211,7 @@ const MODELS = [
  "id": "wicked-black-panther-black-panther-and-storm-diorama",
  "artist": "Wicked 3D",
  "series": "Black Panther",
- "title": "Black Panther and Storm (Diorama)",
+ "title": "Black Panther & Storm (Diorama)",
  "images": [
   "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-1.jpg",
   "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-2.jpg",
@@ -46088,7 +46088,7 @@ const MODELS = [
  "id": "wicked-x-men-rogue-and-gambit-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Rogue and Gambit (Diorama)",
+ "title": "Rogue & Gambit (Diorama)",
  "images": [
   "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-1.jpg",
   "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-2.jpg",
@@ -46320,7 +46320,7 @@ const MODELS = [
  "id": "wicked-transformers-tranformers-bumbublee-and-starscream-diorama",
  "artist": "Wicked 3D",
  "series": "Transformers",
- "title": "Tranformers Bumbublee and Starscream (Diorama)",
+ "title": "Tranformers Bumbublee & Starscream (Diorama)",
  "images": [
   "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-1.jpg",
   "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-2.jpg",
@@ -46524,7 +46524,7 @@ const MODELS = [
  "id": "wicked-x-men-wolverine-pack-wolverine-and-sabretooth-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Wolverine Pack - Wolverine and Sabretooth (Diorama)",
+ "title": "Wolverine Pack - Wolverine & Sabretooth (Diorama)",
  "images": [
   "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-1.jpg",
   "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-2.jpg",
