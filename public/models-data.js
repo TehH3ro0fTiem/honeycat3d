@@ -2007,7 +2007,7 @@ const MODELS = [
   "id": "abe-donna-troy",
   "artist": "Abe3D",
   "series": "Teen Titans",
-  "title": "Donna Troy",
+  "title": "Wonder Girl [Donna Troy]",
   "images": [
    "images/abe3d/teen-titans/donna-troy/abe-donna-troy-1.jpg",
    "images/abe3d/teen-titans/donna-troy/abe-donna-troy-2.jpg",
@@ -3466,7 +3466,7 @@ const MODELS = [
   "id": "abe-dazzler",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Dazzler",
+  "title": "Dazzler [Alison Blaire]",
   "images": [
    "images/abe3d/x-men/dazzler/abe-dazzler-1.jpg",
    "images/abe3d/x-men/dazzler/abe-dazzler-2.jpg",
@@ -16204,7 +16204,7 @@ const MODELS = [
   "id": "bulka-ciri-stylized",
   "artist": "Bulkamancer Sculpts",
   "series": "The Witcher",
-  "title": "Ciri (Stylized)",
+  "title": "Ciri",
   "images": [
    "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-1.jpg",
    "images/bulkamancer/the-witcher/ciri-stylized/bulka-ciri-stylized-2.jpg",
@@ -20256,7 +20256,7 @@ const MODELS = [
   "id": "tanuki-dr-octopus",
   "artist": "Tanuki Figures",
   "series": "Spider-Man",
-  "title": "Dr. Octopus",
+  "title": "Doctor Octopus",
   "images": [
    "images/tanuki-figures/spider-man/dr-octopus/dr-octopus-1.jpg",
    "images/tanuki-figures/spider-man/dr-octopus/dr-octopus-2.jpg",
@@ -20535,7 +20535,7 @@ const MODELS = [
   "id": "tanuki-edward",
   "artist": "Tanuki Figures",
   "series": "Assassin's Creed",
-  "title": "Edward",
+  "title": "Edward Kenway",
   "images": [
    "images/tanuki-figures/assassins-creed/edward/edward-1.jpg",
    "images/tanuki-figures/assassins-creed/edward/edward-2.jpg",
@@ -21717,7 +21717,7 @@ const MODELS = [
   "id": "ca3d-carter-slade",
   "artist": "CA3D Studios",
   "series": "Ghost Rider",
-  "title": "Carter Slade",
+  "title": "Caretaker [Carter Slade]",
   "images": [
    "images/ca3d/ghost-rider/carter-slade/carter-slade-1.jpg",
    "images/ca3d/ghost-rider/carter-slade/carter-slade-2.jpg",
@@ -21863,7 +21863,7 @@ const MODELS = [
   "id": "ca3d-chun-li",
   "artist": "CA3D Studios",
   "series": "Street Fighter",
-  "title": "Chun Li",
+  "title": "Chun-Li",
   "images": [
    "images/ca3d/street-fighter/chun-li/chun-li-1.jpg",
    "images/ca3d/street-fighter/chun-li/chun-li-2.jpg",
@@ -21947,7 +21947,7 @@ const MODELS = [
   "id": "ca3d-cowgirl-rogue",
   "artist": "CA3D Studios",
   "series": "X-Men",
-  "title": "Cowgirl Rogue",
+  "title": "Rogue [Cowgirl ver]",
   "images": [
    "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-1.jpg",
    "images/ca3d/x-men/cowgirl-rogue/cowgirl-rogue-2.jpg",
@@ -22032,7 +22032,7 @@ const MODELS = [
   "id": "ca3d-dani-moonstar-mirage",
   "artist": "CA3D Studios",
   "series": "X-Men",
-  "title": "Dani Moonstar Mirage",
+  "title": "Mirage",
   "images": [
    "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-1.jpg",
    "images/ca3d/x-men/dani-moonstar-mirage/dani-moonstar-mirage-2.jpg",
@@ -22160,7 +22160,7 @@ const MODELS = [
   "id": "ca3d-darth-vader-samurai",
   "artist": "CA3D Studios",
   "series": "Star Wars",
-  "title": "Darth Vader Samurai",
+  "title": "Darth Vader [Samurai]",
   "images": [
    "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-1.jpg",
    "images/ca3d/star-wars/darth-vader-samurai/darth-vader-samurai-2.jpg",
@@ -22341,7 +22341,7 @@ const MODELS = [
   "id": "ca3d-death-the-sandman",
   "artist": "CA3D Studios",
   "series": "The Sandman",
-  "title": "Death (The Sandman)",
+  "title": "Death",
   "images": [
    "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-1.jpg",
    "images/ca3d/the-sandman/death-the-sandman/death-the-sandman-2.jpg",
@@ -22459,7 +22459,7 @@ const MODELS = [
   "id": "ca3d-dr-doom",
   "artist": "CA3D Studios",
   "series": "Fantastic Four",
-  "title": "Dr Doom",
+  "title": "Doctor Doom",
   "images": [
    "images/ca3d/fantastic-four/dr-doom/dr-doom-1.jpg",
    "images/ca3d/fantastic-four/dr-doom/dr-doom-2.jpg",
@@ -36286,7 +36286,7 @@ const MODELS = [
  "id": "wicked-x-men-deadpool-and-cable-diorama-complete",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Deadpool & Cable (Diorama)",
+ "title": "Cable & Deadpool (Diorama)",
  "images": [
   "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-1.jpg",
   "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-2.jpg",
@@ -37918,7 +37918,7 @@ const MODELS = [
  "id": "wicked-fantastic-four-dr-doom-f4-diorama-version",
  "artist": "Wicked 3D",
  "series": "Fantastic Four",
- "title": "Dr Doom (F4 Version) (Diorama)",
+ "title": "Doctor Doom (Diorama)",
  "images": [
   "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-1.jpg",
   "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-2.jpg",
@@ -38658,7 +38658,7 @@ const MODELS = [
  "id": "wicked-spider-man-dr-octupus",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Dr. Octopus",
+ "title": "Doctor Octopus",
  "images": [
   "images/wicked/spider-man/dr-octupus/dr-octupus-1.jpg",
   "images/wicked/spider-man/dr-octupus/dr-octupus-2.jpg",
@@ -39390,7 +39390,7 @@ const MODELS = [
  "id": "wicked-fantastic-four-dr-doom",
  "artist": "Wicked 3D",
  "series": "Fantastic Four",
- "title": "Dr. Doom",
+ "title": "Doctor Doom",
  "images": [
   "images/wicked/fantastic-four/dr-doom/dr-doom-1.jpg",
   "images/wicked/fantastic-four/dr-doom/dr-doom-2.jpg",
@@ -39483,7 +39483,7 @@ const MODELS = [
  "id": "wicked-daredevil-marvel-netflix-daredevil-sculpture-stls-ready-for-printing",
  "artist": "Wicked 3D",
  "series": "Daredevil",
- "title": "Daredevil [Netflix]",
+ "title": "Daredevil",
  "images": [
   "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-1.jpg",
   "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-2.jpg",
@@ -39674,7 +39674,7 @@ const MODELS = [
  "id": "wicked-ghost-rider-johnny-blaze-ghost-rider",
  "artist": "Wicked 3D",
  "series": "Ghost Rider",
- "title": "Johnny Blaze Ghost Rider",
+ "title": "Ghost Rider [Johnny Blaze]",
  "images": [
   "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-1.jpg",
   "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-2.jpg",
@@ -39698,7 +39698,7 @@ const MODELS = [
  "id": "wicked-ghost-rider-danny-ketch-ghost-rider",
  "artist": "Wicked 3D",
  "series": "Ghost Rider",
- "title": "Danny Ketch Ghost Rider",
+ "title": "Ghost Rider [Danny Ketch]",
  "images": [
   "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-1.jpg",
   "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-2.jpg",
@@ -41153,7 +41153,7 @@ const MODELS = [
  "id": "wicked-x-men-deadpool-2024",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Deadpool 2024",
+ "title": "Deadpool",
  "images": [
   "images/wicked/x-men/deadpool-2024/deadpool-2024-1.jpg",
   "images/wicked/x-men/deadpool-2024/deadpool-2024-2.jpg",
@@ -41518,7 +41518,7 @@ const MODELS = [
  "id": "wicked-marvel-zombies-spiderman-zombie",
  "artist": "Wicked 3D",
  "series": "Marvel Zombies",
- "title": "Spiderman Zombie",
+ "title": "Spider-Man",
  "images": [
   "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-1.jpg",
   "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-2.jpg",
@@ -41540,7 +41540,7 @@ const MODELS = [
  "id": "wicked-marvel-zombies-cyclops-zombie",
  "artist": "Wicked 3D",
  "series": "Marvel Zombies",
- "title": "Cyclops Zombie",
+ "title": "Cyclops",
  "images": [
   "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-1.jpg",
   "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-2.jpg",
@@ -41636,7 +41636,7 @@ const MODELS = [
  "id": "wicked-marvel-zombies-wolverine-zombie",
  "artist": "Wicked 3D",
  "series": "Marvel Zombies",
- "title": "Wolverine Zombie",
+ "title": "Wolverine",
  "images": [
   "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-1.jpg",
   "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-2.jpg",
@@ -41684,7 +41684,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-drax-comic-version",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Drax Comic Version",
+ "title": "Drax",
  "images": [
   "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-1.jpg",
   "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-2.jpg",
@@ -42015,30 +42015,6 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Grinch (Jim Carry) from The Grinch."
-},
- {
- "id": "wicked-the-grinch-cindy",
- "artist": "Wicked 3D",
- "series": "The Grinch",
- "title": "Cindy",
- "images": [
-  "images/wicked/the-grinch/cindy/cindy-1.jpg",
-  "images/wicked/the-grinch/cindy/cindy-2.jpg",
-  "images/wicked/the-grinch/cindy/cindy-3.jpg",
-  "images/wicked/the-grinch/cindy/cindy-4.jpg",
-  "images/wicked/the-grinch/cindy/cindy-5.jpg",
-  "images/wicked/the-grinch/cindy/cindy-6.jpg",
-  "images/wicked/the-grinch/cindy/cindy-7.jpg",
-  "images/wicked/the-grinch/cindy/cindy-8.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Approx. 13.9 in (35.3 cm) tall",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Cindy from The Grinch."
 },
  {
  "id": "wicked-the-grinch-max",
@@ -42377,7 +42353,7 @@ const MODELS = [
  "id": "wicked-fantastic-four-dr-doom-horse",
  "artist": "Wicked 3D",
  "series": "Fantastic Four",
- "title": "Dr. Doom Horse",
+ "title": "Doctor Doom",
  "images": [
   "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-1.jpg",
   "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-2.jpg",
@@ -42661,7 +42637,7 @@ const MODELS = [
  "id": "wicked-x-men-dazzler",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Dazzler",
+ "title": "Dazzler [Alison Blaire]",
  "images": [
   "images/wicked/x-men/dazzler/dazzler-1.jpg",
   "images/wicked/x-men/dazzler/dazzler-2.jpg",
@@ -43355,7 +43331,7 @@ const MODELS = [
  "id": "wicked-doctor-strange-dr-strange-and-shuma-gorath-diorama",
  "artist": "Wicked 3D",
  "series": "Doctor Strange",
- "title": "Dr Strange & Shuma Gorath (Diorama)",
+ "title": "Doctor Strange & Shuma Gorath (Diorama)",
  "images": [
   "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-1.jpg",
   "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-2.jpg",
@@ -43379,7 +43355,7 @@ const MODELS = [
  "id": "wicked-doctor-strange-dr-strange-2025",
  "artist": "Wicked 3D",
  "series": "Doctor Strange",
- "title": "Dr Strange 2025",
+ "title": "Doctor Strange",
  "images": [
   "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-1.jpg",
   "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-2.jpg",
@@ -43931,7 +43907,7 @@ const MODELS = [
  "id": "wicked-marvel-zombies-deadpool-zombie",
  "artist": "Wicked 3D",
  "series": "Marvel Zombies",
- "title": "Deadpool Zombie",
+ "title": "Deadpool",
  "images": [
   "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-1.jpg",
   "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-2.jpg",
@@ -44144,7 +44120,7 @@ const MODELS = [
  "id": "wicked-resident-evil-chris-resident-evil",
  "artist": "Wicked 3D",
  "series": "Resident Evil",
- "title": "Chris Resident Evil",
+ "title": "Chris Redfield",
  "images": [
   "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-1.jpg",
   "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-2.jpg",
@@ -44450,7 +44426,7 @@ const MODELS = [
  "id": "wicked-donkey-kong-donkey-kong-donkey-and-diddy-diorama",
  "artist": "Wicked 3D",
  "series": "Donkey Kong",
- "title": "Donkey Kong (Donkey & Diddy) (Diorama)",
+ "title": "Donkey & Diddy Kong (Diorama)",
  "images": [
   "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-1.jpg",
   "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-2.jpg",
@@ -44474,7 +44450,7 @@ const MODELS = [
  "id": "wicked-donkey-kong-cranky",
  "artist": "Wicked 3D",
  "series": "Donkey Kong",
- "title": "Cranky",
+ "title": "Cranky Kong",
  "images": [
   "images/wicked/donkey-kong/cranky/cranky-1.jpg",
   "images/wicked/donkey-kong/cranky/cranky-2.jpg",
@@ -45471,7 +45447,7 @@ const MODELS = [
  "id": "wicked-ghost-rider-ghost-rider-caleb",
  "artist": "Wicked 3D",
  "series": "Ghost Rider",
- "title": "Ghost Rider Caleb",
+ "title": "Ghost Rider [Caleb]",
  "images": [
   "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-1.jpg",
   "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-2.jpg",
@@ -45495,7 +45471,7 @@ const MODELS = [
  "id": "wicked-ghost-rider-ghost-rider-billy",
  "artist": "Wicked 3D",
  "series": "Ghost Rider",
- "title": "Ghost Rider Billy",
+ "title": "Ghost Rider [Caleb]",
  "images": [
   "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-1.jpg",
   "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-2.jpg",
@@ -45707,7 +45683,7 @@ const MODELS = [
  "id": "wicked-ghost-rider-ghost-rider-caleb-diorama",
  "artist": "Wicked 3D",
  "series": "Ghost Rider",
- "title": "Ghost Rider Caleb (Diorama)",
+ "title": "Ghost Rider [Caleb] (Diorama)",
  "images": [
   "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-1.jpg",
   "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-2.jpg",
@@ -45731,7 +45707,7 @@ const MODELS = [
  "id": "wicked-ghost-rider-ghost-rider-billy-diorama",
  "artist": "Wicked 3D",
  "series": "Ghost Rider",
- "title": "Ghost Rider Billy (Diorama)",
+ "title": "Ghost Rider [Caleb] (Diorama)",
  "images": [
   "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-1.jpg",
   "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-2.jpg",
@@ -45993,7 +45969,7 @@ const MODELS = [
  "id": "wicked-lone-wolf-mcquade-chuck-norris-lone-wolf",
  "artist": "Wicked 3D",
  "series": "Lone Wolf McQuade",
- "title": "Chuck Norris Lone Wolf",
+ "title": "Chuck Norris",
  "images": [
   "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-1.jpg",
   "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-2.jpg",
@@ -46159,7 +46135,7 @@ const MODELS = [
  "id": "wicked-avengers-clint-barton-ronin",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Clint Barton Ronin",
+ "title": "Ronin [Clint Barton]",
  "images": [
   "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-1.jpg",
   "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-2.jpg",
@@ -46564,7 +46540,7 @@ const MODELS = [
  "id": "wicked-marvel-zombies-wolverine-pack-wolverine-zombie",
  "artist": "Wicked 3D",
  "series": "Marvel Zombies",
- "title": "Wolverine Pack - Wolverine Zombie",
+ "title": "Wolverine",
  "images": [
   "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-1.jpg",
   "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-2.jpg",
