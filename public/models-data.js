@@ -3269,7 +3269,7 @@ const MODELS = [
   "id": "abe-black-cat-abe",
   "artist": "Abe3D",
   "series": "Spider-Man",
-  "title": "Black Cat abe",
+  "title": "Black Cat",
   "images": [
    "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-1.jpg",
    "images/abe3d/spider-man/black-cat-abe/abe-black-cat-abe-2.jpg",
@@ -3297,7 +3297,7 @@ const MODELS = [
   "id": "abe-black-cat-hellfire-gala",
   "artist": "Abe3D",
   "series": "Spider-Man",
-  "title": "Black Cat Hellfire Gala",
+  "title": "Black Cat [Hellfire Gala ver]",
   "images": [
    "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-1.jpg",
    "images/abe3d/spider-man/black-cat-hellfire-gala/abe-black-cat-hellfire-gala-2.jpg",
@@ -3326,7 +3326,7 @@ const MODELS = [
   "id": "abe-black-cat-matc3d",
   "artist": "Abe3D",
   "series": "Spider-Man",
-  "title": "Black Cat Matc3D",
+  "title": "Black Cat",
   "images": [
    "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-1.jpg",
    "images/abe3d/spider-man/black-cat-matc3d/abe-black-cat-matc3d-2.jpg",
@@ -3408,7 +3408,7 @@ const MODELS = [
   "id": "abe-captn-britain-hellfire-gala",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Cptn Britain - Betsy Braddock Hellfire Gala",
+  "title": "Captain Britain [Hellfire Gala ver]",
   "images": [
    "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-1.jpg",
    "images/abe3d/x-men/captn-britain-hellfire-gala/abe-captn-britain-hellfire-gala-2.jpg",
@@ -4109,7 +4109,7 @@ const MODELS = [
   "id": "abe-mary-jane-hellfire-gala",
   "artist": "Abe3D",
   "series": "Spider-Man",
-  "title": "Mary Jane Hellfire Gala",
+  "title": "Mary Jane [Hellfire Gala ver]",
   "images": [
    "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-1.jpg",
    "images/abe3d/spider-man/mary-jane-hellfire-gala/abe-mary-jane-hellfire-gala-2.jpg",
@@ -4274,7 +4274,7 @@ const MODELS = [
   "id": "abe-mystique-hellfire-gala",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Mystique Hellfire Gala",
+  "title": "Mystique [Hellfire Gala ver]",
   "images": [
    "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-1.jpg",
    "images/abe3d/x-men/mystique-hellfire-gala/abe-mystique-hellfire-gala-2.jpg",
@@ -4360,7 +4360,7 @@ const MODELS = [
   "id": "abe-polaris-hellfire-gala",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Polaris Hellfire Gala",
+  "title": "Polaris [Hellfire Gala ver]",
   "images": [
    "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-1.jpg",
    "images/abe3d/x-men/polaris-hellfire-gala/abe-polaris-hellfire-gala-2.jpg",
@@ -4446,7 +4446,7 @@ const MODELS = [
   "id": "abe-psylocke-hellfire-gala",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Psylocke Hellfire Gala",
+  "title": "Psylocke [Hellfire Gala ver]",
   "images": [
    "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-1.jpg",
    "images/abe3d/x-men/psylocke-hellfire-gala/abe-psylocke-hellfire-gala-2.jpg",
@@ -4532,7 +4532,7 @@ const MODELS = [
   "id": "abe-rogue-hellfire-gala",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Rogue Hellfire Gala",
+  "title": "Rogue [Hellfire Gala ver]",
   "images": [
    "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-1.jpg",
    "images/abe3d/x-men/rogue-hellfire-gala/abe-rogue-hellfire-gala-2.jpg",
@@ -4640,7 +4640,7 @@ const MODELS = [
   "id": "abe-scarlet-witch-hellfire-gala",
   "artist": "Abe3D",
   "series": "Avengers",
-  "title": "Scarlet Witch Hellfire Gala",
+  "title": "Scarlet Witch [Hellfire Gala ver]",
   "images": [
    "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-1.jpg",
    "images/abe3d/avengers/scarlet-witch-hellfire-gala/abe-scarlet-witch-hellfire-gala-2.jpg",
@@ -4895,7 +4895,7 @@ const MODELS = [
   "id": "abe-storm-hellfire-gala",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Storm Hellfire Gala",
+  "title": "Storm [Hellfire Gala ver]",
   "images": [
    "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-1.jpg",
    "images/abe3d/x-men/storm-hellfire-gala/abe-storm-hellfire-gala-2.jpg",
@@ -5436,7 +5436,7 @@ const MODELS = [
   "id": "abe-2b-yorha",
   "artist": "Abe3D",
   "series": "NieR: Automata",
-  "title": "2B YoRHa",
+  "title": "2B",
   "images": [
    "images/abe3d/nier-automata/2b-yorha/abe-2b-yorha-1.jpg",
    "images/abe3d/nier-automata/2b-yorha/abe-2b-yorha-2.jpg",
@@ -20628,7 +20628,7 @@ const MODELS = [
   "id": "ca3d-2b-v1",
   "artist": "CA3D Studios",
   "series": "NieR: Automata",
-  "title": "2B (v1)",
+  "title": "2B",
   "images": [
    "images/ca3d/nier-automata/2b-v1/2b-v1-1.jpg",
    "images/ca3d/nier-automata/2b-v1/2b-v1-2.jpg",
@@ -20660,7 +20660,7 @@ const MODELS = [
   "id": "ca3d-2b-v2",
   "artist": "CA3D Studios",
   "series": "NieR: Automata",
-  "title": "2B (v2)",
+  "title": "2B",
   "images": [
    "images/ca3d/nier-automata/2b-v2/2b-v2-1.jpg",
    "images/ca3d/nier-automata/2b-v2/2b-v2-2.jpg",
@@ -21689,7 +21689,7 @@ const MODELS = [
   "id": "ca3d-carnage-mary-jane",
   "artist": "CA3D Studios",
   "series": "Spider-Man",
-  "title": "Carnage Mary Jane",
+  "title": "Mary Jane [Carnage ver]",
   "images": [
    "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-1.jpg",
    "images/ca3d/spider-man/carnage-mary-jane/carnage-mary-jane-2.jpg",
@@ -28594,7 +28594,7 @@ const MODELS = [
  "id": "esm-black-cat-v2",
  "artist": "ESMonster",
  "series": "Spider-Man",
- "title": "Black Cat V2",
+ "title": "Black Cat",
  "images": [
   "images/esmonster/spider-man/black-cat-v2/black-cat-v2-1.jpg",
   "images/esmonster/spider-man/black-cat-v2/black-cat-v2-2.jpg",
@@ -29229,7 +29229,7 @@ const MODELS = [
  "id": "esm-chompette-chompette-by-esm",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Chompette (v1)",
+ "title": "Chompette",
  "images": [
   "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-1.jpg",
   "images/esmonster/super-mario/chompette-chompette-by-esm/chompette-chompette-by-esm-2.jpg",
@@ -29271,7 +29271,7 @@ const MODELS = [
  "id": "esm-chompette-fit-bad-girl",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Chompette (v2)",
+ "title": "Chompette",
  "images": [
   "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-1.jpg",
   "images/esmonster/super-mario/chompette-fit-bad-girl/chompette-fit-bad-girl-2.jpg",
@@ -30008,7 +30008,7 @@ const MODELS = [
  "id": "esm-bowsette-dark-themed-princess-swimsuit-ver",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Bowsette (v1)",
+ "title": "Bowsette",
  "images": [
   "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-1.jpg",
   "images/esmonster/super-mario/bowsette-dark-themed-princess-swimsuit-ver/bowsette-dark-themed-princess-swimsuit-ver-2.jpg",
@@ -30084,7 +30084,7 @@ const MODELS = [
  "id": "esm-bowsette-villain-princess",
  "artist": "ESMonster",
  "series": "Super Mario",
- "title": "Bowsette (v2)",
+ "title": "Bowsette",
  "images": [
   "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-1.jpg",
   "images/esmonster/super-mario/bowsette-villain-princess/bowsette-villain-princess-2.jpg",
@@ -34903,7 +34903,7 @@ const MODELS = [
  "id": "wicked-avengers-captain-america-civil-war-stls-ready-for-printing",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Captain America: Civil War",
+ "title": "Captain America",
  "images": [
   "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-1.jpg",
   "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-2.jpg",
@@ -35516,30 +35516,6 @@ const MODELS = [
  "description": "Original resin sculpt of Miles Morales from Spider-Man."
 },
  {
- "id": "wicked-marvel-other-angela",
- "artist": "Wicked 3D",
- "series": "Marvel Comics",
- "title": "Angela",
- "images": [
-  "images/wicked/marvel-other/angela/angela-1.jpg",
-  "images/wicked/marvel-other/angela/angela-2.jpg",
-  "images/wicked/marvel-other/angela/angela-3.jpg",
-  "images/wicked/marvel-other/angela/angela-4.jpg",
-  "images/wicked/marvel-other/angela/angela-5.jpg",
-  "images/wicked/marvel-other/angela/angela-6.jpg",
-  "images/wicked/marvel-other/angela/angela-7.jpg",
-  "images/wicked/marvel-other/angela/angela-8.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "1/6 Scale",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Angela from Marvel Comics."
-},
- {
  "id": "wicked-bishop-v1",
  "artist": "Wicked 3D",
  "series": "X-Men",
@@ -35562,29 +35538,6 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Bishop from X-Men."
-},
- {
- "id": "wicked-avengers-wicked-promo-black-order-diorama-complete",
- "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
- "title": "BLACK ORDER (Diorama)",
- "images": [
-  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-1.jpg",
-  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-2.jpg",
-  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-3.jpg",
-  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-4.jpg",
-  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-5.jpg",
-  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-6.jpg",
-  "images/wicked/avengers/wicked-promo-black-order-diorama-complete/wicked-promo-black-order-diorama-complete-7.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin diorama of BLACK ORDER from Avengers (Infinity Saga)."
 },
  {
  "id": "wicked-aliens-aliens-diorama-complete",
@@ -36117,7 +36070,7 @@ const MODELS = [
  "id": "wicked-avengers-captain-america-and-steve-rogers-sculptures-diorama-complete",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Captain America and Steve Rogers (Diorama)",
+ "title": "Captain America (Diorama)",
  "images": [
   "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-1.jpg",
   "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-2.jpg",
@@ -37399,7 +37352,7 @@ const MODELS = [
  "id": "wicked-x-men-charles-xavier",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Charles Xavier",
+ "title": "Professor Charles Xavier",
  "images": [
   "images/wicked/x-men/charles-xavier/charles-xavier-1.jpg",
   "images/wicked/x-men/charles-xavier/charles-xavier-2.jpg",
@@ -37896,7 +37849,7 @@ const MODELS = [
  "id": "wicked-avengers-captain-america-first-avenger",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Captain America (First Avenger)",
+ "title": "Captain America",
  "images": [
   "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-1.jpg",
   "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-2.jpg",
@@ -41271,7 +41224,7 @@ const MODELS = [
  "id": "wicked-back-to-the-future-back-to-the-future-diorama",
  "artist": "Wicked 3D",
  "series": "Back to the Future",
- "title": "Back To The Future (Diorama)",
+ "title": "Marty McFly & Doc Brown",
  "images": [
   "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-1.jpg",
   "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-2.jpg",
@@ -41707,7 +41660,7 @@ const MODELS = [
  "id": "wicked-marvel-zombies-captain-america-zombie",
  "artist": "Wicked 3D",
  "series": "Marvel Zombies",
- "title": "Captain America Zombie",
+ "title": "Captain America",
  "images": [
   "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-1.jpg",
   "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-2.jpg",
@@ -42257,7 +42210,7 @@ const MODELS = [
  "id": "wicked-x-men-cable-2025",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Cable 2025",
+ "title": "Cable",
  "images": [
   "images/wicked/x-men/cable-2025/cable-2025-1.jpg",
   "images/wicked/x-men/cable-2025/cable-2025-2.jpg",
@@ -42377,7 +42330,7 @@ const MODELS = [
  "id": "wicked-x-men-blink-joe-madureira",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Blink (Joe Madureira)",
+ "title": "Blink",
  "images": [
   "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-1.jpg",
   "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-2.jpg",
@@ -42947,7 +42900,7 @@ const MODELS = [
  "id": "wicked-avengers-captain-marvel-2025",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Captain Marvel 2025",
+ "title": "Captain Marvel",
  "images": [
   "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-1.jpg",
   "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-2.jpg",
@@ -43714,7 +43667,7 @@ const MODELS = [
  "id": "wicked-avengers-captain-america-2025",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Captain America 2025",
+ "title": "Captain America",
  "images": [
   "images/wicked/avengers/captain-america-2025/captain-america-2025-1.jpg",
   "images/wicked/avengers/captain-america-2025/captain-america-2025-2.jpg",
@@ -43930,7 +43883,7 @@ const MODELS = [
  "id": "wicked-blade-blade-2025",
  "artist": "Wicked 3D",
  "series": "Blade",
- "title": "Blade 2025",
+ "title": "Blade",
  "images": [
   "images/wicked/blade/blade-2025/blade-2025-1.jpg",
   "images/wicked/blade/blade-2025/blade-2025-2.jpg",
@@ -44073,7 +44026,7 @@ const MODELS = [
  "id": "wicked-hellraiser-butternall",
  "artist": "Wicked 3D",
  "series": "Hellraiser",
- "title": "Butternall",
+ "title": "Butterball",
  "images": [
   "images/wicked/hellraiser/butternall/butternall-1.jpg",
   "images/wicked/hellraiser/butternall/butternall-2.jpg",
@@ -44355,7 +44308,7 @@ const MODELS = [
  "id": "wicked-spider-man-carnage-2025",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Carnage 2025",
+ "title": "Carnage",
  "images": [
   "images/wicked/spider-man/carnage-2025/carnage-2025-1.jpg",
   "images/wicked/spider-man/carnage-2025/carnage-2025-2.jpg",
@@ -44935,7 +44888,7 @@ const MODELS = [
  "id": "wicked-avengers-captain-america-winter-soldier",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Captain America Winter Soldier",
+ "title": "Captain America",
  "images": [
   "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-1.jpg",
   "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-2.jpg",
@@ -46087,7 +46040,7 @@ const MODELS = [
  "id": "wicked-assassin-s-creed-assassin-s-creed-1-diorama",
  "artist": "Wicked 3D",
  "series": "Assassin's Creed",
- "title": "Assassin’s Creed 1 (Diorama)",
+ "title": "Assassin’s Creed (Diorama)",
  "images": [
   "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-1.jpg",
   "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-2.jpg",
