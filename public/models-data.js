@@ -36568,7 +36568,7 @@ const MODELS = [
  {
  "id": "wicked-avengers-black-order-diorama-complete",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Black Order (Diorama)",
  "images": [
   "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-1.jpg",
@@ -36586,7 +36586,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Black Order from Avengers (Infinity Saga)."
+ "description": "Original resin diorama of Black Order from Avengers."
 },
  {
  "id": "wicked-the-lord-of-the-rings-gandalf-and-balrog-diorama-complete",
@@ -36663,7 +36663,7 @@ const MODELS = [
  {
  "id": "wicked-avengers-lady-death-and-thanos-diorama",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Lady Death & Thanos (Diorama)",
  "images": [
   "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-1.jpg",
@@ -36682,12 +36682,12 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Lady Death and Thanos from Avengers (Infinity Saga)."
+ "description": "Original resin diorama of Lady Death and Thanos from Avengers."
 },
  {
  "id": "wicked-avengers-lady-death",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Lady Death",
  "images": [
   "images/wicked/avengers/lady-death/lady-death-1.jpg",
@@ -36706,12 +36706,12 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lady Death from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Lady Death from Avengers."
 },
  {
  "id": "wicked-avengers-thanos-comic",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Thanos Comic",
  "images": [
   "images/wicked/avengers/thanos-comic/thanos-comic-1.jpg",
@@ -36730,12 +36730,12 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thanos Comic from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Thanos Comic from Avengers."
 },
  {
  "id": "wicked-avengers-corvus-glaive",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Corvus Glaive",
  "images": [
   "images/wicked/avengers/corvus-glaive/corvus-glaive-1.jpg",
@@ -36754,7 +36754,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Corvus Glaive from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Corvus Glaive from Avengers."
 },
  {
  "id": "wicked-transformers-diorama-base-optimus-sculpture-megatron",
@@ -36855,7 +36855,7 @@ const MODELS = [
  {
  "id": "wicked-thanos-v1",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Thanos",
  "images": [
   "images/wicked/avengers/thanos-v1/thanos-v1-1.jpg",
@@ -36874,7 +36874,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thanos from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Thanos from Avengers."
 },
  {
  "id": "wicked-street-fighter-street-fighter-diorama",
@@ -36951,7 +36951,7 @@ const MODELS = [
  {
  "id": "wicked-avengers-proxima-midnight",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Proxima Midnight",
  "images": [
   "images/wicked/avengers/proxima-midnight/proxima-midnight-1.jpg",
@@ -36970,7 +36970,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Proxima Midnight from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Proxima Midnight from Avengers."
 },
  {
  "id": "wicked-transformers-optimus-prime-truck",
@@ -37071,7 +37071,7 @@ const MODELS = [
  {
  "id": "wicked-avengers-ebony-maw",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Ebony Maw",
  "images": [
   "images/wicked/avengers/ebony-maw/ebony-maw-1.jpg",
@@ -37090,12 +37090,12 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ebony Maw from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Ebony Maw from Avengers."
 },
  {
  "id": "wicked-avengers-cull-obsidian",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Cull Obsidian",
  "images": [
   "images/wicked/avengers/cull-obsidian/cull-obsidian-1.jpg",
@@ -37114,7 +37114,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cull Obsidian from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Cull Obsidian from Avengers."
 },
  {
  "id": "wicked-x-men-x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing",
@@ -45516,19 +45516,19 @@ const MODELS = [
  "description": "Original resin sculpt of Punisher Born Again from Daredevil."
 },
  {
- "id": "wicked-avengers-lady-deathstrike",
+ "id": "wicked-x-men-lady-deathstrike",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "X-Men",
  "title": "Lady Deathstrike",
  "images": [
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-1.jpg",
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-2.jpg",
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-3.jpg",
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-4.jpg",
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-5.jpg",
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-6.jpg",
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-7.jpg",
-  "images/wicked/avengers/lady-deathstrike/lady-deathstrike-8.jpg"
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-1.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-2.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-3.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-4.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-5.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-6.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-7.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -45537,7 +45537,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lady Deathstrike from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Lady Deathstrike from X-Men."
 },
  {
  "id": "wicked-the-last-of-us-last-of-us-diorama",
@@ -45848,7 +45848,7 @@ const MODELS = [
  {
  "id": "wicked-thanos-v2",
  "artist": "Wicked 3D",
- "series": "Avengers (Infinity Saga)",
+ "series": "Avengers",
  "title": "Thanos",
  "images": [
   "images/wicked/avengers/thanos-v2/thanos-v2-1.jpg",
@@ -45867,7 +45867,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thanos from Avengers (Infinity Saga)."
+ "description": "Original resin sculpt of Thanos from Avengers."
 },
  {
  "id": "wicked-omega-red-v2",
