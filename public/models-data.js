@@ -3635,7 +3635,7 @@ const MODELS = [
   "id": "abe-enchantress",
   "artist": "Abe3D",
   "series": "Avengers",
-  "title": "Enchantress",
+  "title": "Enchantress [Amora]",
   "images": [
    "images/abe3d/avengers/enchantress/abe-enchantress-1.jpg",
    "images/abe3d/avengers/enchantress/abe-enchantress-2.jpg",
@@ -3691,7 +3691,7 @@ const MODELS = [
   "id": "abe-gwen-stacy-lt3d",
   "artist": "Abe3D",
   "series": "Spider-Man",
-  "title": "Gwen Stacy LT3D",
+  "title": "Gwen Stacy",
   "images": [
    "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-1.jpg",
    "images/abe3d/spider-man/gwen-stacy-lt3d/abe-gwen-stacy-lt3d-2.jpg",
@@ -3801,7 +3801,7 @@ const MODELS = [
   "id": "abe-jessica-drew-spiderwoman",
   "artist": "Abe3D",
   "series": "Spider-Man",
-  "title": "Jessica Drew Spiderwoman",
+  "title": "Spiderwoman [Jessica Drew]",
   "images": [
    "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-1.jpg",
    "images/abe3d/spider-man/jessica-drew-spiderwoman/abe-jessica-drew-spiderwoman-2.jpg",
@@ -6377,7 +6377,7 @@ const MODELS = [
   "id": "abe-eve-racer_s-high-suit",
   "artist": "Abe3D",
   "series": "Stellar Blade",
-  "title": "Eve Racer's High Suit",
+  "title": "EVE [Racer's High ver]",
   "images": [
    "images/abe3d/stellar-blade/eve-racer_s-high-suit/abe-eve-racer_s-high-suit-1.jpg",
    "images/abe3d/stellar-blade/eve-racer_s-high-suit/abe-eve-racer_s-high-suit-2.jpg",
@@ -6401,7 +6401,7 @@ const MODELS = [
   "id": "abe-eve-skin-suit",
   "artist": "Abe3D",
   "series": "Stellar Blade",
-  "title": "Eve Skin Suit",
+  "title": "EVE [Skin Suit ver]",
   "images": [
    "images/abe3d/stellar-blade/eve-skin-suit/abe-eve-skin-suit-1.jpg",
    "images/abe3d/stellar-blade/eve-skin-suit/abe-eve-skin-suit-2.jpg",
@@ -7832,7 +7832,7 @@ const MODELS = [
   "id": "moonn-elastigirl",
   "artist": "3Dmoonn",
   "series": "The Incredibles",
-  "title": "Elastigirl",
+  "title": "Elastigirl [Helen Parr]",
   "images": [
    "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-1.jpg",
    "images/3dmoonn/the-incredibles/elastigirl/moonn-elastigirl-2.jpg",
@@ -7901,7 +7901,7 @@ const MODELS = [
   "id": "moonn-eve",
   "artist": "3Dmoonn",
   "series": "Stellar Blade",
-  "title": "Eve",
+  "title": "EVE",
   "images": [
    "images/3dmoonn/stellar-blade/eve/moonn-eve-1.jpg",
    "images/3dmoonn/stellar-blade/eve/moonn-eve-2.jpg",
@@ -8062,7 +8062,7 @@ const MODELS = [
   "id": "moonn-hinata-hyuga",
   "artist": "3Dmoonn",
   "series": "Naruto",
-  "title": "Hinata Hyuga",
+  "title": "Hinata",
   "images": [
    "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-1.jpg",
    "images/3dmoonn/naruto/hinata-hyuga/moonn-hinata-hyuga-2.jpg",
@@ -10155,7 +10155,7 @@ const MODELS = [
   "id": "moonn-ghislaine",
   "artist": "3Dmoonn",
   "series": "Mushoku Tensei",
-  "title": "Ghislaine",
+  "title": "Ghislaine Dedoldia",
   "images": [
    "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-1.jpg",
    "images/3dmoonn/mushoku-tensei/ghislaine/moonn-ghislaine-2.jpg",
@@ -10178,7 +10178,7 @@ const MODELS = [
   "id": "moonn-gojo",
   "artist": "3Dmoonn",
   "series": "Jujutsu Kaisen",
-  "title": "Gojo",
+  "title": "Satoru Gojo",
   "images": [
    "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-1.jpg",
    "images/3dmoonn/jujutsu-kaisen/gojo/moonn-gojo-2.jpg",
@@ -10291,7 +10291,7 @@ const MODELS = [
   "id": "moonn-invincible",
   "artist": "3Dmoonn",
   "series": "Invincible",
-  "title": "Invincible",
+  "title": "Invincible [Mark Grayson]",
   "images": [
    "images/3dmoonn/invincible/invincible/moonn-invincible-1.jpg",
    "images/3dmoonn/invincible/invincible/moonn-invincible-2.jpg",
@@ -10313,7 +10313,7 @@ const MODELS = [
   "id": "moonn-jessica-cruz",
   "artist": "3Dmoonn",
   "series": "Green Lantern",
-  "title": "Jessica Cruz",
+  "title": "Green Lantern [Jessica Cruz]",
   "images": [
    "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-1.jpg",
    "images/3dmoonn/green-lantern/jessica-cruz/moonn-jessica-cruz-2.jpg",
@@ -13910,7 +13910,7 @@ const MODELS = [
   "id": "bulka-frieren-white-dress",
   "artist": "Bulkamancer Sculpts",
   "series": "Frieren: Beyond Journey's End",
-  "title": "Frieren (White Dress)",
+  "title": "Frieren",
   "images": [
    "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-1.jpg",
    "images/bulkamancer/frieren/frieren-white-dress/bulka-frieren-white-dress-2.jpg",
@@ -15633,7 +15633,7 @@ const MODELS = [
   "id": "bulka-hinako",
   "artist": "Bulkamancer Sculpts",
   "series": "Silent Hill f",
-  "title": "Hinako",
+  "title": "Shimizu Hinako",
   "images": [
    "images/bulkamancer/silent-hill/hinako/bulka-hinako-1.jpg",
    "images/bulkamancer/silent-hill/hinako/bulka-hinako-2.jpg",
@@ -16908,7 +16908,7 @@ const MODELS = [
   "id": "tanuki-hollow-knight-extra",
   "artist": "Tanuki Figures",
   "series": "Hollow Knight",
-  "title": "Hollow Knight",
+  "title": "The Knight",
   "images": [
    "images/tanuki-figures/hollow-knight/hollow-knight-extra/hollow-knight-extra-1.jpg",
    "images/tanuki-figures/hollow-knight/hollow-knight-extra/hollow-knight-extra-2.jpg",
@@ -17028,7 +17028,7 @@ const MODELS = [
   "id": "tanuki-endeavor",
   "artist": "Tanuki Figures",
   "series": "My Hero Academia",
-  "title": "Endeavor",
+  "title": "Endeavor [Enji Todoroki]",
   "images": [
    "images/tanuki-figures/my-hero-academia/endeavor/endeavor-1.jpg",
    "images/tanuki-figures/my-hero-academia/endeavor/endeavor-2.jpg",
@@ -17929,7 +17929,7 @@ const MODELS = [
   "id": "tanuki-goku-ssj4",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball DAIMA",
-  "title": "Goku SSJ4",
+  "title": "Goku [SSJ4]",
   "images": [
    "images/tanuki-figures/dragon-ball/goku-ssj4/goku-ssj4-1.jpg",
    "images/tanuki-figures/dragon-ball/goku-ssj4/goku-ssj4-2.jpg",
@@ -19458,7 +19458,7 @@ const MODELS = [
   "id": "tanuki-geralt",
   "artist": "Tanuki Figures",
   "series": "The Witcher",
-  "title": "Geralt",
+  "title": "Geralt of Rivia",
   "images": [
    "images/tanuki-figures/the-witcher/geralt/geralt-1.jpg",
    "images/tanuki-figures/the-witcher/geralt/geralt-2.jpg",
@@ -19869,7 +19869,7 @@ const MODELS = [
   "id": "tanuki-gohan-ssj2",
   "artist": "Tanuki Figures",
   "series": "Dragon Ball Z",
-  "title": "Gohan SSJ2",
+  "title": "Gohan [SSJ2]",
   "images": [
    "images/tanuki-figures/dragon-ball-z/gohan-ssj2/gohan-ssj2-1.jpg",
    "images/tanuki-figures/dragon-ball-z/gohan-ssj2/gohan-ssj2-2.jpg",
@@ -22583,7 +22583,7 @@ const MODELS = [
   "id": "ca3d-eve",
   "artist": "CA3D Studios",
   "series": "Stellar Blade",
-  "title": "Eve",
+  "title": "EVE",
   "images": [
    "images/ca3d/stellar-blade/eve/eve-1.jpg",
    "images/ca3d/stellar-blade/eve/eve-2.jpg",
@@ -22801,7 +22801,7 @@ const MODELS = [
   "id": "ca3d-frankenstein",
   "artist": "CA3D Studios",
   "series": "Classic Horror",
-  "title": "Frankenstein",
+  "title": "Frankenstein's Monster",
   "images": [
    "images/ca3d/classic-horror/frankenstein/frankenstein-1.jpg",
    "images/ca3d/classic-horror/frankenstein/frankenstein-2.jpg",
@@ -22829,7 +22829,7 @@ const MODELS = [
   "id": "ca3d-frankenstein-bride",
   "artist": "CA3D Studios",
   "series": "Classic Horror",
-  "title": "Frankenstein Bride",
+  "title": "Bride of Frankenstein",
   "images": [
    "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-1.jpg",
    "images/ca3d/classic-horror/frankenstein-bride/frankenstein-bride-2.jpg",
@@ -22892,7 +22892,7 @@ const MODELS = [
   "id": "ca3d-geralt",
   "artist": "CA3D Studios",
   "series": "The Witcher",
-  "title": "Geralt",
+  "title": "Geralt of Rivia",
   "images": [
    "images/ca3d/the-witcher/geralt/geralt-1.jpg",
    "images/ca3d/the-witcher/geralt/geralt-2.jpg",
@@ -22951,7 +22951,7 @@ const MODELS = [
   "id": "ca3d-goku",
   "artist": "CA3D Studios",
   "series": "Dragon Ball Z",
-  "title": "Goku",
+  "title": "Goku [SSJ2]",
   "images": [
    "images/ca3d/dragon-ball-z/goku/goku-1.jpg",
    "images/ca3d/dragon-ball-z/goku/goku-2.jpg",
@@ -23220,7 +23220,7 @@ const MODELS = [
   "id": "ca3d-invisible-woman",
   "artist": "CA3D Studios",
   "series": "Fantastic Four",
-  "title": "Invisible Woman",
+  "title": "Invisible Woman [Sue Storm]",
   "images": [
    "images/ca3d/fantastic-four/invisible-woman/invisible-woman-1.jpg",
    "images/ca3d/fantastic-four/invisible-woman/invisible-woman-2.jpg",
@@ -23305,7 +23305,7 @@ const MODELS = [
   "id": "ca3d-itachi-uchiha",
   "artist": "CA3D Studios",
   "series": "Naruto",
-  "title": "Itachi Uchiha",
+  "title": "Itachi",
   "images": [
    "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-1.jpg",
    "images/ca3d/naruto/itachi-uchiha/itachi-uchiha-2.jpg",
@@ -23328,7 +23328,7 @@ const MODELS = [
   "id": "ca3d-ivy-valentine-soul-calibur",
   "artist": "CA3D Studios",
   "series": "Soulcalibur",
-  "title": "Ivy Valentine - Soul Calibur",
+  "title": "Ivy Valentine",
   "images": [
    "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-1.jpg",
    "images/ca3d/soul-calibur/ivy-valentine-soul-calibur/ivy-valentine-soul-calibur-2.jpg",
@@ -32911,7 +32911,7 @@ const MODELS = [
  "id": "esm-hela-marvel-rivals-ver",
  "artist": "ESMonster",
  "series": "Thor",
- "title": "Hela [Marvel Rivals ver]",
+ "title": "Hela",
  "images": [
   "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-1.jpg",
   "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-2.jpg",
@@ -33672,7 +33672,7 @@ const MODELS = [
  "id": "esm-eve",
  "artist": "ESMonster",
  "series": "Stellar Blade",
- "title": "Eve",
+ "title": "EVE",
  "images": [
   "images/esmonster/stellar-blade/eve/eve-1.jpg",
   "images/esmonster/stellar-blade/eve/eve-2.jpg",
@@ -33950,7 +33950,7 @@ const MODELS = [
  "id": "esm-forge",
  "artist": "ESMonster",
  "series": "X-Men",
- "title": "Forge",
+ "title": "Forge [Daniel Lone Eagle]",
  "images": [
   "images/esmonster/x-men/forge/forge-1.jpg",
   "images/esmonster/x-men/forge/forge-2.jpg",
@@ -35185,7 +35185,7 @@ const MODELS = [
  "id": "wicked-fantastic-four-wicked-promo-fantastic-four-diorama-complete",
  "artist": "Wicked 3D",
  "series": "Fantastic Four",
- "title": "FANTASTIC FOUR (Diorama)",
+ "title": "Fantastic 4 (Diorama)",
  "images": [
   "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-1.jpg",
   "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-2.jpg",
@@ -35399,7 +35399,7 @@ const MODELS = [
  "id": "wicked-the-witcher-geralt-de-rivia-and-ciri-diorama-complete",
  "artist": "Wicked 3D",
  "series": "The Witcher",
- "title": "Geralt de Rivia & Ciri (Diorama)",
+ "title": "Geralt of Rivia & Ciri (Diorama)",
  "images": [
   "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-1.jpg",
   "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-2.jpg",
@@ -35447,7 +35447,7 @@ const MODELS = [
  "id": "wicked-the-witcher-geralt-de-rivia",
  "artist": "Wicked 3D",
  "series": "The Witcher",
- "title": "Geralt de Rivia",
+ "title": "Geralt of Rivia",
  "images": [
   "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-1.jpg",
   "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-2.jpg",
@@ -35927,7 +35927,7 @@ const MODELS = [
  "id": "wicked-avengers-iron-man-and-tony-stark-sculptures-diorama-complete",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Iron Man & Tony Stark (Diorama)",
+ "title": "Tony Stark & Iron Man (Diorama)",
  "images": [
   "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-1.jpg",
   "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-2.jpg",
@@ -35975,7 +35975,7 @@ const MODELS = [
  "id": "wicked-avengers-iron-man-2023",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Iron Man 2023",
+ "title": "Iron Man",
  "images": [
   "images/wicked/avengers/iron-man-2023/iron-man-2023-1.jpg",
   "images/wicked/avengers/iron-man-2023/iron-man-2023-2.jpg",
@@ -36592,7 +36592,7 @@ const MODELS = [
  "id": "wicked-the-lord-of-the-rings-gandalf-and-balrog-diorama-complete",
  "artist": "Wicked 3D",
  "series": "The Lord of the Rings",
- "title": "Gandalf & Balrog (Diorama)",
+ "title": "Gandalf vs Balrog (Diorama)",
  "images": [
   "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-1.jpg",
   "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-2.jpg",
@@ -37801,7 +37801,7 @@ const MODELS = [
  "id": "wicked-avengers-hawkeye-avengers-diorama",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Hawkeye (Avengers) (Diorama)",
+ "title": "Hawkeye",
  "images": [
   "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-1.jpg",
   "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-2.jpg",
@@ -39247,7 +39247,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Gamora + Star Lord - Guardians of the Galaxy - (only base, no models) (Diorama)",
+ "title": "Gamora + Star Lord (Diorama)",
  "images": [
   "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-1.jpg",
   "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-2.jpg",
@@ -39294,7 +39294,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-gamora-sculpture-guardians-of-the-galaxy",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Gamora Sculpture: Guardians of the Galaxy",
+ "title": "Gamora",
  "images": [
   "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-1.jpg",
   "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-2.jpg",
@@ -39318,7 +39318,7 @@ const MODELS = [
  "id": "wicked-avengers-falcon-captain-america",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Falcon - Captain America",
+ "title": "Captain America [Sam Wilson]",
  "images": [
   "images/wicked/avengers/falcon-captain-america/falcon-captain-america-1.jpg",
   "images/wicked/avengers/falcon-captain-america/falcon-captain-america-2.jpg",
@@ -40172,7 +40172,7 @@ const MODELS = [
  "id": "wicked-avengers-hawkeye-2024",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Hawkeye 2024",
+ "title": "Hawkeye",
  "images": [
   "images/wicked/avengers/hawkeye-2024/hawkeye-2024-1.jpg",
   "images/wicked/avengers/hawkeye-2024/hawkeye-2024-2.jpg",
@@ -40992,7 +40992,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-gamora-comic-version",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Gamora Comic Version",
+ "title": "Gamora",
  "images": [
   "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-1.jpg",
   "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-2.jpg",
@@ -41039,7 +41039,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-groot-comic-version",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Groot Comic Version",
+ "title": "Groot",
  "images": [
   "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-1.jpg",
   "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-2.jpg",
@@ -41086,7 +41086,7 @@ const MODELS = [
  "id": "wicked-guardians-of-the-galaxy-groot-and-rocket-diorama-comic-version",
  "artist": "Wicked 3D",
  "series": "Guardians of the Galaxy",
- "title": "Groot & Rocket Comic Version (Diorama)",
+ "title": "Groot & Rocket (Diorama)",
  "images": [
   "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-1.jpg",
   "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-2.jpg",
@@ -41362,7 +41362,7 @@ const MODELS = [
  "id": "wicked-ghostbusters-egon",
  "artist": "Wicked 3D",
  "series": "Ghostbusters",
- "title": "Egon",
+ "title": "Egon Spengler",
  "images": [
   "images/wicked/ghostbusters/egon/egon-1.jpg",
   "images/wicked/ghostbusters/egon/egon-2.jpg",
@@ -41564,7 +41564,7 @@ const MODELS = [
  "id": "wicked-universal-monsters-frankenstein",
  "artist": "Wicked 3D",
  "series": "Universal Monsters",
- "title": "Frankenstein",
+ "title": "Frankenstein's Monster",
  "images": [
   "images/wicked/universal-monsters/frankenstein/frankenstein-1.jpg",
   "images/wicked/universal-monsters/frankenstein/frankenstein-2.jpg",
@@ -41900,7 +41900,7 @@ const MODELS = [
  "id": "wicked-avengers-falcon-sculpture-2024",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Falcon Sculpture 2024",
+ "title": "Captain America [Sam Wilson]",
  "images": [
   "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-1.jpg",
   "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-2.jpg",
@@ -41972,7 +41972,7 @@ const MODELS = [
  "id": "wicked-the-grinch-grinch-cindy-and-dog-diorama",
  "artist": "Wicked 3D",
  "series": "The Grinch",
- "title": "Grinch, Cindy & Dog (Diorama)",
+ "title": "Grinch, Cindy Lou & Max (Diorama)",
  "images": [
   "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-1.jpg",
   "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-2.jpg",
@@ -41996,7 +41996,7 @@ const MODELS = [
  "id": "wicked-the-grinch-grinch-jim-carry",
  "artist": "Wicked 3D",
  "series": "The Grinch",
- "title": "Grinch (Jim Carrey)",
+ "title": "Grinch [Jim Carrey]",
  "images": [
   "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-1.jpg",
   "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-2.jpg",
@@ -43115,7 +43115,7 @@ const MODELS = [
  "id": "wicked-x-men-forge",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Forge",
+ "title": "Forge [Daniel Lone Eagle]",
  "images": [
   "images/wicked/x-men/forge/forge-1.jpg",
   "images/wicked/x-men/forge/forge-2.jpg",
@@ -43619,7 +43619,7 @@ const MODELS = [
  "id": "wicked-avengers-iron-man-2025",
  "artist": "Wicked 3D",
  "series": "Avengers",
- "title": "Iron Man 2025",
+ "title": "Iron Man",
  "images": [
   "images/wicked/avengers/iron-man-2025/iron-man-2025-1.jpg",
   "images/wicked/avengers/iron-man-2025/iron-man-2025-2.jpg",
@@ -44495,7 +44495,7 @@ const MODELS = [
  "id": "wicked-elf-elf",
  "artist": "Wicked 3D",
  "series": "Elf",
- "title": "Elf",
+ "title": "Buddy the Elf",
  "images": [
   "images/wicked/elf/elf/elf-1.jpg",
   "images/wicked/elf/elf/elf-2.jpg",
@@ -44796,7 +44796,7 @@ const MODELS = [
  "id": "wicked-x-men-jean",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Jean",
+ "title": "Jean Grey",
  "images": [
   "images/wicked/x-men/jean/jean-1.jpg",
   "images/wicked/x-men/jean/jean-2.jpg",
