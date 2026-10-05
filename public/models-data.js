@@ -27941,7 +27941,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
+ "description": "An adventurous take on Zelda: armored bikini top, belted shorts and thigh-high boots, posed on a mossy rock with one arm raised behind her head."
 },
  {
  "id": "esm-princess-zelda-v3",
@@ -27972,7 +27972,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
+ "description": "Zelda kneels on the sand in a mint-green bikini, tattoo sleeves and Sheikah hair clips adding a modern twist."
 },
  {
  "id": "esm-princess-zelda-v2",
@@ -28000,7 +28000,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Princess Zelda from The Legend of Zelda."
+ "description": "Zelda in a bold black sling swimsuit, braided crown and Sheikah emblem catching the light as she adjusts a strap."
 },
  {
  "id": "esm-starfire",
@@ -28024,7 +28024,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Starfire from Teen Titans."
+ "description": "Starfire strikes a confident pose in her purple cut-out suit, flowing red hair and glowing green eyes."
 },
  {
  "id": "esm-wonder-woman-v2",
@@ -28049,7 +28049,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wonder Woman from Wonder Woman."
+ "description": "Wonder Woman bursts forward with her golden shield raised, red-and-blue armor gleaming and spears flying around her."
 },
  {
  "id": "esm-wonder-woman-v1",
@@ -28079,7 +28079,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wonder Woman from Wonder Woman."
+ "description": "Wonder Woman stands tall with sword and shield on a Themysciran base bearing her iconic emblem."
 },
  {
  "id": "esm-laura-croft-v1",
@@ -28132,7 +28132,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Laura Croft from Tomb Raider."
+ "description": "Lara Croft in her adventurer's tank top and holsters, pistol raised and backpack slung, ready for the next tomb."
 },
  {
  "id": "esm-laura-croft-v3",
@@ -28166,7 +28166,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Laura Croft from Tomb Raider."
+ "description": "Lara Croft suited up in a sleek black wetsuit, dive mask pushed up and pistol in hand for an underwater expedition."
 },
  {
  "id": "esm-squirrel-girl",
@@ -28194,7 +28194,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Squirrel Girl from Marvel Comics."
+ "description": "Squirrel Girl peeks back with a cheeky pout, bushy tail curled high and her cozy cardigan slipping off one shoulder."
 },
  {
  "id": "esm-spider-man",
@@ -28231,7 +28231,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider-Man from Spider-Man."
+ "description": "A gritty, battle-scarred Spider-Man with a torn mask revealing a bruised face, his classic suit patched and worn."
 },
  {
  "id": "esm-frieren",
@@ -28252,7 +28252,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Frieren from Frieren: Beyond Journey's End."
+ "description": "Frieren in a playful pin-up pose, perched on a mimic chest with her staff in hand and tentacles curling below."
 },
  {
  "id": "esm-batman-v1",
@@ -28283,7 +28283,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Batman from Batman."
+ "description": "Batman leaps from the gates of Arkham Asylum, cape spread wide as bats scatter around him."
 },
  {
  "id": "esm-batman-v2",
@@ -28310,7 +28310,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Batman from Batman."
+ "description": "Batman stands guard atop a mossy ledge in his classic blue-and-gray suit, fist clenched and cape flowing."
 },
  {
  "id": "esm-marle-barrock",
@@ -28340,7 +28340,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Marle Barrock from Reincarnation Coliseum."
+ "description": "Marle Barrock flexes with arms overhead, pink-and-cream hair framing a fierce glare in her fitted top."
 },
  {
  "id": "esm-amazon-v1",
@@ -28357,7 +28357,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Amazon from Dragon's Crown."
+ "description": "An Amazon warrior poised with spear in hand, golden curls flowing and tribal tattoos tracing her legs."
 },
  {
  "id": "esm-amazon-v2",
@@ -28379,7 +28379,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Amazon from Dragon's Crown."
+ "description": "The Amazon rides a sleek black panther across a rocky outcrop, golden hair streaming behind her."
 },
  {
  "id": "esm-booette",
@@ -28439,7 +28439,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Booette from Super Mario."
+ "description": "Booette, the ghostly princess, glows pale and pretty with lavender eyes, white ruffles and a playful smirk."
 },
  {
  "id": "esm-kingpin",
@@ -28464,7 +28464,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kingpin from Marvel Comics."
+ "description": "Kingpin stands imposing in his pinstriped white suit, diamond-tipped cane in hand and an icy glare."
 },
  {
  "id": "esm-motoko-kusanagi-v2",
@@ -28488,7 +28488,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
+ "description": "A cyberpunk Motoko Kusanagi in a sheer mesh bodysuit, pistol ready and violet hair catching the neon."
 },
  {
  "id": "esm-motoko-kusanagi-v1-",
@@ -28519,7 +28519,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Motoko Kusanagi from Ghost in the Shell."
+ "description": "Major Kusanagi in her tactical jacket and leotard, rifle raised and gear strapped tight for the mission."
 },
  {
  "id": "esm-yoruichi-shihoin-v1",
@@ -28538,7 +28538,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Yoruichi Shihoin from Bleach."
+ "description": "Yoruichi Shihoin in a playful crouch, purple ponytail swinging and her flash-step gauntlets on."
 },
  {
  "id": "esm-yoruichi-shihoin-v2",
@@ -28559,7 +28559,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Yoruichi Shihoin from Bleach."
+ "description": "Yoruichi strikes a confident hand-on-hip pose in her backless leotard and white scarf."
 },
  {
  "id": "esm-black-cat-v1",
@@ -28585,7 +28585,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Cat from Spider-Man."
+ "description": "Black Cat flaunts her stolen Infinity Gauntlet, platinum hair cascading over her fur-trimmed suit."
 },
  {
  "id": "esm-black-cat-v2",
@@ -28607,7 +28607,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Cat from Spider-Man."
+ "description": "Black Cat crouches low in her sleek catsuit and fur trim, platinum hair whipping in the wind."
 },
  {
  "id": "esm-chun-li-black-haired-asian-swimsuit-girl",
@@ -28639,7 +28639,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chun-Li from Street Fighter."
+ "description": "Chun-Li in a modern athletic look, cropped qipao top and high-waisted leggings, throwing a confident peace sign."
 },
  {
  "id": "esm-chun-li-black-haired-asian-swimsuit-girl-id-725426",
@@ -28674,7 +28674,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chun-Li from Street Fighter."
+ "description": "Chun-Li stretches in a blue swirl-print bikini, ox-horn buns and ribbons flowing."
 },
  {
  "id": "esm-chun-li-black-haired-asian-swimsuit-girlincludes-3-versions",
@@ -28723,7 +28723,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chun-Li from Street Fighter."
+ "description": "Classic Chun-Li launches a high kick in her blue qipao and spiked bracelets, three versions included."
 },
  {
  "id": "esm-tifa-lockhart",
@@ -28742,7 +28742,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Tifa Lockhart from Final Fantasy VII."
+ "description": "Tifa Lockhart from Final Fantasy VII Remake in her white tank top and suspenders, gloves on and ready to brawl."
 },
  {
  "id": "esm-vampirella",
@@ -28762,7 +28762,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Vampirella from Vampirella."
+ "description": "Vampirella lounges on a dark throne in her iconic red sling suit, a horned skull at her side."
 },
  {
  "id": "esm-artoria-pendragon-alter",
@@ -28790,7 +28790,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Artoria Pendragon Alter from Fate (Series)."
+ "description": "Artoria Pendragon Alter charges in dark, horned armor, blonde hair whipping wild in a bold, revealing take."
 },
  {
  "id": "esm-tier-harribel",
@@ -28816,7 +28816,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Tier Harribel from Bleach."
+ "description": "Tier Harribel stands in her open Espada jacket, mask covering her lower face, in a daring, revealing take."
 },
  {
  "id": "esm-tsunade",
@@ -28843,7 +28843,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Tsunade from Naruto."
+ "description": "Tsunade in a relaxed, realistic look, open robe draped over her shoulders and her diamond seal on her brow."
 },
  {
  "id": "esm-seras-victoria",
@@ -28864,7 +28864,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Seras Victoria from Hellsing."
+ "description": "Seras Victoria glances back in her yellow Hellsing uniform, her massive Harkonnen cannon slung at her side."
 },
  {
  "id": "esm-power",
@@ -28886,7 +28886,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Power from Chainsaw Man."
+ "description": "Power poses barefoot in an oversized white shirt, horns peeking out and her blood scythe trailing behind her."
 },
  {
  "id": "esm-beast",
@@ -28922,7 +28922,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Beast from X-Men."
+ "description": "Hank McCoy, the Beast, adjusts his glasses with a thoughtful pose, furry blue physique on full display."
 },
  {
  "id": "esm-maki-oze",
@@ -28942,7 +28942,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Maki Oze from Fire Force."
+ "description": "Maki Oze of Fire Force in her witch hat and fire-brigade jacket, striking a powerful stance."
 },
  {
  "id": "esm-bulma-v1",
@@ -28964,7 +28964,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bulma from Dragon Ball."
+ "description": "Bulma perches on her Capsule Corp motorcycle in her BULMA crop tee and denim shorts, goggles around her neck."
 },
  {
  "id": "esm-bulma-v2",
@@ -28984,7 +28984,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bulma from Dragon Ball."
+ "description": "Bulma strikes a sassy pose in her BULMA crop top and shoulder pads, goggles on her collar and hand on her hip."
 },
  {
  "id": "esm-d-va",
@@ -29005,7 +29005,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of D.Va from Overwatch."
+ "description": "D.Va in her blue pilot suit with pink trim and whisker marks, light gun drawn and long hair whipping behind her."
 },
  {
  "id": "esm-quiet",
@@ -29033,7 +29033,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Quiet from Metal Gear Solid 5."
+ "description": "Quiet stands ready with her sniper rifle over one shoulder, tactical straps, torn stockings and a steely stare."
 },
  {
  "id": "esm-harley-quinn",
@@ -29055,7 +29055,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Harley Quinn from Batman."
+ "description": "Harley Quinn in her red-and-black harlequin bodysuit, giant mallet planted at her side and pigtails flying."
 },
  {
  "id": "esm-jinx",
@@ -29088,7 +29088,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jinx from League of Legends."
+ "description": "Jinx leans back with her shark-toothed launcher Fishbones, blue hair and striped pants straight out of Arcane."
 },
  {
  "id": "esm-cammy-white-chibi",
@@ -29115,7 +29115,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cammy White (Chibi) from Street Fighter."
+ "description": "A pint-sized chibi Cammy in her green leotard and red beret, braids swinging and fists up for a fight."
 },
  {
  "id": "esm-ada-wong-v1",
@@ -29140,7 +29140,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ada Wong from Resident Evil 4."
+ "description": "Ada Wong in her slit red qipao, pistol raised and thigh holster strapped, poised for a mission."
 },
  {
  "id": "esm-ada-wong-v2-suntanned-ver",
@@ -29194,7 +29194,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ada Wong from Resident Evil 4."
+ "description": "A suntanned Ada Wong relaxes in a red bikini, tattoo sleeve on her arm and sleek bob framing her smile."
 },
  {
  "id": "esm-ada-wong-v3",
@@ -29220,7 +29220,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ada Wong from Resident Evil 4."
+ "description": "Ada Wong dual-wields her grapple gun and pistol in a red halter dress, sharp-eyed and ready to act."
 },
  {
  "id": "esm-chompette-chompette-by-esm",
@@ -29262,7 +29262,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chompette from Super Mario."
+ "description": "Chompette, the Chain Chomp princess, flashes a toothy grin in her crown and black bodysuit, holding a potted Piranha Plant."
 },
  {
  "id": "esm-chompette-fit-bad-girl",
@@ -29318,7 +29318,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chompette from Super Mario."
+ "description": "Fit 'bad girl' Chompette flexes in a shark-tooth-print top and spiked collar, crown perched on her bob."
 },
  {
  "id": "esm-the-blob",
@@ -29373,7 +29373,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Blob from X-Men."
+ "description": "The Blob grins in his skin-tight uniform, massive belly and arms ready to bounce any attack right back."
 },
  {
  "id": "esm-alita",
@@ -29397,7 +29397,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Alita from Alita: Battle Angel."
+ "description": "Alita stands battle-ready in her sleek black Berserker body, Damascus blade drawn and big eyes focused."
 },
  {
  "id": "esm-esdeath",
@@ -29426,7 +29426,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Esdeath from Akame ga Kill!."
+ "description": "Esdeath, the ice queen, rests her rapier on her shoulder in her military cap and fitted white uniform."
 },
  {
  "id": "esm-makima-v1",
@@ -29447,7 +29447,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Makima from Chainsaw Man."
+ "description": "Makima lounges on a golden throne with a sinister smile, a little winged devil perched on her hand."
 },
  {
  "id": "esm-makima-v2",
@@ -29486,7 +29486,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Makima from Chainsaw Man."
+ "description": "A dominatrix-styled Makima in black leather straps, whip in hand and her red braid over her shoulder."
 },
  {
  "id": "esm-lady-deadpool",
@@ -29518,7 +29518,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lady Deadpool from Deadpool."
+ "description": "Lady Deadpool stands confident in her red-and-black suit, katanas on her back and blonde hair flowing."
 },
  {
  "id": "esm-wanda-maximoff",
@@ -29542,7 +29542,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wanda Maximoff from Marvel Comics."
+ "description": "Wanda Maximoff in her crimson corset and iconic crown, chaos magic swirling red around her."
 },
  {
  "id": "esm-rias-gremory",
@@ -29564,7 +29564,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rias Gremory from High School DxD."
+ "description": "Rias Gremory kneels with devil wings spread wide, long crimson hair flowing in a bold, daring pose."
 },
  {
  "id": "esm-triss-merigold",
@@ -29586,7 +29586,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Triss Merigold from The Witcher."
+ "description": "Triss Merigold in her quilted leather and green jacket, fiery red hair framing a warm smile."
 },
  {
  "id": "esm-taki",
@@ -29623,7 +29623,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Taki from Soulcalibur."
+ "description": "Taki leaps mid-strike in her red bodysuit, twin kunai drawn and ponytail whipping behind her."
 },
  {
  "id": "esm-darth-talon",
@@ -29660,7 +29660,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Darth Talon from Star Wars."
+ "description": "Darth Talon, the tattooed Twi'lek Sith, holds her lightsaber hilt aloft with a menacing gaze."
 },
  {
  "id": "esm-sadako-v1",
@@ -29685,7 +29685,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sadako from The Ring."
+ "description": "A haunting pin-up Sadako, long black hair falling over a pale face as she rises in a white dress."
 },
  {
  "id": "esm-sadako-v2",
@@ -29709,7 +29709,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sadako from The Ring."
+ "description": "Sadako crawls forward in a slipping white robe, hair cascading and eyes cold."
 },
  {
  "id": "esm-malice-v1",
@@ -29736,7 +29736,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Malice from Fantastic Four."
+ "description": "Malice from Marvel Rivals in her spiked crown and dark armor, clawed hand raised menacingly."
 },
  {
  "id": "esm-malice-v2",
@@ -29763,7 +29763,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Malice from Fantastic Four."
+ "description": "Malice poses with her whip-like tendrils and spiked headdress, glowing eyes peering through her visor."
 },
  {
  "id": "esm-punchline",
@@ -29791,7 +29791,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Punchline from DC Comics."
+ "description": "Punchline, the Joker's protégé, smirks in her purple-and-black jacket with her signature high ponytail."
 },
  {
  "id": "esm-evelynn-kda",
@@ -29809,7 +29809,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Evelynn [K/DA ver] from League of Legends."
+ "description": "K/DA Evelynn blows a kiss in her pop-star outfit, lavender hair and fishnet stockings in full idol glam."
 },
  {
  "id": "esm-lulu",
@@ -29834,7 +29834,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lulu from Final Fantasy X."
+ "description": "Lulu in her lace corset and fur-trimmed gown, Moogle doll tucked against her and hair pins gleaming."
 },
  {
  "id": "esm-sara-pezzini",
@@ -29855,7 +29855,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sara Pezzini from Witchblade."
+ "description": "Sara Pezzini channels the Witchblade, its living armor coiling around her body and gauntlet."
 },
  {
  "id": "esm-madelyne-pryor-red-queen-goblin-queen",
@@ -29883,7 +29883,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Madelyne Pryor [Red Queen/Goblin Queen] from X-Men."
+ "description": "Madelyne Pryor as the Goblin Queen, fiery red curls and glowing eyes, in her dark scaled bodysuit."
 },
  {
  "id": "esm-wednesday",
@@ -29911,7 +29911,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wednesday Addams from Addams Family."
+ "description": "Wednesday Addams glances back over her shoulder in a black swimsuit, braids down and deadpan as ever."
 },
  {
  "id": "esm-morrigan-v1",
@@ -29935,7 +29935,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Morrigan Aensland from Darkstalkers."
+ "description": "Morrigan Aensland stretches with arms raised, bat wings spread and green hair cascading over her black bodysuit."
 },
  {
  "id": "esm-morrigan-aensland-v2",
@@ -29957,7 +29957,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Morrigan Aensland from Darkstalkers."
+ "description": "Morrigan Aensland lounges with a playful look, wings framing her and green hair falling around her."
 },
  {
  "id": "esm-lilith-aensland",
@@ -29980,7 +29980,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lilith Aensland from Darkstalkers."
+ "description": "Lilith Aensland perches in her red bodysuit and bat-print leggings, small bat wings atop her head."
 },
  {
  "id": "esm-bowsette-dark-themed-princess-swimsuit-ver",
@@ -30002,7 +30002,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bowsette from Super Mario."
+ "description": "Bowsette offers a Super Mushroom with a smirk, golden crown and horns topping her blonde hair in a sleek black suit."
 },
  {
  "id": "esm-bowsette-dark-themed-princess-suntanned-ver",
@@ -30056,7 +30056,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bowsette from Super Mario."
+ "description": "A suntanned Bowsette in a black bikini top, crown and horns in place, tattoo sleeve on full display."
 },
  {
  "id": "esm-bowsette-villain-princess",
@@ -30086,7 +30086,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bowsette from Super Mario."
+ "description": "Bowsette kneels on her base with a fierce glare, spiked collar and shell-studded outfit in villain-princess style."
 },
  {
  "id": "esm-ghislaine-dedoldia",
@@ -30107,7 +30107,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ghislaine Dedoldia from Mushoku Tensei."
+ "description": "Ghislaine Dedoldia, the Sword King, grins in her fur mantle and eyepatch, her blade resting over her shoulder."
 },
  {
  "id": "esm-black-widow",
@@ -30133,7 +30133,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Widow from Black Widow."
+ "description": "Black Widow stands poised in her sleek tactical catsuit, red hair framing a cool, confident gaze."
 },
  {
  "id": "esm-widowmaker",
@@ -30158,7 +30158,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Widowmaker from Overwatch."
+ "description": "Widowmaker crouches low, Widow's Kiss rifle at the ready, with her visor raised and violet skin catching the light."
 },
  {
  "id": "esm-albedo-armored-v1",
@@ -30181,7 +30181,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Albedo [Armored] from Overlord."
+ "description": "Albedo clad in her black Hermes Trismegistus armor, horns curling and long hair sweeping behind her."
 },
  {
  "id": "esm-albedo",
@@ -30215,7 +30215,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Albedo [Armored] from Overlord."
+ "description": "Albedo stands in a sleek black bodysuit, horns and dark wings framing her with an elegant, alluring gaze."
 },
  {
  "id": "esm-scanty-kneesocks",
@@ -30265,7 +30265,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Scanty & Kneesocks from Panty & Stocking with Garterbelt."
+ "description": "Demon sisters Scanty and Kneesocks pose back-to-back in their sleek suits, horns and bat wings spread."
 },
  {
  "id": "esm-malevola",
@@ -30292,7 +30292,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Malevola from Dispatch."
+ "description": "Malevola, the Dispatch demon, hoists her spear over her shoulder in a white tank and denim shorts, tail swishing."
 },
  {
  "id": "esm-menat",
@@ -30353,7 +30353,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Menat from Street Fighter."
+ "description": "Menat, the Egyptian fortune-teller, poses in her mummy-wrap outfit and golden headdress, hand raised."
 },
  {
  "id": "esm-holli-would",
@@ -30371,7 +30371,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Holli Would from Cool World."
+ "description": "Holli Would of Cool World, platinum curls and a sparkling white gown, cocktail glass in hand."
 },
  {
  "id": "esm-mavis-dracula-v1",
@@ -30398,7 +30398,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mavis Dracula from Hotel Transylvania."
+ "description": "Mavis Dracula in her black dress and striped stockings, hands raised in a playful vampire pose."
 },
  {
  "id": "esm-mavis-dracula-v2",
@@ -30424,7 +30424,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mavis Dracula from Hotel Transylvania."
+ "description": "Mavis Dracula sits curled up on a round base, chin on her knees and sneakers on, looking adorably moody."
 },
  {
  "id": "esm-elektra",
@@ -30451,7 +30451,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Elektra from Daredevil."
+ "description": "Elektra leaps forward in her red wraps and headband, twin sai drawn and black hair flowing behind her."
 },
  {
  "id": "esm-cyclops",
@@ -30485,7 +30485,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cyclops from X-Men."
+ "description": "Cyclops stands arms crossed in his blue-and-gold suit, visor glowing beside a molten rock formation."
 },
  {
  "id": "esm-bunny",
@@ -30511,7 +30511,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bunny from The First Descendant."
+ "description": "Bunny in her white-and-chrome mech suit, bunny-ear helmet visor down and heavy rifle at the ready."
 },
  {
  "id": "esm-dejah-thoris",
@@ -30533,7 +30533,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dejah Thoris from Barsoom. Shown in the Bikini Armor version -- Nipple Coverings and Topless versions are also available; contact us to custom order."
+ "description": "Dejah Thoris, Princess of Mars, poses in golden jewelry and headdress, arms raised gracefully overhead."
 },
  {
  "id": "esm-sorceress",
@@ -30564,7 +30564,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sorceress of Castle Grayskull from Masters of the Universe."
+ "description": "The Sorceress of Castle Grayskull spreads her falcon wings, wearing her iconic feathered falcon helmet."
 },
  {
  "id": "esm-a2-v1",
@@ -30585,7 +30585,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of A2 from NieR:Automata."
+ "description": "A2 runs a hand through her long silver hair in her black combat leotard, cool and resolute."
 },
  {
  "id": "esm-magik-illyana-rasputin-fiery-soulsword-sorceress-includes-2-versions",
@@ -30608,7 +30608,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Magik | Illyana Rasputin from X-Men."
+ "description": "Magik leaps forward in her dark armored gear, Soulsword blazing as she charges out of Limbo."
 },
  {
  "id": "esm-magik-illyana-rasputin-limbo-sword-sorceress",
@@ -30643,7 +30643,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Magik | Illyana Rasputin from X-Men."
+ "description": "Magik stands amid Limbo's flames, her glowing Soulsword in hand and blonde hair whipping in the heat."
 },
  {
  "id": "esm-pyro",
@@ -30669,7 +30669,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Pyro from X-Men."
+ "description": "Pyro grins in his orange-and-yellow suit, flame cannons arcing a ribbon of fire overhead."
 },
  {
  "id": "esm-ranni-the-witch",
@@ -30689,7 +30689,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ranni the Witch from Elden Ring."
+ "description": "Ranni the Witch glances back beneath her wide witch hat, pale blue skin and runic tattoos glowing."
 },
  {
  "id": "esm-ahri",
@@ -30717,7 +30717,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ahri [K/DA ver] from League of Legends."
+ "description": "K/DA Ahri poses in her blue qipao-style outfit, fox ears perked and spirit tails curling around her."
 },
  {
  "id": "esm-reika-shimohira",
@@ -30738,7 +30738,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Reika Shimohira from Gantz."
+ "description": "Reika Shimohira of Gantz in her sleek black suit, katana raised as long dark hair flows behind her."
 },
  {
  "id": "esm-faye-valentine-v1",
@@ -30763,7 +30763,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+ "description": "Faye Valentine perches on a bar stool in her yellow top and shorts, cigarette in hand and a sly glance."
 },
  {
  "id": "esm-faye-valentine-v2",
@@ -30786,7 +30786,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+ "description": "Faye Valentine relaxes in a yellow bikini, tattoo sleeve on full display and headband in place."
 },
  {
  "id": "esm-faye-valentine-v3",
@@ -30809,7 +30809,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+ "description": "Faye Valentine leans forward in a yellow bikini top, her violet bob framing a teasing look."
 },
  {
  "id": "esm-samus-aran",
@@ -30837,7 +30837,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Samus Aran from Metroid."
+ "description": "Zero Suit Samus aims her paralyzer pistol, ponytail swinging and her teal bodysuit shimmering."
 },
  {
  "id": "esm-invincible-mark-grayson",
@@ -30860,7 +30860,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Invincible | Mark Grayson from Invincible."
+ "description": "Invincible stands fists clenched in his yellow-and-blue suit, goggles pushed up and ready for a fight."
 },
  {
  "id": "esm-samus-aran-power-suit",
@@ -30886,7 +30886,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Samus Aran [Power Suit] from Metroid."
+ "description": "Samus Aran half-suited in her orange Power Suit, helmet off and blonde ponytail flowing."
 },
  {
  "id": "esm-maelle",
@@ -30906,7 +30906,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Maelle from Clair Obscur: Expedition 33."
+ "description": "Maelle of Clair Obscur, freckled and fiery-haired, in her ornate black-and-gold coat with a quiet smile."
 },
  {
  "id": "esm-batgirl",
@@ -30939,7 +30939,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Batgirl | Barbara Gordon from Batman."
+ "description": "Batgirl stands watch in her sleek black suit with golden bat emblem and red hair sweeping out of her cowl."
 },
  {
  "id": "esm-shego",
@@ -30974,7 +30974,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Shego from Kim Possible."
+ "description": "Shego smirks with green plasma flames blazing in both hands, her black-and-green catsuit gleaming."
 },
  {
  "id": "esm-rogue-green-suit-mutant-p1",
@@ -31000,7 +31000,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rogue from X-Men."
+ "description": "Rogue pulls on her yellow gloves in her green-and-yellow suit and bomber jacket, white streak front and center."
 },
  {
  "id": "esm-rogue-green-suit-mutant-p2",
@@ -31043,7 +31043,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rogue from X-Men."
+ "description": "Rogue in her classic green-and-yellow suit and brown bomber jacket, tugging on her gloves with a confident look."
 },
  {
  "id": "esm-rogue-green-suit-mutant-p3",
@@ -31077,7 +31077,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rogue from X-Men."
+ "description": "Rogue flexes with a playful grin in her green-and-yellow suit and leather jacket, white streak swept back."
 },
  {
  "id": "esm-pennywise-fem-ver",
@@ -31100,7 +31100,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Pennywise [Fem ver] from IT."
+ "description": "A gender-swapped Pennywise in a frilly clown dress and pom-pom pigtails, red balloon in hand and a wicked grin."
 },
  {
  "id": "esm-doom-slayer",
@@ -31123,7 +31123,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Doom Slayer [Fem ver] from Doom."
+ "description": "A female Doom Slayer in full Praetor Suit armor, helmet visor gleaming and arm cannon ready to rip and tear."
 },
  {
  "id": "esm-karlach",
@@ -31157,7 +31157,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Karlach from Baulder's Gate 3."
+ "description": "Karlach rests her massive greataxe on her shoulder, horns curling and infernal tattoos glowing on her skin."
 },
  {
  "id": "esm-draenei",
@@ -31187,7 +31187,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Draenei from World of Warcraft."
+ "description": "A graceful Draenei huntress, curved horns and tendrils framing her face as she draws her bow."
 },
  {
  "id": "esm-terry-bogard",
@@ -31214,7 +31214,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Terry Bogard from King of Fighters series."
+ "description": "Terry Bogard leans against a Neo Geo arcade cabinet in his Fatal Fury cap, red vest and fingerless gloves."
 },
  {
  "id": "esm-fran",
@@ -31236,7 +31236,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Fran from Final Fantasy XII."
+ "description": "Fran the Viera sky pirate in her dark armored lingerie and headdress, longbow at the ready."
 },
  {
  "id": "esm-superman",
@@ -31273,7 +31273,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Superman from Superman."
+ "description": "A powerful, classic Superman with chiseled features and a sweeping red cape, standing tall above a base of Kryptonian crystal."
 },
  {
  "id": "esm-satsuki-kiryuin",
@@ -31296,7 +31296,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Satsuki Kiryuin from Kill la Kill."
+ "description": "Satsuki Kiryuin stands imperious in Junketsu, hands resting on her sword hilt and wing-like pauldrons flared."
 },
  {
  "id": "esm-she-hulk",
@@ -31317,7 +31317,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of She-Hulk | Jennifer Walters from Marvel Comics."
+ "description": "Jennifer Walters, the Sensational She-Hulk, flexes in her purple-and-white suit, glasses perched on her head."
 },
  {
  "id": "esm-rei-ayanami",
@@ -31339,7 +31339,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rei Ayanami from Neon Genesis Evangelion."
+ "description": "Rei Ayanami stands calm in her white plugsuit, blue hair and red eyes, on a simple round display base."
 },
  {
  "id": "esm-mirko-v1",
@@ -31362,7 +31362,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mirko from My Hero Academia."
+ "description": "Mirko, the Rabbit Hero, flexes in her white suit with long white hair and bunny ears sweeping back."
 },
  {
  "id": "esm-mirko-v2",
@@ -31383,7 +31383,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mirko from My Hero Academia."
+ "description": "Off-duty Mirko skates over a SMASH sign in a crop tee and cap, bunny ears poking through."
 },
  {
  "id": "esm-cammy-white-killer-bee-soldier-p1-bikini-ver",
@@ -31415,7 +31415,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cammy White from Street Fighter."
+ "description": "Cammy flexes in a green bikini, braids swinging and battle scars showing her Killer Bee toughness."
 },
  {
  "id": "esm-cammy-white-killer-bee-soldier-p3-bikini-ver",
@@ -31442,7 +31442,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cammy White from Street Fighter."
+ "description": "Beach-day Cammy in a blue bikini and wide sun hat, holding an ice cream cone with her braids trailing down."
 },
  {
  "id": "esm-cammy-white-killer-bee-soldier-p6",
@@ -31497,7 +31497,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cammy White from Street Fighter."
+ "description": "Cammy in her classic green leotard and red beret, arms crossed and gauntlets on, Killer Bee stare locked in."
 },
  {
  "id": "esm-cammy-white-killer-bee-soldier-military-ver",
@@ -31535,7 +31535,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cammy White from Street Fighter."
+ "description": "Cammy in her Delta Red blue military suit and cap, hands on hips and ready for duty."
 },
  {
  "id": "esm-cammy-white-killer-bee-soldier-includes-3-versions",
@@ -31580,7 +31580,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cammy White from Street Fighter."
+ "description": "Cammy springs into a Cannon Spike in her green leotard and red gauntlets, three versions included."
 },
  {
  "id": "esm-cammy-white-killer-bee-soldierp2-bikini-ver",
@@ -31603,7 +31603,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cammy White from Street Fighter."
+ "description": "Resort Cammy in a blue bikini, sun hat, tote bag and cocktail in hand, on a wooden boardwalk base."
 },
  {
  "id": "esm-juri-han-korean-style-villain-fighter-girl-includes-3-poses",
@@ -31631,7 +31631,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Juri Han from Street Fighter."
+ "description": "Juri Han flashes a devilish peace sign in her SF6 outfit, horn-like buns and neon accents, three poses included."
 },
  {
  "id": "esm-juri-han-korean-style-villain-fighter-girl-swimsuit-ver",
@@ -31674,7 +31674,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Juri Han from Street Fighter."
+ "description": "Juri Han stretches in a strappy black swimsuit, hair buns and pink streaks catching the light."
 },
  {
  "id": "esm-magneto",
@@ -31704,7 +31704,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Magneto from X-Men."
+ "description": "Magneto in his weathered later-years look, silver hair flowing and dark cape around his black-and-white suit."
 },
  {
  "id": "esm-storm",
@@ -31741,7 +31741,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Storm from X-Men."
+ "description": "Storm summons lightning from her hand, white cape billowing around her white suit and flowing hair."
 },
  {
  "id": "esm-riju-totk",
@@ -31758,7 +31758,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Riju [TotK] from The Legend of Zelda."
+ "description": "Riju, Gerudo chief, sits on a cushioned chest in her golden headdress, on a hobby-desk diorama with paint bottles."
 },
  {
  "id": "esm-jessie",
@@ -31785,7 +31785,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jessie from pokémon."
+ "description": "Jessie of Team Rocket in her white jacket and black gloves, signature swooping red hair and a sly look."
 },
  {
  "id": "esm-dagger-v1",
@@ -31810,7 +31810,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dagger | Tandy Bowen from Cloak & Dagger."
+ "description": "Dagger leaps forward in her Marvel Rivals bodysuit, arms outstretched and light gathering at her fingertips."
 },
  {
  "id": "esm-dagger-v2",
@@ -31836,7 +31836,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dagger | Tandy Bowen from Cloak & Dagger."
+ "description": "Dagger poses in her sleek Marvel Rivals suit, blonde hair flowing and a calm, radiant gaze."
 },
  {
  "id": "esm-sorceress-dragons-crown",
@@ -31857,7 +31857,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sorceress from Dragon's Crown."
+ "description": "The Sorceress of Dragon's Crown poses in her wide-brimmed witch hat, a little frog familiar in her hand."
 },
  {
  "id": "esm-akuma-master-of-the-ultimate-fist",
@@ -31884,7 +31884,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Akuma from Street Fighter."
+ "description": "Akuma, Master of the Ultimate Fist, glares with his prayer beads and torn gi in a detailed bust."
 },
  {
  "id": "esm-akuma-red-ogre-fighter",
@@ -31916,7 +31916,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Akuma from Street Fighter."
+ "description": "Akuma charges a Gou Hadoken on a rocky base, wild red hair and prayer beads swinging."
 },
  {
  "id": "esm-meru",
@@ -31943,7 +31943,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Meru from Meru the Succubus."
+ "description": "Meru the Succubus poses with arms raised, horns, bat wings and pointed ears framing her playful look."
 },
  {
  "id": "esm-colossus",
@@ -31980,7 +31980,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Colossus from X-Men."
+ "description": "Colossus stands proud in his steel form, red-and-gold uniform and X-belt gleaming, fists clasped."
 },
  {
  "id": "esm-miranda-lawson",
@@ -32002,7 +32002,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Miranda Lawson from Mass Effect."
+ "description": "Miranda Lawson of Mass Effect stands confident in her white catsuit, hand on hip and cool blue gaze."
 },
  {
  "id": "esm-spider-man-2099-miguel-o-hara",
@@ -32056,7 +32056,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider-Man 2099 | Miguel O'Hara from Spider-Man."
+ "description": "Spider-Man 2099 Miguel O'Hara snarls with fangs bared, talons extended and webbing streaming behind him."
 },
  {
  "id": "esm-x-23-laura-kinney-mutant-wolf-girl",
@@ -32089,7 +32089,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of X-23 | Laura Kinney from X-Men."
+ "description": "X-23 crouches over a city-rubble base with a fire hydrant, claws out in her yellow-and-blue Wolverine suit."
 },
  {
  "id": "esm-x-23-laura-kinney-twin-claw-assassin",
@@ -32116,7 +32116,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of X-23 | Laura Kinney from X-Men."
+ "description": "Laura Kinney stands ready in a black crop top and X-belt, twin claws extended and long hair flowing."
 },
  {
  "id": "esm-raven",
@@ -32137,7 +32137,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Raven from Teen Titans."
+ "description": "Raven of the Teen Titans pulls her hood back, violet hair and red gem catching the light under her dark cloak."
 },
  {
  "id": "esm-zatanna",
@@ -32162,7 +32162,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Zatanna from Zatanna."
+ "description": "Zatanna tips her top hat with a wink, perched on a magician's trunk in her tuxedo jacket and fishnets."
 },
  {
  "id": "esm-catwoman-v1",
@@ -32185,7 +32185,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cat Woman from Batman."
+ "description": "Catwoman dangles a stolen pearl necklace, goggles up and whip coiled at her side in her sleek black suit."
 },
  {
  "id": "esm-catwoman-v2",
@@ -32210,7 +32210,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cat Woman from Batman."
+ "description": "Catwoman in her stitched black-vinyl Returns-era suit, claws raised and whip trailing behind her."
 },
  {
  "id": "esm-lady-sif",
@@ -32239,7 +32239,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lady Sif from Thor."
+ "description": "Lady Sif of Asgard, long braids and a blue cape, steel bracers raised as she readies for battle."
 },
  {
  "id": "esm-valkyrie",
@@ -32272,7 +32272,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Valkyrie from Thor."
+ "description": "Valkyrie in her winged helm and red-and-silver armor, fur cloak draped as she leans on her sword."
 },
  {
  "id": "esm-ellen-ripley",
@@ -32295,7 +32295,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ellen Ripley from Alien."
+ "description": "A pin-up Ellen Ripley in a tank top and briefs, curly hair and pulse rifle at the ready."
 },
  {
  "id": "esm-spider-woman",
@@ -32321,7 +32321,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider-Woman | Jessica Drew from Marvel Comics."
+ "description": "Spider-Woman crouches low in her red-and-yellow suit, wing webbing stretched and dark hair flowing."
 },
  {
  "id": "esm-baiken",
@@ -32345,7 +32345,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Baiken from Guilty Gear."
+ "description": "Baiken stands with her katana sheathed, eyepatch and bold red hair, kimono sleeves flaring on a dojo base."
 },
  {
  "id": "esm-velma-dinkley-v1",
@@ -32379,7 +32379,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+ "description": "A cheeky pin-up take on Velma, peering over her oversized glasses as she tugs up her chunky orange knit sweater."
 },
  {
  "id": "esm-velma-dinkley-v4",
@@ -32412,7 +32412,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+ "description": "Velma in an orange bikini top, glasses perched on her nose and tattoo sleeves on show."
 },
  {
  "id": "esm-velma-dinkley-v2",
@@ -32434,7 +32434,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+ "description": "Velma glances back over her shoulder in her chunky orange sweater, a Scooby-Doo tattoo peeking out."
 },
  {
  "id": "esm-velma-dinkley-v3",
@@ -32457,7 +32457,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Velma Dinkley from Scooby-Doo."
+ "description": "Velma lifts her orange sweater to reveal playful Scooby-Doo tattoos, glasses and bob as iconic as ever."
 },
  {
  "id": "esm-gambit",
@@ -32486,7 +32486,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gambit from X-Men."
+ "description": "Gambit charges a glowing pink card in his trench coat and pink armor, bo staff in his other hand."
 },
  {
  "id": "esm-zero-two",
@@ -32519,7 +32519,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Zero Two from Darling in the Franxx."
+ "description": "Zero Two in a red bunny suit with ears and cuffs, long pink hair flowing as she leans forward playfully."
 },
  {
  "id": "esm-misty",
@@ -32542,7 +32542,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Misty from pokémon."
+ "description": "Misty tosses a Poké Ball with a confident smile, yellow crop top, red suspenders and side ponytail."
 },
  {
  "id": "esm-princess-peach",
@@ -32565,7 +32565,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Princess Peach from Super Mario."
+ "description": "Princess Peach offers a Super Mushroom in a glossy pink bodysuit, crown sparkling on her blonde hair."
 },
  {
  "id": "esm-princess-kida",
@@ -32589,7 +32589,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Princess Kida from Atlantis: The Lost Empire."
+ "description": "Princess Kida of Atlantis in her blue wrap top and sarong, white hair flowing and tattoos glowing."
 },
  {
  "id": "esm-battle-sister",
@@ -32613,7 +32613,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Battle Sister from Warhammer 40K."
+ "description": "An Adepta Sororitas Battle Sister in full black power armor, chainsword over her shoulder."
 },
  {
  "id": "esm-daphne-blake-v1",
@@ -32641,7 +32641,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Daphne Blake from Scooby-Doo."
+ "description": "Daphne Blake glances back in her purple outfit and green scarf, red curls bouncing."
 },
  {
  "id": "esm-daphne-blake-v2",
@@ -32672,7 +32672,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Daphne Blake from Scooby-Doo."
+ "description": "Daphne gears up for a dive in a purple wetsuit, snorkel and flippers in hand, green scarf still on."
 },
  {
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman",
@@ -32700,7 +32700,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+ "description": "Psylocke stands tall in her classic purple leotard and sashes, long dark hair and a piercing stare."
 },
  {
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman-202507",
@@ -32735,7 +32735,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+ "description": "Psylocke in her purple ninja leotard and red sash, katana at her hip and hair whipping in the wind."
 },
  {
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman-jpskin",
@@ -32756,7 +32756,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+ "description": "A street-style Psylocke in a purple crop top and joggers, psychic energy flaring by her katanas."
 },
  {
  "id": "esm-psylocke-v1",
@@ -32783,7 +32783,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+ "description": "Marvel Rivals Psylocke in her blue ninja outfit, face mask up and psi-blade drawn, red sash and tail ribbon flowing."
 },
  {
  "id": "esm-psylocke-v2",
@@ -32809,7 +32809,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+ "description": "Psylocke dashes forward in her Marvel Rivals gear, blade swept back and ponytail flying."
 },
  {
  "id": "esm-psylocke-v3",
@@ -32831,7 +32831,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke | Betsy Braddock [Marvel Rivals ver] from X-Men."
+ "description": "Psylocke stands ready in a dark leotard with red sash and rings, katana lowered at her side."
 },
  {
  "id": "esm-psylocke-v4",
@@ -32854,7 +32854,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke | Betsy Braddock [Marvel Rivals ver] from X-Men."
+ "description": "Psylocke strikes upward with her blade raised, red sash and ribbons swirling around her."
 },
  {
  "id": "esm-evelynn-v2",
@@ -32875,7 +32875,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Evelynn [Coven] from League of Legends."
+ "description": "Coven Evelynn rises with a serpent coiled around her, horned crown and pale skin glowing."
 },
  {
  "id": "esm-enya",
@@ -32927,7 +32927,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Enya from Stellar Blade."
+ "description": "Enya poses hands-on-hips in a sleek white android bodysuit, long silver hair falling to her waist."
 },
  {
  "id": "esm-daredevil",
@@ -32959,7 +32959,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Daredevil from Daredevil."
+ "description": "Daredevil stands watch on a rooftop pedestal in his red suit, the Man Without Fear ready to leap."
 },
  {
  "id": "esm-supergirl-red-cape-cosmic-girl",
@@ -32988,7 +32988,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Supergirl from Supergirl."
+ "description": "Streetwear Supergirl in a baggy blue tracksuit, crop top and backwards cap, leaning by a fire hydrant."
 },
  {
  "id": "esm-supergirl-red-cape-cosmic-girl-p2",
@@ -33011,7 +33011,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Supergirl from Supergirl."
+ "description": "Classic Supergirl flies in with a big smile, blue top, red cape and pleated skirt, blonde hair windswept."
 },
  {
  "id": "esm-mary-jane-watson",
@@ -33079,7 +33079,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mary Jane Watson from Spider-Man."
+ "description": "Mary Jane peeks over her shoulder while lifting her shirt to show a spider-print bikini top."
 },
  {
  "id": "esm-mai-shiranui-v1",
@@ -33103,7 +33103,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mai Shiranui from King of Fighters."
+ "description": "Mai Shiranui poses with her signature folding fan, in her red ninja outfit and high ponytail."
 },
  {
  "id": "esm-omni-man",
@@ -33127,7 +33127,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Omni-Man from Invincible."
+ "description": "Omni-Man stands fists clenched in his red-and-white suit, cape draped behind him and mustache stern."
 },
  {
  "id": "esm-asuka-langley-soryu",
@@ -33151,7 +33151,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Asuka Langley Soryu from Neon Genesis Evangelion."
+ "description": "Asuka Langley Soryu in her red plugsuit and eyepatch, hand to her neural clips with a confident look."
 },
  {
  "id": "esm-jessica-rabbit-v1",
@@ -33176,7 +33176,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jessica Rabbit from Who Framed Roger Rabbit."
+ "description": "Jessica Rabbit in her iconic red sequined gown and purple gloves, hair swept over one eye."
 },
  {
  "id": "esm-jessica-rabbit-v2",
@@ -33195,7 +33195,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Red-Lipped Lady P2 from Who Framed Roger Rabbit."
+ "description": "Jessica Rabbit leans back in her red sequined gown, wine glass in hand and sultry gaze fixed forward."
 },
  {
  "id": "esm-rayne",
@@ -33219,7 +33219,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rayne from BloodRayne."
+ "description": "Rayne of BloodRayne in her red-and-black leather corset and arm blades, crimson bob framing her stare."
 },
  {
  "id": "esm-poison-ivy",
@@ -33245,7 +33245,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Poison Ivy from Batman."
+ "description": "Poison Ivy stands tall in her leafy green suit, vines curling up her legs and red hair tumbling down."
 },
  {
  "id": "esm-android-18",
@@ -33298,7 +33298,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Android 18 from Dragon Ball Z."
+ "description": "Android 18 in her denim vest and skirt with striped sleeves, tucking her blonde hair behind her ear."
 },
  {
  "id": "esm-the-rocketeer",
@@ -33319,7 +33319,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Rocketeer [Fem ver] from The Rocketeer."
+ "description": "A female Rocketeer in a double-breasted coat, Mauser pistol raised and finned helmet tucked under her arm."
 },
  {
  "id": "esm-bettyboop",
@@ -33342,7 +33342,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Betty Boop from Betty Boop."
+ "description": "A realistic Betty Boop in her red sequined dress and hoop earrings, iconic curls and big eyes."
 },
  {
  "id": "esm-sword-maiden",
@@ -33375,7 +33375,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sword Maiden from Goblin Slayer."
+ "description": "The Sword Maiden of Goblin Slayer, blindfolded and serene in her white priestess gown."
 },
  {
  "id": "esm-the-hulk",
@@ -33428,7 +33428,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Hulk from Hulk."
+ "description": "The Incredible Hulk stomps forward over a crumbling base, torn purple pants and fists clenched."
 },
  {
  "id": "esm-wolverine-savage-metal-claw",
@@ -33468,7 +33468,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wolverine from X-Men."
+ "description": "Wolverine lunges forward in his classic yellow-and-blue suit, adamantium claws out and teeth gritted."
 },
  {
  "id": "esm-wolverine-savage-metal-claw-id-774779",
@@ -33510,7 +33510,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wolverine from X-Men."
+ "description": "Wolverine crouches with a cigar in his teeth, his classic suit, sideburns and claws ready on a rocky base."
 },
  {
  "id": "esm-maki-zenin",
@@ -33532,7 +33532,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Maki Zenin from Jujutsu Kaisen."
+ "description": "Maki Zenin, scarred and unflinching in a slit black dress, cloak over her shoulder and cursed tool at her side, with burn scars tracing her skin."
 },
  {
  "id": "esm-ryuko-matoi",
@@ -33556,7 +33556,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ryuko Matoi from Kill la Kill."
+ "description": "Ryuko Matoi in Senketsu, Scissor Blade in hand and red streak in her hair, ready to fight."
 },
  {
  "id": "esm-bayonetta",
@@ -33582,7 +33582,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bayonetta from Bayonetta."
+ "description": "Bayonetta strikes a pose in her hair-woven catsuit, glasses on and pistols raised over her head."
 },
  {
  "id": "esm-ivy-valentine",
@@ -33606,7 +33606,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ivy Valentine from Soulcalibur."
+ "description": "Isabella Valentine in her purple-and-gold armor, Ivy Blade raised overhead and white hair framing her glare."
 },
  {
  "id": "esm-eve",
@@ -33633,7 +33633,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Eve from Stellar Blade."
+ "description": "EVE in her golden skin suit, sword in hand and long ponytail flowing behind her."
 },
  {
  "id": "esm-mystique",
@@ -33656,7 +33656,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mystique from X-Men."
+ "description": "Mystique kneels on a rocky base in her white dress and belt of skulls, rifle in hand and blue skin gleaming."
 },
  {
  "id": "esm-jill-valentine-v1",
@@ -33682,7 +33682,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jill Valentine from Resident Evil 3."
+ "description": "Jill Valentine in her blue tube top and black skirt, sweater tied at her waist and pistol raised."
 },
  {
  "id": "esm-jill-valentine-v2",
@@ -33736,7 +33736,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jill Valentine from Resident Evil 3."
+ "description": "A swimsuit Jill Valentine in a blue bikini top, tattoo sleeve and short bob framing her face."
 },
  {
  "id": "esm-betty-rubble",
@@ -33759,7 +33759,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Betty Rubble from The Flintstones."
+ "description": "A glamorous Betty Rubble in her blue dress and hair bow, finger to her lips with a playful look."
 },
  {
  "id": "esm-wilma-v1",
@@ -33786,7 +33786,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wilma from The Flintstones."
+ "description": "Wilma Flintstone in her white stone-age dress and pearl necklace, posed on a rocky base."
 },
  {
  "id": "esm-wilma-v2",
@@ -33810,7 +33810,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wilma from The Flintstones."
+ "description": "Wilma strikes a glamorous pose in her white dress, her orange bouffant and pearls perfectly in place."
 },
  {
  "id": "esm-spider-gwen-gwen-stacy-street-girl",
@@ -33833,7 +33833,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider-Gwen | Gwen Stacy from Spider-Man."
+ "description": "Street-style Gwen Stacy in her white hoodie and Spider-Gwen suit, headphones around her neck."
 },
  {
  "id": "esm-spider-gwen-gwen-stacy-street-girl-p2",
@@ -33854,7 +33854,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider-Gwen | Gwen Stacy from Spider-Man."
+ "description": "Gwen Stacy peeks out from her white Spider-Gwen hood, blonde undercut and wide blue eyes."
 },
  {
  "id": "esm-spider-man-miles-morales",
@@ -33884,7 +33884,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider-Man | Miles Morales from Spider-Man."
+ "description": "Miles Morales strolls in his red hoodie, varsity jacket and Air Jordans, beside a fire hydrant."
 },
  {
  "id": "esm-forge",
@@ -33920,7 +33920,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Forge from X-Men."
+ "description": "Forge stands in his X-Men suit, bionic arm and leg gleaming, his tech blade raised at his side."
 },
  {
  "id": "esm-caitlin-fairchild",
@@ -33963,7 +33963,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Caitlin Fairchild from Gen13."
+ "description": "Caitlin Fairchild of Gen13, red bob and glasses-free, poses in her green-and-purple jumpsuit."
 },
  {
  "id": "esm-fiolina-germi",
@@ -33983,7 +33983,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Fiolina Germi from Metal Slug."
+ "description": "Fio Germi of Metal Slug in her cap and cropped tank, pistol raised and a skull at her boots."
 },
  {
  "id": "esm-nami",
@@ -34005,7 +34005,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Nami from One Piece."
+ "description": "Nami stands hands-on-hips in her teal-striped bikini and denim shorts, orange hair flowing."
 },
  {
  "id": "esm-blaze-fielding",
@@ -34049,7 +34049,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Blaze Fielding from Streets of Rage."
+ "description": "Blaze Fielding of Streets of Rage in her red top and skirt, leather jacket on and fists clenched."
 },
  {
  "id": "esm-jean-grey",
@@ -34074,7 +34074,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jean Grey from X-Men."
+ "description": "Jean Grey channels the Phoenix Force in her blue-and-yellow X-Men suit, pink psychic flames rising around her."
 },
  {
  "id": "esm-queen-marika",
@@ -34097,7 +34097,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Queen Marika from Elden Ring."
+ "description": "Queen Marika the Eternal poses in her sheer golden-trimmed gown, hands raised gracefully overhead."
 },
  {
  "id": "esm-lust",
@@ -34134,7 +34134,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lust from Fullmetal Alchemist."
+ "description": "Lust, the Ultimate Spear, in her black gown, long dark hair cascading as her nails extend."
 },
  {
  "id": "esm-yor-forger",
@@ -34162,7 +34162,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Yor Forger from Spy x Family."
+ "description": "Yor Forger in her black halter dress, gold-handled stiletto raised and hair clipped up."
 },
  {
  "id": "esm-dante",
@@ -34185,7 +34185,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dante from Devil May Cry 3."
+ "description": "Dante lunges forward with Ebony & Ivory drawn, red coat open and Rebellion glowing green behind him."
 },
  {
  "id": "esm-hawkgirl",
@@ -34212,7 +34212,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hawkgirl from DC Comics."
+ "description": "Hawkgirl crouches on a stone gargoyle with her great wings spread, golden hawk helmet gleaming."
 },
  {
  "id": "esm-hellboy",
@@ -34236,7 +34236,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hellboy from Hellboy."
+ "description": "Hellboy aims the Samaritan revolver with a smoking cigar, his tan trench coat and Right Hand of Doom on display."
 },
  {
  "id": "esm-sue-storm-v1",
@@ -34258,7 +34258,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sue Storm | Invisible Woman from Fantastic Four."
+ "description": "Sue Storm in her Marvel Rivals suit, hands raised as invisible force fields shimmer around her."
 },
  {
  "id": "esm-sue-storm-v2",
@@ -34284,7 +34284,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sue Storm | Invisible Woman from Fantastic Four."
+ "description": "Sue Storm projects a force field with arms outstretched, her blue-and-white Marvel Rivals suit gleaming."
 },
  {
  "id": "esm-felicia",
@@ -34309,7 +34309,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Felicia from Darkstalkers."
+ "description": "Felicia of Darkstalkers glances back with a playful look, wild lavender hair and cat tail swishing."
 },
  {
  "id": "esm-emma-frost-v1",
@@ -34334,7 +34334,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Emma Frost [Marvel Rivals ver] from X-Men."
+ "description": "Emma Frost in her Marvel Rivals look, black leather and gold chains, raising a hand with icy confidence."
 },
  {
  "id": "esm-emma-frost-v2",
@@ -34353,7 +34353,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Emma Frost [Marvel Rivals ver] from X-Men."
+ "description": "Emma Frost strides from a cluster of diamond crystals in her black-and-gold Marvel Rivals outfit, two versions included."
 },
  {
  "id": "esm-2b-v1",
@@ -34380,7 +34380,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of 2B from NieR:Automata."
+ "description": "2B in her black gothic dress with puffed sleeves, blindfold lifted to reveal striking blue eyes."
 },
  {
  "id": "esm-2b-v4",
@@ -34401,7 +34401,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of 2B from NieR:Automata."
+ "description": "2B in a black bikini with a colorful tattoo sleeve, her signature blindfold still in place."
 },
  {
  "id": "esm-2b-v3",
@@ -34423,7 +34423,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of 2B from NieR:Automata."
+ "description": "2B kneels in a black bikini top, tattoo sleeve on full display and blindfold on."
 },
  {
  "id": "esm-2b-v2",
@@ -34446,7 +34446,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of 2B from NieR:Automata."
+ "description": "2B stands ready with her katana and Virtuous Contract, Pod 042 at her side on a rocky base."
 },
  {
  "id": "esm-himiko-toga",
@@ -34471,7 +34471,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Himiko Toga from My Hero Academia."
+ "description": "Himiko Toga grins with her fangs showing, cozy cream sweater and blood-draining gear on her back."
 },
  {
  "id": "esm-jubilee",
@@ -34513,7 +34513,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jubilee from X-Men."
+ "description": "Jubilee leaps into action in her yellow coat and pink shades, blowing a bubble as fireworks spark around her."
 },
  {
  "id": "esm-april-o-neil",
@@ -34542,7 +34542,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of April O'Neil from Teenage Mutant Ninja Turtles."
+ "description": "April O'Neil in her classic yellow jumpsuit, kicking up a heel with a pizza box in hand."
 },
  {
  "id": "esm-power-girl",
@@ -34565,7 +34565,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Power Girl from Power Girl."
+ "description": "Power Girl flies in with fist raised, red cape whipping behind her white suit as clouds swirl below."
 },
  {
  "id": "b3d-adult-link",
@@ -34592,7 +34592,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Adult Link from The Legend of Zelda: Ocarina of Time."
+ "description": "Adult Link from Ocarina of Time in his green tunic, with Navi glowing at his shoulder and a bottle and gear slung at his side."
 },
  {
  "id": "wicked-avengers-avengers-captain-america-3d",
@@ -34614,7 +34614,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Avengers Captain America 3d from Avengers."
+ "description": "WWII-era Captain America plants the Stars and Stripes atop a pair of defeated Hydra soldiers, shield on his arm."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready",
@@ -34638,7 +34638,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Avengers Endgame: Iron Patriot + Rocket Base from Guardians of the Galaxy."
+ "description": "Iron Patriot and Rocket blast into battle on a smoky Avengers diorama base."
 },
  {
  "id": "wicked-avengers-avengers-endgame-iron-patriot-sculpture-stls-ready-for-print",
@@ -34662,7 +34662,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Avengers Endgame: Iron Patriot from Avengers."
+ "description": "Iron Patriot blasts forward in his patriotic armor, from Avengers: Endgame."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin",
@@ -34686,7 +34686,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Avengers Endgame: Rocket Racoon from Guardians of the Galaxy."
+ "description": "Rocket Raccoon hefts a massive minigun on his shoulder, from Avengers: Endgame."
 },
  {
  "id": "wicked-moon-knight-v1",
@@ -34710,7 +34710,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Moon Knight from Moon Knight."
+ "description": "Moon Knight swoops in with his crescent cape flowing over a bird-skull base."
 },
  {
  "id": "wicked-black-panther-killmonger-vs-black-panther-diorama-base",
@@ -34733,7 +34733,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Killmonger vs Black Panther base from Black Panther."
+ "description": "Killmonger and Black Panther clash atop shattered vibranium in this Wakanda diorama."
 },
  {
  "id": "wicked-black-panther-killmonger-stls-sculpture-ready-for-printing",
@@ -34757,7 +34757,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Killmonger from Black Panther."
+ "description": "Killmonger crouches with his twin blades, golden panther suit gleaming."
 },
  {
  "id": "wicked-black-panther-captain-america-vs-black-panther-diorama-base",
@@ -34776,7 +34776,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Captain America vs Black Panther base from Black Panther."
+ "description": "Captain America and Black Panther clash in this Civil War diorama base."
 },
  {
  "id": "wicked-avengers-captain-america-civil-war-stls-ready-for-printing",
@@ -34797,7 +34797,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain America: Civil War from Avengers."
+ "description": "Captain America charges with shield raised, from Captain America: Civil War."
 },
  {
  "id": "wicked-black-panther-v1",
@@ -34821,7 +34821,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Panther from Black Panther."
+ "description": "Black Panther leaps from a shattered rooftop, claws out, in his vibranium suit."
 },
  {
  "id": "wicked-avengers-ultron",
@@ -34845,7 +34845,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ultron from Avengers."
+ "description": "Ultron towers over a mass of destroyed robots, menacing and metallic."
 },
  {
  "id": "wicked-scarlet-witch-v1",
@@ -34869,7 +34869,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Scarlet Witch from Avengers."
+ "description": "The Scarlet Witch sits within a swirling crescent of chaos magic, crown gleaming."
 },
  {
  "id": "wicked-thor-hela",
@@ -34893,7 +34893,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hela from Thor."
+ "description": "Hela, Goddess of Death, raises her hand in her antlered headdress as Fenris the wolf snarls below."
 },
  {
  "id": "wicked-avengers-avengers-rescue-pepper-potts-3d",
@@ -34917,7 +34917,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Avengers Rescue: Pepper Potts 3d from Avengers."
+ "description": "Pepper Potts flies in her Rescue armor, repulsors firing, from Avengers: Endgame."
 },
  {
  "id": "wicked-thor-thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing",
@@ -34938,7 +34938,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thor Ragnarok 3d Sculpture: Avengers from Thor."
+ "description": "Thor of Ragnarok unleashes lightning in his gladiator armor, Stormbreaker raised."
 },
  {
  "id": "wicked-avengers-hulk-3d-sculpture-avengers-stl-ready-for-printing",
@@ -34962,7 +34962,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hulk 3d Sculpture: Avengers from Avengers."
+ "description": "Hulk lunges with a massive spiked mace, in full gladiator fury."
 },
  {
  "id": "wicked-avengers-avengers-iron-man-3d",
@@ -34986,7 +34986,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Avengers Iron man 3d from Avengers."
+ "description": "Iron Man in his Mark 85 armor stands beside Cap's shattered shield, from Avengers: Endgame."
 },
  {
  "id": "wicked-spider-man-scarlet-spider",
@@ -35010,7 +35010,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Scarlet Spider from Spider-Man."
+ "description": "Scarlet Spider crouches with webs flying, from Across the Spider-Verse."
 },
  {
  "id": "wicked-spider-man-the-spot",
@@ -35034,7 +35034,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Spot from Spider-Man."
+ "description": "The Spot opens a swirling portal with his spotted body, from Across the Spider-Verse."
 },
  {
  "id": "wicked-spider-man-spider-punk",
@@ -35058,7 +35058,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider Punk from Spider-Man."
+ "description": "Spider-Punk shreds his guitar with a high kick in his patched vest and mohawk."
 },
  {
  "id": "wicked-fantastic-four-wicked-promo-fantastic-four-diorama-complete",
@@ -35081,7 +35081,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of FANTASTIC FOUR from Fantastic Four."
+ "description": "The Fantastic Four burst through a glowing ring together in this complete F4 diorama."
 },
  {
  "id": "wicked-harry-potter-harry-potter-diorama",
@@ -35105,7 +35105,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Harry Potter from Harry Potter."
+ "description": "Harry and Voldemort face off with wands drawn in this Harry Potter diorama."
 },
  {
  "id": "wicked-harry-potter-voldemort",
@@ -35129,7 +35129,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Voldemort from Harry Potter."
+ "description": "Lord Voldemort conjures a curse with his wand, pale and serpent-like in his robes."
 },
  {
  "id": "wicked-harry-potter-harry-potter",
@@ -35152,7 +35152,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Harry Potter from Harry Potter."
+ "description": "Harry Potter casts a spell in his Gryffindor robes, wand raised."
 },
  {
  "id": "wicked-spider-man-peter-b-parker-and-mayday",
@@ -35176,7 +35176,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Peter B Parker and Mayday from Spider-Man."
+ "description": "Peter B. Parker swings with baby Mayday clinging to him, from Across the Spider-Verse."
 },
  {
  "id": "wicked-avengers-taskmaster",
@@ -35200,7 +35200,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Taskmaster from Avengers."
+ "description": "Taskmaster stands with skull mask, shield and sword, ready to mimic any fighting style."
 },
  {
  "id": "wicked-x-men-psylocke",
@@ -35224,7 +35224,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Psylocke from X-Men."
+ "description": "Psylocke slashes with a blazing pink psychic blade, butterfly aura flaring behind her."
 },
  {
  "id": "wicked-spider-man-spider-woman-spiderverse",
@@ -35248,7 +35248,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider Woman Spiderverse from Spider-Man."
+ "description": "Jessica Drew's Spider-Woman rides her motorcycle with her afro flowing, from Across the Spider-Verse."
 },
  {
  "id": "wicked-spider-man-spiderman-2099",
@@ -35272,7 +35272,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spiderman 2099 from Spider-Man."
+ "description": "Spider-Man 2099 lunges forward with talons out against a splash of red and blue."
 },
  {
  "id": "wicked-the-witcher-geralt-de-rivia-and-ciri-diorama-complete",
@@ -35296,7 +35296,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Geralt de Rivia and Ciri from The Witcher."
+ "description": "Geralt and Ciri fight side by side over a fallen beast in this Witcher 3 diorama."
 },
  {
  "id": "wicked-the-witcher-ciri",
@@ -35320,7 +35320,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ciri from The Witcher."
+ "description": "Ciri crouches with her sword ready, ashen hair and scar on full display, from The Witcher 3."
 },
  {
  "id": "wicked-the-witcher-geralt-de-rivia",
@@ -35344,7 +35344,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Geralt de Rivia from The Witcher."
+ "description": "Geralt of Rivia rides a slain beast with his silver sword drawn, on a Witcher 3 base."
 },
  {
  "id": "wicked-spider-man-spider-gwen",
@@ -35368,7 +35368,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider Gwen from Spider-Man."
+ "description": "Spider-Gwen hangs upside down from her web, hood up, in Across the Spider-Verse style."
 },
  {
  "id": "wicked-spider-man-miles-morales",
@@ -35392,7 +35392,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Miles Morales from Spider-Man."
+ "description": "Miles Morales swings through Spider-Verse glitch effects, web lines trailing."
 },
  {
  "id": "wicked-bishop-v1",
@@ -35416,7 +35416,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bishop from X-Men."
+ "description": "Bishop of the X-Men absorbs and fires a blast of pink energy from his fist."
 },
  {
  "id": "wicked-aliens-aliens-diorama-complete",
@@ -35440,7 +35440,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Aliens from Aliens."
+ "description": "Ripley in the Power Loader faces off against the Alien Queen in this complete Aliens diorama."
 },
  {
  "id": "wicked-bishop-v2",
@@ -35464,7 +35464,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of the android Bishop from Aliens."
+ "description": "Bishop, the android, reaches out with his torso torn in half, from the climax of Aliens."
 },
  {
  "id": "wicked-aliens-alien-warrior",
@@ -35488,7 +35488,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Alien Warrior from Aliens."
+ "description": "A Xenomorph warrior rears up with its ribbed dome and inner jaw bared."
 },
  {
  "id": "wicked-aliens-power-loader-and-ripley",
@@ -35512,7 +35512,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Power Loader and Ripley from Aliens."
+ "description": "Ripley straps into the Power Loader, ready to tell the Queen to get away from her."
 },
  {
  "id": "wicked-aliens-rebecca-newt-jorden",
@@ -35536,7 +35536,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rebecca Newt Jorden from Aliens."
+ "description": "Newt screams in terror in her oversized jacket, from Aliens."
 },
  {
  "id": "wicked-aliens-queen-alien",
@@ -35560,7 +35560,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Queen Alien from Aliens."
+ "description": "The Alien Queen rears up with her massive crested head and dripping jaws."
 },
  {
  "id": "wicked-aliens-facehugger",
@@ -35584,7 +35584,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Facehugger from Aliens."
+ "description": "A Facehugger bursts from its egg, legs splayed and ready to latch on."
 },
  {
  "id": "wicked-avengers-m-o-d-o-k",
@@ -35608,7 +35608,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of M.O.D.O.K from Avengers."
+ "description": "M.O.D.O.K. hovers in his floating chair, enormous head and grin full of menace."
 },
  {
  "id": "wicked-x-men-iceman",
@@ -35632,7 +35632,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Iceman from X-Men."
+ "description": "Iceman in his icy form, frozen spikes and crystals shooting up around him."
 },
  {
  "id": "wicked-avengers-hulk-and-bruce-banner-sculptures-diorama-complete",
@@ -35656,7 +35656,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Hulk and Bruce Banner from Avengers."
+ "description": "Bruce Banner stands before the raging Hulk on a shared base in this diorama."
 },
  {
  "id": "wicked-avengers-bruce-banner",
@@ -35680,7 +35680,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bruce Banner from Avengers."
+ "description": "Bruce Banner adjusts his glasses with his satchel slung, the man behind the monster."
 },
  {
  "id": "wicked-avengers-hulk-2023",
@@ -35704,7 +35704,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hulk 2023 from Avengers."
+ "description": "The Incredible Hulk roars with fists clenched, on a glowing Hulk-branded base."
 },
  {
  "id": "wicked-mortal-kombat-sub-zero-vs-scorpion-diorama-spine-rip",
@@ -35728,7 +35728,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Sub Zero Vs Scorpion SPINE RIP from Mortal Kombat."
+ "description": "Sub-Zero rips out Scorpion's spine in this brutal Mortal Kombat fatality diorama."
 },
  {
  "id": "wicked-mortal-kombat-scorpion-vs-sub-zero-diorama-toasty",
@@ -35752,7 +35752,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Scorpion Vs Sub Zero TOASTY from Mortal Kombat."
+ "description": "Scorpion unleashes hellfire on Sub-Zero in this explosive Mortal Kombat diorama. Toasty!"
 },
  {
  "id": "wicked-mortal-kombat-sub-zero",
@@ -35776,7 +35776,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sub Zero from Mortal Kombat."
+ "description": "Sub-Zero summons a burst of ice, his blue mask and hood framing a frosty glare."
 },
  {
  "id": "wicked-mortal-kombat-scorpion",
@@ -35800,7 +35800,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Scorpion from Mortal Kombat."
+ "description": "Scorpion stands with his spear chain ready, flaming skull blazing behind his mask."
 },
  {
  "id": "wicked-avengers-iron-man-and-tony-stark-sculptures-diorama-complete",
@@ -35824,7 +35824,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Iron Man and Tony Stark from Avengers."
+ "description": "Tony Stark stands beside his Iron Man suit in this arc-reactor-lit diorama."
 },
  {
  "id": "wicked-avengers-tony-stark",
@@ -35848,7 +35848,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Tony Stark from Avengers."
+ "description": "Tony Stark adjusts his tie with a cocky grin on an arc-reactor base."
 },
  {
  "id": "wicked-avengers-iron-man-2023",
@@ -35872,7 +35872,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Iron Man 2023 from Avengers."
+ "description": "Iron Man stands tall in his gleaming armor on a glowing arc-reactor base."
 },
  {
  "id": "wicked-daredevil-daredevil-and-kingpin-sculptures-diorama-complete",
@@ -35896,7 +35896,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Daredevil and Kingpin from Daredevil."
+ "description": "Daredevil faces down Kingpin on his throne in this Hell's Kitchen diorama."
 },
  {
  "id": "wicked-kingpin-v1",
@@ -35919,7 +35919,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kingpin from Daredevil."
+ "description": "Kingpin stands imposing in his white suit and cane, the crime lord of New York."
 },
  {
  "id": "wicked-daredevil-v1",
@@ -35943,7 +35943,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Daredevil from Daredevil."
+ "description": "Daredevil stands in shadow, billy clubs in hand, on a Hell's Kitchen base."
 },
  {
  "id": "wicked-avengers-captain-america-and-steve-rogers-sculptures-diorama-complete",
@@ -35967,7 +35967,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Captain America and Steve Rogers from Avengers."
+ "description": "Captain America and Steve Rogers stand together in this First Avenger diorama."
 },
  {
  "id": "wicked-avengers-captain-america",
@@ -35991,7 +35991,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain America from Avengers."
+ "description": "Captain America storms forward with his shield raised, in his WWII First Avenger uniform."
 },
  {
  "id": "wicked-avengers-steve-rogers",
@@ -36015,7 +36015,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Steve Rogers from Avengers."
+ "description": "Steve Rogers in his WWII uniform plants the flag, The First Avenger before the shield."
 },
  {
  "id": "wicked-power-rangers-tigerzord",
@@ -36039,7 +36039,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Tigerzord from Power Rangers."
+ "description": "The White Tigerzord stands battle-ready, the White Ranger's mighty mech."
 },
  {
  "id": "wicked-spider-man-spider-woman",
@@ -36063,7 +36063,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider Woman from Spider-Man."
+ "description": "Spider-Woman crouches atop a traffic light in her red-and-yellow suit, ready to pounce."
 },
  {
  "id": "wicked-x-men-beast",
@@ -36087,7 +36087,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Beast from X-Men."
+ "description": "Beast roars with fangs bared, crouched atop a flaming base in his furry blue glory."
 },
  {
  "id": "wicked-power-rangers-power-ranger-green-and-power-ranger-white-diorama-complete",
@@ -36111,7 +36111,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Power Ranger Green and Power Ranger White from Power Rangers."
+ "description": "The Green and White Rangers team up on a shared base in this Power Rangers diorama."
 },
  {
  "id": "wicked-power-rangers-power-ranger-green",
@@ -36135,7 +36135,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Power Ranger Green from Power Rangers."
+ "description": "The Green Ranger raises his Dragon Dagger to his helmet, ready to summon the Dragonzord."
 },
  {
  "id": "wicked-power-rangers-power-ranger-white",
@@ -36159,7 +36159,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Power Ranger White from Power Rangers."
+ "description": "The White Ranger stands ready with Saba, his talking tiger sword, in hand."
 },
  {
  "id": "wicked-x-men-deadpool-and-cable-diorama-complete",
@@ -36183,7 +36183,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Deadpool and Cable from X-Men."
+ "description": "Cable and Deadpool fight side by side amid gunfire and explosions in this X-Force diorama."
 },
  {
  "id": "wicked-x-men-cable",
@@ -36207,7 +36207,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cable from X-Men."
+ "description": "Cable stands battle-hardened with his bionic eye glowing and massive gun ready."
 },
  {
  "id": "wicked-deadpool-v1",
@@ -36231,7 +36231,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Deadpool from X-Men."
+ "description": "Deadpool fires a pistol mid-leap as explosions burst behind him on a rubble base."
 },
  {
  "id": "wicked-avengers-the-sentry",
@@ -36255,7 +36255,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Sentry from Avengers."
+ "description": "The Sentry crouches with his golden cape flaring, the hero with the power of a million exploding suns."
 },
  {
  "id": "wicked-x-men-jean-grey-and-cyclops-diorama-complete",
@@ -36279,7 +36279,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Jean Grey and Cyclops from X-Men."
+ "description": "Jean Grey and Cyclops fight side by side in this dynamic X-Men diorama."
 },
  {
  "id": "wicked-x-men-jean-grey",
@@ -36303,7 +36303,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jean Grey from X-Men."
+ "description": "Jean Grey channels a blazing pink telekinetic burst, red hair whipping in the psychic storm."
 },
  {
  "id": "wicked-super-mario-mario-and-luigi",
@@ -36327,7 +36327,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mario and Luigi from Super Mario."
+ "description": "The Super Mario Bros. themselves, ready for a plumbing emergency: Mario with his pipe wrench, Luigi with his trusty plunger."
 },
  {
  "id": "wicked-super-mario-super-mario-diorama-complete",
@@ -36350,7 +36350,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Super Mario from Super Mario."
+ "description": "A towering Super Mario diorama of warp pipes, power-ups and every era of Mario, topped by a Super Star."
 },
  {
  "id": "wicked-super-mario-only-super-mario-bros-movie",
@@ -36367,7 +36367,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Only Super Mario Bros Movie from Super Mario."
+ "description": "Mario from The Super Mario Bros. Movie reaches for a Super Star, mid-leap and grinning."
 },
  {
  "id": "wicked-super-mario-only-super-mario-64",
@@ -36384,7 +36384,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Only Super Mario 64 from Super Mario."
+ "description": "Wing Cap Mario soars beside Yoshi in this Super Mario 64 tribute."
 },
  {
  "id": "wicked-super-mario-only-super-mario-world",
@@ -36401,7 +36401,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Only Super Mario World from Super Mario."
+ "description": "Cape Mario rides Yoshi past a question block in this Super Mario World tribute."
 },
  {
  "id": "wicked-super-mario-only-super-mario-bros-3",
@@ -36418,7 +36418,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Only Super Mario Bros 3 from Super Mario."
+ "description": "Raccoon Mario leaps from a warp pipe in this Super Mario Bros. 3 tribute."
 },
   {
  "id": "wicked-cyclops-v1",
@@ -36442,7 +36442,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cyclops from X-Men."
+ "description": "Cyclops roars as he braces for battle, visor glowing, on an X-Men base."
 },
  {
  "id": "wicked-avengers-black-order-diorama-complete",
@@ -36465,7 +36465,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Black Order from Avengers."
+ "description": "Thanos and his Black Order assemble on a rocky battlefield in this complete Infinity War diorama."
 },
  {
  "id": "wicked-the-lord-of-the-rings-gandalf-and-balrog-diorama-complete",
@@ -36489,7 +36489,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Gandalf and Balrog from The Lord of the Rings."
+ "description": "Gandalf stands on the Bridge of Khazad-dûm as the Balrog looms in flames. You shall not pass!"
 },
  {
  "id": "wicked-the-lord-of-the-rings-balrog",
@@ -36513,7 +36513,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Balrog from The Lord of the Rings."
+ "description": "The Balrog of Khazad-dûm rages in fire and shadow, whip and sword in hand."
 },
  {
  "id": "wicked-the-lord-of-the-rings-gandalf",
@@ -36537,7 +36537,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gandalf from The Lord of the Rings."
+ "description": "Gandalf the Grey raises his glowing staff and Glamdring, ready to face the Balrog."
 },
  {
  "id": "wicked-avengers-lady-death-and-thanos-diorama",
@@ -36561,7 +36561,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Lady Death and Thanos from Avengers."
+ "description": "Thanos stands beside Lady Death, the object of his devotion, in this Infinity War diorama."
 },
  {
  "id": "wicked-avengers-lady-death",
@@ -36585,7 +36585,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lady Death from Avengers."
+ "description": "Lady Death, Thanos's obsession, glides in her hooded robe with a skeletal face."
 },
  {
  "id": "wicked-avengers-thanos-comic",
@@ -36609,7 +36609,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thanos Comic from Avengers."
+ "description": "Comic Thanos grins with his signature helmet, the Mad Titan in classic comic style."
 },
  {
  "id": "wicked-avengers-corvus-glaive",
@@ -36633,7 +36633,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Corvus Glaive from Avengers."
+ "description": "Corvus Glaive crouches with his glaive spear, cloak spread, the Black Order's warrior."
 },
  {
  "id": "wicked-transformers-diorama-base-optimus-sculpture-megatron",
@@ -36657,7 +36657,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of BASE + Optimus + Megatron from Transformers."
+ "description": "Optimus Prime and Megatron face off on a shared base in this Transformers diorama."
 },
  {
  "id": "wicked-transformers-megatron",
@@ -36681,7 +36681,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Megatron from Transformers."
+ "description": "Megatron stands in robot mode with his fusion cannon, the leader of the Decepticons."
 },
  {
  "id": "wicked-transformers-megatron-gun",
@@ -36705,7 +36705,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Megatron Gun from Transformers."
+ "description": "Megatron in his classic Walther P38 gun mode, on a Decepticon display base."
 },
  {
  "id": "wicked-storm-v1",
@@ -36729,7 +36729,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Storm from X-Men."
+ "description": "Storm soars on a crackle of lightning, white cape billowing and eyes glowing."
 },
  {
  "id": "wicked-thanos-v1",
@@ -36753,7 +36753,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thanos from Avengers."
+ "description": "Thanos, the Mad Titan, stands in golden armor with the Infinity Gauntlet raised."
 },
  {
  "id": "wicked-street-fighter-street-fighter-diorama",
@@ -36777,7 +36777,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Street Fighter from Street Fighter."
+ "description": "Ryu and Ken face off with Hadoken and Shoryuken in this Street Fighter diorama."
 },
  {
  "id": "wicked-street-fighter-ken",
@@ -36801,7 +36801,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ken from Street Fighter."
+ "description": "Ken Masters launches a flaming red Shoryuken in his signature red gi."
 },
  {
  "id": "wicked-street-fighter-ryu",
@@ -36825,7 +36825,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ryu from Street Fighter."
+ "description": "Ryu fires a blue Hadoken as Ken counters with a blazing Shoryuken."
 },
  {
  "id": "wicked-avengers-proxima-midnight",
@@ -36849,7 +36849,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Proxima Midnight from Avengers."
+ "description": "Proxima Midnight lunges with her triple-bladed spear, the Black Order's deadliest warrior."
 },
  {
  "id": "wicked-transformers-optimus-prime-truck",
@@ -36873,7 +36873,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Optimus Prime Truck from Transformers."
+ "description": "Optimus Prime in his iconic semi-truck alt mode, ready to roll out."
 },
  {
  "id": "wicked-transformers-optimus-prime",
@@ -36897,7 +36897,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Optimus Prime from Transformers."
+ "description": "Optimus Prime stands tall in robot mode with his ion blaster raised."
 },
  {
  "id": "wicked-x-men-diorama-base-rogue-sculpture-gambit",
@@ -36921,7 +36921,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of BASE + Rogue + Gambit from X-Men."
+ "description": "Rogue and Gambit stand together before a giant X-Men emblem in this X-Men diorama."
 },
  {
  "id": "wicked-rogue-v1",
@@ -36945,7 +36945,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rogue from X-Men."
+ "description": "Rogue soars with her white streak flowing, fists raised over a Sentinel-themed base."
 },
  {
  "id": "wicked-avengers-ebony-maw",
@@ -36969,7 +36969,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ebony Maw from Avengers."
+ "description": "Ebony Maw floats with telekinetic debris swirling around him, the Black Order's cunning mind."
 },
  {
  "id": "wicked-avengers-cull-obsidian",
@@ -36993,7 +36993,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cull Obsidian from Avengers."
+ "description": "Cull Obsidian roars with his massive chain-hammer, the brute of the Black Order."
 },
  {
  "id": "wicked-x-men-x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing",
@@ -37010,7 +37010,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of x Uncle Jessy: Magneto Helmet 1:1 scale for 3d Printing from X-Men."
+ "description": "A wearable 1:1 scale Magneto helmet, made with Uncle Jessy, ready to print."
 },
  {
  "id": "wicked-jingle-all-the-way-turboman",
@@ -37034,7 +37034,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Turboman from Jingle All the Way."
+ "description": "Turboman strikes his heroic pose in gold-and-blue armor, the must-have toy of Jingle All the Way."
 },
  {
  "id": "wicked-die-hard-john-mcclane",
@@ -37058,7 +37058,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of John McClane from Die Hard."
+ "description": "John McClane in his bloodied tank top, MP5 in hand. Yippee-ki-yay!"
 },
  {
  "id": "wicked-spider-man-man-spider",
@@ -37081,7 +37081,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Man Spider from Spider-Man."
+ "description": "Man-Spider, Peter Parker's monstrous mutation, crouches with extra limbs splayed, shown in three angles."
 },
  {
  "id": "wicked-thor-gorr",
@@ -37105,7 +37105,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gorr from Thor."
+ "description": "Gorr the God Butcher stands in pale robes with the Necrosword, his gaunt face full of menace."
 },
  {
  "id": "wicked-devil-may-cry-dante-and-vergil-diorama",
@@ -37129,7 +37129,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Dante and Vergil from Devil May Cry."
+ "description": "Dante and Vergil clash blade-to-blade in this Devil May Cry brothers diorama."
 },
  {
  "id": "wicked-x-men-magneto-and-xavier-diorama",
@@ -37153,7 +37153,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Magneto and Xavier from X-Men."
+ "description": "Magneto and Professor X face each other in their magnetic spheres in this X-Men diorama."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-ronan",
@@ -37177,7 +37177,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ronan from Guardians of the Galaxy."
+ "description": "Ronan the Accuser grips his Universal Weapon hammer, hooded and stern in his Kree robes."
 },
  {
  "id": "wicked-devil-may-cry-vergil",
@@ -37201,7 +37201,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Vergil from Devil May Cry."
+ "description": "Vergil, Dante's twin, stands cold and composed in his long blue coat with Yamato drawn."
 },
  {
  "id": "wicked-devil-may-cry-dante",
@@ -37225,7 +37225,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dante from Devil May Cry."
+ "description": "Dante stands in his red coat with Rebellion slung on his back and a cocky grin."
 },
  {
  "id": "wicked-x-men-charles-xavier",
@@ -37249,7 +37249,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Charles Xavier from X-Men."
+ "description": "Professor X sits in his hover chair, fingers to his temple, deep in psychic concentration."
 },
  {
  "id": "wicked-magneto-v1",
@@ -37273,7 +37273,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Magneto from X-Men."
+ "description": "Magneto stands within a magnetic sphere, his helmet and stern expression shown in close detail."
 },
  {
  "id": "wicked-kraven-v1",
@@ -37297,7 +37297,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kraven from Spider-Man."
+ "description": "Kraven the Hunter stalks with his rifle and lion vest, on a skull-strewn hunting base."
 },
  {
  "id": "wicked-the-shining-jack-torrance",
@@ -37320,7 +37320,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jack Torrance from The Shining."
+ "description": "Jack Torrance grins maniacally, axe in hand. Here's Johnny!"
 },
  {
  "id": "wicked-avengers-crossbones",
@@ -37344,7 +37344,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Crossbones from Avengers."
+ "description": "Crossbones stands armored with gauntlet blasters raised, on a Hydra-eagle base."
 },
  {
  "id": "wicked-avengers-red-skull",
@@ -37368,7 +37368,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Red Skull from Avengers."
+ "description": "Red Skull in his Hydra officer's uniform and cap, gripping the Tesseract on a Hydra base."
 },
  {
  "id": "wicked-a-nightmare-on-elm-street-fredy-krueger",
@@ -37392,7 +37392,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Fredy Krueger from A Nightmare on Elm Street."
+ "description": "Freddy Krueger flexes his bladed glove in his fedora and striped sweater, ready to haunt your dreams."
 },
  {
  "id": "wicked-thor-thor-avengers-diorama",
@@ -37416,7 +37416,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Thor (Avengers) from Thor."
+ "description": "Thor stands with Mjolnir in hand and cape flowing, from the Avengers Assemble collection."
 },
  {
  "id": "wicked-thor-beta-ray-bill",
@@ -37440,7 +37440,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Beta Ray Bill from Thor."
+ "description": "Beta Ray Bill raises Stormbreaker, his horse-like face fierce beneath his crested helm."
 },
  {
  "id": "wicked-x-men-juggernaut-and-colossus-diorama",
@@ -37460,7 +37460,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Juggernaut and Colossus from X-Men."
+ "description": "Juggernaut and Colossus clash in a brutal brick-wall brawl in this X-Men diorama."
 },
  {
  "id": "wicked-avengers-iron-man",
@@ -37484,7 +37484,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Iron Man from Avengers."
+ "description": "Iron Man stands tall in his Avengers armor, arc reactor glowing."
 },
  {
  "id": "wicked-x-men-colossus",
@@ -37508,7 +37508,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Colossus from X-Men."
+ "description": "Colossus flexes his organic steel, smashing through debris as he charges into battle."
 },
  {
  "id": "wicked-predator-predator-and-naru-diorama",
@@ -37531,7 +37531,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Predator and Naru from Predator."
+ "description": "Naru faces down the Feral Predator in this Prey-inspired Predator diorama."
 },
  {
  "id": "wicked-predator-predator",
@@ -37555,7 +37555,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Predator from Predator."
+ "description": "The Feral Predator from Prey stands with his skull-masked helm and bone trophies."
 },
  {
  "id": "wicked-predator-naru",
@@ -37579,7 +37579,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Naru from Predator."
+ "description": "Naru, the Comanche warrior from Prey, readies her tomahawk on a Predator base."
 },
  {
  "id": "wicked-x-men-nova",
@@ -37603,7 +37603,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Nova from X-Men."
+ "description": "Nova blazes across the sky in his golden-helmeted Nova Corps uniform, energy streaming."
 },
  {
  "id": "wicked-doom-doom-slayer-diorama",
@@ -37627,7 +37627,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Doom Slayer from Doom."
+ "description": "The Doom Slayer stands over a slain demon in a hellish red diorama, ready to rip and tear."
 },
  {
  "id": "wicked-x-men-juggernaut",
@@ -37650,7 +37650,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Juggernaut from X-Men."
+ "description": "The Juggernaut smashes through a brick wall, unstoppable in his helmet and armor."
 },
  {
  "id": "wicked-avengers-hulk-avengers-diorama",
@@ -37674,7 +37674,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Hulk (Avengers) from Avengers."
+ "description": "The Hulk roars as he leaps into battle, from the Avengers Assemble collection."
 },
  {
  "id": "wicked-avengers-hawkeye-avengers-diorama",
@@ -37698,7 +37698,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Hawkeye (Avengers) from Avengers."
+ "description": "Hawkeye draws back his bow in a tense close-up, from the Avengers Assemble collection."
 },
  {
  "id": "wicked-avengers-black-widow",
@@ -37722,7 +37722,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Widow from Avengers."
+ "description": "Black Widow stands poised with pistols drawn, from the Avengers Assemble collection."
 },
  {
  "id": "wicked-avengers-captain-america-first-avenger",
@@ -37746,7 +37746,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain America (First Avenger) from Avengers."
+ "description": "Captain America: The First Avenger stands proud in his WWII uniform, shield on his arm."
 },
  {
  "id": "wicked-fantastic-four-4f-diorama",
@@ -37768,7 +37768,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of 4F from Fantastic Four."
+ "description": "The whole Fantastic Four team up together on a shared base in this complete F4 diorama."
 },
  {
  "id": "wicked-x-men-archangel",
@@ -37791,7 +37791,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Archangel from X-Men."
+ "description": "Archangel stands with his bladed metal wings spread, the deadly Horseman of Apocalypse."
 },
  {
  "id": "wicked-fantastic-four-dr-doom-f4-diorama-version",
@@ -37815,7 +37815,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Dr Doom (F4 Version) from Fantastic Four."
+ "description": "Doctor Doom unleashes green energy from his gauntlet, cloak sweeping, in this Fantastic Four diorama version."
 },
  {
  "id": "wicked-fantastic-four-reed-richards",
@@ -37839,7 +37839,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Reed Richards from Fantastic Four."
+ "description": "Mister Fantastic stretches his elastic limbs into action, on a Fantastic Four base."
 },
  {
  "id": "wicked-fantastic-four-susan-storm",
@@ -37863,7 +37863,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Susan Storm from Fantastic Four."
+ "description": "Sue Storm rises with force fields shimmering around her, on a Fantastic Four base."
 },
  {
  "id": "wicked-avengers-captain-marvel",
@@ -37887,7 +37887,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain Marvel from Avengers."
+ "description": "Captain Marvel roars with power, binary energy blazing around her as she rises."
 },
  {
  "id": "wicked-moon-knight-moon-knight-diorama-base-and-logo",
@@ -37909,7 +37909,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Moon Knight Base and Logo from Moon Knight."
+ "description": "The crescent-moon diorama base and logo for the Moon Knight set, ready to display your figures."
 },
  {
  "id": "wicked-moon-knight-scarlet-scarab",
@@ -37933,7 +37933,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Scarlet Scarab from Moon Knight."
+ "description": "Scarlet Scarab spreads her golden wings on a Moon Knight base, curls framing her fierce look."
 },
  {
  "id": "wicked-fantastic-four-jhonny-storm-human-torch",
@@ -37957,7 +37957,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jhonny Storm (Human Torch) from Fantastic Four."
+ "description": "The Human Torch flames on, fire licking up his body as he rises from a burning base."
 },
  {
  "id": "wicked-avengers-war-machine",
@@ -37981,7 +37981,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of War Machine from Avengers."
+ "description": "War Machine stands armed to the teeth atop a massive war tank, shoulder cannon ready."
 },
  {
  "id": "wicked-moon-knight-khonshu",
@@ -38005,7 +38005,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Khonshu from Moon Knight."
+ "description": "Khonshu, the bird-skulled god of the moon, towers in bandage-wrapped robes with his crescent-topped staff in hand."
 },
  {
  "id": "wicked-moon-knight-mr-knight",
@@ -38029,7 +38029,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mr Knight from Moon Knight."
+ "description": "Mr. Knight in his crisp white three-piece suit and mask, the dapper side of Moon Knight."
 },
  {
  "id": "wicked-moon-knight-v2",
@@ -38053,7 +38053,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Moon Knight from Moon Knight."
+ "description": "Moon Knight stands hooded in his white cloak and crescent darts, beside Mr. Knight in his sharp suit."
 },
  {
  "id": "wicked-moon-knight-war-tank",
@@ -38077,7 +38077,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of War Tank from Moon Knight."
+ "description": "A massive Moon Knight-themed war tank bristles with armor and cannons."
 },
  {
  "id": "wicked-spider-man-jack-o-lantern",
@@ -38101,7 +38101,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jack O Lantern from Spider-Man."
+ "description": "Jack O'Lantern rides his glider with a flaming pumpkin head and scythe in hand."
 },
  {
  "id": "wicked-fantastic-four-the-thing",
@@ -38125,7 +38125,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Thing from Fantastic Four."
+ "description": "The Thing flexes his rocky orange fists, ready for clobberin' time."
 },
  {
  "id": "wicked-avengers-ant-man-and-wasp-diorama",
@@ -38149,7 +38149,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Ant Man and Wasp from Avengers."
+ "description": "Ant-Man and the Wasp ride their ant mounts into battle in this Quantumania-inspired diorama."
 },
  {
  "id": "wicked-the-wasp-v1",
@@ -38173,7 +38173,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Wasp from Avengers."
+ "description": "The Wasp flutters into flight with her wings spread, on a red hex base."
 },
  {
  "id": "wicked-avengers-ant-man",
@@ -38196,7 +38196,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ant Man from Avengers."
+ "description": "Ant-Man leaps into action from a red hex base, shown in three poses."
 },
  {
  "id": "wicked-avengers-wanda-and-vision-diorama",
@@ -38220,7 +38220,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Wanda and Vision from Avengers."
+ "description": "Wanda and Vision stand together amid swirling chaos magic in this WandaVision diorama."
 },
  {
  "id": "wicked-fantastic-four-silver-surfer",
@@ -38244,7 +38244,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Silver Surfer from Fantastic Four."
+ "description": "The Silver Surfer rides his cosmic board through space, chrome body gleaming."
 },
  {
  "id": "wicked-avengers-vision",
@@ -38268,7 +38268,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Vision from Avengers."
+ "description": "Vision bursts upward with the Mind Stone blazing, cape flowing behind him."
 },
  {
  "id": "wicked-avengers-wanda",
@@ -38292,7 +38292,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wanda from Avengers."
+ "description": "Wanda summons crimson chaos magic in her Scarlet Witch costume."
 },
  {
  "id": "wicked-blade-blade",
@@ -38316,7 +38316,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Blade from Blade."
+ "description": "Blade slashes through a horde of vampires with sword drawn and shades on."
 },
  {
  "id": "wicked-fantastic-four-galactus",
@@ -38340,7 +38340,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Galactus from Fantastic Four."
+ "description": "Galactus, Devourer of Worlds, looms with his towering helmet, a planet in his grasp."
 },
  {
  "id": "wicked-spider-man-green-goblin",
@@ -38364,7 +38364,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Green Goblin from Spider-Man."
+ "description": "The Green Goblin rides his glider in No Way Home armor, pumpkin bomb ready."
 },
  {
  "id": "wicked-spider-man-spiderman-tom-holland",
@@ -38388,7 +38388,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spiderman (Tom Holland) from Spider-Man."
+ "description": "Tom Holland's Spider-Man crouches in the Iron Spider suit with spider legs deployed."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-nebula",
@@ -38412,7 +38412,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Nebula from Guardians of the Galaxy."
+ "description": "Nebula stands battle-ready with her shock batons, cybernetic face plate gleaming."
 },
  {
  "id": "wicked-x-men-mr-sinister",
@@ -38436,7 +38436,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mr. Sinister from X-Men."
+ "description": "Mr. Sinister grins with green energy flaring from both hands, cape spread wide."
 },
  {
  "id": "wicked-gambit-v1",
@@ -38460,7 +38460,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gambit from X-Men."
+ "description": "Gambit charges a pink kinetic card in a detailed close-up and full-figure sculpt."
 },
  {
  "id": "wicked-spider-man-electro",
@@ -38483,7 +38483,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Electro from Spider-Man."
+ "description": "Electro crackles with lightning on a No Way Home base, one of the three villains."
 },
  {
  "id": "wicked-spider-man-spider-man-andrew-garfield",
@@ -38507,7 +38507,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider man (Andrew Garfield) from Spider-Man."
+ "description": "Andrew Garfield's Amazing Spider-Man swings into action, one of three No Way Home Spider-Men."
 },
  {
  "id": "wicked-spider-man-spider-man-sculpture-tobey",
@@ -38531,7 +38531,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider man Sculpture (Tobey) from Spider-Man."
+ "description": "Tobey Maguire's Spider-Man crouches on a web-slinging perch, from No Way Home."
 },
  {
  "id": "wicked-spider-man-dr-octupus",
@@ -38555,7 +38555,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dr. Octupus from Spider-Man."
+ "description": "Doctor Octopus grimaces as his mechanical tentacles coil around him, in his No Way Home look."
 },
  {
  "id": "wicked-omega-red-v1",
@@ -38578,7 +38578,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Omega Red from X-Men."
+ "description": "Omega Red lashes out with his carbonadium coils, ready to drain Wolverine's life force."
 },
  {
  "id": "wicked-x-men-wolverine",
@@ -38602,7 +38602,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wolverine from X-Men."
+ "description": "Wolverine lunges forward with claws extended, ready to take on Omega Red."
 },
  {
  "id": "wicked-x-men-nightcrawler",
@@ -38626,7 +38626,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Nightcrawler from X-Men."
+ "description": "Nightcrawler leaps with dual swords from a puff of purple teleport smoke, tail curling."
 },
  {
  "id": "wicked-avengers-hulk-age-of-ultron",
@@ -38650,7 +38650,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hulk Age of Ultron from Avengers."
+ "description": "The Hulk clashes with the Hulkbuster armor in this Age of Ultron-inspired sculpt."
 },
  {
  "id": "wicked-avengers-cap-carter-hydra-stomper",
@@ -38673,7 +38673,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cap. Carter + Hydra Stomper from Avengers."
+ "description": "Captain Carter stands with her Union Jack shield beside Steve Rogers in the Hydra Stomper armor."
 },
  {
  "id": "wicked-x-men-domino",
@@ -38697,7 +38697,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Domino from X-Men."
+ "description": "Domino fires her gun mid-leap from an X-Force base, red debris scattering below."
 },
  {
  "id": "wicked-spider-man-venom-vs-carnage-diorama-1",
@@ -38721,7 +38721,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Venom vs Carnage from Spider-Man."
+ "description": "Venom and Carnage tear into each other atop a city ruin in this Venom vs Carnage diorama."
 },
  {
  "id": "wicked-spider-man-venom",
@@ -38745,7 +38745,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Venom from Spider-Man."
+ "description": "Venom lunges with jaws open and tongue lashing over a shattered city rooftop."
 },
  {
  "id": "wicked-spider-man-carnage",
@@ -38769,7 +38769,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Carnage from Spider-Man."
+ "description": "Carnage erupts in a whirlwind of jagged symbiote blades and tendrils."
 },
  {
  "id": "wicked-x-men-phoenix",
@@ -38793,7 +38793,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Phoenix from X-Men."
+ "description": "The Phoenix rises in a storm of fiery wings and feathers, Jean Grey at the center of cosmic flame."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-mantis",
@@ -38817,7 +38817,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mantis from Guardians of the Galaxy."
+ "description": "Mantis stands gracefully with antennae glowing on a lush alien base."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-drax",
@@ -38840,7 +38840,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Drax from Guardians of the Galaxy."
+ "description": "Drax the Destroyer charges with twin blades and a heavy gun over an alien skull base."
 },
  {
  "id": "wicked-marvel-other-mephisto",
@@ -38864,7 +38864,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mephisto from Marvel Comics."
+ "description": "Mephisto, the Marvel demon lord, crouches menacingly in his high collar over a hellish base."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-groot",
@@ -38888,7 +38888,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Groot from Guardians of the Galaxy."
+ "description": "Groot reaches out with branching arms, roots spreading over a base of red blossoms."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-yondu",
@@ -38912,7 +38912,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Yondu from Guardians of the Galaxy."
+ "description": "Yondu Udonta crouches in his ravager coat, his Yaka Arrow fin glowing atop his head."
 },
  {
  "id": "wicked-thor-loki-sylvie-diorama",
@@ -38933,7 +38933,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Loki & Sylvie from Thor."
+ "description": "Loki and Sylvie stand together before the TVA's Time Door in this Loki diorama."
 },
  {
  "id": "wicked-ghost-rider-cosmic-ghost-rider",
@@ -38957,7 +38957,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cosmic Ghost Rider from Ghost Rider."
+ "description": "Cosmic Ghost Rider charges on his flaming cosmic bike, chain whipping red hellfire."
 },
  {
  "id": "wicked-thor-loki",
@@ -38978,7 +38978,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Loki from Thor."
+ "description": "Loki stands in his horned crown and long coat, scepter in hand, arm outstretched."
 },
  {
  "id": "wicked-thor-sylvie",
@@ -39002,7 +39002,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sylvie from Thor."
+ "description": "Sylvie stands defiant with her sword drawn, long coat flowing, over rocky rubble."
 },
  {
  "id": "wicked-spider-man-spider-man-vs-vulture-diorama",
@@ -39025,7 +39025,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Spider man vs Vulture from Spider-Man."
+ "description": "Spider-Man battles the Vulture amid smoke and wreckage in this Homecoming-inspired diorama."
 },
  {
  "id": "wicked-spider-man-knull",
@@ -39048,7 +39048,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Knull from Spider-Man."
+ "description": "Knull, the King in Black, rises from a writhing mass of symbiotes with his All-Black blade."
 },
  {
  "id": "wicked-spider-man-vulture",
@@ -39072,7 +39072,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Vulture from Spider-Man."
+ "description": "The Vulture swoops down in his mechanical wing suit, bursting through billowing smoke."
 },
  {
  "id": "wicked-spider-man-spider-man",
@@ -39096,7 +39096,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spider man from Spider-Man."
+ "description": "Spider-Man swings over a crashed jet turbine wrapped in webs, on a Spider-Man base."
 },
  {
  "id": "wicked-deadpool-v2",
@@ -39120,7 +39120,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Deadpool from X-Men."
+ "description": "Deadpool leaps from a crashing billboard, guns blazing, in a chaotic action pose."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n",
@@ -39143,7 +39143,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Gamora + Star Lord - Guardians of the Galaxy - (only base, no models) from Guardians of the Galaxy."
+ "description": "The Guardians of the Galaxy diorama base for Star-Lord and Gamora, sold base only, no figures."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-star-lord-sculpture-guardians-of-the-galaxy",
@@ -39167,7 +39167,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Star Lord Sculpture: Guardians of the Galaxy from Guardians of the Galaxy."
+ "description": "Star-Lord takes aim with his element guns in his long coat and masked helmet."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-gamora-sculpture-guardians-of-the-galaxy",
@@ -39191,7 +39191,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gamora Sculpture: Guardians of the Galaxy from Guardians of the Galaxy."
+ "description": "Gamora lunges with her blade Godslayer drawn, coat flaring, on a rocky Guardians base."
 },
  {
  "id": "wicked-avengers-falcon-captain-america",
@@ -39215,7 +39215,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Falcon - Captain America from Avengers."
+ "description": "Sam Wilson as Captain America, wings spread and shield raised, on a rocky base."
 },
  {
  "id": "wicked-avengers-winter-soldier",
@@ -39239,7 +39239,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Winter Soldier from Avengers."
+ "description": "The Winter Soldier advances with his rifle, metal arm gleaming, on a star base."
 },
  {
  "id": "wicked-avengers-may-diorama-winter-soldier-falcon-stls-ready-for-printing",
@@ -39263,7 +39263,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of May : Winter Soldier + Falcon from Avengers."
+ "description": "Falcon and the Winter Soldier fight side by side atop a wrecked vehicle in this diorama."
 },
  {
  "id": "wicked-fantastic-four-dr-doom",
@@ -39286,7 +39286,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dr. Doom from Fantastic Four."
+ "description": "Doctor Doom stands with his cloak sweeping and one fist raised in command."
 },
  {
  "id": "wicked-doctor-strange-doctor-strange-vs-dormammu-diorama",
@@ -39308,7 +39308,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Doctor Strange vs Dormammu from Doctor Strange."
+ "description": "Doctor Strange faces down Dormammu's flaming head with mystic shields raised in this diorama."
 },
  {
  "id": "wicked-doctor-strange-dormammu",
@@ -39332,7 +39332,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dormammu from Doctor Strange."
+ "description": "Dormammu stands wreathed in flames on an ornate Sanctum base, the lord of the Dark Dimension."
 },
  {
  "id": "wicked-doctor-strange-doctor-strange",
@@ -39356,7 +39356,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Doctor Strange from Doctor Strange."
+ "description": "Doctor Strange conjures mystic shields with his Cloak of Levitation flaring over a swirling base."
 },
  {
  "id": "wicked-daredevil-marvel-netflix-daredevil-sculpture-stls-ready-for-printing",
@@ -39380,7 +39380,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of : Netflix Daredevil from Daredevil."
+ "description": "Netflix's Daredevil leaps from a church ledge in his red suit, billy club in hand."
 },
  {
  "id": "wicked-daredevil-punisher-vs-daredevil-diorama-base-stls-ready-for-printing",
@@ -39403,7 +39403,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Punisher vs Daredevil base from Daredevil."
+ "description": "Daredevil and the Punisher clash atop a church rooftop in this Netflix-inspired diorama."
 },
  {
  "id": "wicked-daredevil-marvel-netflix-punisher-sculpture-stls-ready-for-printing",
@@ -39427,7 +39427,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of : Netflix Punisher from Daredevil."
+ "description": "Netflix's Punisher leaps from a church ledge in his long coat, pistol drawn."
 },
  {
  "id": "wicked-predator-predator-and-dutch-diorama",
@@ -39451,7 +39451,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Predator and Dutch from Predator."
+ "description": "The Predator perches above Dutch in the jungle canopy in this classic Predator diorama."
 },
  {
  "id": "wicked-predator-the-predator",
@@ -39475,7 +39475,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Predator from Predator."
+ "description": "The Predator crouches atop a jungle tree, wrist blades out and plasma caster mounted."
 },
  {
  "id": "wicked-predator-dutch",
@@ -39499,7 +39499,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dutch from Predator."
+ "description": "Dutch stands battle-ready with his rifle on a Predator base, muscles and resolve on full display."
 },
  {
  "id": "wicked-predator-predator-and-dutch-diorama-v2-lifting-the-torch",
@@ -39523,7 +39523,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Predator and Dutch V2 (Lifting the torch) from Predator."
+ "description": "Dutch raises a flaming torch beneath the Predator's tree perch in this jungle Predator diorama."
 },
  {
  "id": "wicked-predator-predator-vs-alien-diorama",
@@ -39547,7 +39547,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Predator VS Alien from Predator."
+ "description": "A Predator wrestles a Xenomorph over a hive of eggs in this savage Predator vs Alien diorama."
 },
  {
  "id": "wicked-ghost-rider-johnny-blaze-ghost-rider",
@@ -39571,7 +39571,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Johnny Blaze Ghost Rider from Ghost Rider."
+ "description": "Johnny Blaze swings his chain from his flaming chopper as hellfire sweeps across the road."
 },
  {
  "id": "wicked-ghost-rider-danny-ketch-ghost-rider",
@@ -39595,7 +39595,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Danny Ketch Ghost Rider from Ghost Rider."
+ "description": "Danny Ketch's Ghost Rider whips his chains beside his spiked motorcycle over a skull-strewn base."
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-diorama",
@@ -39619,7 +39619,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Ghost Rider from Ghost Rider."
+ "description": "Ghost Rider's blazing skull roars over his hellfire bike, chains whipping in this fiery diorama."
 },
  {
  "id": "wicked-x-men-x-23",
@@ -39644,7 +39644,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of X-23 from X-Men."
+ "description": "X-23 crouches atop a Sentinel's tentacled head, claws out, ready to pounce."
 },
  {
  "id": "wicked-daredevil-punisher-2024",
@@ -39667,7 +39667,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Punisher 2024 from Daredevil."
+ "description": "The Punisher fires an Uzi from atop a crumbling building, ammo belts and skull vest on display."
 },
  {
  "id": "wicked-x-men-archangel-2024",
@@ -39691,7 +39691,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Archangel 2024 from X-Men."
+ "description": "Archangel spreads his razor-sharp metal wings over a base of skulls, the deadliest of Apocalypse's Horsemen."
 },
  {
  "id": "wicked-x-men-famine",
@@ -39715,7 +39715,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Famine from X-Men."
+ "description": "Famine, Horseman of Apocalypse, rises skeletal and gaunt from a churning base of bones and skulls."
 },
  {
  "id": "wicked-x-men-war",
@@ -39739,7 +39739,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of War from X-Men."
+ "description": "War, Horseman of Apocalypse, stands arms crossed in heavy armor over a skull-ringed base."
 },
  {
  "id": "wicked-x-men-apocalypse",
@@ -39763,7 +39763,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Apocalypse from X-Men."
+ "description": "Apocalypse towers in blue-and-gray armor, a skull in hand, between flaming braziers."
 },
  {
  "id": "wicked-black-panther-black-panther-and-namor-diorama",
@@ -39787,7 +39787,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Black Panther and Namor from Black Panther."
+ "description": "Black Panther and Namor clash over coiling sea serpents in this Wakanda Forever diorama."
 },
  {
  "id": "wicked-black-panther-black-panther-shuri-2024",
@@ -39810,7 +39810,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Panther Shuri 2024 from Black Panther."
+ "description": "Shuri as Black Panther crouches over a stalking panther on a rocky Wakandan base."
 },
  {
  "id": "wicked-black-panther-namor",
@@ -39834,7 +39834,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Namor from Black Panther."
+ "description": "Namor rises from coiling sea serpents with his spear raised and feathered headdress, on a Wakanda Forever base."
 },
  {
  "id": "wicked-robocop-robocop-and-ed-209-diorama",
@@ -39857,7 +39857,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Robocop and ED 209 from RoboCop."
+ "description": "RoboCop faces down ED-209 amid fire and rubble in this full RoboCop diorama."
 },
  {
  "id": "wicked-robocop-robocop",
@@ -39881,7 +39881,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Robocop from RoboCop."
+ "description": "RoboCop raises his Auto-9 in front of a wall of OCP monitors on a detailed base."
 },
  {
  "id": "wicked-robocop-ed-209",
@@ -39905,7 +39905,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of ED 209 from RoboCop."
+ "description": "ED-209 stands guard with its massive cannon arms raised over a ruined base. You have 20 seconds to comply."
 },
  {
  "id": "wicked-x-men-pestilence",
@@ -39929,7 +39929,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Pestilence from X-Men."
+ "description": "Pestilence, Horseman of Apocalypse, rises with a hand raised over a base of skulls and serpents."
 },
  {
  "id": "wicked-robocop-robocop-gun",
@@ -39953,7 +39953,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Robocop Gun from RoboCop."
+ "description": "RoboCop's iconic Auto-9 pistol, ready to print as a standalone prop."
 },
  {
  "id": "wicked-avengers-black-widow-2024",
@@ -39977,7 +39977,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Widow 2024 from Avengers."
+ "description": "Black Widow takes aim with her rifle on a crumbling ruin, long hair flowing."
 },
  {
  "id": "wicked-rocky-rocky-balboa",
@@ -39999,7 +39999,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rocky Balboa from Rocky."
+ "description": "Rocky Balboa throws a punch in his trunks and gloves, on a 'Match of the Century' ring base."
 },
  {
  "id": "wicked-rocky-apollo-creed",
@@ -40021,7 +40021,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Apollo Creed from Rocky."
+ "description": "Apollo Creed throws a hook in his trunks and gloves, on a ring-apron base."
 },
  {
  "id": "wicked-rocky-rocky-balboa-and-apollo-creed-diorama",
@@ -40045,7 +40045,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Rocky Balboa and Apollo Creed from Rocky."
+ "description": "Rocky and Apollo trade blows in the ring in this Rocky diorama, ropes and all."
 },
  {
  "id": "wicked-avengers-hawkeye-2024",
@@ -40068,7 +40068,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hawkeye 2024 from Avengers."
+ "description": "Hawkeye lunges forward with bow raised, quiver on his back, over a battle-worn base."
 },
  {
  "id": "wicked-avengers-hawkeye-and-black-widow-diorama",
@@ -40092,7 +40092,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Hawkeye and Black Widow from Avengers."
+ "description": "Hawkeye draws his bow as Black Widow takes aim beside him on a ruined rooftop diorama."
 },
  {
  "id": "wicked-avengers-iron-man-and-iron-monger-diorama",
@@ -40116,7 +40116,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Iron Man and Iron Monger from Avengers."
+ "description": "Iron Monger crushes forward as Iron Man flies overhead in this classic Iron Man diorama."
 },
  {
  "id": "wicked-avengers-iron-monger",
@@ -40140,7 +40140,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Iron Monger from Avengers."
+ "description": "Iron Monger looms in bronze armor over a battered Iron Man, on a glowing arc-reactor base."
 },
  {
  "id": "wicked-avengers-gladiator",
@@ -40164,7 +40164,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gladiator from Avengers."
+ "description": "Gladiator, Majestor of the Shi'ar, leaps forward with his cape billowing over a rocky base."
 },
  {
  "id": "wicked-mystique-v1",
@@ -40188,7 +40188,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mystique from X-Men."
+ "description": "Mystique in her white dress with twin pistols raised, on a skull-adorned base."
 },
  {
  "id": "wicked-avengers-kang",
@@ -40212,7 +40212,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kang from Avengers."
+ "description": "Kang the Conqueror stands armored on a time-platform base, a massive cannon over his shoulder."
 },
  {
  "id": "wicked-x-men-magic",
@@ -40236,7 +40236,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Magic from X-Men."
+ "description": "Magik raises her Soulsword high over a dark Limbo demon, white hair streaming."
 },
  {
  "id": "wicked-universal-soldier-luc-deveraux",
@@ -40260,7 +40260,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Luc Deveraux from Universal Soldier."
+ "description": "Luc Deveraux in UniSol armor, eyepiece on and rifle raised, beside a fuel pump."
 },
  {
  "id": "wicked-universal-soldier-andrew-scott",
@@ -40284,7 +40284,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Andrew Scott from Universal Soldier."
+ "description": "Sergeant Andrew Scott in UniSol armor with a bandolier and severed ears necklace, on a Universal Soldier base."
 },
  {
  "id": "wicked-universal-soldier-universal-soldier-diorama",
@@ -40308,7 +40308,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Universal Soldier from Universal Soldier."
+ "description": "Luc Deveraux and Andrew Scott face off in UniSol armor beside a gas station in this Universal Soldier diorama."
 },
  {
  "id": "wicked-lethal-weapon-lethal-weapon-diorama",
@@ -40329,7 +40329,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Lethal Weapon from Lethal Weapon."
+ "description": "Riggs and Murtaugh stand guns-drawn before the Hollywood sign in this Lethal Weapon diorama."
 },
  {
  "id": "wicked-lethal-weapon-riggs",
@@ -40352,7 +40352,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Riggs from Lethal Weapon."
+ "description": "Martin Riggs aims his pistol with wild hair and jeans, on a Lethal Weapon base."
 },
  {
  "id": "wicked-lethal-weapon-roger",
@@ -40374,7 +40374,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Roger from Lethal Weapon."
+ "description": "Roger Murtaugh stands ready in his suit with pistol drawn, on a Lethal Weapon base."
 },
  {
  "id": "wicked-fantastic-four-super-skrull-diorama",
@@ -40398,7 +40398,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Super Skrull from Fantastic Four."
+ "description": "Super-Skrull flexes the combined powers of the Fantastic Four, flame and rock fists blazing."
 },
  {
  "id": "wicked-spider-man-venom-and-spiderman-diorama",
@@ -40422,7 +40422,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Venom and Spiderman from Spider-Man."
+ "description": "Spider-Man and Venom collide over a city block in this Amazing Spider-Man comic-cover diorama."
 },
  {
  "id": "wicked-spider-man-venom-sculpture-2024",
@@ -40446,7 +40446,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Venom Sculpture 2024 from Spider-Man."
+ "description": "Venom crouches atop a ruined monument, tendrils lashing, on a bold VENOM-lettered base."
 },
  {
  "id": "wicked-x-men-kitty-pryde",
@@ -40469,7 +40469,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kitty Pryde from X-Men."
+ "description": "Kitty Pryde phases through a gothic stone wall mid-leap, ponytail flying, on an X-Men base."
 },
  {
  "id": "wicked-x-men-apocalypse-and-horseman-diorama",
@@ -40493,7 +40493,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Apocalypse and Horseman from X-Men."
+ "description": "Apocalypse stands with his Four Horsemen over a skull-strewn temple in this epic X-Men diorama."
 },
  {
  "id": "wicked-spider-man-venom-and-spiderman-v2-diorama",
@@ -40514,7 +40514,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Venom and Spiderman V2 from Spider-Man."
+ "description": "Spider-Man swings into a clash with Venom over an Amazing Spider-Man base in this dynamic diorama."
 },
  {
  "id": "wicked-the-crow-the-crow",
@@ -40538,7 +40538,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Crow from The Crow."
+ "description": "Eric Draven perches atop a gothic spire, coat flowing and a crow at his shoulder, on a The Crow base."
 },
  {
  "id": "wicked-the-crow-the-crow-diorama",
@@ -40562,7 +40562,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of The Crow from The Crow."
+ "description": "The Crow spreads his arms over his seated enemies at the crime boss table in this dramatic The Crow diorama."
 },
  {
  "id": "wicked-avengers-dead-strange-and-scarlet-witch-diorama",
@@ -40586,7 +40586,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Dead Strange and Scarlet Witch from Avengers."
+ "description": "Dead Strange looms with dark wings over the Scarlet Witch in this towering Multiverse of Madness diorama."
 },
  {
  "id": "wicked-doctor-strange-dead-strange",
@@ -40610,7 +40610,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dead Strange from Doctor Strange."
+ "description": "Dead Strange rises with tattered spectral wings spread, flanked by tortured souls on a Multiverse of Madness base."
 },
  {
  "id": "wicked-scarlet-witch-v2",
@@ -40634,7 +40634,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Scarlet Witch from Avengers."
+ "description": "Wanda Maximoff stands in her Scarlet Witch crown and cape, chaos magic flaring, on a Multiverse of Madness base."
 },
  {
  "id": "wicked-avengers-scarlet-witch-second",
@@ -40655,7 +40655,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Scarlet Witch Second from Avengers."
+ "description": "The Scarlet Witch levitates cross-legged above the Darkhold, chaos magic swirling around her."
 },
  {
  "id": "wicked-x-men-onslaught",
@@ -40679,7 +40679,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Onslaught from X-Men."
+ "description": "Onslaught towers in crimson and violet armor, the massive psionic menace of the X-Men."
 },
  {
  "id": "wicked-black-panther-namor-comic-silver-age",
@@ -40703,7 +40703,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Namor Comic Silver Age from Black Panther."
+ "description": "Silver Age Namor raises his trident over a shark-filled undersea base in his classic trunks."
 },
  {
  "id": "wicked-black-panther-namor-modern",
@@ -40727,7 +40727,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Namor Modern from Black Panther."
+ "description": "Namor stands with his trident raised over a coral reef base, sharks circling below."
 },
  {
  "id": "wicked-x-men-havok",
@@ -40751,7 +40751,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Havok from X-Men."
+ "description": "Havok unleashes glowing plasma rings from his hands, standing on Sentinel wreckage."
 },
  {
  "id": "wicked-doctor-strange-wong",
@@ -40774,7 +40774,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wong from Doctor Strange."
+ "description": "Wong conjures twin mystic shields, robes flowing, on a Multiverse of Madness base."
 },
  {
  "id": "wicked-star-trek-star-trek-diorama",
@@ -40796,7 +40796,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Star Trek from Star Trek."
+ "description": "Kirk and Spock stand shoulder to shoulder on a Wrath of Khan base in this Star Trek diorama."
 },
  {
  "id": "wicked-star-trek-kirk",
@@ -40818,7 +40818,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kirk from Star Trek."
+ "description": "Captain Kirk stands confident with his communicator, on a Star Trek II: The Wrath of Khan base."
 },
  {
  "id": "wicked-star-trek-spock",
@@ -40842,7 +40842,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spock from Star Trek."
+ "description": "Mr. Spock gives the Vulcan salute in his Starfleet uniform, on a Wrath of Khan base."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-star-lord-comic-version",
@@ -40865,7 +40865,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Star Lord Comic Version from Guardians of the Galaxy."
+ "description": "Comic Star-Lord rockets upward on his jet boots, blasters blazing, over a fiery Guardians base."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-gamora-comic-version",
@@ -40888,7 +40888,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gamora Comic Version from Guardians of the Galaxy."
+ "description": "Comic Gamora leaps with blade drawn over a glowing green acid-splashed base."
 },
  {
  "id": "wicked-spider-man-black-cat",
@@ -40912,7 +40912,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Cat from Spider-Man."
+ "description": "Black Cat smirks with pearls in hand and fur-trimmed suit, platinum hair flowing."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-groot-comic-version",
@@ -40936,7 +40936,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Groot Comic Version from Guardians of the Galaxy."
+ "description": "Comic Groot towers with branches spread and roots twisting."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-rocket-comic-version",
@@ -40959,7 +40959,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rocket Comic Version from Guardians of the Galaxy."
+ "description": "Comic Rocket Raccoon fires a massive cannon from a rocky perch."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-groot-and-rocket-diorama-comic-version",
@@ -40982,7 +40982,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Groot and Rocket Comic Version from Guardians of the Galaxy."
+ "description": "Comic Rocket rides atop Groot as they charge into battle."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-rocket-handgun",
@@ -41003,7 +41003,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rocket Handgun from Guardians of the Galaxy."
+ "description": "A life-size 1:1 replica of Rocket's oversized blaster, ready to print and display."
 },
  {
  "id": "wicked-x-men-deadpool-and-wolverine-diorama",
@@ -41026,7 +41026,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Deadpool and Wolverine from X-Men."
+ "description": "Deadpool and Wolverine burst through a time-portal ring in this Deadpool & Wolverine diorama."
 },
  {
  "id": "wicked-x-men-deadpool-2024",
@@ -41049,7 +41049,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Deadpool 2024 from X-Men."
+ "description": "Deadpool leaps into action with katanas out, over a debris-strewn base."
 },
  {
  "id": "wicked-x-men-wolverine-2024",
@@ -41073,7 +41073,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wolverine 2024 from X-Men."
+ "description": "Wolverine lunges with claws extended over a wrecked base."
 },
  {
  "id": "wicked-x-men-lady-deadpool",
@@ -41097,7 +41097,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lady Deadpool from X-Men."
+ "description": "Lady Deadpool leaps with katanas drawn, ponytail flying, over a rubble base."
 },
  {
  "id": "wicked-back-to-the-future-back-to-the-future-diorama",
@@ -41121,7 +41121,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Back To The Future from Back to the Future."
+ "description": "Marty and Doc Brown stand together on a Back to the Future Part II base."
 },
  {
  "id": "wicked-back-to-the-future-marty-mcfly",
@@ -41144,7 +41144,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Marty McFly from Back to the Future."
+ "description": "Marty McFly in his self-lacing sneakers and jacket, on a Back to the Future Part II base."
 },
  {
  "id": "wicked-back-to-the-future-dr-emmett-brown",
@@ -41168,7 +41168,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dr. Emmett Brown from Back to the Future."
+ "description": "Doc Brown checks his watch in his lab coat and goggles, on a Back to the Future Part II base."
 },
  {
  "id": "wicked-back-to-the-future-delorean",
@@ -41191,7 +41191,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of DeLorean from Back to the Future."
+ "description": "The iconic DeLorean time machine with gull-wing doors open and flux capacitor ready."
 },
  {
  "id": "wicked-back-to-the-future-back-to-the-future-diorama-with-delorean",
@@ -41214,7 +41214,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Back To The Future With DeLorean from Back to the Future."
+ "description": "Marty and Doc stand beside the full-size DeLorean time machine, gull-wing doors open, in this Back to the Future diorama."
 },
  {
  "id": "wicked-ghostbusters-winston",
@@ -41235,7 +41235,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Winston from Ghostbusters."
+ "description": "Winston Zeddemore stands ready with his proton pack on a Ghostbusters base."
 },
  {
  "id": "wicked-ghostbusters-egon",
@@ -41257,7 +41257,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Egon from Ghostbusters."
+ "description": "Egon Spengler grips his proton thrower, glasses and swept-up hair in place, on a Ghostbusters base."
 },
  {
  "id": "wicked-ghostbusters-peter",
@@ -41279,7 +41279,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Peter from Ghostbusters."
+ "description": "Peter Venkman aims his proton wand with cool confidence, on a Ghostbusters base."
 },
  {
  "id": "wicked-ghostbusters-ray",
@@ -41302,7 +41302,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ray from Ghostbusters."
+ "description": "Ray Stantz fires his proton pack, goggles on his head, on a Ghostbusters base."
 },
  {
  "id": "wicked-ghostbusters-mr-stay-puft",
@@ -41323,7 +41323,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mr Stay Puft from Ghostbusters."
+ "description": "The Stay Puft Marshmallow Man stomps over a city-block Ghostbusters base, sailor hat and all."
 },
  {
  "id": "wicked-ghostbusters-slimer",
@@ -41344,7 +41344,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Slimer from Ghostbusters."
+ "description": "Slimer grins wide as he rises from a ghost trap, ectoplasm dripping."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-mantis-comic-version",
@@ -41368,7 +41368,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mantis Comic Version from Guardians of the Galaxy."
+ "description": "Comic Mantis strikes a graceful martial-arts pose, antennae raised and ribbons flowing."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-adam-warlock",
@@ -41391,7 +41391,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Adam Warlock from Guardians of the Galaxy."
+ "description": "Adam Warlock soars skyward from a swirling cosmic base, cape trailing."
 },
  {
  "id": "wicked-marvel-zombies-spiderman-zombie",
@@ -41413,7 +41413,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spiderman Zombie from Marvel Zombies."
+ "description": "A decaying zombie Spider-Man springs from a toppled gravestone over a pile of skulls in a graveyard base."
 },
  {
  "id": "wicked-marvel-zombies-cyclops-zombie",
@@ -41437,7 +41437,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cyclops Zombie from Marvel Zombies."
+ "description": "Zombie Cyclops stands atop a graveyard stair, flesh rotting and visor cracked."
 },
  {
  "id": "wicked-universal-monsters-frankenstein",
@@ -41461,7 +41461,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Frankenstein from Universal Monsters."
+ "description": "Frankenstein's Monster steps from a gothic laboratory frame."
 },
  {
  "id": "wicked-universal-monsters-creature-of-the-black-lagoon",
@@ -41485,7 +41485,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Creature of the Black Lagoon from Universal Monsters."
+ "description": "The Gill-man rises from an aquarium base with claws raised."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-cosmo",
@@ -41509,7 +41509,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cosmo from Guardians of the Galaxy."
+ "description": "Cosmo the Spacedog in his bubble helmet and spacesuit, perched on an asteroid."
 },
  {
  "id": "wicked-marvel-zombies-wolverine-zombie",
@@ -41533,7 +41533,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wolverine Zombie from Marvel Zombies."
+ "description": "Zombie Wolverine leaps from an open coffin over a skull-strewn RIP base, claws extended."
 },
  {
  "id": "wicked-marvel-zombies-captain-america-zombie",
@@ -41557,7 +41557,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain America Zombie from Marvel Zombies."
+ "description": "Zombie Captain America lurches from a graveyard, flesh torn and shield in hand."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-drax-comic-version",
@@ -41581,7 +41581,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Drax Comic Version from Guardians of the Galaxy."
+ "description": "Comic Drax leaps with twin knives drawn over an alien-plant base."
 },
  {
  "id": "wicked-guardians-of-the-galaxy-quasar",
@@ -41605,7 +41605,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Quasar from Guardians of the Galaxy."
+ "description": "Quasar flies forward with cape billowing, quantum bands blazing."
 },
  {
  "id": "wicked-the-nightmare-before-christmas-nightmare-before-christmas-diorama",
@@ -41629,7 +41629,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Nightmare Before Christmas from The Nightmare Before Christmas."
+ "description": "Jack's coffin sleigh soars over Spiral Hill with the whole Halloween Town gang in this full diorama."
 },
  {
  "id": "wicked-the-nightmare-before-christmas-jack-and-sally-diorama",
@@ -41653,7 +41653,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Jack and Sally from The Nightmare Before Christmas."
+ "description": "Jack and Sally ride a coffin sleigh across Spiral Hill in this Nightmare Before Christmas diorama."
 },
  {
  "id": "wicked-the-nightmare-before-christmas-mayor",
@@ -41677,7 +41677,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mayor from The Nightmare Before Christmas."
+ "description": "The two-faced Mayor of Halloween Town shouts through his megaphone in his tall hat and sash."
 },
  {
  "id": "wicked-the-nightmare-before-christmas-oogie-boogie",
@@ -41701,7 +41701,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Oogie Boogie from The Nightmare Before Christmas."
+ "description": "Oogie Boogie looms in his burlap sack body, bugs and dice at the ready, on a Halloween Town base."
 },
  {
  "id": "wicked-the-nightmare-before-christmas-zero",
@@ -41725,7 +41725,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Zero from The Nightmare Before Christmas."
+ "description": "Zero, Jack's ghost dog, floats with his glowing pumpkin nose over a Halloween Town base."
 },
  {
  "id": "wicked-avengers-nick-fury-and-falcon-diorama",
@@ -41749,7 +41749,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Nick Fury and Falcon from Avengers."
+ "description": "Nick Fury and Falcon fight side by side atop a SHIELD-crested base."
 },
  {
  "id": "wicked-avengers-nick-fury",
@@ -41773,7 +41773,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Nick Fury from Avengers."
+ "description": "Classic Nick Fury fires his rifle in his SHIELD jumpsuit."
 },
  {
  "id": "wicked-avengers-falcon-sculpture-2024",
@@ -41797,7 +41797,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Falcon Sculpture 2024 from Avengers."
+ "description": "Sam Wilson as Captain America, shield raised and wings spread, on a Captain America base."
 },
  {
  "id": "wicked-x-men-mojo",
@@ -41821,7 +41821,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mojo from X-Men."
+ "description": "Mojo lounges on his mechanical throne under a looping track, the tyrant of the Mojoverse."
 },
  {
  "id": "wicked-avengers-quicksilver",
@@ -41845,7 +41845,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Quicksilver from Avengers."
+ "description": "Quicksilver streaks forward in a blur of speed over a Sentinel-strewn X-Men base."
 },
  {
  "id": "wicked-the-grinch-grinch-cindy-and-dog-diorama",
@@ -41869,7 +41869,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Grinch, Cindy and Dog from The Grinch."
+ "description": "The Grinch, Cindy Lou Who and Max share the rooftop in this How the Grinch Stole Christmas diorama."
 },
  {
  "id": "wicked-the-grinch-grinch-jim-carry",
@@ -41893,7 +41893,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Grinch (Jim Carry) from The Grinch."
+ "description": "The Grinch tiptoes across a Whoville chimney in his Santa suit, ornament in hand."
 },
  {
  "id": "wicked-the-grinch-max",
@@ -41917,7 +41917,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Max from The Grinch."
+ "description": "Max, the Grinch's loyal dog, sits atop a snowy chimney with a single antler strapped to his head."
 },
  {
  "id": "wicked-daredevil-daredevil-and-electra-diorama",
@@ -41941,7 +41941,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Daredevil and Electra from Daredevil."
+ "description": "Daredevil and Elektra leap through a gothic rooftop scene, billy clubs and sai drawn."
 },
  {
  "id": "wicked-x-men-jubilee",
@@ -41965,7 +41965,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jubilee from X-Men."
+ "description": "Jubilee leaps above Sentinel tentacles, fireworks bursting from her hands."
 },
  {
  "id": "wicked-daredevil-black-heart",
@@ -41989,7 +41989,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Heart from Daredevil."
+ "description": "Blackheart, son of Mephisto, rises with demonic wings and flames over a writhing base."
 },
  {
  "id": "wicked-marvel-other-stan-lee",
@@ -42013,7 +42013,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Stan Lee from Marvel Comics."
+ "description": "Stan Lee stands hands-on-hips with a warm smile, on a Marvel signature base."
 },
  {
  "id": "wicked-daredevil-hulk-and-punisher-diorama",
@@ -42035,7 +42035,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Hulk and Punisher from Daredevil."
+ "description": "The Hulk smashes down as the Punisher fires back, in a rubble-strewn showdown."
 },
  {
  "id": "wicked-spider-man-agent-venom",
@@ -42059,7 +42059,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Agent Venom from Spider-Man."
+ "description": "Agent Venom rises from a skull-strewn base with symbiote tendrils fanning out behind him."
 },
  {
  "id": "wicked-x-men-cable-2025",
@@ -42083,7 +42083,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cable 2025 from X-Men."
+ "description": "Cable hefts his massive gun overhead, cape billowing, on an X-Men base."
 },
  {
  "id": "wicked-daredevil-cloak-and-dagger-diorama",
@@ -42107,7 +42107,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Cloak and Dagger from Daredevil."
+ "description": "Dagger glows with light framed by Cloak's billowing shadowy form in this ornate Cloak & Dagger diorama."
 },
  {
  "id": "wicked-evil-dead-ash",
@@ -42131,7 +42131,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ash from Evil Dead."
+ "description": "Ash Williams raises his chainsaw hand and boomstick before the cabin, on an Evil Dead 2 base."
 },
  {
  "id": "wicked-evil-dead-henrietta",
@@ -42155,7 +42155,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Henrietta from Evil Dead."
+ "description": "Deadite Henrietta bursts from the cabin's cellar with arms raised, on an Evil Dead 2 base."
 },
  {
  "id": "wicked-black-panther-black-panther-vs-predator-diorama",
@@ -42179,7 +42179,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Black Panther VS Predator from Black Panther."
+ "description": "Black Panther and a Predator clash atop a jungle outcrop, spear and claws flying."
 },
  {
  "id": "wicked-x-men-blink-joe-madureira",
@@ -42202,7 +42202,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Blink (Joe Madureira) from X-Men."
+ "description": "Blink leaps through a swirling teleport portal, crystal javelins drawn, in Joe Madureira's style."
 },
  {
  "id": "wicked-warhammer-40-000-titus-warhammer",
@@ -42226,7 +42226,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Titus Warhammer from Warhammer 40,000."
+ "description": "Lieutenant Titus stands in Ultramarine power armor before a chapter banner, holding a Tyranid head aloft."
 },
  {
  "id": "wicked-fantastic-four-dr-doom-horse",
@@ -42250,7 +42250,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dr. Doom Horse from Fantastic Four."
+ "description": "Doctor Doom charges on a rearing armored warhorse, sword raised, in a regal sculpt."
 },
  {
  "id": "wicked-terminator-terminator-1-diorama",
@@ -42274,7 +42274,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Terminator 1 from Terminator."
+ "description": "The T-800 stands beside his exposed endoskeleton self on a skull-strewn Terminator diorama."
 },
  {
  "id": "wicked-terminator-terminator-1",
@@ -42298,7 +42298,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Terminator 1 from Terminator."
+ "description": "The T-800 in leather jacket and shades, shotgun raised, over a skull-strewn Terminator base."
 },
  {
  "id": "wicked-terminator-t-800",
@@ -42322,7 +42322,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of T 800 from Terminator."
+ "description": "The T-800 endoskeleton advances with plasma rifle in hand over a skull-strewn base."
 },
  {
  "id": "wicked-predator-weapon-x-vs-predator-diorama",
@@ -42342,7 +42342,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Weapon X VS Predator from Predator."
+ "description": "Weapon X Logan battles a Predator atop a frozen ridge of skulls in this brutal snow-covered showdown."
 },
  {
  "id": "wicked-x-men-angel",
@@ -42366,7 +42366,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Angel from X-Men."
+ "description": "Angel soars with his great feathered wings spread wide."
 },
  {
  "id": "wicked-x-men-nimrod",
@@ -42390,7 +42390,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Nimrod from X-Men."
+ "description": "Nimrod, the future Sentinel, rises on a jet of energy over rubble."
 },
  {
  "id": "wicked-bloodsport-bloodsport-diorama",
@@ -42414,7 +42414,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Bloodsport from Bloodsport."
+ "description": "Frank Dux lands a flying kick on Chong Li in this Kumite showdown diorama."
 },
  {
  "id": "wicked-bloodsport-frank-dux",
@@ -42438,7 +42438,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Frank Dux from Bloodsport."
+ "description": "Frank Dux throws a high kick on the Kumite stage, on a red Bloodsport base."
 },
  {
  "id": "wicked-bloodsport-chong-li",
@@ -42462,7 +42462,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chong Li from Bloodsport."
+ "description": "Chong Li stands menacingly in his fighting shorts on a Kumite base."
 },
  {
  "id": "wicked-thor-thor-and-loki-diorama",
@@ -42486,7 +42486,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Thor and Loki from Thor."
+ "description": "Thor and Loki clash on a rocky Asgardian base, Mjolnir against scepter."
 },
  {
  "id": "wicked-avengers-she-hulk",
@@ -42510,7 +42510,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of She Hulk from Avengers."
+ "description": "She-Hulk smashes through a wrecked wall, tire and debris at her feet."
 },
  {
  "id": "wicked-x-men-dazzler",
@@ -42534,7 +42534,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dazzler from X-Men."
+ "description": "Dazzler poses atop a disco-star stage with spotlights and speakers."
 },
  {
  "id": "wicked-god-of-war-god-of-war-4-diorama",
@@ -42558,7 +42558,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of God Of War 4 from God of War."
+ "description": "Kratos and Atreus battle a dragon across a Norse bridge in this God of War diorama."
 },
  {
  "id": "wicked-god-of-war-kratos",
@@ -42582,7 +42582,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kratos from God of War."
+ "description": "Kratos raises the Guardian Shield as he storms forward on a rocky Norse base."
 },
  {
  "id": "wicked-god-of-war-atreus",
@@ -42606,7 +42606,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Atreus from God of War."
+ "description": "Atreus lunges with his bow drawn over a rocky Norse base."
 },
  {
  "id": "wicked-the-matrix-neo",
@@ -42630,7 +42630,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Neo from The Matrix."
+ "description": "Neo stands in his long coat with twin pistols raised, on a Matrix cityscape base."
 },
  {
  "id": "wicked-the-matrix-trinity",
@@ -42654,7 +42654,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Trinity from The Matrix."
+ "description": "Trinity stands poised in sunglasses and leather, pistol drawn, on a Matrix base."
 },
  {
  "id": "wicked-avengers-red-hulk-and-ross-diorama",
@@ -42678,7 +42678,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Red Hulk and Ross from Avengers."
+ "description": "President Ross stands before his monstrous Red Hulk form in this Captain America diorama."
 },
  {
  "id": "wicked-avengers-red-hulk",
@@ -42702,7 +42702,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Red Hulk from Avengers."
+ "description": "Red Hulk crouches on a rocky outcrop, cape torn and muscles bulging."
 },
  {
  "id": "wicked-avengers-ross",
@@ -42726,7 +42726,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ross from Avengers."
+ "description": "Thaddeus Ross salutes in a sharp suit on a Captain America base."
 },
  {
  "id": "wicked-x-men-pyro",
@@ -42749,7 +42749,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Pyro from X-Men."
+ "description": "Pyro unleashes a towering wave of flame from his flamethrowers."
 },
  {
  "id": "wicked-avengers-captain-marvel-2025",
@@ -42773,7 +42773,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain Marvel 2025 from Avengers."
+ "description": "Captain Marvel rises with photon energy blazing from both hands, on a swirling base."
 },
  {
  "id": "wicked-the-matrix-matrix-diorama-neo-trinity-and-morpheus",
@@ -42797,7 +42797,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Matrix (Neo, Trinity, and Morpheus) from The Matrix."
+ "description": "Neo, Trinity and Morpheus stand guns-drawn together in this full Matrix diorama."
 },
  {
  "id": "wicked-the-matrix-morpheus",
@@ -42821,7 +42821,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Morpheus from The Matrix."
+ "description": "Morpheus stands in his long coat, pistols raised, on a Matrix city base."
 },
  {
  "id": "wicked-the-matrix-smith",
@@ -42845,7 +42845,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Smith from The Matrix."
+ "description": "Agent Smith adjusts his suit and shades atop a cityscape Matrix base."
 },
  {
  "id": "wicked-sonic-the-hedgehog-sonic",
@@ -42869,7 +42869,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sonic from Sonic the Hedgehog."
+ "description": "Sonic dashes in a whirl of speed lines above Green Hill Zone."
 },
  {
  "id": "wicked-sonic-the-hedgehog-dr-eggman",
@@ -42893,7 +42893,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dr Eggman from Sonic the Hedgehog."
+ "description": "Dr. Eggman pilots his Egg Mobile with saw blades and spikes deployed, on a Sonic base."
 },
  {
  "id": "wicked-sonic-the-hedgehog-sonic-diorama",
@@ -42916,7 +42916,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Sonic from Sonic the Hedgehog."
+ "description": "Sonic races past Dr. Eggman's Egg Mobile on a Green Hill Zone diorama."
 },
  {
  "id": "wicked-spider-man-spiderman-and-gwen-stacy-diorama",
@@ -42940,7 +42940,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Spiderman and Gwen Stacy from Spider-Man."
+ "description": "Spider-Man cradles a fallen Gwen Stacy on a comic-cover base — The Night Gwen Stacy Died."
 },
  {
  "id": "wicked-spider-man-gwen-stacy",
@@ -42964,7 +42964,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gwen Stacy from Spider-Man."
+ "description": "Gwen Stacy stands under her umbrella beside a web-draped wall."
 },
  {
  "id": "wicked-avengers-ultron-2025",
@@ -42988,7 +42988,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ultron 2025 from Avengers."
+ "description": "Ultron sits enthroned beneath a crown of robotic arms, menacing and regal."
 },
  {
  "id": "wicked-x-men-forge",
@@ -43012,7 +43012,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Forge from X-Men."
+ "description": "Forge leaps into action with blasters drawn over a swirling energy base."
 },
  {
  "id": "wicked-sonic-the-hedgehog-sonic-sculpture-2",
@@ -43036,7 +43036,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sonic Sculpture #2 from Sonic the Hedgehog."
+ "description": "Sonic wags a finger with his trademark smirk, sneakers planted."
 },
  {
  "id": "wicked-sonic-the-hedgehog-dr-eggman-sculpture-2",
@@ -43060,7 +43060,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dr Eggman Sculpture #2 from Sonic the Hedgehog."
+ "description": "Dr. Eggman cackles with a Chaos Emerald held high, mustache bristling."
 },
  {
  "id": "wicked-godzilla-vs-kong-godzilla-vs-kong-diorama",
@@ -43084,7 +43084,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Godzilla VS Kong from Godzilla vs. Kong."
+ "description": "Godzilla and Kong collide amid crumbling skyscrapers in this towering 70cm diorama."
 },
  {
  "id": "wicked-godzilla-vs-kong-godzilla",
@@ -43108,7 +43108,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Godzilla from Godzilla vs. Kong."
+ "description": "Godzilla stomps through the city, dorsal spines jagged, on a Godzilla vs. Kong base."
 },
  {
  "id": "wicked-godzilla-vs-kong-kong",
@@ -43132,7 +43132,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kong from Godzilla vs. Kong."
+ "description": "Kong roars mid-swing with his axe held high, rising over a shattered city skyline on a Godzilla vs. Kong base."
 },
  {
  "id": "wicked-halo-halo-diorama",
@@ -43156,7 +43156,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Halo from Halo."
+ "description": "Master Chief and the Arbiter battle side by side before a hexagonal energy shield in this Halo diorama."
 },
  {
  "id": "wicked-halo-master-chief",
@@ -43180,7 +43180,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Master Chief from Halo."
+ "description": "Master Chief advances with his rifle raised over rocky ruins."
 },
  {
  "id": "wicked-halo-the-arbiter",
@@ -43204,7 +43204,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Arbiter from Halo."
+ "description": "The Arbiter crouches with his energy sword raised on a rocky Halo base."
 },
  {
  "id": "wicked-doctor-strange-dr-strange-and-shuma-gorath-diorama",
@@ -43228,7 +43228,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Dr Strange and Shuma Gorath from Doctor Strange."
+ "description": "Doctor Strange battles the tentacled Shuma-Gorath in this mystic Doctor Strange diorama."
 },
  {
  "id": "wicked-doctor-strange-dr-strange-2025",
@@ -43252,7 +43252,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dr Strange 2025 from Doctor Strange."
+ "description": "Doctor Strange conjures mystic shields atop the Sanctum, the Book of Vishanti in hand."
 },
  {
  "id": "wicked-doctor-strange-shuma-gorath",
@@ -43276,7 +43276,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Shuma Gorath from Doctor Strange."
+ "description": "Shuma-Gorath writhes with its great single eye and tentacles."
 },
  {
  "id": "wicked-x-men-professor-x-helmet",
@@ -43300,7 +43300,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Professor X Helmet from X-Men."
+ "description": "Charles Xavier rises in Cerebro's helmet amid swirling psychic tendrils."
 },
  {
  "id": "wicked-fantastic-four-annihilus",
@@ -43324,7 +43324,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Annihilus from Fantastic Four."
+ "description": "Annihilus rises with insectoid wings spread from a writhing base."
 },
  {
  "id": "wicked-tomb-raider-tomb-raider-diorama",
@@ -43348,7 +43348,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Tomb Raider from Tomb Raider."
+ "description": "Lara Croft takes on a T-Rex and raptors from a jungle ruin in this classic Tomb Raider diorama."
 },
  {
  "id": "wicked-tomb-raider-lara-croft",
@@ -43372,7 +43372,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lara Croft from Tomb Raider."
+ "description": "Lara Croft fires her pistols atop a crumbling ruin as raptors circle below."
 },
  {
  "id": "wicked-tomb-raider-t-rex-1",
@@ -43396,7 +43396,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of T-REX from Tomb Raider."
+ "description": "A massive T-Rex lunges forward with jaws wide."
 },
  {
  "id": "wicked-thor-thor",
@@ -43420,7 +43420,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thor from Thor."
+ "description": "Thor raises Mjolnir with cape flowing atop a rocky Avengers base."
 },
  {
  "id": "wicked-the-wasp-v2",
@@ -43444,7 +43444,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Wasp from Avengers."
+ "description": "The Wasp takes flight from a rocky Avengers base, wings spread."
 },
  {
  "id": "wicked-x-men-banshee",
@@ -43468,7 +43468,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Banshee from X-Men."
+ "description": "Banshee soars with his wing-like cape spread, unleashing his sonic scream."
 },
  {
  "id": "wicked-marvel-other-man-thing",
@@ -43492,7 +43492,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Man Thing from Marvel Comics."
+ "description": "Man-Thing rises from the swamp with dripping roots and tendrils."
 },
  {
  "id": "wicked-avengers-iron-man-2025",
@@ -43516,7 +43516,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Iron Man 2025 from Avengers."
+ "description": "Iron Man launches skyward, repulsor hand raised, from a debris-strewn Avengers base."
 },
  {
  "id": "wicked-avengers-captain-america-2025",
@@ -43540,7 +43540,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain America 2025 from Avengers."
+ "description": "Captain America stands proud with his shield at his side on an Avengers base."
 },
  {
  "id": "wicked-spider-man-hobgoblin",
@@ -43564,7 +43564,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hobgoblin from Spider-Man."
+ "description": "Hobgoblin soars on his goblin glider over a smoking rooftop, pumpkin bomb ready."
 },
  {
  "id": "wicked-inhumans-black-bolt",
@@ -43588,7 +43588,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Bolt from Inhumans."
+ "description": "Black Bolt hovers silently above a crescent-moon base, arms spread."
 },
  {
  "id": "wicked-pirates-of-the-caribbean-pirates-of-the-caribbean-diorama",
@@ -43612,7 +43612,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Pirates of the Caribbean from Pirates of the Caribbean."
+ "description": "Jack Sparrow and Barbossa duel over the cursed Aztec chest in this Pirates of the Caribbean diorama."
 },
  {
  "id": "wicked-pirates-of-the-caribbean-jack-sparrow",
@@ -43636,7 +43636,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jack Sparrow from Pirates of the Caribbean."
+ "description": "Captain Jack Sparrow lunges with his sword atop a treasure-strewn rock."
 },
  {
  "id": "wicked-pirates-of-the-caribbean-hector-barbossa",
@@ -43660,7 +43660,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Hector Barbossa from Pirates of the Caribbean."
+ "description": "Captain Barbossa brandishes his cutlass from a rocky outcrop strewn with treasure."
 },
  {
  "id": "wicked-universal-monsters-the-mummy",
@@ -43684,7 +43684,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Mummy from Universal Monsters."
+ "description": "The Mummy steps from his sarcophagus in Egyptian bandages, on a hieroglyph base."
 },
  {
  "id": "wicked-universal-monsters-invisible-man",
@@ -43708,7 +43708,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Invisible Man from Universal Monsters."
+ "description": "The Invisible Man raises a flask in his lab coat amid bubbling glassware."
 },
  {
  "id": "wicked-blade-blade-vs-dracula-diorama",
@@ -43732,7 +43732,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Blade VS Dracula from Blade."
+ "description": "Blade dives at Dracula from above in this gothic rooftop showdown."
 },
  {
  "id": "wicked-blade-blade-2025",
@@ -43756,7 +43756,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Blade 2025 from Blade."
+ "description": "Blade leaps from a crumbling chimney, sword drawn and coat flaring."
 },
  {
  "id": "wicked-blade-dracula",
@@ -43780,7 +43780,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dracula from Blade."
+ "description": "Dracula rises in his sweeping cape from a gothic altar flanked by gargoyles."
 },
  {
  "id": "wicked-marvel-zombies-deadpool-zombie",
@@ -43804,7 +43804,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Deadpool Zombie from Marvel Zombies."
+ "description": "Zombie Deadpool leaps over a gaping serpent maw with katana raised."
 },
  {
  "id": "wicked-avengers-giant-man",
@@ -43828,7 +43828,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Giant Man from Avengers."
+ "description": "Giant-Man steps over a rocky Avengers base in his classic helmet and suit."
 },
  {
  "id": "wicked-hellraiser-hellraiser-diorama",
@@ -43852,7 +43852,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Hellraiser from Hellraiser."
+ "description": "Pinhead, Butterball, the Female Cenobite and Chatterer gather at their chained gates in this Hellraiser diorama."
 },
  {
  "id": "wicked-hellraiser-pinhead",
@@ -43875,7 +43875,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Pinhead from Hellraiser."
+ "description": "Pinhead stands within a chained Lament Configuration gateway, robes flowing."
 },
  {
  "id": "wicked-hellraiser-butternall",
@@ -43899,7 +43899,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Butternall from Hellraiser."
+ "description": "Butterball, the hulking Cenobite, stands in his chained gateway with goggles on."
 },
  {
  "id": "wicked-silent-hill-silent-hill-diorama",
@@ -43923,7 +43923,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Silent Hill from Silent Hill."
+ "description": "James faces Pyramid Head before a rusted door in this foreboding Silent Hill 2 diorama."
 },
  {
  "id": "wicked-silent-hill-james",
@@ -43946,7 +43946,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of James from Silent Hill."
+ "description": "James Sunderland swings a wooden plank in his green jacket, in a grimy Silent Hill 2 hallway base."
 },
  {
  "id": "wicked-silent-hill-pyramid-head",
@@ -43969,7 +43969,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Pyramid Head from Silent Hill."
+ "description": "Pyramid Head drags his Great Knife past a rusted fence on an industrial Silent Hill 2 base."
 },
  {
  "id": "wicked-resident-evil-diorama-resident-evil",
@@ -43993,7 +43993,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Resident Evil from Resident Evil."
+ "description": "Chris and Jill fight off zombies on the mansion stairs in this Resident Evil diorama."
 },
  {
  "id": "wicked-resident-evil-chris-resident-evil",
@@ -44017,7 +44017,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chris Resident Evil from Resident Evil."
+ "description": "Chris Redfield aims his shotgun in tactical gear on a Resident Evil base."
 },
  {
  "id": "wicked-resident-evil-jill-resident-evil",
@@ -44041,7 +44041,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jill Resident Evil from Resident Evil."
+ "description": "Jill Valentine takes aim in her S.T.A.R.S. gear on a Resident Evil base."
 },
  {
  "id": "wicked-hellraiser-chatterer",
@@ -44065,7 +44065,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chatterer from Hellraiser."
+ "description": "The Chatterer, teeth bared and chains dangling, poses before a brick wall."
 },
  {
  "id": "wicked-hellraiser-female-cenobite",
@@ -44089,7 +44089,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Female Cenobite from Hellraiser."
+ "description": "The Female Cenobite stands in an ornate chained archway, puzzle box overhead."
 },
  {
  "id": "wicked-inhumans-medusa-inhumans",
@@ -44113,7 +44113,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Medusa Inhumans from Inhumans."
+ "description": "Medusa of the Inhumans rises amid swirling waves of her living prehensile hair."
 },
  {
  "id": "wicked-avengers-winter-soldier-2025",
@@ -44137,7 +44137,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Winter Soldier 2025 from Avengers."
+ "description": "Bucky Barnes as the Winter Soldier, rifle raised and metal arm ready, on a Captain America base."
 },
  {
  "id": "wicked-spider-man-venom-2025",
@@ -44157,7 +44157,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Venom 2025 from Spider-Man."
+ "description": "Venom crouches over a wrecked base, tongue lashing and tendrils swirling."
 },
  {
  "id": "wicked-spider-man-carnage-2025",
@@ -44180,7 +44180,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Carnage 2025 from Spider-Man."
+ "description": "Carnage twists upward in a frenzy of tendrils over a ruined cityscape."
 },
  {
  "id": "wicked-spider-man-venom-vs-carnage-diorama-2",
@@ -44204,7 +44204,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Venom VS Carnage from Spider-Man."
+ "description": "Carnage launches down on Venom in a swirling tangle of symbiote tendrils."
 },
  {
  "id": "wicked-x-men-logan",
@@ -44228,7 +44228,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Logan from X-Men."
+ "description": "Cowboy Logan in a tank top and hat, claws extended, on a bar-themed X-Men base."
 },
  {
  "id": "wicked-x-men-juggernaut-comic-version",
@@ -44252,7 +44252,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Juggernaut Comic Version from X-Men."
+ "description": "Comic-style Juggernaut stands in a wrecked saloon, fists clenched in his crimson helmet and armor."
 },
  {
  "id": "wicked-x-men-logan-vs-juggernaut-comic-version-diorama",
@@ -44276,7 +44276,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Logan VS Juggernaut Comic Version from X-Men."
+ "description": "Logan squares off against Juggernaut in a battered bar, claws out, in this comic-style X-Men diorama."
 },
  {
  "id": "wicked-marvel-other-darkhawk",
@@ -44299,7 +44299,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Darkhawk from Marvel Comics."
+ "description": "Darkhawk spreads his bladed silver wings, rising from a crystal base against a cosmic backdrop."
 },
  {
  "id": "wicked-donkey-kong-donkey-kong-donkey-and-diddy-diorama",
@@ -44323,7 +44323,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Donkey Kong (Donkey and Diddy) from Donkey Kong."
+ "description": "Donkey and Diddy Kong burst out of a mine cart on a banana-filled Donkey Kong Country diorama."
 },
  {
  "id": "wicked-donkey-kong-cranky",
@@ -44344,7 +44344,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cranky from Donkey Kong."
+ "description": "Cranky Kong rocks in his chair, cane in hand, beside his gramophone on a Donkey Kong Country base."
 },
  {
  "id": "wicked-donkey-kong-king-rool",
@@ -44368,7 +44368,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of King Rool from Donkey Kong."
+ "description": "King K. Rool flexes his claws in his crown and cape, on a Donkey Kong Country base."
 },
  {
  "id": "wicked-elf-elf",
@@ -44391,7 +44391,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Elf from Elf."
+ "description": "Buddy the Elf stands proudly beside a decorated Christmas tree, candy cane in hand, on a snowy street base."
 },
  {
  "id": "wicked-avengers-planet-hulk",
@@ -44415,7 +44415,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Planet Hulk from Avengers."
+ "description": "Gladiator Hulk raises his spiked mace in Sakaar armor and plumed helmet, alien worms writhing below."
 },
  {
  "id": "wicked-fantastic-four-silver-surfer-comic",
@@ -44439,7 +44439,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Silver Surfer Comic from Fantastic Four."
+ "description": "A gladiator Silver Surfer charges with mace and board, in arena armor over snarling beasts on a Sakaar base."
 },
  {
  "id": "wicked-kingpin-v2",
@@ -44462,7 +44462,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kingpin from Daredevil."
+ "description": "Kingpin in his white suit and purple vest, cane in hand, towering over a red-lit Hell's Kitchen base."
 },
  {
  "id": "wicked-avengers-planet-hulk-diorama",
@@ -44486,7 +44486,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Planet Hulk from Avengers."
+ "description": "Planet Hulk swings his mace at the Silver Savage in a Sakaar arena diorama, alien beasts snapping below."
 },
  {
  "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama",
@@ -44509,7 +44509,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Legolas Vs Troll from The Lord of the Rings."
+ "description": "Legolas fires an arrow from atop a massive chained cave troll, on a skull-strewn Moria base."
 },
  {
  "id": "wicked-avengers-nick-fury-mcu",
@@ -44532,7 +44532,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Nick Fury MCU from Avengers."
+ "description": "Nick Fury in his long black coat, standing tall on an Avengers helicarrier-style base."
 },
  {
  "id": "wicked-moon-knight-v3",
@@ -44555,7 +44555,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Moon Knight from Moon Knight."
+ "description": "Moon Knight stands atop a golden cobra pillar, white cape flowing, against a desert pyramid backdrop."
 },
  {
  "id": "wicked-the-way-of-the-dragon-the-way-of-the-dragon-diorama",
@@ -44578,7 +44578,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of The Way of the Dragon from The Way of the Dragon."
+ "description": "Bruce Lee lands a kick on Chuck Norris in their legendary Colosseum duel from The Way of the Dragon."
 },
  {
  "id": "wicked-the-way-of-the-dragon-bruce-lee",
@@ -44602,7 +44602,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bruce Lee from The Way of the Dragon."
+ "description": "Bruce Lee delivers a flying side kick, bare-chested and focused, on a Way of the Dragon Colosseum base."
 },
  {
  "id": "wicked-the-way-of-the-dragon-chuck-norris",
@@ -44625,7 +44625,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chuck Norris from The Way of the Dragon."
+ "description": "Chuck Norris throws a high kick in his white gi pants inside the Colosseum, on a Way of the Dragon base."
 },
  {
  "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama-lite-version",
@@ -44648,7 +44648,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Legolas Vs Troll (Lite Version) from The Lord of the Rings."
+ "description": "Legolas draws his bow atop a roaring cave troll's shoulder, in a compact Lord of the Rings diorama."
 },
  {
  "id": "wicked-cyclops-v2",
@@ -44669,7 +44669,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Cyclops from X-Men."
+ "description": "Cyclops unleashes a crimson optic blast against a crumbling wall, on a Phoenix Must Die! X-Men base."
 },
  {
  "id": "wicked-x-men-jean",
@@ -44690,7 +44690,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Jean from X-Men."
+ "description": "Jean Grey channels her telekinesis, hand raised and eyes glowing pink, on a Phoenix Must Die! base."
 },
  {
  "id": "wicked-x-men-cyclops-and-jean-diorama",
@@ -44714,7 +44714,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Cyclops and Jean from X-Men."
+ "description": "Cyclops and Jean Grey fight back-to-back before a towering X-Men comic cover in this Phoenix Must Die! diorama."
 },
  {
  "id": "wicked-thor-the-mighty-thor",
@@ -44737,7 +44737,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of The Mighty Thor from Thor."
+ "description": "Jane Foster's Mighty Thor calls down lightning with Mjolnir raised, cape billowing over a Viking-shield base."
 },
  {
  "id": "wicked-avengers-captain-america-winter-soldier",
@@ -44760,7 +44760,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Captain America Winter Soldier from Avengers."
+ "description": "Captain America in his dark Winter Soldier stealth suit, shield on his arm, on a Captain America base."
 },
  {
  "id": "wicked-metroid-metroid-diorama",
@@ -44782,7 +44782,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Metroid from Metroid."
+ "description": "Varia Suit Samus and Zero Suit Samus fight side by side over glowing Metroid containment tanks."
 },
  {
  "id": "wicked-metroid-samus",
@@ -44806,7 +44806,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Samus from Metroid."
+ "description": "Zero Suit Samus leaps above glowing Metroid tanks, paralyzer pistol drawn and ponytail flying."
 },
  {
  "id": "wicked-metroid-samus-varia-suit",
@@ -44828,7 +44828,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Samus Varia Suit from Metroid."
+ "description": "Samus Aran in her orange Varia Suit lunges with arm cannon raised, over glowing Metroid containment tubes on a Metroid base."
 },
  {
  "id": "wicked-metroid-chozo",
@@ -44849,7 +44849,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chozo from Metroid."
+ "description": "A Chozo statue sits in quiet contemplation, cradling a glowing Morph Ball upgrade in its hands."
 },
  {
  "id": "wicked-the-karate-kid-karate-kid-diorama",
@@ -44870,7 +44870,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Karate Kid from The Karate Kid."
+ "description": "Daniel and Mr. Miyagi practice the crane stance side by side on posts above the waves."
 },
  {
  "id": "wicked-the-karate-kid-larusso",
@@ -44894,7 +44894,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Larusso from The Karate Kid."
+ "description": "Daniel LaRusso nails the crane kick stance atop a post against a setting sun, in his headband."
 },
  {
  "id": "wicked-the-karate-kid-miyagi",
@@ -44918,7 +44918,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Miyagi from The Karate Kid."
+ "description": "Mr. Miyagi strikes the crane stance atop a wooden post, crashing waves below, on a Karate Kid base."
 },
  {
  "id": "wicked-jurassic-park-jurassic-park-diorama",
@@ -44942,7 +44942,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Jurassic Park from Jurassic Park."
+ "description": "The T-Rex breaks through the paddock fence in the rain in this classic Jurassic Park diorama."
 },
  {
  "id": "wicked-jurassic-park-alan-grant",
@@ -44966,7 +44966,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Alan Grant from Jurassic Park."
+ "description": "Dr. Alan Grant holds a blazing flare high to lure the T-Rex, on a Jurassic Park gate base."
 },
  {
  "id": "wicked-tomb-raider-t-rex-2",
@@ -44990,7 +44990,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of T-Rex from Tomb Raider."
+ "description": "The T-Rex roars on the Jurassic Park gate base, flaming torches flanking the iconic logo."
 },
  {
  "id": "wicked-gears-of-war-gears-of-wars-diorama",
@@ -45012,7 +45012,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Gears of Wars from Gears of War."
+ "description": "Marcus and Dom take cover side by side, Lancers raised, in this Gears of War diorama."
 },
  {
  "id": "wicked-gears-of-war-dominic-santiago",
@@ -45036,7 +45036,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Dominic Santiago from Gears of War."
+ "description": "Dom Santiago stands ready in his COG armor, rifle at his side, behind sandbags on a Gears of War base."
 },
  {
  "id": "wicked-gears-of-war-marcus-fenix",
@@ -45060,7 +45060,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Marcus Fenix from Gears of War."
+ "description": "Marcus Fenix hoists his Lancer assault rifle, chainsaw bayonet ready, atop a Gears of War Reloaded base."
 },
  {
  "id": "wicked-black-panther-black-panther-and-storm-diorama",
@@ -45083,7 +45083,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Black Panther and Storm from Black Panther."
+ "description": "Storm rises above T'Challa on his panther throne in this royal Black Panther diorama."
 },
  {
  "id": "wicked-black-panther-v2",
@@ -45105,7 +45105,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Black Panther from Black Panther."
+ "description": "Black Panther sits on his Wakandan throne flanked by snarling panther statues, on a golden Black Panther base."
 },
  {
  "id": "wicked-storm-v2",
@@ -45129,7 +45129,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Storm from X-Men."
+ "description": "Storm summons purple lightning in her black suit and cape, rising from a stormy Black Panther-branded base."
 },
  {
  "id": "wicked-daredevil-v2",
@@ -45153,7 +45153,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Daredevil from Daredevil."
+ "description": "Daredevil adjusts his mask in his red suit, billy clubs at his hip, on a glowing red Hell's Kitchen base."
 },
  {
  "id": "wicked-conan-the-barbarian-conan-the-barbarian",
@@ -45177,7 +45177,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Conan The Barbarian from Conan the Barbarian."
+ "description": "Conan raises a trident and axe overhead atop a hoard of gold and skulls, on a Conan logo base."
 },
  {
  "id": "wicked-stranger-things-stranger-things-diorama",
@@ -45201,7 +45201,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Stranger Things from Stranger Things."
+ "description": "Eleven faces down Vecna before a gaping Demogorgon maw in this full Stranger Things diorama."
 },
  {
  "id": "wicked-stranger-things-eleven",
@@ -45225,7 +45225,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Eleven from Stranger Things."
+ "description": "Eleven reaches out with her powers, nose bleeding and hair tied back, on a spiked Stranger Things base."
 },
  {
  "id": "wicked-stranger-things-vecna",
@@ -45249,7 +45249,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Vecna from Stranger Things."
+ "description": "Vecna looms in his root-like flesh, clawed hand outstretched, rising from a spiked Upside Down base."
 },
  {
  "id": "wicked-warcraft-warcraft-diorama",
@@ -45273,7 +45273,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Warcraft from Warcraft."
+ "description": "Arthas and Thrall stand together on a combined Warcraft: Reign of Chaos diorama."
 },
  {
  "id": "wicked-warcraft-arthas",
@@ -45297,7 +45297,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Arthas from Warcraft."
+ "description": "Prince Arthas in his gleaming paladin armor, hammer in hand, before flaming braziers on a Warcraft III base."
 },
  {
  "id": "wicked-warcraft-thrall",
@@ -45320,7 +45320,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thrall from Warcraft."
+ "description": "Thrall, Warchief of the Horde, raises the Doomhammer on a tusked Warcraft: Reign of Chaos base."
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-caleb",
@@ -45344,7 +45344,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ghost Rider Caleb from Ghost Rider."
+ "description": "Caleb's Ghost Rider rears up on his burning skeletal steed, tattered coat whipping in the hellfire."
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-billy",
@@ -45368,7 +45368,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ghost Rider Billy from Ghost Rider."
+ "description": "Ghost Rider Caleb rides out on his skeletal horse, flaming skull and chains, on a Ghost Rider: Trail of Tears base."
 },
  {
  "id": "wicked-daredevil-punisher-born-again",
@@ -45392,7 +45392,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Punisher Born Again from Daredevil."
+ "description": "The Punisher from Born Again stands tall with rifle and hatchet, skull vest stark against a red-lit base."
 },
  {
  "id": "wicked-x-men-lady-deathstrike",
@@ -45416,7 +45416,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Lady Deathstrike from X-Men."
+ "description": "Lady Deathstrike lunges forward with her adamantium finger-claws spread, cloak flaring over a cryo-lab base."
 },
  {
  "id": "wicked-the-last-of-us-last-of-us-diorama",
@@ -45439,7 +45439,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Last of Us from The Last of Us."
+ "description": "Joel fights off an Infected as Ellie readies her switchblade above, in a gritty The Last of Us diorama."
 },
  {
  "id": "wicked-the-last-of-us-joel",
@@ -45463,7 +45463,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Joel from The Last of Us."
+ "description": "Joel grapples a snarling Clicker, revolver drawn, on an overgrown rubble base."
 },
  {
  "id": "wicked-the-last-of-us-ellie",
@@ -45487,7 +45487,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Ellie from The Last of Us."
+ "description": "Ellie draws her bow with backpack slung, on an overgrown, ruined The Last of Us base."
 },
  {
  "id": "wicked-pacific-rim-pacific-rim-diorama",
@@ -45511,7 +45511,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Pacific Rim from Pacific Rim."
+ "description": "Gipsy Danger and Leatherback clash in the surf in this full Pacific Rim diorama."
 },
  {
  "id": "wicked-pacific-rim-gipsy-danger",
@@ -45532,7 +45532,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gipsy Danger from Pacific Rim."
+ "description": "Gipsy Danger fires its plasma cannon, nuclear heart glowing, as it strides through crashing ocean waves."
 },
  {
  "id": "wicked-pacific-rim-leatherback",
@@ -45556,7 +45556,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Leatherback from Pacific Rim."
+ "description": "Leatherback, the gorilla-like Kaiju, roars with glowing blue veins as waves crash around him on a Pacific Rim base."
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-caleb-diorama",
@@ -45580,7 +45580,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Ghost Rider Caleb from Ghost Rider."
+ "description": "Caleb's Ghost Rider rears on his burning steed, coat billowing, above a blazing graveyard base."
 },
  {
  "id": "wicked-ghost-rider-ghost-rider-billy-diorama",
@@ -45602,7 +45602,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Ghost Rider Billy from Ghost Rider."
+ "description": "Ghost Rider Caleb charges on his flaming skeletal horse over fallen corpses, in a hellfire Ghost Rider diorama."
 },
  {
  "id": "wicked-spider-man-the-last-hunt-spiderman-diorama",
@@ -45626,7 +45626,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of The Last Hunt Spiderman from Spider-Man."
+ "description": "Kraven looms with knife raised above a crouching black-suit Spider-Man in this Kraven's Last Hunt diorama."
 },
  {
  "id": "wicked-spider-man-spiderman",
@@ -45650,7 +45650,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Spiderman from Spider-Man."
+ "description": "Black-suited Spider-Man crouches low, spider-sense crackling, on a Kraven's Last Hunt base."
 },
  {
  "id": "wicked-kraven-v2",
@@ -45674,7 +45674,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Kraven from Spider-Man."
+ "description": "Kraven the Hunter raises his blade in his lion vest, on a Kraven's Last Hunt Amazing Spider-Man base."
 },
  {
  "id": "wicked-avengers-quick-silver",
@@ -45698,7 +45698,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Quick Silver from Avengers."
+ "description": "Quicksilver adjusts his goggles in a silver jacket and boots, cool and confident on an X-Men logo base."
 },
  {
  "id": "wicked-avengers-baron",
@@ -45722,7 +45722,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Baron from Avengers."
+ "description": "Baron Zemo fires his submachine gun from atop a stone wall, purple mask and fur collar on a Hydra-eagle base."
 },
  {
  "id": "wicked-thanos-v2",
@@ -45746,7 +45746,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Thanos from Avengers."
+ "description": "Thanos, Infinity Gauntlet raised, stands atop a pile of skulls and flames on a THANOS-branded base."
 },
  {
  "id": "wicked-omega-red-v2",
@@ -45770,7 +45770,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Omega Red from X-Men."
+ "description": "Omega Red unleashes his carbonadium coils, standing atop a shattered cryo-chamber on an X-Men base."
 },
  {
  "id": "wicked-red-sonja-red-sonja",
@@ -45794,7 +45794,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Red Sonja from Red Sonja."
+ "description": "Red Sonja wields her great axe over a fiery base of skulls and bones, crimson hair blazing."
 },
  {
  "id": "wicked-magneto-v2",
@@ -45818,7 +45818,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Magneto from X-Men."
+ "description": "An elder Magneto in his black cape and crimson helmet, red energy swirling up from an X-Men base."
 },
  {
  "id": "wicked-lone-wolf-mcquade-lone-wolf-mcquade-diorama",
@@ -45842,7 +45842,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Lone Wolf McQuade from Lone Wolf McQuade."
+ "description": "McQuade and Rawley Wilke face off before a fiery explosion in this Lone Wolf McQuade diorama."
 },
  {
  "id": "wicked-lone-wolf-mcquade-chuck-norris-lone-wolf",
@@ -45866,7 +45866,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Chuck Norris Lone Wolf from Lone Wolf McQuade."
+ "description": "Chuck Norris as J.J. McQuade, open shirt and denim vest, fists ready on a Lone Wolf McQuade base."
 },
  {
  "id": "wicked-lone-wolf-mcquade-rawley-wilke",
@@ -45889,7 +45889,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rawley Wilke from Lone Wolf McQuade."
+ "description": "Rawley Wilke squares up in his argyle sweater, on a Lone Wolf McQuade logo base."
 },
  {
  "id": "wicked-assassin-s-creed-assassin-s-creed-1-diorama",
@@ -45913,7 +45913,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Assassin\u2019s Creed 1 from Assassin's Creed."
+ "description": "Altaïr leaps from a stone ledge, blade drawn over a fallen Templar, in this Assassin's Creed diorama."
 },
  {
  "id": "wicked-assassin-s-creed-altair",
@@ -45937,7 +45937,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Altair from Assassin's Creed."
+ "description": "Altaïr stands hooded and silent in white Assassin robes, hidden blade ready, on a glowing Assassin's Creed base."
 },
  {
  "id": "wicked-x-men-rogue-and-gambit-diorama",
@@ -45961,7 +45961,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Rogue and Gambit from X-Men."
+ "description": "Rogue and Gambit tear through Sentinels together in this vibrant X-Men diorama."
 },
  {
  "id": "wicked-rogue-v2",
@@ -45985,7 +45985,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Rogue from X-Men."
+ "description": "Rogue soars out of a shattered pink Sentinel head, absorbing power in her green-and-yellow suit."
 },
  {
  "id": "wicked-gambit-v2",
@@ -46008,7 +46008,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Gambit from X-Men."
+ "description": "Gambit charges a blazing pink card as he rises from a Sentinel's giant blue hand."
 },
  {
  "id": "wicked-avengers-clint-barton-ronin",
@@ -46031,7 +46031,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Clint Barton Ronin from Avengers."
+ "description": "Clint Barton as Ronin draws his bow in tactical black, atop a neon Tokyo karaoke-sign base."
 },
  {
  "id": "wicked-diablo-diablo-diorama",
@@ -46054,7 +46054,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Diablo from Diablo."
+ "description": "Diablo looms over Deckard Cain as Tyrael charges in, in a fiery Sanctuary diorama."
 },
  {
  "id": "wicked-diablo-diablo",
@@ -46078,7 +46078,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Diablo from Diablo."
+ "description": "Diablo, the Lord of Terror, roars with horns and spines bristling over a hellfire-wreathed base."
 },
  {
  "id": "wicked-diablo-tyrael",
@@ -46101,7 +46101,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Tyrael from Diablo."
+ "description": "Tyrael, Archangel of Justice, descends in radiant gold armor, sword El'druin glowing and ethereal wings flowing."
 },
  {
  "id": "wicked-fight-club-fight-club-diorama",
@@ -46123,7 +46123,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Fight Club from Fight Club."
+ "description": "The Narrator and Tyler Durden trade blows in a gritty basement alley — the first rule is you don't talk about it."
 },
  {
  "id": "wicked-fight-club-tyler",
@@ -46146,7 +46146,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Tyler from Fight Club."
+ "description": "Tyler Durden swings into a punch in his red leather jacket and striped pants, on a Fight Club soap base."
 },
  {
  "id": "wicked-fight-club-edward-norton",
@@ -46169,7 +46169,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Edward Norton from Fight Club."
+ "description": "The Narrator throws a wild punch in his rumpled office suit, on a Fight Club base with a bar of pink soap."
 },
  {
  "id": "wicked-transformers-tranformers-bumbublee-and-starscream-diorama",
@@ -46191,7 +46191,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Tranformers Bumbublee and Starscream from Transformers."
+ "description": "Bumblebee and Starscream face off in an explosive Transformers diorama, Autobot versus Decepticon."
 },
  {
  "id": "wicked-transformers-bumbublee",
@@ -46215,7 +46215,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Bumbublee from Transformers."
+ "description": "Bumblebee rises in full robot mode with blaster raised, atop an Energon cube on a Transformers base."
 },
  {
  "id": "wicked-transformers-starscream",
@@ -46238,7 +46238,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Starscream from Transformers."
+ "description": "Starscream strikes a commanding pose with wings spread, null rays blazing on a fiery Transformers base."
 },
  {
  "id": "wicked-mystique-v2",
@@ -46262,7 +46262,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mystique from X-Men."
+ "description": "Mystique stands tall in her scaly blue form, X-23 claws extended, on a sleek X-Men logo pedestal."
 },
  {
  "id": "wicked-marvel-other-squirrel",
@@ -46285,7 +46285,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Squirrel from Marvel Comics."
+ "description": "Squirrel Girl sits atop an autumn tree, slingshot in hand, her bushy tail and furry friends all around her."
 },
  {
  "id": "wicked-punch-out-punch-out-diorama",
@@ -46307,7 +46307,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Punch Out from Punch-Out!!."
+ "description": "Little Mac squares off against Mike Tyson in a retro 8-bit ring, with referee Mario between them."
 },
  {
  "id": "wicked-punch-out-mike-tyson",
@@ -46329,7 +46329,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Mike Tyson from Punch-Out!!."
+ "description": "Iron Mike Tyson raises a gloved fist in victory, on a pixel-art Mike Tyson's Punch-Out!! base."
 },
  {
  "id": "wicked-punch-out-little-mac",
@@ -46349,7 +46349,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Little Mac from Punch-Out!!."
+ "description": "Little Mac in his green trunks and gloves, guard up, on a retro Punch-Out!! scoreboard base."
 },
  {
  "id": "wicked-x-men-wolverine-pack-weapon-x",
@@ -46373,7 +46373,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wolverine Pack - Weapon X from X-Men."
+ "description": "Weapon X Logan, wired and helmeted, roars as he breaks free on a frozen base, cables trailing from his body."
 },
  {
  "id": "wicked-x-men-wolverine-pack-wolverine-and-sabretooth-diorama",
@@ -46393,7 +46393,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Wolverine Pack - Wolverine and Sabretooth from X-Men."
+ "description": "Wolverine and Sabretooth clash in mid-air over an icy X-Men base, claws slashing in their eternal feud."
 },
  {
  "id": "wicked-x-men-wolverine-pack-weapon-x-vs-predator-diorama",
@@ -46413,7 +46413,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Wolverine Pack - Weapon X VS Predator from X-Men."
+ "description": "Weapon X Logan battles a Predator atop a frozen ridge of skulls in this brutal snow-covered showdown."
 },
  {
  "id": "wicked-marvel-zombies-wolverine-pack-wolverine-zombie",
@@ -46435,7 +46435,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Wolverine Pack - Wolverine Zombie from Marvel Zombies."
+ "description": "Zombie Wolverine lunges from an open coffin over a graveyard of skulls and tombstones, claws dripping and flesh rotting."
 },
  {
  "id": "wicked-rambo-rambo-first-blood-diorama",
@@ -46459,7 +46459,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin diorama of Rambo First Blood from Rambo."
+ "description": "Rambo and Sheriff Teasle face off around a giant tree trunk, police dog in tow, in this full First Blood diorama."
 },
  {
  "id": "wicked-rambo-john-rambo",
@@ -46483,7 +46483,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of John Rambo from Rambo."
+ "description": "John Rambo, battered and bloodied, hefts his M60 on a jungle base emblazoned with the First Blood logo."
 },
  {
  "id": "wicked-rambo-sheriff",
@@ -46507,6 +46507,6 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sheriff from Rambo."
+ "description": "Sheriff Teasle stalks through the Hope, Washington woods, rifle raised and police dog lunging, on a First Blood base."
 },
 ];
