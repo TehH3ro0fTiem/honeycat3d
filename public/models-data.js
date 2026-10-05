@@ -20654,7 +20654,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of 2B from NieR: Automata."
+  "description": "2B lounges in her black gothic battle dress and thigh-high boots, Virtuous Contract katana held upright beside her."
  },
  {
   "id": "ca3d-2b-v2",
@@ -20685,7 +20685,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of 2B from NieR: Automata."
+  "description": "A graceful seated 2B, glancing back over her shoulder with her ruffled battle dress fanned out and blade resting at her side."
  },
  {
   "id": "ca3d-a2",
@@ -20714,7 +20714,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of A2 from NieR: Automata."
+  "description": "A2 crouches low and ready, long silver hair whipping back, her sleek black combat suit and rifle poised for the next strike."
  },
  {
   "id": "ca3d-ada-wong",
@@ -20741,7 +20741,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ada Wong from Resident Evil."
+  "description": "Ada Wong steps out of the shadows in her slit red dress, Chicago Typewriter raised and a pistol strapped to her thigh."
  },
  {
   "id": "ca3d-afro-samurai",
@@ -20771,7 +20771,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Afro Samurai from Afro Samurai."
+  "description": "Afro Samurai mid-draw, blood-flecked white gi and towering afro, his long blade swept back with headband tails trailing."
  },
  {
   "id": "ca3d-ahsoka-tano",
@@ -20794,7 +20794,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ahsoka Tano from Star Wars."
+  "description": "Ahsoka Tano in a serene, focused moment, montrals curving back as she holds her lightsaber at the ready."
  },
  {
   "id": "ca3d-ahsoka-tano-vs-darth-maul",
@@ -20828,7 +20828,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ahsoka Tano vs Darth Maul from Star Wars."
+  "description": "Ahsoka Tano and Darth Maul face off, sabers crossed and eyes locked, in a tense Siege of Mandalore showdown."
  },
  {
   "id": "ca3d-akali",
@@ -20857,7 +20857,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Akali from League of Legends."
+  "description": "Akali spins with kama drawn and green scarf flaring, her tattooed back and kunai harness on full display."
  },
  {
   "id": "ca3d-akame",
@@ -20886,7 +20886,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Akame from Akame ga Kill!."
+  "description": "Akame glides forward with her cursed blade Murasame drawn, long black hair streaming under a blood-red moon."
  },
  {
   "id": "ca3d-akuma",
@@ -20915,7 +20915,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Akuma from Street Fighter."
+  "description": "Akuma rises in a storm of crimson energy, wild-haired and prayer beads swinging, the Raging Demon unleashed."
  },
  {
   "id": "ca3d-albert-wesker",
@@ -20944,7 +20944,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Albert Wesker from Resident Evil."
+  "description": "Albert Wesker adjusts his signature sunglasses in his long black coat, gloved hand raised with cold confidence."
  },
  {
   "id": "ca3d-alice",
@@ -20975,7 +20975,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Alice from Alice in Wonderland."
+  "description": "Alice sits on a giant toadstool in her blue pinafore and black hair bow, cradling the White Rabbit in her lap."
  },
  {
   "id": "ca3d-alien",
@@ -21003,7 +21003,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Alien from Alien."
+  "description": "A blood-red Xenomorph bares its inner jaw, ribbed dome and biomechanical details glistening in the dark."
  },
  {
   "id": "ca3d-alita",
@@ -21032,7 +21032,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Alita from Alita: Battle Angel."
+  "description": "Alita crouches atop a Motorball wreck in her purple racing armor, blade arm extended and ready to strike."
  },
  {
   "id": "ca3d-aloy",
@@ -21058,7 +21058,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Aloy from Horizon Zero Dawn."
+  "description": "Aloy leans against a carved stone ruin, red braids falling over her shoulder in her hunter's gear."
  },
  {
   "id": "ca3d-alucard",
@@ -21089,7 +21089,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Alucard from Castlevania."
+  "description": "Alucard of Castlevania, pale and regal, his long golden hair framing a high-collared coat and chained gothic finery."
  },
  {
   "id": "ca3d-alucard-hellsing",
@@ -21115,7 +21115,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Alucard from Hellsing."
+  "description": "Alucard of Hellsing levels his massive Jackal pistol, red coat billowing over a base of staring crimson eyes."
  },
  {
   "id": "ca3d-anakin",
@@ -21138,7 +21138,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Anakin from Star Wars."
+  "description": "Anakin Skywalker on the edge of the dark side, hooded robes and gloved hand lowering his ignited lightsaber."
  },
  {
   "id": "ca3d-android-21",
@@ -21166,7 +21166,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Android 21 from Dragon Ball FighterZ."
+  "description": "Android 21 in her Majin form strikes a playful pose, pink tail curling and long white hair cascading around her."
  },
  {
   "id": "ca3d-asterix",
@@ -21194,7 +21194,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Asterix from Asterix."
+  "description": "A rugged, realistic take on Asterix, winged helmet and braided mustache, arms folded over his sword belt."
  },
  {
   "id": "ca3d-asuka-eva-diorama",
@@ -21227,7 +21227,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Asuka + Eva diorama from Neon Genesis Evangelion."
+  "description": "Asuka Langley Soryu stands in her red plugsuit, framed by the open jaws of Eva Unit-02 in this dramatic diorama."
  },
  {
   "id": "ca3d-atom-eve",
@@ -21253,7 +21253,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Atom Eve from Invincible."
+  "description": "Atom Eve soars upward in her pink suit, arms raised as crackling pink energy erupts from her hands."
  },
  {
   "id": "ca3d-azashara-the-drowned-princess",
@@ -21281,7 +21281,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Azashara The Drowned Princess from World of Warcraft."
+  "description": "Azshara the Drowned Princess lounges on a barnacled throne beneath a monstrous sea serpent's gaping jaws."
  },
  {
   "id": "ca3d-azula",
@@ -21309,7 +21309,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Azula from Avatar: The Last Airbender."
+  "description": "Princess Azula smirks as she conjures roaring blue firebending flames from both hands."
  },
  {
   "id": "ca3d-balrog-vs-gandalf",
@@ -21326,7 +21326,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Balrog vs Gandalf from The Lord of the Rings."
+  "description": "The Balrog towers over Gandalf on the Bridge of Khazad-dûm, wings spread and horns curled, as the wizard raises his sword."
  },
  {
   "id": "ca3d-barbarian-thor",
@@ -21358,7 +21358,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Barbarian Thor from Thor."
+  "description": "A savage barbarian Thor draped in a wolf pelt, braided beard and runic armor exuding raw Norse fury."
  },
  {
   "id": "ca3d-bastila-shan",
@@ -21390,7 +21390,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Bastila Shan from Star Wars: KOTOR."
+  "description": "Bastila Shan strikes a poised stance in her orange Jedi armor, double-bladed saber glowing at her side."
  },
  {
   "id": "ca3d-batgirl",
@@ -21415,7 +21415,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of BatGirl from Batman."
+  "description": "Batgirl in her sleek dark suit and cowl, golden cape draped behind her and utility belt cinched at her waist."
  },
  {
   "id": "ca3d-batman-vampire",
@@ -21449,7 +21449,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Batman Vampire from Batman."
+  "description": "A gaunt vampire Batman crouches on a gnarled perch, his tattered cape spread like bat wings against a blood-red sky."
  },
  {
   "id": "ca3d-big-daddy-and-little-sister",
@@ -21478,7 +21478,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Big Daddy and Little Sister from BioShock."
+  "description": "A Big Daddy looms with glowing porthole helmet beside his Little Sister, her syringe ready, in a BioShock duo."
  },
  {
   "id": "ca3d-blade",
@@ -21504,7 +21504,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Blade from Blade."
+  "description": "Blade stands cool and still in his long black leather coat and shades, the Daywalker ready for the hunt."
  },
  {
   "id": "ca3d-blaidd",
@@ -21531,7 +21531,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Blaidd from Elden Ring."
+  "description": "Blaidd the Half-Wolf bares his fangs with glowing red eyes, shaggy fur and armored pauldrons in fierce detail."
  },
  {
   "id": "ca3d-blood-moon-diana",
@@ -21552,7 +21552,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Blood Moon Diana from League of Legends."
+  "description": "Blood Moon Diana dances in crimson robes and a white mane, demon mask in hand and her crescent blade ready."
  },
  {
   "id": "ca3d-bulma",
@@ -21585,7 +21585,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Bulma from Dragon Ball."
+  "description": "Young Bulma rests her chin in her hand, teal hair tied with a bow and goggles around her neck, lost in thought."
  },
  {
   "id": "ca3d-cable",
@@ -21615,7 +21615,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cable from X-Men."
+  "description": "Cable, gun drawn and bionic eye glowing, stalks forward in his tattered hooded cloak and combat gear."
  },
  {
   "id": "ca3d-caitlyn",
@@ -21643,7 +21643,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Caitlyn from League of Legends / Arcane."
+  "description": "Caitlyn of Piltover stands tall in her blue enforcer coat, her hextech rifle resting over her shoulder."
  },
  {
   "id": "ca3d-cammy-v1-unpainted",
@@ -21664,7 +21664,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cammy from Street Fighter, unpainted variant."
+  "description": "Cammy in her classic combat stance, twin braids trailing and gauntlets raised, captured in crisp unpainted detail."
  },
  {
   "id": "ca3d-cammy-v2-alt-outfit",
@@ -21683,7 +21683,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cammy from Street Fighter, alt outfit variant."
+  "description": "An off-duty Cammy in a schoolgirl outfit, toast in her mouth and long braid swinging as she glances back over her shoulder."
  },
  {
   "id": "ca3d-carnage-mary-jane",
@@ -21711,7 +21711,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Carnage Mary Jane from Spider-Man."
+  "description": "Mary Jane bonded with the Carnage symbiote, crimson tendrils writhing through her flowing red hair."
  },
  {
   "id": "ca3d-carter-slade",
@@ -21740,7 +21740,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Carter Slade from Ghost Rider."
+  "description": "Carter Slade, the Caretaker, rides out as the Old West Ghost Rider, his spectral steed wreathed in hellfire."
  },
  {
   "id": "ca3d-casca",
@@ -21773,7 +21773,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Casca from Berserk."
+  "description": "Casca, commander of the Band of the Hawk, stands battle-ready in her steel cuirass and red cape, sword at her side."
  },
  {
   "id": "ca3d-cha-hae-in",
@@ -21802,7 +21802,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cha Hae-in from Solo Leveling."
+  "description": "Cha Hae-in, the S-Rank Hunter, in a striking close portrait with her sleek blonde bob and red-trimmed armor."
  },
  {
   "id": "ca3d-chandra",
@@ -21830,7 +21830,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Chandra from Magic: The Gathering."
+  "description": "Chandra Nalaar, the Pyromancer, blazes with hair of living flame and fire bursting from both gauntlets."
  },
  {
   "id": "ca3d-chel",
@@ -21857,7 +21857,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Chel from The Road to El Dorado."
+  "description": "Chel, the sly charmer of El Dorado, strikes a hip-cocked pose with a golden mask tucked under her arm and jade bangles on her wrist."
  },
  {
   "id": "ca3d-chun-li",
@@ -21883,7 +21883,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Chun Li from Street Fighter."
+  "description": "A schoolgirl Chun-Li perches on a classroom desk in her red blazer and bow, one leg crossed with effortless cool."
  },
  {
   "id": "ca3d-cloak-and-dagger",
@@ -21912,7 +21912,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cloak and Dagger from Cloak and Dagger."
+  "description": "Cloak and Dagger side by side: Tandy glowing in white light, Tyrone shrouded in his shadowy, star-filled cloak."
  },
  {
   "id": "ca3d-conan",
@@ -21941,7 +21941,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Conan from Conan the Barbarian."
+  "description": "Conan the Barbarian, bare-chested and stoic, raises his great broadsword in a pose straight out of the classic film."
  },
  {
   "id": "ca3d-cowgirl-rogue",
@@ -21969,7 +21969,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cowgirl Rogue from X-Men."
+  "description": "Rogue as a gunslinging cowgirl, hat tilted and bandolier slung, strutting through a dusty frontier town."
  },
  {
   "id": "ca3d-cyclops",
@@ -21992,7 +21992,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cyclops from X-Men."
+  "description": "Cyclops sits at a vintage desk in a book-lined study, visor glowing red, mid-letter in a quiet Xavier School moment."
  },
  {
   "id": "ca3d-dabi",
@@ -22026,7 +22026,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dabi from My Hero Academia."
+  "description": "Dabi in his scarred, stapled glory, high collar raised and a battered teddy bear tucked under one arm."
  },
  {
   "id": "ca3d-dani-moonstar-mirage",
@@ -22055,7 +22055,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dani Moonstar Mirage from X-Men."
+  "description": "Mirage of the New Mutants, feathers in her hair and a glowing psionic arrow drawn, against a starry backdrop."
  },
  {
   "id": "ca3d-dante",
@@ -22077,7 +22077,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dante from Devil May Cry."
+  "description": "Dante of Devil May Cry, red coat open and shirtless, aims Ebony & Ivory with a cocky smirk."
  },
  {
   "id": "ca3d-dante-inferno",
@@ -22099,7 +22099,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dante Inferno from Dante's Inferno (EA)."
+  "description": "Dante from Dante's Inferno, crusader cross stitched into his chest, gripping Death's scythe with grim resolve."
  },
  {
   "id": "ca3d-darth-talon",
@@ -22120,7 +22120,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Darth Talon from Star Wars."
+  "description": "Darth Talon, the tattooed Twi'lek Sith, raises a hand in Force command, her crimson lightsaber ignited."
  },
  {
   "id": "ca3d-darth-vader-diorama",
@@ -22154,7 +22154,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Darth Vader Diorama from Star Wars."
+  "description": "Darth Vader reaches out with the Force atop a volcanic rock as two stormtroopers take aim at his side."
  },
  {
   "id": "ca3d-darth-vader-samurai",
@@ -22183,7 +22183,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Darth Vader Samurai from Star Wars."
+  "description": "Darth Vader reimagined as a feudal samurai warlord, crested kabuto and ornate armor, katana at his hip."
  },
  {
   "id": "ca3d-darth-yoda",
@@ -22216,7 +22216,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Darth Yoda from Star Wars."
+  "description": "A hooded Sith Lord Yoda, sinister and red-eyed, wielding twin crimson lightsabers."
  },
  {
   "id": "ca3d-david-martinez",
@@ -22248,7 +22248,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of David Martinez from Cyberpunk: Edgerunners."
+  "description": "David Martinez in his iconic yellow jacket, Sandevistan trails flaring behind him in electric green."
  },
  {
   "id": "ca3d-davy-jones",
@@ -22276,7 +22276,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Davy Jones from Pirates of the Caribbean."
+  "description": "Davy Jones, captain of the Flying Dutchman, his tentacle beard and crab claw encrusted with coral and barnacles."
  },
  {
   "id": "ca3d-deadpool",
@@ -22305,7 +22305,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Deadpool from Deadpool."
+  "description": "Deadpool stands over the rubble with katanas on his back and a unicorn plushie at his feet, smoke rising behind him."
  },
  {
   "id": "ca3d-death-darksiders",
@@ -22335,7 +22335,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Death from Darksiders."
+  "description": "Death of Darksiders, skull-masked with burning eyes, his scarf wrapped high and gaunt muscles taut."
  },
  {
   "id": "ca3d-death-the-sandman",
@@ -22369,7 +22369,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Death from The Sandman."
+  "description": "Death of the Endless sits barefoot among the stones in her tank top and jeans, a raven resting beside her."
  },
  {
   "id": "ca3d-demona-and-goliath",
@@ -22400,7 +22400,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Demona and Goliath from Gargoyles (Disney)."
+  "description": "Goliath crouches with his great wings unfurled, the brooding protector of the night in Disney's Gargoyles."
  },
  {
   "id": "ca3d-doctor-strange",
@@ -22429,7 +22429,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Doctor Strange from Doctor Strange."
+  "description": "Doctor Strange spirals skyward on his crimson cloak, emerald spells blazing as fiery demons claw up from below."
  },
  {
   "id": "ca3d-domino",
@@ -22453,7 +22453,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Domino from X-Men."
+  "description": "Domino perches with a smoking pistol raised, black-and-white suit and teal harness, her luck clearly holding."
  },
  {
   "id": "ca3d-dr-doom",
@@ -22486,7 +22486,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dr Doom from Fantastic Four."
+  "description": "Doctor Doom glowers from beneath his green hood, iron mask and riveted armor gleaming."
  },
  {
   "id": "ca3d-dracula",
@@ -22515,7 +22515,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dracula from Classic Horror."
+  "description": "Dracula looms in his billowing black cape and red brocade vest, flanked by flickering candles."
  },
  {
   "id": "ca3d-edward-elric",
@@ -22544,7 +22544,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of EDWARD ELRIC from Fullmetal Alchemist."
+  "description": "Edward Elric holds his transmuted spear high, red coat flaring as blue alchemic lightning crackles from a cracked base."
  },
  {
   "id": "ca3d-emma-frost",
@@ -22577,7 +22577,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Emma Frost from X-Men."
+  "description": "Emma Frost, the White Queen, lounges in her white corset and fur-trimmed cape, a golden goblet in hand."
  },
  {
   "id": "ca3d-eve",
@@ -22599,7 +22599,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Eve from Shin Megami Tensei / Generic."
+  "description": "EVE in her green-and-white bodysuit, long black ponytail whipping behind her, ready for battle."
  },
  {
   "id": "ca3d-evie",
@@ -22627,7 +22627,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Evie from Stellar Blade: Blood Rain."
+  "description": "Evie of Stellar Blade: Blood Rain charges forward in her white combat suit, a glowing blue blade trailing."
  },
  {
   "id": "ca3d-evil-queen",
@@ -22657,7 +22657,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Evil Queen from Disney Snow White."
+  "description": "The Evil Queen reclines on a red velvet chaise, golden crown and high collar framing her regal stare."
  },
  {
   "id": "ca3d-ezio",
@@ -22685,7 +22685,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ezio from Assassin's Creed."
+  "description": "Ezio Auditore crouches in his hooded Assassin robes, hidden blade ready as an eagle lands on his outstretched arm."
  },
  {
   "id": "ca3d-faye-laufey",
@@ -22713,7 +22713,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Faye / Laufey from God of War."
+  "description": "Faye, Laufey the giantess, gazes out over the mountains of Midgard in her travel wraps, her axe at her side."
  },
  {
   "id": "ca3d-faye-valentine",
@@ -22740,7 +22740,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Faye Valentine from Cowboy Bebop."
+  "description": "Faye Valentine in her yellow top and shorts, cigarette in one hand and pistol in the other, with bounty-hunter swagger."
  },
  {
   "id": "ca3d-felicia",
@@ -22766,7 +22766,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Felicia from Darkstalkers."
+  "description": "Felicia, the playful catwoman of Darkstalkers, poses on her toes with paws raised, blue hair and tail swishing."
  },
  {
   "id": "ca3d-frank-dux",
@@ -22795,7 +22795,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Frank Dux from Bloodsport."
+  "description": "Frank Dux, bare-chested and focused in his black gi pants and yellow sash, fists ready for the Kumite."
  },
  {
   "id": "ca3d-frankenstein",
@@ -22823,7 +22823,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Frankenstein from Classic Horror."
+  "description": "Frankenstein's Monster stands tall and haunted in a tattered fur-trimmed coat, stitched and brooding."
  },
  {
   "id": "ca3d-frankenstein-bride",
@@ -22852,7 +22852,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Frankenstein Bride from Classic Horror."
+  "description": "The Bride of Frankenstein rises from the lab in her wrapped gown, iconic streaked hair and lightning arcing around her."
  },
  {
   "id": "ca3d-gambit",
@@ -22886,7 +22886,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Gambit from X-Men."
+  "description": "Gambit charges a glowing pink playing card, trench coat flaring and bo staff at the ready."
  },
  {
   "id": "ca3d-geralt",
@@ -22914,7 +22914,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Geralt from The Witcher."
+  "description": "Geralt of Rivia draws steel in his worn leather armor, twin swords on his back and the White Wolf's gaze locked on."
  },
  {
   "id": "ca3d-gladiator-hulk",
@@ -22945,7 +22945,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Gladiator Hulk from Hulk."
+  "description": "Gladiator Hulk from Sakaar roars in his crested helmet and spiked shoulder armor, ready for the arena."
  },
  {
   "id": "ca3d-goku",
@@ -22975,7 +22975,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Goku from Dragon Ball Z."
+  "description": "Super Saiyan 2 Goku in his battle-torn gi, golden hair spiked and a halo overhead, crackling with energy on a rocky base."
  },
  {
   "id": "ca3d-griffith",
@@ -23006,7 +23006,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Griffith from Berserk."
+  "description": "Griffith in his gleaming Hawk armor raises one hand to the sky, cape flowing as light breaks through the clouds."
  },
  {
   "id": "ca3d-guts",
@@ -23038,7 +23038,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Guts from Berserk."
+  "description": "Guts in his Black Swordsman gear, rugged and scarred, the massive Dragonslayer resting against his shoulder."
  },
  {
   "id": "ca3d-gwenom",
@@ -23066,7 +23066,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Gwenom from Spider-Man."
+  "description": "Gwenom, Gwen Stacy bonded with the symbiote, black tendrils swirling around her as she flashes a wicked smile."
  },
  {
   "id": "ca3d-he-man",
@@ -23095,7 +23095,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of He-Man from Masters of the Universe."
+  "description": "A rugged, battle-worn take on He-Man, bearded and broad-shouldered in fur, studded leather and heavy chain armor."
  },
  {
   "id": "ca3d-hela",
@@ -23121,7 +23121,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Hela from Thor."
+  "description": "Hela in her Marvel Rivals look, spiked crown and crimson-accented armor, striding forward with her blade in hand."
  },
  {
   "id": "ca3d-hellboy",
@@ -23155,7 +23155,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Hellboy from Hellboy."
+  "description": "Hellboy grips a flaming sword in his Right Hand of Doom, trench coat flaring and horns filed down."
  },
  {
   "id": "ca3d-hinata",
@@ -23184,7 +23184,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Hinata from Naruto."
+  "description": "Hinata Hyuga in a Gentle Fist stance, twin lion heads of blue chakra blazing around her hands."
  },
  {
   "id": "ca3d-inspector-gadget",
@@ -23213,7 +23213,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Inspector Gadget from Inspector Gadget."
+  "description": "Inspector Gadget hovers on his Gadget Copter, trench coat flapping and a mechanical arm extended into action."
  },
  {
   "id": "ca3d-invisible-woman",
@@ -23247,7 +23247,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Invisible Woman from Fantastic Four."
+  "description": "Sue Storm in her blue Fantastic Four suit, one hand raised as she channels her force fields."
  },
  {
   "id": "ca3d-iron-man",
@@ -23275,7 +23275,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Iron Man from Iron Man."
+  "description": "Iron Man blasts upward on his repulsor thrusters, red-and-gold armor gleaming beneath a neon Iron Man sign."
  },
  {
   "id": "ca3d-isaac-clarke",
@@ -23298,7 +23298,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Isaac Clarke from Dead Space."
+  "description": "Isaac Clarke in his battered RIG engineering suit, the glowing blue health spine running down his back."
  },
  {
   "id": "ca3d-itachi-uchiha",
@@ -23321,7 +23321,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Itachi Uchiha from Naruto."
+  "description": "Itachi Uchiha's calm, piercing gaze, Sharingan glowing beneath his scratched-out headband and Akatsuki collar."
  },
  {
   "id": "ca3d-ivy-valentine-soul-calibur",
@@ -23350,7 +23350,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ivy Valentine - Soul Calibur from Soul Calibur."
+  "description": "Isabella Valentine strikes a commanding pose in her gold-and-purple armor, her snake-sword coiled at her side."
  },
  {
   "id": "ca3d-jaina",
@@ -23381,7 +23381,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jaina from World of Warcraft."
+  "description": "Jaina Proudmoore in her Kul Tiran admiral's armor, frosty hair flowing and her trident staff held high."
  },
  {
   "id": "ca3d-jasmine",
@@ -23412,7 +23412,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jasmine from Disney Aladdin."
+  "description": "Princess Jasmine lounges on silk pillows in her teal outfit, Abu perched on a golden chair beside her."
  },
  {
   "id": "ca3d-jessica-rabbit",
@@ -23441,7 +23441,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jessica Rabbit from Who Framed Roger Rabbit."
+  "description": "Jessica Rabbit in her iconic red sequined gown and purple gloves, posed before a scarlet stage curtain."
  },
  {
   "id": "ca3d-jinx",
@@ -23475,7 +23475,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jinx from League of Legends / Arcane."
+  "description": "Jinx from Arcane, captured in an intense unpainted close-up, arm raised and stare full of chaos."
  },
  {
   "id": "ca3d-jinx-2",
@@ -23503,7 +23503,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jinx - 2 from League of Legends / Arcane."
+  "description": "Arcane's Jinx grins maniacally, long blue braids swinging and her pink accents glowing."
  },
  {
   "id": "ca3d-johnny-silverhand",
@@ -23527,7 +23527,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Johnny Silverhand from Cyberpunk 2077."
+  "description": "Johnny Silverhand, cigarette and aviators in place, his chrome arm resting on his guitar in true rockerboy style."
  },
  {
   "id": "ca3d-jolyne-kujo",
@@ -23555,7 +23555,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jolyne Kujo from JoJo's Bizarre Adventure."
+  "description": "Jolyne Cujoh strikes a stylish JoJo pose, green bun and butterfly-tattoo arm thrown overhead."
  },
  {
   "id": "ca3d-jubilee",
@@ -23587,7 +23587,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jubilee from X-Men."
+  "description": "Jubilee blows a bubble in her yellow trench coat and pink shades, ready to set off some fireworks."
  },
  {
   "id": "ca3d-judge-dredd",
@@ -23614,7 +23614,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Judge Dredd from Judge Dredd."
+  "description": "Judge Dredd, scowling under his helmet, Lawgiver drawn and golden eagle pauldron gleaming. He is the law."
  },
  {
   "id": "ca3d-juggernaut",
@@ -23642,7 +23642,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Juggernaut from X-Men."
+  "description": "The Juggernaut, nothing can stop him, charging forward in his rust-red armor with fists clenched."
  },
  {
   "id": "ca3d-jun-the-swan",
@@ -23671,7 +23671,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jun the Swan from Cyborg 009."
+  "description": "Jun the Swan in her white feathered helmet and pink uniform, wings spread as she swoops into action."
  },
  {
   "id": "ca3d-kai-sa",
@@ -23703,7 +23703,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kai'Sa from League of Legends."
+  "description": "Kai'Sa, Daughter of the Void, crouches in her living Void suit, glowing magenta energy pulsing from her wing pods."
  },
  {
   "id": "ca3d-kaneda",
@@ -23734,7 +23734,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kaneda from Akira."
+  "description": "Kaneda leans on his iconic red bike in his capsule-logo jacket, cool and cocky on the streets of Neo-Tokyo."
  },
  {
   "id": "ca3d-karlach",
@@ -23765,7 +23765,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Karlach from Baldur's Gate 3."
+  "description": "Karlach, the fiery tiefling barbarian, flashes a grin with her greataxe over her shoulder and infernal engine glowing."
  },
  {
   "id": "ca3d-kazuya",
@@ -23794,7 +23794,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kazuya from Tekken."
+  "description": "Kazuya Mishima bares his scarred chest in a fighting stance, red gloves raised and ready to throw down."
  },
  {
   "id": "ca3d-kenshin-himura",
@@ -23815,7 +23815,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kenshin Himura from Rurouni Kenshin."
+  "description": "Kenshin Himura in his red gi, cross-shaped scar and reverse-blade sword sheathed at his side."
  },
  {
   "id": "ca3d-kida",
@@ -23845,7 +23845,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kida from Disney Atlantis: The Lost Empire."
+  "description": "Princess Kida of Atlantis stands proud in her blue wrap and gold armlet, long white hair cascading behind her."
  },
  {
   "id": "ca3d-kikoru",
@@ -23873,7 +23873,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kikoru from Kaiju No. 8."
+  "description": "Kikoru Shinomiya in her Defense Force combat suit, blonde twin-tails whipping in the wind, battle axe ready."
  },
  {
   "id": "ca3d-king-thor",
@@ -23890,7 +23890,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of King Thor from Thor."
+  "description": "King Thor, aged and weathered in dark spiked armor, wields Mjolnir and Jarnbjorn with glowing eyes."
  },
  {
   "id": "ca3d-kitty-pride",
@@ -23912,7 +23912,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kitty Pride from X-Men."
+  "description": "Kitty Pryde smiles over her shoulder as her purple dragon Lockheed perches on her shoulder."
  },
  {
   "id": "ca3d-korra",
@@ -23943,7 +23943,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Korra from Avatar: The Legend of Korra."
+  "description": "Avatar Korra bends water and fire at once, her ponytails flying as the elements swirl around her."
  },
  {
   "id": "ca3d-kratos-v1-nordic-era",
@@ -23976,7 +23976,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kratos from God of War, Nordic era variant."
+  "description": "Nordic-era Kratos roars with the Leviathan Axe raised overhead, scarred, bearded and battle-worn."
  },
  {
   "id": "ca3d-kratos-v2-greek-era",
@@ -24005,7 +24005,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kratos from God of War, Greek era variant."
+  "description": "Greek-era Kratos stands over a fallen foe, Blades of Chaos blazing in both hands before a burning Olympus."
  },
  {
   "id": "ca3d-lady-dimitrescu",
@@ -24030,7 +24030,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lady Dimitrescu from Resident Evil Village."
+  "description": "Lady Dimitrescu towers in her flowing gown and wide-brimmed hat, wine glass in hand, flanked by her three daughters."
  },
  {
   "id": "ca3d-lady-lobo",
@@ -24059,7 +24059,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lady Lobo from Lobo."
+  "description": "Lady Lobo cracks a cigar-chomping grin, big gun in one hand and a severed Lobo head in the other."
  },
  {
   "id": "ca3d-lady-loki",
@@ -24091,7 +24091,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lady Loki from Loki."
+  "description": "Lady Loki lounges on her throne in scaled green armor, horned crown gleaming and a sly smile on her lips."
  },
  {
   "id": "ca3d-lady-maria",
@@ -24118,7 +24118,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lady Maria from Bloodborne."
+  "description": "Lady Maria of the Astral Clocktower stands in her tricorn hat and long coat, Rakuyo blades drawn in both hands."
  },
  {
   "id": "ca3d-lady-thor",
@@ -24147,7 +24147,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lady Thor from Thor."
+  "description": "Jane Foster's Mighty Thor erupts in a storm of crackling lightning, Mjolnir raised and her red cape streaming."
  },
  {
   "id": "ca3d-lara-croft",
@@ -24177,7 +24177,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lara Croft from Tomb Raider."
+  "description": "Classic Lara Croft dual-wields her pistols in her green tank top and shorts, long braid swinging."
  },
  {
   "id": "ca3d-leeloo",
@@ -24205,7 +24205,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Leeloo from The Fifth Element."
+  "description": "Leeloo, the Supreme Being, in her iconic white bandage outfit and bright orange hair, arms raised in alarm."
  },
  {
   "id": "ca3d-levi-ackerman",
@@ -24233,7 +24233,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Levi Ackerman from Attack on Titan."
+  "description": "Captain Levi in his Survey Corps cloak and ODM gear, stoic and sharp as ever."
  },
  {
   "id": "ca3d-lich-king",
@@ -24265,7 +24265,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lich King from World of Warcraft."
+  "description": "The Lich King looms in his spiked, frost-covered armor, Frostmourne in hand and skulls on his pauldrons."
  },
  {
   "id": "ca3d-light-yagami",
@@ -24288,7 +24288,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Light Yagami from Death Note."
+  "description": "Light Yagami strikes a dramatic Kira pose in his school blazer, a golden death god halo flaring behind him."
  },
  {
   "id": "ca3d-lightning",
@@ -24312,7 +24312,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lightning from Final Fantasy XIII."
+  "description": "Lightning of Final Fantasy XIII stands ready with her gunblade, pink hair and white coat accented by a red cape."
  },
  {
   "id": "ca3d-lilith",
@@ -24341,7 +24341,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lilith from Darkstalkers."
+  "description": "Lilith Aensland perches with bat wings unfurled, in her signature red bodysuit, purple bat-print leggings and fur-trimmed gloves."
  },
  {
   "id": "ca3d-lobo",
@@ -24375,7 +24375,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lobo from Lobo."
+  "description": "Lobo, the Main Man, hauls his huge hook-chain and blaster with a cigar-chomping grin and chrome-studded leathers."
  },
  {
   "id": "ca3d-logan",
@@ -24407,7 +24407,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Logan from X-Men."
+  "description": "Old Man Logan, scarred and bare-chested in tattered clothes, claws extended on a smoky battlefield base."
  },
  {
   "id": "ca3d-lord-drakkon",
@@ -24430,7 +24430,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lord Drakkon from Power Rangers (comics)."
+  "description": "Lord Drakkon stands in his white-and-green armor, Ranger helmets strewn at his feet as trophies."
  },
  {
   "id": "ca3d-lucy",
@@ -24459,7 +24459,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lucy from Elfen Lied."
+  "description": "Lucy of Cyberpunk: Edgerunners perches on David's yellow bike, her lilac bob and netrunner suit glowing."
  },
  {
   "id": "ca3d-lulu",
@@ -24488,7 +24488,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lulu from Final Fantasy X."
+  "description": "Lulu the black mage stands in her corseted fur-trimmed gown, a Moogle doll perched on her shoulder and magic sparks flaring."
  },
  {
   "id": "ca3d-luna-snow",
@@ -24514,7 +24514,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Luna Snow from Luna Snow."
+  "description": "Luna Snow strikes a pop-idol pose in her blue-and-white stage outfit, icy crystal shards rising beneath her."
  },
  {
   "id": "ca3d-lunch",
@@ -24542,7 +24542,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lunch from Dragon Ball."
+  "description": "Lunch, in her blonde 'bad' form, kicks back on her rugged motorcycle on a desert outcrop base."
  },
  {
   "id": "ca3d-lust",
@@ -24572,7 +24572,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Lust from Fullmetal Alchemist."
+  "description": "Lust, the Ultimate Spear, poses in her black gown with her deadly elongated fingernails extended."
  },
  {
   "id": "ca3d-madelyne-pryor",
@@ -24605,7 +24605,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Madelyne Pryor from X-Men."
+  "description": "Madelyne Pryor, the Goblin Queen, lounges on a dark rock throne beneath a blood-red sky."
  },
  {
   "id": "ca3d-magneto",
@@ -24636,7 +24636,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Magneto from X-Men."
+  "description": "Magneto sits enthroned in his crimson armor and purple cape, the Master of Magnetism at rest but never off guard."
  },
  {
   "id": "ca3d-makima",
@@ -24663,7 +24663,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Makima from Chainsaw Man."
+  "description": "Makima in her crisp white shirt and tie, red blood tendrils rising around her as she gestures with eerie calm."
  },
  {
   "id": "ca3d-makoto-kino",
@@ -24687,7 +24687,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Makoto Kino from Sailor Moon."
+  "description": "Sailor Jupiter calls down a storm, green sailor uniform flaring as huge lightning bolts crash around her."
  },
  {
   "id": "ca3d-maleficent",
@@ -24711,7 +24711,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Maleficent from Disney Sleeping Beauty."
+  "description": "Maleficent stands before her monstrous dragon form, green hellfire swirling around her staff."
  },
  {
   "id": "ca3d-malenia",
@@ -24744,7 +24744,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Malenia from Elden Ring."
+  "description": "Malenia in a dramatic profile, winged helm gleaming as her long crimson hair streams behind her like scarlet rot."
  },
  {
   "id": "ca3d-mary-jane",
@@ -24774,7 +24774,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mary Jane from Spider-Man."
+  "description": "Mary Jane Watson in a cropped Spider-Man tee and denim shorts, flashing a playful smile through her red hair."
  },
  {
   "id": "ca3d-mary-marvel",
@@ -24791,7 +24791,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mary Marvel from Shazam."
+  "description": "Mary Marvel stands hands-on-hips in her red-and-gold costume, the golden lightning bolt blazing on her chest."
  },
  {
   "id": "ca3d-mercury",
@@ -24812,7 +24812,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mercury from Sailor Moon."
+  "description": "Sailor Mercury spins gracefully amid ribbons of water, arms raised in her blue sailor uniform."
  },
  {
   "id": "ca3d-mikasa",
@@ -24839,7 +24839,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mikasa from Attack on Titan."
+  "description": "Mikasa Ackerman launches into action with ODM gear firing, blades drawn and her red scarf trailing."
  },
  {
   "id": "ca3d-mikasa-and-levi-diorama",
@@ -24864,7 +24864,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mikasa and Levi Diorama from Attack on Titan."
+  "description": "Mikasa and Levi fly into battle on their ODM gear over shattered rooftops in this dynamic Attack on Titan diorama."
  },
  {
   "id": "ca3d-minako-aino",
@@ -24893,7 +24893,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Minako Aino from Sailor Moon."
+  "description": "Sailor Venus lunges low with her Love-Me Chain whipping through the air, long blonde hair flowing."
  },
  {
   "id": "ca3d-minthara-baldurs-gate-3",
@@ -24922,7 +24922,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Minthara-Baldurs Gate 3 from Baldur's Gate 3."
+  "description": "Minthara Baenre, the drow paladin, strides forward in ornate dark armor with a commanding glare."
  },
  {
   "id": "ca3d-misa-amane",
@@ -24954,7 +24954,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Misa Amane from Death Note."
+  "description": "Misa Amane in her gothic lolita outfit sits clutching the Death Note, Rem looming protectively behind her."
  },
  {
   "id": "ca3d-momo-ayase",
@@ -24981,7 +24981,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Momo Ayase from Dandadan."
+  "description": "Momo Ayase in her pink hoodie, fingers raised in a psychic gesture and ready to throw down with yokai."
  },
  {
   "id": "ca3d-morgana",
@@ -25009,7 +25009,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Morgana from League of Legends."
+  "description": "Morgana, the Fallen, spreads her enormous dark feathered wings, violet magic blazing in her hands."
  },
  {
   "id": "ca3d-morrigan-dragon-age",
@@ -25026,7 +25026,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Morrigan from Dragon Age."
+  "description": "Morrigan of Dragon Age conjures arcane flame in her hand, a hulking horned demon looming at her back."
  },
  {
   "id": "ca3d-morrigan-aensland-darkstalkers",
@@ -25058,7 +25058,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Morrigan Aensland from Darkstalkers."
+  "description": "Morrigan Aensland poses with arms raised and bat wings framing her, in her iconic bat-print leggings."
  },
  {
   "id": "ca3d-motoko-v1",
@@ -25089,7 +25089,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Motoko from Ghost in the Shell."
+  "description": "Two takes on Major Kusanagi in her black-and-white combat jacket, pistol drawn and visor raised for the mission."
  },
  {
   "id": "ca3d-motoko-v2",
@@ -25118,7 +25118,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Motoko from Ghost in the Shell."
+  "description": "Motoko Kusanagi in her navy leotard and bomber jacket, holding her helmet under one arm with cool confidence."
  },
  {
   "id": "ca3d-mulan",
@@ -25142,7 +25142,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mulan from Disney Mulan."
+  "description": "Mulan stands calm with her sword planted, framed by an ornate swirling jade dragon in classical Chinese style."
  },
  {
   "id": "ca3d-musashi-miyamoto",
@@ -25169,7 +25169,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Musashi Miyamoto from Vagabond."
+  "description": "Musashi Miyamoto, wild-haired and barefoot, lunges with twin blades in a mossy forest clearing."
  },
  {
   "id": "ca3d-nami",
@@ -25196,7 +25196,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Nami from One Piece."
+  "description": "Nami winks with a cheeky grin in her green-striped bikini top and jeans, her Clima-Tact slung behind her."
  },
  {
   "id": "ca3d-nelliel",
@@ -25218,7 +25218,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Nelliel from Bleach."
+  "description": "Nelliel Tu Odelschwanck raises her zanpakuto in her skull mask and torn green robes, aquamarine hair flowing."
  },
  {
   "id": "ca3d-nico-robin",
@@ -25247,7 +25247,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Nico Robin from One Piece."
+  "description": "Nico Robin leans forward with a knowing smile in her wrap dress, sunglasses perched on her head."
  },
  {
   "id": "ca3d-nightcrawler",
@@ -25274,7 +25274,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Nightcrawler from X-Men."
+  "description": "Nightcrawler perches mid-teleport, tail curling and yellow eyes glowing, as a puff of pink smoke rises beneath him."
  },
  {
   "id": "ca3d-nova-starcraft",
@@ -25308,7 +25308,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Nova- Starcraft from StarCraft."
+  "description": "Nova, the Ghost operative, aims her C-20A canister rifle in her sleek hostile-environment suit."
  },
  {
   "id": "ca3d-obelix",
@@ -25340,7 +25340,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Obelix from Asterix."
+  "description": "A rugged, realistic Obelix hoists an enormous menhir overhead, braids swinging and belly straining his striped trousers."
  },
  {
   "id": "ca3d-obelix-and-asterix-diorama",
@@ -25362,7 +25362,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Obelix and Asterix - Diorama from Asterix."
+  "description": "Asterix and Obelix side by side, Obelix shouldering a giant menhir while Dogmatix sits at their feet."
  },
  {
   "id": "ca3d-orin-the-red",
@@ -25394,7 +25394,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Orin the Red from Baldur's Gate 3."
+  "description": "Orin the Red, the Bhaalspawn assassin, lovingly cradles a skull in her blood-red scaled armor."
  },
  {
   "id": "ca3d-pirotess",
@@ -25417,7 +25417,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Pirotess from Record of Lodoss War."
+  "description": "Pirotess, the dark elf swordswoman, kneels gracefully in her white outfit with a rapier planted at her side."
  },
  {
   "id": "ca3d-plain-doll",
@@ -25440,7 +25440,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Plain Doll from Bloodborne."
+  "description": "The Plain Doll of the Hunter's Dream sits serenely in her bonnet and cloak, a lantern glowing at her side."
  },
  {
   "id": "ca3d-power-chainsawman",
@@ -25459,7 +25459,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Power - Chainsawman from Chainsaw Man."
+  "description": "Power, the Blood Fiend, swings a crimson blood blade with a feral grin, horns peeking through her blonde hair."
  },
  {
   "id": "ca3d-predator-king",
@@ -25485,7 +25485,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Predator King from Predator."
+  "description": "The Predator King towers in battle-scarred armor, dreadlocks and mandibles framing a fearsome skull mask."
  },
  {
   "id": "ca3d-princess-leia",
@@ -25514,7 +25514,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Princess Leia from Star Wars."
+  "description": "Leia in her iconic Jabba's Palace outfit, blaster raised, leaning on a faithful R2-D2 on a Tatooine sand base."
  },
  {
   "id": "ca3d-princess-mononoke",
@@ -25547,7 +25547,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Princess Mononoke from Studio Ghibli."
+  "description": "San, the Wolf Princess, rides atop the great wolf goddess Moro, masked and wrapped in her white fur cape."
  },
  {
   "id": "ca3d-psylocke",
@@ -25579,7 +25579,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Psylocke from X-Men."
+  "description": "Psylocke in her classic purple leotard and red sash, psychic energy blazing in her hand."
  },
  {
   "id": "ca3d-pyrrha-nikos",
@@ -25607,7 +25607,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Pyrrha Nikos from RWBY."
+  "description": "Pyrrha Nikos strikes with her spear Miló, long red ponytail streaming and bronze armor gleaming."
  },
  {
   "id": "ca3d-queen-of-hearts",
@@ -25636,7 +25636,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Queen of Hearts from Alice in Wonderland."
+  "description": "The Queen of Hearts lounges on her ornate heart-shaped throne in red velvet and ruffled collar, a skull in hand."
  },
  {
   "id": "ca3d-qui-gon-jinn",
@@ -25657,7 +25657,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Qui Gon Jinn from Star Wars."
+  "description": "Qui-Gon Jinn in his hooded Jedi robes, green lightsaber raised high in a contemplative stance."
  },
  {
   "id": "ca3d-quiet",
@@ -25691,7 +25691,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Quiet from Metal Gear Solid V."
+  "description": "Quiet, the silent sniper, rests her rifle on her shoulder in her signature tactical bikini and torn stockings."
  },
  {
   "id": "ca3d-quorra",
@@ -25713,7 +25713,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Quorra from Tron: Legacy."
+  "description": "Quorra of Tron: Legacy, sleek black bob and glowing circuit-lined suit, with a hint of a curious smile."
  },
  {
   "id": "ca3d-rambo",
@@ -25747,7 +25747,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rambo from Rambo."
+  "description": "John Rambo, red headband and bandolier, hefts a belt-fed machine gun in full First Blood Part II glory."
  },
  {
   "id": "ca3d-ranni",
@@ -25777,7 +25777,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ranni from Elden Ring."
+  "description": "Ranni the Witch sits serenely in her wide-brimmed witch hat and fur cloak, her four arms folded in quiet thought."
  },
  {
   "id": "ca3d-rapunzel",
@@ -25799,7 +25799,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rapunzel from Disney Tangled."
+  "description": "A realistic Rapunzel twirls a lock of her long golden hair, wearing a lace-up peasant bodice and soft smile."
  },
  {
   "id": "ca3d-raven",
@@ -25816,7 +25816,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Raven from Teen Titans."
+  "description": "Raven of the Teen Titans floats in her hooded blue cloak, one hand raised as she channels dark magic."
  },
  {
   "id": "ca3d-rebecca",
@@ -25838,7 +25838,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rebecca from Cyberpunk: Edgerunners."
+  "description": "Rebecca of Cyberpunk: Edgerunners flashes a wicked grin, oversized blue cyberarm raised and pigtails bouncing."
  },
  {
   "id": "ca3d-rebecca-smasher",
@@ -25871,7 +25871,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rebecca Smasher from Cyberpunk: Edgerunners."
+  "description": "Rebecca suited up in Adam Smasher-style black armor, heavy weapon arms deployed and her signature grin intact."
  },
  {
   "id": "ca3d-red-sonja",
@@ -25897,7 +25897,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Red Sonja from Red Sonja."
+  "description": "Red Sonja, the She-Devil with a Sword, rests on her blade in her iconic scale-mail bikini and fiery red hair."
  },
  {
   "id": "ca3d-regina",
@@ -25926,7 +25926,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Regina from Dino Crisis."
+  "description": "Regina of Dino Crisis takes aim with her pistol, red bob and tactical gear ready for the raptors."
  },
  {
   "id": "ca3d-rei-ayanami",
@@ -25948,7 +25948,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rei Ayanami from Neon Genesis Evangelion."
+  "description": "Rei Ayanami in her white plugsuit, the Lance of Longinus spiraling in a crimson arc beside her."
  },
  {
   "id": "ca3d-rei-hino",
@@ -25976,7 +25976,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rei Hino from Sailor Moon."
+  "description": "Sailor Mars draws her flaming bow, long black hair streaming as fire coils around her."
  },
  {
   "id": "ca3d-riddick-with-jackal",
@@ -26002,7 +26002,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Riddick with Jackal from The Chronicles of Riddick."
+  "description": "Riddick, goggles down and scarf drawn, strides across a desert outcrop with his loyal jackal-dog at his side."
  },
  {
   "id": "ca3d-robocop",
@@ -26031,7 +26031,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Robocop from RoboCop."
+  "description": "RoboCop stands guard over a fallen criminal, Auto-9 raised and chrome armor gleaming under neon light."
  },
  {
   "id": "ca3d-rocket-raccoon",
@@ -26060,7 +26060,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rocket Raccoon from Guardians of the Galaxy."
+  "description": "Rocket Raccoon snarls behind an absurdly oversized blaster, his gear bristling with neon-lit tech."
  },
  {
   "id": "ca3d-rocketeer",
@@ -26089,7 +26089,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rocketeer from The Rocketeer."
+  "description": "The Rocketeer launches skyward in his bronze helmet and leather jacket, Mauser pistol in hand."
  },
  {
   "id": "ca3d-rocky-balboa",
@@ -26117,7 +26117,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rocky Balboa from Rocky."
+  "description": "Rocky Balboa in his ROCKY trunks and red gloves, guard up and ready to go the distance."
  },
  {
   "id": "ca3d-rogue",
@@ -26141,7 +26141,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rogue from X-Men."
+  "description": "Rogue in a sheer green top and choker, her iconic white streak framing a sultry gaze."
  },
  {
   "id": "ca3d-rogue-savage",
@@ -26175,7 +26175,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rogue Savage from X-Men."
+  "description": "Savage Land Rogue shields her eyes from the sun in her jungle outfit, staff in hand and hair blowing wild."
  },
  {
   "id": "ca3d-rukia",
@@ -26201,7 +26201,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Rukia from Bleach."
+  "description": "Rukia Kuchiki in her Shinigami robes, dark hair framing her steely violet eyes."
  },
  {
   "id": "ca3d-saber",
@@ -26233,7 +26233,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Saber from Fate series."
+  "description": "Saber raises Excalibur in her blue gown and silver armor, ready to strike with the King of Knights' resolve."
  },
  {
   "id": "ca3d-sabrina",
@@ -26261,7 +26261,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sabrina from Sabrina the Teenage Witch."
+  "description": "Sabrina Spellman in her red off-shoulder sweater and headband, eyes glowing red as she offers a poisoned apple."
  },
  {
   "id": "ca3d-sailor-moon",
@@ -26290,7 +26290,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sailor Moon from Sailor Moon."
+  "description": "Sailor Moon reaches for the stars, her iconic odango twin-tails sweeping around her in golden ribbons."
  },
  {
   "id": "ca3d-sailor-moon-diorama",
@@ -26319,7 +26319,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sailor Moon Diorama from Sailor Moon."
+  "description": "The Sailor Scouts assemble in an epic multi-level diorama, each guardian unleashing her signature power."
  },
  {
   "id": "ca3d-sally-whitemane",
@@ -26347,7 +26347,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sally Whitemane from World of Warcraft."
+  "description": "High Inquisitor Whitemane lounges on her crimson throne in ornate red armor, white hair spilling down."
  },
  {
   "id": "ca3d-samurai-wonder-woman",
@@ -26364,7 +26364,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Samurai Wonder Woman from Wonder Woman."
+  "description": "Wonder Woman reimagined as a samurai warrior, katana drawn and ornate armor layered over her flowing robes."
  },
  {
   "id": "ca3d-sara-pezzini-witchblade",
@@ -26396,7 +26396,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sara Pezzini - Witchblade from Witchblade."
+  "description": "Sara Pezzini bonds with the Witchblade, its living armor coiling around her as her red hair burns like flame."
  },
  {
   "id": "ca3d-sarah-kerrigan",
@@ -26424,7 +26424,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sarah Kerrigan from StarCraft."
+  "description": "Sarah Kerrigan, the Queen of Blades, rises with her bony zerg wings arched high above her."
  },
  {
   "id": "ca3d-savage-land-psylocke",
@@ -26453,7 +26453,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Savage Land Psylocke from X-Men."
+  "description": "Savage Land Psylocke conjures a glowing psychic blade amid swirling pink mist."
  },
  {
   "id": "ca3d-scarlet-spider",
@@ -26481,7 +26481,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Scarlet Spider from Spider-Man."
+  "description": "The Scarlet Spider clings to a brick chimney, wrapped in Doctor Octopus's mechanical tentacles over a fiery crater."
  },
  {
   "id": "ca3d-scarlet-witch",
@@ -26509,7 +26509,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Scarlet Witch from Scarlet Witch."
+  "description": "The Scarlet Witch sits in her crimson outfit and tiara, hex magic flaring as she holds Ultron's head in her hand."
  },
  {
   "id": "ca3d-selene",
@@ -26536,7 +26536,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Selene from Underworld."
+  "description": "Selene of Underworld drops into a snowy crouch, twin pistols drawn and fur-collared coat flaring."
  },
  {
   "id": "ca3d-sephiroth",
@@ -26564,7 +26564,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sephiroth from Final Fantasy VII."
+  "description": "Sephiroth's cold, knowing smirk, silver hair flowing over his black coat and pauldrons."
  },
  {
   "id": "ca3d-seraphin",
@@ -26587,7 +26587,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Seraphin from League of Legends."
+  "description": "Seraphin, blindfolded and wrapped in white feathered wings, holds a single red feather in her hands."
  },
  {
   "id": "ca3d-shadowheart",
@@ -26616,7 +26616,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Shadowheart from Baldur's Gate 3."
+  "description": "Shadowheart in her ornate Sharran plate, a glowing Netherese orb in one hand and her mace in the other."
  },
  {
   "id": "ca3d-shae-vizla",
@@ -26645,7 +26645,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Shae Vizla from Star Wars: The Old Republic."
+  "description": "Shae Vizla, the Mandalorian bounty hunter, strides forward in her battle-worn armor with blaster raised."
  },
  {
   "id": "ca3d-she-hulk",
@@ -26672,7 +26672,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of She-Hulk from Hulk."
+  "description": "She-Hulk works out in a white sports top, effortlessly hoisting a dumbbell overhead with a confident smile."
  },
  {
   "id": "ca3d-slan",
@@ -26700,7 +26700,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Slan from Berserk."
+  "description": "Slan, the God Hand's temptress, rises from a writhing base, enormous bat wings wrapped around her and a dark eclipse behind her."
  },
  {
   "id": "ca3d-soi-fon",
@@ -26725,7 +26725,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Soi Fon from Bleach."
+  "description": "Soi Fon, Captain of the Second Division, stretches with her Suzumebachi stinger poised in her backless black uniform."
  },
  {
   "id": "ca3d-solid-snake",
@@ -26751,7 +26751,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Solid Snake from Metal Gear Solid."
+  "description": "Solid Snake in his sneaking suit and bandana, SOCOM pistol raised as he advances through Shadow Moses."
  },
  {
   "id": "ca3d-spider-gwen-ghost-spider",
@@ -26780,7 +26780,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Spider Gwen - Ghost Spider from Spider-Man."
+  "description": "Spider-Gwen perches inside a frosted arched window frame, snow drifting down in a cozy winter scene."
  },
  {
   "id": "ca3d-spider-man-noir",
@@ -26808,7 +26808,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Spider Man Noir from Spider-Man."
+  "description": "Spider-Man Noir crouches on a gear-and-clock base, fedora on, trench coat flaring and revolver drawn."
  },
  {
   "id": "ca3d-spider-punk",
@@ -26842,7 +26842,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Spider Punk from Spider-Man."
+  "description": "Spider-Punk in a detailed bust, mohawk-locs piled high, studded vest covered in patches and his guitar slung behind."
  },
  {
   "id": "ca3d-spidergirl",
@@ -26875,7 +26875,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Spidergirl from Spider-Man."
+  "description": "Spider-Girl snaps a selfie in her pink hoodie, throwing a playful peace sign with her web-slinging gloves."
  },
  {
   "id": "ca3d-spiderman-miles-morales-versus-venom",
@@ -26909,7 +26909,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Spiderman (Miles Morales) Versus Venom from Spider-Man."
+  "description": "Miles Morales dribbles past a lunging Venom, basketball in hand, in a playful Spider-Verse showdown."
  },
  {
   "id": "ca3d-spike",
@@ -26938,7 +26938,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Spike from Cowboy Bebop."
+  "description": "Spike Spiegel, cigarette in mouth, levels his Jericho pistol in a moody gothic church."
  },
  {
   "id": "ca3d-star-lord",
@@ -26967,7 +26967,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Star Lord from Guardians of the Galaxy."
+  "description": "Star-Lord rockets through a cosmic battle, blasters blazing as he soars over a monstrous alien foe."
  },
  {
   "id": "ca3d-starfleet-officer",
@@ -26996,7 +26996,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Starfleet Officer from Star Trek."
+  "description": "A retro Starfleet officer in her classic blue uniform and glass bubble helmet, platinum curls perfectly set."
  },
  {
   "id": "ca3d-starkiller",
@@ -27019,7 +27019,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Starkiller from Star Wars."
+  "description": "Starkiller crouches low in his battle-damaged Sith armor, red lightsaber ignited and cape trailing."
  },
  {
   "id": "ca3d-starscourge-radahn",
@@ -27047,7 +27047,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Starscourge Radahn from Elden Ring."
+  "description": "Starscourge Radahn in his glory days, crimson mane flowing, with young Miquella perched on his broad shoulders."
  },
  {
   "id": "ca3d-storm-v1-painted",
@@ -27074,7 +27074,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Storm from X-Men, painted variant."
+  "description": "Storm in her black suit with lightning-bolt emblem, flowing white hair whipped wild by the wind."
  },
  {
   "id": "ca3d-storm-v2-unpainted",
@@ -27096,7 +27096,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Storm from X-Men, unpainted variant."
+  "description": "Storm stands commanding with her cape billowing and hair windswept, captured in crisp unpainted detail."
  },
  {
   "id": "ca3d-streetwear-cammy",
@@ -27125,7 +27125,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of StreetWear Cammy from Street Fighter."
+  "description": "Cammy off duty in streetwear: beanie, crop top and an oversized green bomber, braid trailing down."
  },
  {
   "id": "ca3d-swimsuit-2b",
@@ -27154,7 +27154,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Swimsuit 2B from NieR: Automata."
+  "description": "2B relaxes on a tropical beach at sunset in a stylish swimsuit and sheer wrap."
  },
  {
   "id": "ca3d-sylvanas",
@@ -27188,7 +27188,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sylvanas from World of Warcraft."
+  "description": "Sylvanas Windrunner, the Banshee Queen, stands in her dark spiked armor, hood up and arrows at the ready."
  },
  {
   "id": "ca3d-symbiote-spiderman",
@@ -27215,7 +27215,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Symbiote Spiderman from Spider-Man."
+  "description": "Spider-Man in his black symbiote suit, muscles rippling and white spider emblem stark against the dark."
  },
  {
   "id": "ca3d-tai-lung",
@@ -27243,7 +27243,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Tai Lung from Kung Fu Panda."
+  "description": "Tai Lung, the snow leopard warrior, snarls and lunges forward in his black-studded sash."
  },
  {
   "id": "ca3d-tank-girl",
@@ -27266,7 +27266,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Tank Girl from Tank Girl."
+  "description": "Tank Girl laughs with a rocket launcher over her shoulder, grenades hanging from her bandolier and punk grin wide."
  },
  {
   "id": "ca3d-terminator",
@@ -27299,7 +27299,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Terminator from The Terminator."
+  "description": "The T-800 in his leather jacket and shades, shotgun at the ready. He'll be back."
  },
  {
   "id": "ca3d-the-crow",
@@ -27333,7 +27333,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of The Crow from The Crow."
+  "description": "The Crow perches on a gravestone cross in his black trench coat, pistol drawn and a crow taking flight above him."
  },
  {
   "id": "ca3d-the-death-knight",
@@ -27361,7 +27361,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of The Death Knight from World of Warcraft."
+  "description": "A Death Knight looms in a towering spiked crown and frost-scarred armor, cold and menacing."
  },
  {
   "id": "ca3d-the-hunter",
@@ -27390,7 +27390,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of The Hunter from Bloodborne."
+  "description": "The Bloodborne Hunter in his tricorn and tattered coat, Saw Cleaver and pistol at the ready, bathed in red moonlight."
  },
  {
   "id": "ca3d-the-mandalorian",
@@ -27419,7 +27419,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of The Mandalorian from Star Wars."
+  "description": "The Mandalorian stands against Tatooine's twin suns, blaster raised and beskar armor gleaming."
  },
  {
   "id": "ca3d-the-mask",
@@ -27439,7 +27439,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of The Mask from The Mask."
+  "description": "The Mask grins ear-to-ear in his canary yellow zoot suit, a spiked mallet slung over his shoulder. Smokin'!"
  },
  {
   "id": "ca3d-tifa",
@@ -27470,7 +27470,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Tifa from Final Fantasy VII."
+  "description": "Tifa Lockhart in her white tank top and suspenders, fighting gloves on and a determined look."
  },
  {
   "id": "ca3d-tina-armstrong",
@@ -27503,7 +27503,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Tina Armstrong from Dead or Alive."
+  "description": "Tina Armstrong in her cowgirl hat and stars-and-stripes bikini top, hands on hips with Texas-sized confidence."
  },
  {
   "id": "ca3d-tmnt",
@@ -27536,7 +27536,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of TMNT from Teenage Mutant Ninja Turtles."
+  "description": "The Teenage Mutant Ninja Turtles assemble on a gritty New York rooftop, weapons drawn and ready to rumble."
  },
  {
   "id": "ca3d-toothless-hiccup",
@@ -27568,7 +27568,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Toothless/Hiccup from How to Train Your Dragon."
+  "description": "Hiccup stands beside his loyal Night Fury, Toothless, wings folded and green eyes gleaming."
  },
  {
   "id": "ca3d-toph",
@@ -27590,7 +27590,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Toph from Avatar: The Last Airbender."
+  "description": "Toph Beifong drops into her earthbending stance, fists raised, the greatest earthbender in the world."
  },
  {
   "id": "ca3d-ursula",
@@ -27618,7 +27618,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ursula from Disney The Little Mermaid."
+  "description": "Ursula lounges on her golden throne beneath the sea, tentacles coiled and Flotsam slithering at her side."
  },
  {
   "id": "ca3d-vash",
@@ -27646,7 +27646,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Vash from Trigun."
+  "description": "Vash the Stampede leaps from desert ruins, his tattered red coat whipping around him and revolver drawn."
  },
  {
   "id": "ca3d-vi",
@@ -27677,7 +27677,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Vi from League of Legends / Arcane."
+  "description": "Vi of Arcane drops into a fighting stance with her massive Atlas Gauntlets, pink hair and scars on show."
  },
  {
   "id": "ca3d-winry-rockbell",
@@ -27701,7 +27701,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Winry Rockbell from Fullmetal Alchemist."
+  "description": "Winry Rockbell takes a break on her toolbox, wrench in hand and bandana tied, ready for automail repairs."
  },
  {
   "id": "ca3d-x-23",
@@ -27733,7 +27733,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of X-23 from X-Men."
+  "description": "X-23 lets out a fierce roar in her blue-and-yellow Wolverine suit, claws extended from both fists."
  },
  {
   "id": "ca3d-xena",
@@ -27750,7 +27750,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Xena from Xena: Warrior Princess."
+  "description": "Xena, Warrior Princess, kneels with her sword raised and a lion pelt draped across her shoulders."
  },
  {
   "id": "ca3d-yang-xiao-long",
@@ -27777,7 +27777,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Yang Xiao Long from RWBY."
+  "description": "Yang Xiao Long burns with fiery Semblance power, golden hair ablaze and Ember Celica gauntlets primed."
  },
  {
   "id": "ca3d-yoko-littner",
@@ -27805,7 +27805,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Yoko Littner from Gurren Lagann."
+  "description": "Yoko Littner, rifle in hand and red ponytail flying, poses as spent shell casings rain around her."
  },
  {
   "id": "ca3d-yor-forger",
@@ -27835,7 +27835,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Yor Forger from Spy x Family."
+  "description": "Yor Forger, the Thorn Princess, poses with stiletto daggers drawn in her elegant black assassin's dress."
  },
  {
   "id": "ca3d-yoruichi",
@@ -27863,7 +27863,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Yoruichi from Bleach."
+  "description": "Yoruichi in a crouching flash-step pose, long hair sweeping behind her, captured in unpainted detail."
  },
  {
   "id": "ca3d-yuria-of-londor",
@@ -27889,7 +27889,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Yuria of Londor from Dark Souls III."
+  "description": "Yuria of Londor stands in shadow in her black masked garb, sword lowered among skulls and candlelit ruins."
  },
  {
   "id": "ca3d-zodd",
@@ -27912,7 +27912,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Zodd from Berserk."
+  "description": "Nosferatu Zodd in his human form, battle-scarred and grinning, a massive blade in hand and fur draped over his shoulders."
  },
  {
  "id": "esm-princess-zelda-v1",
