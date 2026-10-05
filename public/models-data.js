@@ -1,6 +1,6 @@
 const MODELS = [
  {
-  "id": "bulkamancer-malenia",
+  "id": "bulkamancer-malenia", 
   "artist": "Bulkamancer Sculpts",
   "series": "Elden Ring",
   "title": "Malenia, Blade of Miquella",
@@ -738,7 +738,7 @@ const MODELS = [
  {
   "id": "kc-aragorn",
   "artist": "KcStudio",
-  "series": "Lord of the Rings",
+  "series": "The Lord of the Rings",
   "title": "Aragorn",
   "images": [
    "images/kc-studio/lotr/aragorn/aragorn-1.jpg",
@@ -1031,7 +1031,7 @@ const MODELS = [
  {
   "id": "kc-legolas",
   "artist": "KcStudio",
-  "series": "Lord of the Rings",
+  "series": "The Lord of the Rings",
   "title": "Legolas",
   "images": [
    "images/kc-studio/lotr/legolas/legolas-1.jpg",
@@ -1148,7 +1148,7 @@ const MODELS = [
  {
   "id": "kc-sauron",
   "artist": "KcStudio",
-  "series": "Lord of the Rings",
+  "series": "The Lord of the Rings",
   "title": "Sauron",
   "images": [
    "images/kc-studio/lotr/sauron/sauron-1.jpg",
@@ -3944,11 +3944,11 @@ const MODELS = [
  {
   "id": "abe-luna-snow",
   "artist": "Abe3D",
-  "series": "Luna Snow",
+  "series": "Marvel Rivals",
   "title": "Luna Snow",
   "images": [
-   "images/abe3d/luna-snow/luna-snow/abe-luna-snow-1.jpg",
-   "images/abe3d/luna-snow/luna-snow/abe-luna-snow-2.jpg"
+   "images/abe3d/marvel-rivals/luna-snow/abe-luna-snow-1.jpg",
+   "images/abe3d/marvel-rivals/luna-snow/abe-luna-snow-2.jpg"
   ],
   "scaleOptions": [
    {
@@ -4415,18 +4415,18 @@ const MODELS = [
   "description": "Psylocke, sculpted with her signature psychic knife and katana, capturing the X-Men ninja's deadly precision."
  },
  {
-  "id": "abe-psylocke-breezy-butterfly",
+  "id": "abe-psylocke-v1",
   "artist": "Abe3D",
-  "series": "X-Men",
-  "title": "Psylocke Breezy Butterfly",
+  "series": "Marvel Rivals",
+  "title": "Psylocke [Betsy Braddock]",
   "images": [
-   "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-1.jpg",
-   "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-2.jpg",
-   "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-3.jpg",
-   "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-4.jpg",
-   "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-5.jpg",
-   "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-6.jpg",
-   "images/abe3d/x-men/psylocke-breezy-butterfly/abe-psylocke-breezy-butterfly-7.jpg"
+   "images/abe3d/marvel-rivals/psylocke-v1/psylocke-v1-1.jpg",
+   "images/abe3d/marvel-rivals/psylocke-v1/psylocke-v1-2.jpg",
+   "images/abe3d/marvel-rivals/psylocke-v1/psylocke-v1-3.jpg",
+   "images/abe3d/marvel-rivals/psylocke-v1/psylocke-v1-4.jpg",
+   "images/abe3d/marvel-rivals/psylocke-v1/psylocke-v1-5.jpg",
+   "images/abe3d/marvel-rivals/psylocke-v1/psylocke-v1-6.jpg",
+   "images/abe3d/marvel-rivals/psylocke-v1/psylocke-v1-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -8308,17 +8308,17 @@ const MODELS = [
  {
   "id": "moonn-magik",
   "artist": "3Dmoonn",
-  "series": "X-Men",
+  "series": "Marvel Rivals",
   "title": "Magik",
   "images": [
-   "images/3dmoonn/x-men/magik/moonn-magik-1.jpg",
-   "images/3dmoonn/x-men/magik/moonn-magik-2.jpg",
-   "images/3dmoonn/x-men/magik/moonn-magik-3.jpg",
-   "images/3dmoonn/x-men/magik/moonn-magik-4.jpg",
-   "images/3dmoonn/x-men/magik/moonn-magik-5.jpg",
-   "images/3dmoonn/x-men/magik/moonn-magik-6.jpg",
-   "images/3dmoonn/x-men/magik/moonn-magik-7.jpg",
-   "images/3dmoonn/x-men/magik/moonn-magik-8.jpg"
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-1.jpg",
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-2.jpg",
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-3.jpg",
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-4.jpg",
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-5.jpg",
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-6.jpg",
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-7.jpg",
+   "images/3dmoonn/marvel-rivals/magik/moonn-magik-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -10130,17 +10130,17 @@ const MODELS = [
  {
   "id": "moonn-galacta",
   "artist": "3Dmoonn",
-  "series": "Fantastic Four",
+  "series": "Marvel Rivals",
   "title": "Galacta",
   "images": [
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-1.jpg",
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-2.jpg",
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-3.jpg",
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-4.jpg",
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-5.jpg",
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-6.jpg",
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-7.jpg",
-   "images/3dmoonn/fantastic-four/galacta/moonn-galacta-8.jpg"
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-1.jpg",
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-2.jpg",
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-3.jpg",
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-4.jpg",
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-5.jpg",
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-6.jpg",
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-7.jpg",
+   "images/3dmoonn/marvel-rivals/galacta/moonn-galacta-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -10723,17 +10723,17 @@ const MODELS = [
  {
   "id": "moonn-squirrel-girl",
   "artist": "3Dmoonn",
-  "series": "Squirrel Girl",
+  "series": "Marvel Rivals",
   "title": "Squirrel Girl",
   "images": [
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-1.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-2.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-3.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-4.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-5.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-6.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-7.jpg",
-   "images/3dmoonn/squirrel-girl/squirrel-girl/moonn-squirrel-girl-8.jpg"
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-1.jpg",
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-2.jpg",
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-3.jpg",
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-4.jpg",
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-5.jpg",
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-6.jpg",
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-7.jpg",
+   "images/3dmoonn/marvel-rivals/squirrel-girl/moonn-squirrel-girl-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -11045,17 +11045,17 @@ const MODELS = [
  {
   "id": "moonn-psylocke",
   "artist": "3Dmoonn",
-  "series": "X-Men",
+  "series": "Marvel Rivals",
   "title": "Psylocke",
   "images": [
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-1.jpg",
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-2.jpg",
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-3.jpg",
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-4.jpg",
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-5.jpg",
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-6.jpg",
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-7.jpg",
-   "images/3dmoonn/x-men/psylocke/moonn-psylocke-8.jpg"
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-1.jpg",
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-2.jpg",
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-3.jpg",
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-4.jpg",
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-5.jpg",
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-6.jpg",
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-7.jpg",
+   "images/3dmoonn/marvel-rivals/psylocke/moonn-psylocke-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -13557,18 +13557,18 @@ const MODELS = [
  {
   "id": "bulka-malice",
   "artist": "Bulkamancer Sculpts",
-  "series": "Fantastic Four",
+  "series": "Marvel Rivals",
   "title": "Malice",
   "images": [
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-1.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-2.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-3.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-4.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-5.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-6.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-7.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-8.jpg",
-   "images/bulkamancer/fantastic-four/malice/bulka-malice-9.jpg"
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-1.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-2.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-3.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-4.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-5.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-6.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-7.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-8.jpg",
+   "images/bulkamancer/marvel-rivals/malice/bulka-malice-9.jpg"
   ],
   "scaleOptions": [
    {
@@ -14636,7 +14636,7 @@ const MODELS = [
  {
   "id": "bulka-witch-king-of-angmar",
   "artist": "Bulkamancer Sculpts",
-  "series": "Lord of the Rings",
+  "series": "The Lord of the Rings",
   "title": "Witch King of Angmar",
   "images": [
    "images/bulkamancer/lord-of-the-rings/witch-king-of-angmar/bulka-witch-king-of-angmar-1.jpg",
@@ -15754,17 +15754,17 @@ const MODELS = [
  {
   "id": "bulka-black-cat",
   "artist": "Bulkamancer Sculpts",
-  "series": "Spider-Man",
+  "series": "Marvel Rivals",
   "title": "Black Cat",
   "images": [
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-1.jpg",
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-2.jpg",
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-3.jpg",
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-4.jpg",
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-5.jpg",
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-6.jpg",
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-7.jpg",
-   "images/bulkamancer/spider-man/black-cat/bulka-black-cat-8.jpg"
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-1.jpg",
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-2.jpg",
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-3.jpg",
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-4.jpg",
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-5.jpg",
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-6.jpg",
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-7.jpg",
+   "images/bulkamancer/marvel-rivals/black-cat/bulka-black-cat-8.jpg"
   ],
   "scaleOptions": [
    {
@@ -15773,7 +15773,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Black Cat, Spider-Man's cat-suited thief with a soft spot for the wall-crawler."
+  "description": "Black Cat, Spider-Man's cat-suited thief with a soft spot for the wall-crawler seen here in her Marvel Rivals 'Meow' outfit."
  },
  {
   "id": "bulka-gwen-stacy",
@@ -16708,16 +16708,16 @@ const MODELS = [
  {
   "id": "bulka-emma-frost",
   "artist": "Bulkamancer Sculpts",
-  "series": "X-Men",
+  "series": "marvel-rivals",
   "title": "Emma Frost",
   "images": [
-   "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-1.jpg",
-   "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-2.jpg",
-   "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-3.jpg",
-   "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-4.jpg",
-   "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-5.jpg",
-   "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-6.jpg",
-   "images/bulkamancer/x-men/emma-frost/bulka-emma-frost-7.jpg"
+   "images/bulkamancer/marvel-rivals/emma-frost/bulka-emma-frost-1.jpg",
+   "images/bulkamancer/marvel-rivals/emma-frost/bulka-emma-frost-2.jpg",
+   "images/bulkamancer/marvel-rivals/emma-frost/bulka-emma-frost-3.jpg",
+   "images/bulkamancer/marvel-rivals/emma-frost/bulka-emma-frost-4.jpg",
+   "images/bulkamancer/marvel-rivals/emma-frost/bulka-emma-frost-5.jpg",
+   "images/bulkamancer/marvel-rivals/emma-frost/bulka-emma-frost-6.jpg",
+   "images/bulkamancer/marvel-rivals/emma-frost/bulka-emma-frost-7.jpg"
   ],
   "scaleOptions": [
    {
@@ -21314,7 +21314,7 @@ const MODELS = [
  {
   "id": "ca3d-balrog-vs-gandalf",
   "artist": "CA3D Studios",
-  "series": "Lord of the Rings",
+  "series": "The Lord of the Rings",
   "title": "Balrog vs Gandalf",
   "images": [
    "images/ca3d/the-lord-of-the-rings/balrog-vs-gandalf/balrog-vs-gandalf-1.jpg"
@@ -23100,15 +23100,14 @@ const MODELS = [
  {
   "id": "ca3d-hela",
   "artist": "CA3D Studios",
-  "series": "Thor",
+  "series": "Marvel Rivals",
   "title": "Hela",
   "images": [
-   "images/ca3d/thor/hela/hela-1.jpg",
-   "images/ca3d/thor/hela/hela-2.jpg",
-   "images/ca3d/thor/hela/hela-3.jpg",
-   "images/ca3d/thor/hela/hela-4.jpg",
-   "images/ca3d/thor/hela/hela-5.jpg",
-   "images/ca3d/thor/hela/hela-6.jpg"
+   "images/ca3d/marvel-rivals/hela/hela-1.jpg",
+   "images/ca3d/marvel-rivals/hela/hela-2.jpg",
+   "images/ca3d/marvel-rivals/hela/hela-3.jpg",
+   "images/ca3d/marvel-rivals/hela/hela-4.jpg",
+   "images/ca3d/marvel-rivals/hela/hela-5.jpg"
   ],
   "scaleOptions": [
    {
@@ -24494,14 +24493,14 @@ const MODELS = [
  {
   "id": "ca3d-luna-snow",
   "artist": "CA3D Studios",
-  "series": "Luna Snow",
+  "series": "Marvel Rivals",
   "title": "Luna Snow",
   "images": [
-   "images/ca3d/luna-snow/luna-snow/luna-snow-1.jpg",
-   "images/ca3d/luna-snow/luna-snow/luna-snow-2.jpg",
-   "images/ca3d/luna-snow/luna-snow/luna-snow-3.jpg",
-   "images/ca3d/luna-snow/luna-snow/luna-snow-4.jpg",
-   "images/ca3d/luna-snow/luna-snow/luna-snow-5.jpg"
+   "images/ca3d/marvel-rivals/luna-snow/luna-snow-1.jpg",
+   "images/ca3d/marvel-rivals/luna-snow/luna-snow-2.jpg",
+   "images/ca3d/marvel-rivals/luna-snow/luna-snow-3.jpg",
+   "images/ca3d/marvel-rivals/luna-snow/luna-snow-4.jpg",
+   "images/ca3d/marvel-rivals/luna-snow/luna-snow-5.jpg"
   ],
   "scaleOptions": [
    {
@@ -27876,8 +27875,7 @@ const MODELS = [
    "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-2.jpg",
    "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-3.jpg",
    "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-4.jpg",
-   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-5.jpg",
-   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-6.jpg"
+   "images/ca3d/dark-souls-iii/yuria-of-londor/yuria-of-londor-5.jpg"
   ],
   "scaleOptions": [
    {
@@ -28072,8 +28070,7 @@ const MODELS = [
   "images/esmonster/wonder-woman/wonder-woman-v1/wonder-woman-v1-11.jpg",
   "images/esmonster/wonder-woman/wonder-woman-v1/wonder-woman-v1-12.jpg",
   "images/esmonster/wonder-woman/wonder-woman-v1/wonder-woman-v1-13.jpg",
-  "images/esmonster/wonder-woman/wonder-woman-v1/wonder-woman-v1-14.jpg",
-  "images/esmonster/wonder-woman/wonder-woman-v1/wonder-woman-v1-15.jpg"
+  "images/esmonster/wonder-woman/wonder-woman-v1/wonder-woman-v1-14.jpg"
  ],
  "scaleOptions": [
   {
@@ -29512,15 +29509,7 @@ const MODELS = [
   "images/esmonster/deadpool/lady-deadpool/lady-deadpool-13.jpg",
   "images/esmonster/deadpool/lady-deadpool/lady-deadpool-14.jpg",
   "images/esmonster/deadpool/lady-deadpool/lady-deadpool-15.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-16.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-17.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-18.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-19.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-20.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-21.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-22.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-23.jpg",
-  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-24.jpg"
+  "images/esmonster/deadpool/lady-deadpool/lady-deadpool-16.jpg"
  ],
  "scaleOptions": [
   {
@@ -29725,20 +29714,20 @@ const MODELS = [
  {
  "id": "esm-malice-v1",
  "artist": "ESMonster",
- "series": "Fantastic Four",
+ "series": "Marvel Rivals",
  "title": "Malice",
  "images": [
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-1.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-2.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-3.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-4.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-5.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-6.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-7.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-8.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-9.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-10.jpg",
-  "images/esmonster/fantastic-four/malice-v1/malice-v1-11.jpg"
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-1.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-2.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-3.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-4.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-5.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-6.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-7.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-8.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-9.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-10.jpg",
+  "images/esmonster/marvel-rivals/malice-v1/malice-v1-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -29752,20 +29741,20 @@ const MODELS = [
  {
  "id": "esm-malice-v2",
  "artist": "ESMonster",
- "series": "Fantastic Four",
+ "series": "Marvel Rivals",
  "title": "Malice",
  "images": [
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-1.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-2.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-3.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-4.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-5.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-6.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-7.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-8.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-9.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-10.jpg",
-  "images/esmonster/fantastic-four/malice-v2/malice-v2-11.jpg"
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-1.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-2.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-3.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-4.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-5.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-6.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-7.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-8.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-9.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-10.jpg",
+  "images/esmonster/marvel-rivals/malice-v2/malice-v2-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -29793,18 +29782,7 @@ const MODELS = [
   "images/esmonster/dc-comics/punchline/punchline-9.jpg",
   "images/esmonster/dc-comics/punchline/punchline-10.jpg",
   "images/esmonster/dc-comics/punchline/punchline-11.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-12.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-13.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-14.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-15.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-16.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-17.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-18.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-19.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-20.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-21.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-22.jpg",
-  "images/esmonster/dc-comics/punchline/punchline-23.jpg"
+  "images/esmonster/dc-comics/punchline/punchline-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -30242,7 +30220,7 @@ const MODELS = [
  {
  "id": "esm-scanty-kneesocks",
  "artist": "ESMonster",
- "series": "Panty & Stocking",
+ "series": "Panty & Stocking with Garterbelt",
  "title": "Scanty & Kneesocks",
  "images": [
   "images/esmonster/panty-stocking/scanty-kneesocks/scanty-kneesocks-1.jpg",
@@ -30305,21 +30283,7 @@ const MODELS = [
   "images/esmonster/dispatch/malevola/malevola-8.jpg",
   "images/esmonster/dispatch/malevola/malevola-9.jpg",
   "images/esmonster/dispatch/malevola/malevola-10.jpg",
-  "images/esmonster/dispatch/malevola/malevola-11.jpg",
-  "images/esmonster/dispatch/malevola/malevola-12.jpg",
-  "images/esmonster/dispatch/malevola/malevola-13.jpg",
-  "images/esmonster/dispatch/malevola/malevola-14.jpg",
-  "images/esmonster/dispatch/malevola/malevola-15.jpg",
-  "images/esmonster/dispatch/malevola/malevola-16.jpg",
-  "images/esmonster/dispatch/malevola/malevola-17.jpg",
-  "images/esmonster/dispatch/malevola/malevola-18.jpg",
-  "images/esmonster/dispatch/malevola/malevola-19.jpg",
-  "images/esmonster/dispatch/malevola/malevola-20.jpg",
-  "images/esmonster/dispatch/malevola/malevola-21.jpg",
-  "images/esmonster/dispatch/malevola/malevola-22.jpg",
-  "images/esmonster/dispatch/malevola/malevola-23.jpg",
-  "images/esmonster/dispatch/malevola/malevola-24.jpg",
-  "images/esmonster/dispatch/malevola/malevola-25.jpg"
+  "images/esmonster/dispatch/malevola/malevola-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -31826,18 +31790,18 @@ const MODELS = [
  {
  "id": "esm-dagger-v1",
  "artist": "ESMonster",
- "series": "Cloak & Dagger",
+ "series": "Marvel Rivals",
  "title": "Dagger [Tandy Bowen]",
  "images": [
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-01.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-02.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-03.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-04.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-05.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-06.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-07.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-08.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v2/dagger-v2-09.jpg"
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-01.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-02.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-03.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-04.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-05.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-06.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-07.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-08.jpg",
+  "images/esmonster/marvel-rivals/dagger-v2/dagger-v2-09.jpg"
  ],
  "scaleOptions": [
   {
@@ -31851,19 +31815,19 @@ const MODELS = [
  {
  "id": "esm-dagger-v2",
  "artist": "ESMonster",
- "series": "Cloak & Dagger",
+ "series": "Marvel Rivals",
  "title": "Dagger [Tandy Bowen]",
  "images": [
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-01.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-02.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-03.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-04.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-05.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-06.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-07.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-08.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-09.jpg",
-  "images/esmonster/cloak-dagger/dagger-tandy-bowen-v1/dagger-v1-10.jpg"
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-01.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-02.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-03.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-04.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-05.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-06.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-07.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-08.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-09.jpg",
+  "images/esmonster/marvel-rivals/dagger-v1/dagger-v1-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -32795,56 +32759,22 @@ const MODELS = [
  "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
 },
  {
- "id": "esm-psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions",
+ "id": "esm-psylocke-v1",
  "artist": "ESMonster",
- "series": "X-Men",
+ "series": "Marvel Rivals",
  "title": "Psylocke [Betsy Braddock]",
  "images": [
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-1.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-2.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-3.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-4.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-5.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-6.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-7.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-8.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-9.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-10.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-11.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-12.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-13.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-14.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-15.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-16.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-17.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-18.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-19.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-20.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-21.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-22.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-23.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-24.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-25.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-26.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-27.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-28.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-29.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-30.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-31.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-32.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-33.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-34.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-35.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-36.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-37.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-38.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-39.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-40.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-41.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-42.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-43.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-44.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions/psylocke-betsy-braddock-purple-clad-woman-skin-includes-2-versions-45.jpg"
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-1.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-2.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-3.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-4.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-5.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-6.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-7.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-8.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-9.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-10.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v1/psylocke-v1-11.jpg"
  ],
  "scaleOptions": [
   {
@@ -32856,26 +32786,66 @@ const MODELS = [
  "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
 },
  {
- "id": "esm-psylocke-betsy-braddock-marvel-rivals-ver",
+ "id": "esm-psylocke-v2",
  "artist": "ESMonster",
- "series": "X-Men",
- "title": "Psylocke [Betsy Braddock] [Marvel Rivals ver]",
+ "series": "Marvel Rivals",
+ "title": "Psylocke [Betsy Braddock]",
  "images": [
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-1.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-2.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-3.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-4.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-5.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-6.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-7.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-8.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-9.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-10.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-11.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-12.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-13.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-14.jpg",
-  "images/esmonster/x-men/psylocke-betsy-braddock-marvel-rivals-ver/psylocke-betsy-braddock-marvel-rivals-ver-15.jpg"
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-1.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-2.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-3.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-4.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-5.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-6.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-7.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-8.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-9.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v2/psylocke-v2-10.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke | Betsy Braddock from X-Men."
+},
+ {
+ "id": "esm-psylocke-v3",
+ "artist": "ESMonster",
+ "series": "Marvel Rivals",
+ "title": "Psylocke [Betsy Braddock]",
+ "images": [
+  "images/esmonster/marvel-rivals/psylocke-v3/psylocke-v3-1.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v3/psylocke-v3-2.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v3/psylocke-v3-3.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v3/psylocke-v3-4.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v3/psylocke-v3-5.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v3/psylocke-v3-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Original resin sculpt of Psylocke | Betsy Braddock [Marvel Rivals ver] from X-Men."
+},
+ {
+ "id": "esm-psylocke-v4",
+ "artist": "ESMonster",
+ "series": "Marvel Rivals",
+ "title": "Psylocke [Betsy Braddock]",
+ "images": [
+  "images/esmonster/marvel-rivals/psylocke-v4/psylocke-v4-1.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v4/psylocke-v4-2.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v4/psylocke-v4-3.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v4/psylocke-v4-4.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v4/psylocke-v4-5.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v4/psylocke-v4-6.jpg",
+  "images/esmonster/marvel-rivals/psylocke-v4/psylocke-v4-7.jpg"
  ],
  "scaleOptions": [
   {
@@ -32906,36 +32876,6 @@ const MODELS = [
   }
  ],
  "description": "Original resin sculpt of Evelynn [Coven] from League of Legends."
-},
- {
- "id": "esm-hela-marvel-rivals-ver",
- "artist": "ESMonster",
- "series": "Thor",
- "title": "Hela",
- "images": [
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-1.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-2.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-3.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-4.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-5.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-6.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-7.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-8.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-9.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-10.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-11.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-12.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-13.jpg",
-  "images/esmonster/thor/hela-marvel-rivals-ver/hela-marvel-rivals-ver-14.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Hela [Marvel Rivals ver] from Thor."
 },
  {
  "id": "esm-enya",
@@ -34286,7 +34226,8 @@ const MODELS = [
   "images/esmonster/hellboy/hellboy/hellboy-4.jpg",
   "images/esmonster/hellboy/hellboy/hellboy-5.jpg",
   "images/esmonster/hellboy/hellboy/hellboy-6.jpg",
-  "images/esmonster/hellboy/hellboy/hellboy-7.jpg"
+  "images/esmonster/hellboy/hellboy/hellboy-7.jpg",
+  "images/esmonster/hellboy/hellboy/hellboy-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -34300,15 +34241,15 @@ const MODELS = [
  {
  "id": "esm-sue-storm-v1",
  "artist": "ESMonster",
- "series": "Fantastic Four",
- "title": "Invisible Woman [Sue Storm] [Marvel Rivals ver]",
+ "series": "Marvel Rivals",
+ "title": "Invisible Woman [Sue Storm]",
  "images": [
-  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-1.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-2.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-3.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-4.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-5.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v1/sue-storm-v1-6.jpg"
+  "images/esmonster/marvel-rivals/sue-storm-v1/sue-storm-v1-1.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v1/sue-storm-v1-2.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v1/sue-storm-v1-3.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v1/sue-storm-v1-4.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v1/sue-storm-v1-5.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v1/sue-storm-v1-6.jpg"
  ],
  "scaleOptions": [
   {
@@ -34317,24 +34258,24 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sue Storm | Invisible Woman [Marvel Rivals ver] from Fantastic Four."
+ "description": "Original resin sculpt of Sue Storm | Invisible Woman from Fantastic Four."
 },
  {
  "id": "esm-sue-storm-v2",
  "artist": "ESMonster",
- "series": "Fantastic Four",
- "title": "Invisible Woman [Sue Storm] [Marvel Rivals ver]",
+ "series": "Marvel Rivals",
+ "title": "Invisible Woman [Sue Storm]",
  "images": [
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-1.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-2.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-3.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-4.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-5.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-6.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-7.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-8.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-9.jpg",
-  "images/esmonster/fantastic-four/sue-storm-v2/sue-storm-v2-10.jpg"
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-1.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-2.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-3.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-4.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-5.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-6.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-7.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-8.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-9.jpg",
+  "images/esmonster/marvel-rivals/sue-storm-v2/sue-storm-v2-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -34343,57 +34284,7 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Original resin sculpt of Sue Storm | Invisible Woman [Marvel Rivals ver] from Fantastic Four."
-},
- {
- "id": "esm-psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included",
- "artist": "ESMonster",
- "series": "X-Men",
- "title": "Psylocke [Marvel Rivals ver] (Violet Butterfly Assassin P2 Summer 3 Poses Included)",
- "images": [
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-1.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-2.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-3.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-4.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-5.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-6.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-7.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-8.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included/psylocke-marvel-rivals-ver-violet-butterfly-assassin-p2-summer-3-poses-included-9.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Psylocke [Marvel Rivals ver] from X-Men."
-},
- {
- "id": "esm-psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions",
- "artist": "ESMonster",
- "series": "X-Men",
- "title": "Psylocke [Marvel Rivals ver] (Violet Butterfly Assassin includes 2 versions)",
- "images": [
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-1.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-2.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-3.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-4.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-5.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-6.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-7.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-8.jpg",
-  "images/esmonster/x-men/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions/psylocke-marvel-rivals-ver-violet-butterfly-assassin-includes-2-versions-9.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Original resin sculpt of Psylocke [Marvel Rivals ver] from X-Men."
+ "description": "Original resin sculpt of Sue Storm | Invisible Woman from Fantastic Four."
 },
  {
  "id": "esm-felicia",
@@ -34421,28 +34312,20 @@ const MODELS = [
  "description": "Original resin sculpt of Felicia from Darkstalkers."
 },
  {
- "id": "esm-emma-frost-marvel-rivals-ver-white-queen",
+ "id": "esm-emma-frost-v1",
  "artist": "ESMonster",
- "series": "X-Men",
+ "series": "Marvel Rivals",
  "title": "Emma Frost [Marvel Rivals ver] (White Queen)",
  "images": [
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-1.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-2.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-3.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-4.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-5.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-6.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-7.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-8.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-9.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-10.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-11.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-12.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-13.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-14.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-15.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-16.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen/emma-frost-marvel-rivals-ver-white-queen-17.jpg"
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-1.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-2.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-3.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-4.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-5.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-6.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-7.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-8.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v1/emma-frost-v1-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -34454,18 +34337,14 @@ const MODELS = [
  "description": "Original resin sculpt of Emma Frost [Marvel Rivals ver] from X-Men."
 },
  {
- "id": "esm-emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions",
+ "id": "esm-emma-frost-v2",
  "artist": "ESMonster",
- "series": "X-Men",
+ "series": "Marvel Rivals",
  "title": "Emma Frost [Marvel Rivals ver] (White Queen X Revolution includes 2 versions)",
  "images": [
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-1.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-2.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-3.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-4.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-5.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-6.jpg",
-  "images/esmonster/x-men/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions/emma-frost-marvel-rivals-ver-white-queen-x-revolution-includes-2-versions-7.jpg"
+  "images/esmonster/marvel-rivals/emma-frost-v2/emma-frost-v2-1.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v2/emma-frost-v2-2.jpg",
+  "images/esmonster/marvel-rivals/emma-frost-v2/emma-frost-v2-3.jpg"
  ],
  "scaleOptions": [
   {
@@ -42328,17 +42207,17 @@ const MODELS = [
  {
  "id": "wicked-warhammer-40-000-titus-warhammer",
  "artist": "Wicked 3D",
- "series": "Warhammer 40,000",
+ "series": "Warhammer 40K",
  "title": "Titus Warhammer",
  "images": [
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-1.jpg",
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-2.jpg",
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-3.jpg",
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-4.jpg",
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-5.jpg",
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-6.jpg",
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-7.jpg",
-  "images/wicked/warhammer-40-000/titus-warhammer/titus-warhammer-8.jpg"
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-1.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-2.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-3.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-4.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-5.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-6.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-7.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-8.jpg"
  ],
  "scaleOptions": [
   {
@@ -42376,7 +42255,7 @@ const MODELS = [
  {
  "id": "wicked-terminator-terminator-1-diorama",
  "artist": "Wicked 3D",
- "series": "Terminator",
+ "series": "The Terminator",
  "title": "Terminator 1 (Diorama)",
  "images": [
   "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-1.jpg",
@@ -42400,7 +42279,7 @@ const MODELS = [
  {
  "id": "wicked-terminator-terminator-1",
  "artist": "Wicked 3D",
- "series": "Terminator",
+ "series": "The Terminator",
  "title": "Terminator 1",
  "images": [
   "images/wicked/terminator/terminator-1/terminator-1-1.jpg",
@@ -42424,7 +42303,7 @@ const MODELS = [
  {
  "id": "wicked-terminator-t-800",
  "artist": "Wicked 3D",
- "series": "Terminator",
+ "series": "The Terminator",
  "title": "T-800",
  "images": [
   "images/wicked/terminator/t-800/t-800-1.jpg",
@@ -44025,7 +43904,7 @@ const MODELS = [
  {
  "id": "wicked-silent-hill-silent-hill-diorama",
  "artist": "Wicked 3D",
- "series": "Silent Hill",
+ "series": "Silent Hill 2",
  "title": "Silent Hill (Diorama)",
  "images": [
   "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-1.jpg",
@@ -44049,7 +43928,7 @@ const MODELS = [
  {
  "id": "wicked-silent-hill-james",
  "artist": "Wicked 3D",
- "series": "Silent Hill",
+ "series": "Silent Hill 2",
  "title": "James",
  "images": [
   "images/wicked/silent-hill/james/james-1.jpg",
@@ -44072,7 +43951,7 @@ const MODELS = [
  {
  "id": "wicked-silent-hill-pyramid-head",
  "artist": "Wicked 3D",
- "series": "Silent Hill",
+ "series": "Silent Hill 2",
  "title": "Pyramid Head",
  "images": [
   "images/wicked/silent-hill/pyramid-head/pyramid-head-1.jpg",
