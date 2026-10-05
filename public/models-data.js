@@ -1009,7 +1009,7 @@ const MODELS = [
   "id": "kc-lady-maria",
   "artist": "KcStudio",
   "series": "Bloodborne",
-  "title": "Lady Maria",
+  "title": "Lady Maria of the Astral Clocktower",
   "images": [
    "images/kc-studio/bloodborne/lady-maria/lady-maria-1.jpg",
    "images/kc-studio/bloodborne/lady-maria/lady-maria-2.jpg",
@@ -1054,7 +1054,7 @@ const MODELS = [
   "id": "kc-leon",
   "artist": "KcStudio",
   "series": "Resident Evil: Requiem",
-  "title": "Leon Kennedy",
+  "title": "Leon S. Kennedy",
   "images": [
    "images/kc-studio/resident-evil-requiem/leon/leon-1.jpg",
    "images/kc-studio/resident-evil-requiem/leon/leon-2.jpg",
@@ -1422,7 +1422,7 @@ const MODELS = [
   "id": "tot-lady-maria",
   "artist": "Totenn Collectibles",
   "series": "Bloodborne",
-  "title": "Lady Maria",
+  "title": "Lady Maria of the Astral Clocktower",
   "images": [
    "images/totenn-collectibles/bloodborne/lady-maria/totenn-lady-maria-1.jpg",
    "images/totenn-collectibles/bloodborne/lady-maria/totenn-lady-maria-2.jpg",
@@ -2141,7 +2141,7 @@ const MODELS = [
   "id": "abe-katana-bombshell",
   "artist": "Abe3D",
   "series": "Suicide Squad",
-  "title": "Katana Bombshell",
+  "title": "Katana [Bombshell]",
   "images": [
    "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-1.jpg",
    "images/abe3d/suicide-squad/katana-bombshell/abe-katana-bombshell-2.jpg",
@@ -3772,7 +3772,7 @@ const MODELS = [
   "id": "abe-jean-grey-black-queen",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Jean Grey Black Queen",
+  "title": "Black Queen [Jean Grey]",
   "images": [
    "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-1.jpg",
    "images/abe3d/x-men/jean-grey-black-queen/abe-jean-grey-black-queen-2.jpg",
@@ -3859,7 +3859,7 @@ const MODELS = [
   "id": "abe-julia-carpenter-spiderwoman",
   "artist": "Abe3D",
   "series": "Spider-Man",
-  "title": "Julia Carpenter Spiderwoman",
+  "title": "Spiderwoman [Julia Carpenter]",
   "images": [
    "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-1.jpg",
    "images/abe3d/spider-man/julia-carpenter-spiderwoman/abe-julia-carpenter-spiderwoman-2.jpg",
@@ -3917,7 +3917,7 @@ const MODELS = [
   "id": "abe-laura-kinney-wolverine",
   "artist": "Abe3D",
   "series": "X-Men",
-  "title": "Laura Kinney Wolverine",
+  "title": "Wolverine [Laura Kinney]",
   "images": [
    "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-1.jpg",
    "images/abe3d/x-men/laura-kinney-wolverine/abe-laura-kinney-wolverine-2.jpg",
@@ -12341,7 +12341,7 @@ const MODELS = [
   "id": "bulka-karlach-stylized",
   "artist": "Bulkamancer Sculpts",
   "series": "Baldur's Gate 3",
-  "title": "Karlach (Stylized)",
+  "title": "Karlach",
   "images": [
    "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-1.jpg",
    "images/bulkamancer/baldur-s-gate-3/karlach-stylized/bulka-karlach-stylized-2.jpg",
@@ -12718,7 +12718,7 @@ const MODELS = [
   "id": "bulka-lady-maria",
   "artist": "Bulkamancer Sculpts",
   "series": "Bloodborne",
-  "title": "Lady Maria",
+  "title": "Lady Maria of the Astral Clocktower",
   "images": [
    "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-1.jpg",
    "images/bulkamancer/bloodborne/lady-maria/bulka-lady-maria-2.jpg",
@@ -23772,7 +23772,7 @@ const MODELS = [
   "id": "ca3d-kazuya",
   "artist": "CA3D Studios",
   "series": "Tekken",
-  "title": "Kazuya",
+  "title": "Kazuya Mishima",
   "images": [
    "images/ca3d/tekken/kazuya/kazuya-1.jpg",
    "images/ca3d/tekken/kazuya/kazuya-2.jpg",
@@ -24098,7 +24098,7 @@ const MODELS = [
   "id": "ca3d-lady-maria",
   "artist": "CA3D Studios",
   "series": "Bloodborne",
-  "title": "Lady Maria",
+  "title": "Lady Maria of the Astral Clocktower",
   "images": [
    "images/ca3d/bloodborne/lady-maria/lady-maria-1.jpg",
    "images/ca3d/bloodborne/lady-maria/lady-maria-2.jpg",
@@ -31645,7 +31645,7 @@ const MODELS = [
  "id": "esm-juri-han-korean-style-villain-fighter-girl-includes-3-poses",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Juri Han (Korean-Style Villain Fighter Girl Includes 3 poses)",
+ "title": "Juri Han",
  "images": [
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-1.jpg",
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-includes-3-poses/juri-han-korean-style-villain-fighter-girl-includes-3-poses-2.jpg",
@@ -34837,7 +34837,7 @@ const MODELS = [
  "id": "wicked-black-panther-killmonger-vs-black-panther-diorama-base",
  "artist": "Wicked 3D",
  "series": "Black Panther",
- "title": "Killmonger vs Black Panther base (Diorama)",
+ "title": "Killmonger vs Black Panther (Diorama)",
  "images": [
   "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-1.jpg",
   "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-2.jpg",
@@ -36904,7 +36904,7 @@ const MODELS = [
  "id": "wicked-street-fighter-ken",
  "artist": "Wicked 3D",
  "series": "Street Fighter",
- "title": "Ken",
+ "title": "Ken Masters",
  "images": [
   "images/wicked/street-fighter/ken/ken-1.jpg",
   "images/wicked/street-fighter/ken/ken-2.jpg",
@@ -37400,7 +37400,7 @@ const MODELS = [
  "id": "wicked-kraven-v1",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Kraven",
+ "title": "Kraven the Hunter",
  "images": [
   "images/wicked/spider-man/kraven-v1/kraven-v1-1.jpg",
   "images/wicked/spider-man/kraven-v1/kraven-v1-2.jpg",
@@ -37567,7 +37567,7 @@ const MODELS = [
  "id": "wicked-x-men-juggernaut-and-colossus-diorama",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Juggernaut & Colossus (Diorama)",
+ "title": "Juggernaut vs Colossus",
  "images": [
   "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-1.jpg",
   "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-2.jpg",
@@ -38060,7 +38060,7 @@ const MODELS = [
  "id": "wicked-fantastic-four-jhonny-storm-human-torch",
  "artist": "Wicked 3D",
  "series": "Fantastic Four",
- "title": "Johnny Storm (Human Torch)",
+ "title": "Human Torch [Johnny Storm]",
  "images": [
   "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-1.jpg",
   "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-2.jpg",
@@ -40923,7 +40923,7 @@ const MODELS = [
  "id": "wicked-star-trek-kirk",
  "artist": "Wicked 3D",
  "series": "Star Trek",
- "title": "Kirk",
+ "title": "Captain James T. Kirk",
  "images": [
   "images/wicked/star-trek/kirk/kirk-1.jpg",
   "images/wicked/star-trek/kirk/kirk-2.jpg",
@@ -44355,7 +44355,7 @@ const MODELS = [
  "id": "wicked-x-men-juggernaut-comic-version",
  "artist": "Wicked 3D",
  "series": "X-Men",
- "title": "Juggernaut Comic Version",
+ "title": "Juggernaut",
  "images": [
   "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-1.jpg",
   "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-2.jpg",
@@ -44471,7 +44471,7 @@ const MODELS = [
  "id": "wicked-donkey-kong-king-rool",
  "artist": "Wicked 3D",
  "series": "Donkey Kong",
- "title": "King Rool",
+ "title": "King K. Rool",
  "images": [
   "images/wicked/donkey-kong/king-rool/king-rool-1.jpg",
   "images/wicked/donkey-kong/king-rool/king-rool-2.jpg",
@@ -44997,7 +44997,7 @@ const MODELS = [
  "id": "wicked-the-karate-kid-larusso",
  "artist": "Wicked 3D",
  "series": "The Karate Kid",
- "title": "LaRusso",
+ "title": "Danny LaRusso",
  "images": [
   "images/wicked/the-karate-kid/larusso/larusso-1.jpg",
   "images/wicked/the-karate-kid/larusso/larusso-2.jpg",
@@ -45777,7 +45777,7 @@ const MODELS = [
  "id": "wicked-kraven-v2",
  "artist": "Wicked 3D",
  "series": "Spider-Man",
- "title": "Kraven",
+ "title": "Kraven the Hunter",
  "images": [
   "images/wicked/spider-man/kraven-v2/kraven-v2-1.jpg",
   "images/wicked/spider-man/kraven-v2/kraven-v2-2.jpg",
