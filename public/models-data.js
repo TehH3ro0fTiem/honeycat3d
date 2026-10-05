@@ -16749,7 +16749,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Itachi from Naruto."
+  "description": "Itachi Uchiha stands amid crumbling stone ruins, cloak sweeping as a flock of crows bursts from his outstretched hand against a blood-red sky."
  },
  {
   "id": "tanuki-venom",
@@ -16773,7 +16773,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Venom from Marvel."
+  "description": "Venom crouches atop a crumbling stone ruin, tongue lashing and symbiote muscles rippling under a toxic green glow."
  },
  {
   "id": "tanuki-griffith",
@@ -16797,7 +16797,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Griffith from Berserk."
+  "description": "Griffith, the White Hawk, stands proud in his silver Band of the Hawk armor, saber raised and cape billowing on an ornate ivory base scattered with feathers."
  },
  {
   "id": "tanuki-fury",
@@ -16821,7 +16821,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Fury from Darksiders."
+  "description": "Fury of the Four Horsemen lashes out with her blazing red whip, fiery hair streaming as she rides a burst of molten energy from the rocks below."
  },
  {
   "id": "tanuki-ornstein",
@@ -16845,7 +16845,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Ornstein from Dark Souls."
+  "description": "Dragon Slayer Ornstein stands in gleaming gold lion-crested armor, cross-spear lowered and ready, on a crumbling Anor Londo base."
  },
  {
   "id": "tanuki-vault-boy-extra",
@@ -16883,7 +16883,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Basil Hawkins from One Piece."
+  "description": "Basil Hawkins, the Magician, poses with tarot-card flourish, long blond hair flowing and white coat sweeping over a golden base."
  },
  {
   "id": "tanuki-white-beard-chibi",
@@ -16942,7 +16942,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Marco Fullsize from One Piece."
+  "description": "Marco the Phoenix smirks as blue phoenix flames lick across his shoulder, his tattoo and open shirt on full display."
  },
  {
   "id": "tanuki-frank-one-piece-chibi",
@@ -17043,7 +17043,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Endeavor from My Hero Academia."
+  "description": "Endeavor stands arms folded and blazing, flames roaring from his face and shoulders, on a cloud base bearing the My Hero Academia logo."
  },
  {
   "id": "tanuki-master-roshi",
@@ -17063,7 +17063,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Master Kame from Dragon Ball."
+  "description": "Master Roshi crouches in his signature turtle shell and sunglasses, beard flowing, mid-Kamehameha on a Dragon Ball-branded base."
  },
  {
   "id": "tanuki-luffy-gear-v",
@@ -17083,7 +17083,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Luffy Gear V from One Piece."
+  "description": "Gear 5 Luffy laughs with wild white hair and swirling cloud-like clothing, the Sun God Nika in full joyful chaos."
  },
  {
   "id": "tanuki-kakashi-chibi",
@@ -17104,7 +17104,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kakashi Chibi from Naruto."
+  "description": "A chibi Kakashi Hatake, masked and headband tilted, absorbed in his favorite orange Icha Icha book."
  },
  {
   "id": "tanuki-guts-chibi",
@@ -17124,7 +17124,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Guts Chibi from Berserk."
+  "description": "A pint-sized chibi Guts with a cheeky wink, Dragonslayer at his side and his black cloak flaring, ready for battle in adorable form."
  },
  {
   "id": "tanuki-chibi-satoru-gojo",
@@ -17145,7 +17145,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Chibi Satoru Gojo from Jujutsu Kaisen."
+  "description": "A chibi Satoru Gojo in his black uniform and round sunglasses, flashing a confident grin and peace sign."
  },
  {
   "id": "tanuki-zaraki-kenpachi",
@@ -17165,7 +17165,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Zaraki Kenpachi from Bleach."
+  "description": "Zaraki Kenpachi grins with savage joy, jagged zanpakuto drawn and haori flowing, crackling with golden spiritual pressure on a rocky base."
  },
  {
   "id": "tanuki-shikamaru-nara",
@@ -17186,7 +17186,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Shikamaru Nara from Naruto Shippuden."
+  "description": "Shikamaru Nara in his Leaf flak vest, kunai in hand and trademark bored expression, standing on a rocky base."
  },
  {
   "id": "tanuki-tony-tony-chopper",
@@ -17207,7 +17207,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Tony Tony Chopper from One Piece."
+  "description": "Tony Tony Chopper beams in his pink X-marked hat, little hooves raised in excitement on a grassy base."
  },
  {
   "id": "tanuki-agumon-extra",
@@ -17269,7 +17269,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Freeza from Dragon Ball Z."
+  "description": "Freeza in his first form strikes a smug pose, tail curled and hand to his chin, on a rocky Namekian base."
  },
  {
   "id": "tanuki-guile",
@@ -17291,7 +17291,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Guile from Street Fighter."
+  "description": "Guile in a detailed bust, flat-top towering and arms crossed in his blue fatigues with American flag patches."
  },
  {
   "id": "tanuki-bomberman-extra",
@@ -17330,7 +17330,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of All Might from Boku no Hero Academia."
+  "description": "All Might flexes in his classic Golden Age costume, chest out and signature antenna hair standing tall, the Symbol of Peace in full heroic glory."
  },
  {
   "id": "tanuki-evelynn",
@@ -17350,7 +17350,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Evelynn from League of Legends."
+  "description": "Evelynn rises on writhing shadowy lashers, her violet skin and slender silhouette exuding menace on a stepped dark base."
  },
  {
   "id": "tanuki-red-hulk",
@@ -17374,7 +17374,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Red Hulk from Marvel."
+  "description": "Red Hulk winds up a massive punch, muscles straining and teeth gritted, as he bursts from a shattered concrete base."
  },
  {
   "id": "tanuki-jack-skellington-extra",
@@ -17442,7 +17442,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Pyramid Head from Silent Hill."
+  "description": "Pyramid Head drags his Great Knife beside a slumped victim, his rusted triangular helmet towering on a grimy circular base."
  },
  {
   "id": "tanuki-batman-who-laughs",
@@ -17463,7 +17463,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Batman Who Laughs from DC."
+  "description": "The Batman Who Laughs looms over a jagged stone stair, chains dangling and arms spread, his spiked crown and manic grin catching the light."
  },
  {
   "id": "tanuki-zodd",
@@ -17486,7 +17486,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Zodd and Behelit from Berserk."
+  "description": "Nosferatu Zodd towers in his human form, a colossal blade over one shoulder, standing over a blood-red battlefield strewn with fallen soldiers."
  },
  {
   "id": "tanuki-cuphead-extra",
@@ -17530,7 +17530,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Ashe from League of Legends."
+  "description": "Ashe, the Frost Archer, draws her crystalline ice bow in her white hooded cloak, with a tiny Poro waiting at her feet."
  },
  {
   "id": "tanuki-luffy",
@@ -17549,7 +17549,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Luffy from One Piece."
+  "description": "Monkey D. Luffy stands tall in his red open coat and yellow sash, straw hat in hand, on a smoky volcanic base."
  },
  {
   "id": "tanuki-logan",
@@ -17571,7 +17571,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Logan from X-Men."
+  "description": "Off-duty Logan in a sleeveless tank, dog tags and jeans, cigar smoldering in one hand while the adamantium claws slide out of the other."
  },
  {
   "id": "tanuki-okarun-chibi",
@@ -17612,7 +17612,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Goku in his Saiyuki (Hourney to the West) outfit from Dragon Ball."
+  "description": "A Saiyuki-inspired take on young Goku, grinning in his turban and wrap with his Power Pole planted at his side."
  },
  {
   "id": "tanuki-omni-man",
@@ -17631,7 +17631,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Omni-Man from Invincible."
+  "description": "Omni-Man stands arms crossed in his red-and-white suit, cape billowing and mustache stern, over a cracked and crumbling base."
  },
  {
   "id": "tanuki-mugman-extra",
@@ -17673,7 +17673,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Sabo from One Piece."
+  "description": "Sabo crouches low behind a blazing arc of Flame-Flame Fruit fire, top hat on and pipe in hand over a cracked molten base."
  },
  {
   "id": "tanuki-raziel",
@@ -17697,7 +17697,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Raziel from Soul Reaver."
+  "description": "Raziel, the wraith-like Soul Reaver, holds aloft the glowing spectral blade as his tattered wings drift behind him."
  },
  {
   "id": "tanuki-nidalee",
@@ -17721,7 +17721,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Nidalee from League of Legends."
+  "description": "Nidalee, the Bestial Huntress, strides from the jungle in her tribal garb, spear across her back and long hair trailing."
  },
  {
   "id": "tanuki-rhino",
@@ -17745,7 +17745,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Rhino from Marvel."
+  "description": "Rhino charges forward in his armored hide, horn lowered, smashing through toppled 'BANK' letters on a rubble base."
  },
  {
   "id": "tanuki-jinx",
@@ -17764,7 +17764,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Jinx from League of Legends."
+  "description": "Jinx grins wildly, rocket launcher Fishbones hoisted overhead, her blue braids and war paint set against a graffiti-splashed backdrop."
  },
  {
   "id": "tanuki-saitama-vs-boros",
@@ -17805,7 +17805,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Static Shock from DC."
+  "description": "Static Shock surfs his electrified manhole-cover disc, hoodie flaring and blue lightning crackling around his feet."
  },
  {
   "id": "tanuki-light-chibi",
@@ -17853,7 +17853,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Bluto from Popeye."
+  "description": "Bluto stands on a wooden dock, belly out and beard bristling, rubbing his gut in his sailor's cap and work clothes."
  },
  {
   "id": "tanuki-viego",
@@ -17875,7 +17875,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Viego from League of Legends."
+  "description": "Viego, the Ruined King, raises his enormous glowing spectral sword, emerald Black Mist curling around his feet."
  },
  {
   "id": "tanuki-itadori-sukuna",
@@ -17899,7 +17899,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Itadori/Sukuna from Jujutsu Kaisen."
+  "description": "Yuji Itadori leaps mid-strike, cursed energy blazing in his fist, as Sukuna's influence swirls in the smoke below."
  },
  {
   "id": "tanuki-frieren-chibi",
@@ -17947,7 +17947,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Goku SSJ4 from Dragon Ball."
+  "description": "Super Saiyan 4 Goku stands bare-chested with crimson fur and wild red hair, fists clenched and tail swaying over a red crystal base."
  },
  {
   "id": "tanuki-puri-puri",
@@ -17969,7 +17969,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Puri-Puri from One Punch Man."
+  "description": "Puri-Puri Prisoner flexes in his striped prison uniform, hand on chest and beard sharp, with a piercing gaze."
  },
  {
   "id": "tanuki-sandman",
@@ -17993,7 +17993,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Sandman from Marvel."
+  "description": "Sandman rises from a swirling vortex of sand, one fist formed into a spiked mace, over a hoard of stolen gold coins."
  },
  {
   "id": "tanuki-ciri",
@@ -18017,7 +18017,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Ciri from The Witcher 4."
+  "description": "Ciri stands in her Witcher gear, sword drawn and chains in hand, atop a slain beast on an ornate wolf-medallion base."
  },
  {
   "id": "tanuki-sung-jin-woo",
@@ -18041,7 +18041,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Sung Jin-Woo from Solo Leveling."
+  "description": "Sung Jin-Woo, the Shadow Monarch, leaps forward with his black coat flaring as violet shadow flames erupt from the ruins below."
  },
  {
   "id": "tanuki-eddy-extra",
@@ -18103,7 +18103,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Vegeta SSJ3 from Dragon Ball."
+  "description": "Super Saiyan 3 Vegeta stands arms crossed with long golden hair, electricity crackling around him on a red crystal base."
  },
  {
   "id": "tanuki-goliath",
@@ -18127,7 +18127,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Goliath from Gargoyles."
+  "description": "Goliath crouches atop a gothic cathedral spire, wings spread and tail curled, the proud leader of the Manhattan Clan keeping watch."
  },
  {
   "id": "tanuki-bridget",
@@ -18151,7 +18151,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Bridget from Guilty Gear."
+  "description": "Bridget beams in her nun-inspired hoodie, yo-yo and Roger the teddy bear in tow, on a playful base of stars and chains."
  },
  {
   "id": "tanuki-thomas-wayne",
@@ -18174,7 +18174,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Thomas Wayne from Flashpoint."
+  "description": "Flashpoint's Thomas Wayne as a grim, gun-toting Batman, red-eyed and caped, standing in a crumbling Gotham alley."
  },
  {
   "id": "tanuki-tanjiro",
@@ -18196,7 +18196,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Tanjiro from Demon Slayer."
+  "description": "Tanjiro Kamado draws his Nichirin blade as Water Breathing and Sun Breathing collide around him in a blaze of blue waves and orange flame."
  },
  {
   "id": "tanuki-kratos-v1",
@@ -18217,7 +18217,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Kratos from God of War."
+  "description": "Classic Kratos, the Ghost of Sparta, holds a flaming Blade of Chaos aloft while standing over a monstrous, roaring head."
  },
  {
   "id": "tanuki-sanji-chibi",
@@ -18265,7 +18265,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Gaara from Naruto."
+  "description": "Gaara crouches amid a towering swirl of sand that takes the shape of Shukaku's massive claws, his gourd at his back."
  },
  {
   "id": "tanuki-krusty-the-clown-extra",
@@ -18330,7 +18330,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Green Lantern from DC."
+  "description": "John Stewart's Green Lantern charges forward with his power ring blazing, eyes glowing emerald and his construct energy swirling below."
  },
  {
   "id": "tanuki-morrigan",
@@ -18352,7 +18352,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Morrigan from Darkstalkers."
+  "description": "Morrigan Aensland soars upward with her bat wings spread wide, rising from a swirl of magenta smoke in her iconic succubus outfit."
  },
  {
   "id": "tanuki-rock-lee",
@@ -18374,7 +18374,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Rock Lee from Naruto."
+  "description": "Rock Lee strikes his Strong Fist stance in his green jumpsuit and leg warmers as swirling sand and dust erupt around him."
  },
  {
   "id": "tanuki-zoro",
@@ -18397,7 +18397,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Zoro from One Piece."
+  "description": "Roronoa Zoro, shirtless and battle-scarred, draws his blades on a pirate-emblem base as violet spirit-flames swirl around his feet."
  },
  {
   "id": "tanuki-battle-beast",
@@ -18421,7 +18421,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Battle Beast from Invincible."
+  "description": "Battle Beast roars through his lion-like mane, axe in hand and battle-worn armor caked with the green blood of his foes."
  },
  {
   "id": "tanuki-2b",
@@ -18445,7 +18445,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of 2B from NieR: Automata."
+  "description": "2B stands atop a mossy rock with her massive sword and katana drawn, Pod 042 at her side and a white flower at her feet."
  },
  {
   "id": "tanuki-ed-extra",
@@ -18486,7 +18486,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Galacta from Marvel Rivals."
+  "description": "Galacta, daughter of Galactus, perches on swirling cosmic energy with her purple helm and a planet cradled below her."
  },
  {
   "id": "tanuki-chihiro-and-haku",
@@ -18508,7 +18508,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Chihiro & Haku from Spirited Away."
+  "description": "Chihiro clings to Haku in his white dragon form as he spirals over a glowing torii gate on a ghostly teal base."
  },
  {
   "id": "tanuki-tarma-roving",
@@ -18529,7 +18529,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Tarma Roving from Metal Slug."
+  "description": "Tarma Roving charges in with shades on and shotgun blazing, boots planted on a crumbling jungle ruin as a fiery explosion erupts behind him."
  },
  {
   "id": "tanuki-rudo",
@@ -18553,7 +18553,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Rudo from Gachiakuta."
+  "description": "Rudo, Gachiakuta's furious Raider, hauls his battered gear over one shoulder, red energy flaring around a base of junk and discarded treasures."
  },
  {
   "id": "tanuki-sora",
@@ -18577,7 +18577,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Sora from Kingdom Hearts."
+  "description": "Sora leaps into action, Kingdom Key in hand, over a stained-glass Station of Awakening base with golden sparks trailing."
  },
  {
   "id": "tanuki-joker-dc",
@@ -18600,7 +18600,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Joker from DC."
+  "description": "The Clown Prince of Crime struts in his purple suit and orange vest, cane in one hand and a Joker-branded can in the other, atop a grimy chemical-plant base."
  },
  {
   "id": "tanuki-ori-extra",
@@ -18665,7 +18665,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Joker from Persona 5."
+  "description": "Joker of the Phantom Thieves adjusts his crimson gloves in his masked black coat, against a shattered red Persona 5 backdrop."
  },
  {
   "id": "tanuki-zenitsu",
@@ -18689,7 +18689,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Zenitsu from Demon Slayer."
+  "description": "Zenitsu Agatsuma crouches in his yellow-gradient haori, hand on his hilt, as golden Thunder Breathing lightning coils around him."
  },
  {
   "id": "tanuki-zagreus",
@@ -18713,7 +18713,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Zagreus from Hades."
+  "description": "Zagreus, Prince of the Underworld, strides from his blazing realm with Stygius on his shoulder, flaming feet planted on a skull-strewn base."
  },
  {
   "id": "tanuki-cyclops",
@@ -18737,7 +18737,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Cyclops from X-Men."
+  "description": "Cyclops fires an optic blast in his classic blue-and-yellow suit, hand to his visor, over shattered X-Men ruins."
  },
  {
   "id": "tanuki-yamato",
@@ -18758,7 +18758,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Yamato from One Piece."
+  "description": "Yamato stands defiant with her kanabo and broken shackles, horned and white-haired, with her great purple rope belt flowing behind her."
  },
  {
   "id": "tanuki-war",
@@ -18782,7 +18782,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of War from Darksiders."
+  "description": "War, the first Horseman, hefts the massive Chaoseater blade overhead in his hulking gauntlets, standing over a fallen beast's skull."
  },
  {
   "id": "tanuki-hornet",
@@ -18804,7 +18804,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Hornet from Hollow Knight."
+  "description": "Hornet lunges forward with her needle and silk thread, crimson cloak flowing, beside a glowing lantern and pale flowers."
  },
  {
   "id": "tanuki-pennywise-chibi",
@@ -18848,7 +18848,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Nemesis from Resident Evil."
+  "description": "Nemesis looms with his rocket launcher hoisted on his shoulder, gripping a S.T.A.R.S. victim on a dark Raccoon City base."
  },
  {
   "id": "tanuki-bayonetta",
@@ -18872,7 +18872,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Bayonetta from Bayonetta."
+  "description": "Bayonetta strikes a dramatic pose before a glowing full moon, guns drawn and her hair swirling around her, perched on a ruined angelic relief."
  },
  {
   "id": "tanuki-blade",
@@ -18896,7 +18896,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Blade from Marvel."
+  "description": "Blade, the Daywalker, raises his katana overhead in his black leather coat and shades, rising from a swirl of crimson blood on an ornate base."
  },
  {
   "id": "tanuki-devilman",
@@ -18920,7 +18920,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Devilman from Devilman."
+  "description": "Devilman rises in full demonic form, wings and horns spread, cradling a fallen figure atop a tangled crimson base."
  },
  {
   "id": "tanuki-orochimaru",
@@ -18942,7 +18942,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Orochimaru from Naruto."
+  "description": "Orochimaru, tongue lolling, is wrapped in the coils of an enormous serpent as it rears up behind him on a forest base."
  },
  {
   "id": "tanuki-kaido",
@@ -18966,7 +18966,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Kaido from One Piece."
+  "description": "Kaido of the Beasts towers in this detailed bust-like view, enormous horns curling, chest scarred and his kanabo resting over his shoulder."
  },
  {
   "id": "tanuki-taz-extra",
@@ -19031,7 +19031,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Guts from Berserk."
+  "description": "The Black Swordsman stands in his battered armor, the massive Dragonslayer planted beside him, rising from a gore-soaked base of twisted demons."
  },
  {
   "id": "tanuki-tifa",
@@ -19055,7 +19055,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Tifa from Final Fantasy VII."
+  "description": "Tifa Lockhart strikes a fighter's pose in her white tank top and suspenders, fist raised, on a mossy Midgar church base with a single flower."
  },
  {
   "id": "tanuki-ichigo",
@@ -19076,7 +19076,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Ichigo from Bleach."
+  "description": "Ichigo Kurosaki unleashes his Bankai, black robes whipping around him as streams of spiritual energy and jagged ice erupt from the rocks below."
  },
  {
   "id": "tanuki-green-ranger",
@@ -19097,7 +19097,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Green Ranger from Power Rangers."
+  "description": "The Green Ranger crouches with his Dragon Dagger in hand, golden shield gleaming, on a base with crashing waves and the Dragonzord's drill tail."
  },
  {
   "id": "tanuki-m-bison",
@@ -19119,7 +19119,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of M. Bison from Street Fighter."
+  "description": "M. Bison hovers in his crimson Shadaloo uniform and cape, fists clenched as purple Psycho Power swirls around him."
  },
  {
   "id": "tanuki-kokushibo",
@@ -19141,7 +19141,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "A fullsize resin sculpt of Kokushibo from Demon Slayer."
+  "description": "Kokushibo, the Upper Moon One, stands between glowing paper lanterns, framed by a massive crescent of purple Moon Breathing slashes."
  },
  {
   "id": "tanuki-death-extra",
@@ -19205,7 +19205,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Shiryu from Saint Seiya."
+  "description": "Dragon Shiryu in his emerald Bronze Cloth strikes a stance as a swirling green dragon of energy rises around him."
  },
  {
   "id": "tanuki-archer",
@@ -19227,7 +19227,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Archer from Fate/stay night."
+  "description": "Archer stands ready with twin blades drawn, red cloak whipping behind him, over a base of glowing gears and Unlimited Blade Works swords."
  },
  {
   "id": "tanuki-zangief",
@@ -19250,7 +19250,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Zangief from Street Fighter."
+  "description": "Zangief flexes in his red wrestling trunks and championship belt, chest hair blazing, atop a wrestling-ring base."
  },
  {
   "id": "tanuki-nappa",
@@ -19271,7 +19271,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Nappa from Dragon Ball Z."
+  "description": "Nappa stands broad and imposing in his Saiyan armor, arms folded and scouter on, atop a grassy rocky outcrop."
  },
  {
   "id": "tanuki-mark",
@@ -19295,7 +19295,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mark from Invincible."
+  "description": "Mark Grayson as Invincible, battered and bruised in his yellow-and-blue suit, soars up from a jagged rocky crater."
  },
  {
   "id": "tanuki-inosuke",
@@ -19319,7 +19319,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Inosuke from Demon Slayer."
+  "description": "Inosuke Hashibira bursts forward in his boar-head mask, twin jagged blades drawn, with water-like energy swirling up around his muscular frame."
  },
  {
   "id": "tanuki-edd-double-d-extra",
@@ -19383,7 +19383,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Voldemort from Harry Potter."
+  "description": "Lord Voldemort conjures a sickly green spell from his wand, black robes swirling as Nagini coils around his feet."
  },
  {
   "id": "tanuki-frieren",
@@ -19407,7 +19407,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Frieren from Frieren: Beyond Journey's End."
+  "description": "Frieren rises on a cascade of glowing blue flowers, her staff sweeping overhead and white cloak drifting around her."
  },
  {
   "id": "tanuki-electro",
@@ -19430,7 +19430,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Electro from Marvel."
+  "description": "Electro unleashes crackling yellow lightning from his hands, star-shaped mask blazing, as he surges off a sparking power-line base."
  },
  {
   "id": "tanuki-satoru-gojo",
@@ -19452,7 +19452,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Satoru Gojo from Jujutsu Kaisen."
+  "description": "Satoru Gojo stands in his blindfold and uniform, two fingers raised, as a swirl of purple Hollow Technique energy rises around him."
  },
  {
   "id": "tanuki-geralt",
@@ -19475,7 +19475,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Geralt from The Witcher 3."
+  "description": "Geralt of Rivia stands battle-worn with his silver sword lowered, over a defeated monster on a School of the Wolf base."
  },
  {
   "id": "tanuki-dante",
@@ -19499,7 +19499,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dante from Devil May Cry 3."
+  "description": "Dante stands over a horde of hooded Hell's demons in his red coat, Rebellion over his shoulder and purple energy slashing through the scene."
  },
  {
   "id": "tanuki-goku-chibi",
@@ -19543,7 +19543,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Meruem from Hunter × Hunter."
+  "description": "Meruem, the Chimera Ant King, stands poised atop jagged dark rocks, tail coiled behind him, with a single red rose at his feet."
  },
  {
   "id": "tanuki-jiraiya",
@@ -19567,7 +19567,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jiraiya from Naruto."
+  "description": "Jiraiya, the Toad Sage, rides atop Gamabunta with a Rasengan swirling in his palm and his scroll slung across his back."
  },
  {
   "id": "tanuki-colossus",
@@ -19591,7 +19591,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Colossus from X-Men."
+  "description": "Colossus in his organic-steel form clenches his fists amid a fiery molten base, his red-and-gold uniform gleaming."
  },
  {
   "id": "tanuki-allen-the-alien",
@@ -19615,7 +19615,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Allen the Alien from Invincible."
+  "description": "Allen the Alien flexes in his red jacket, his single giant eye fixed forward, with planet Earth glowing behind him."
  },
  {
   "id": "tanuki-chun-li",
@@ -19637,7 +19637,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Chun-Li from Street Fighter."
+  "description": "Chun-Li strikes a high kick in her classic blue qipao with spiked bracelets, on an ornate Chinese courtyard base."
  },
  {
   "id": "tanuki-prince-of-persia",
@@ -19661,7 +19661,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Prince of Persia from Prince of Persia."
+  "description": "The Prince of Persia stands in his Warrior Within gear, curved blade in hand, among crumbling sandstone ruins."
  },
  {
   "id": "tanuki-may",
@@ -19683,7 +19683,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of May from It Takes Two."
+  "description": "May from It Takes Two, a wooden doll with yarn-knot hair and round glasses, posed on a woodworking base beside a hammer head."
  },
  {
   "id": "tanuki-luffy-chibi",
@@ -19727,7 +19727,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sesshomaru from Inuyasha."
+  "description": "Sesshomaru stands serene among bamboo and a stone lantern, fur pelt draped over his shoulder and Tokijin drawn."
  },
  {
   "id": "tanuki-magneto",
@@ -19748,7 +19748,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Magneto from X-Men."
+  "description": "Magneto spreads his arms wide in his crimson armor and purple cape, ripping twisted metal debris up from the ground around him."
  },
  {
   "id": "tanuki-motoko",
@@ -19772,7 +19772,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Motoko from Ghost in the Shell."
+  "description": "Major Motoko Kusanagi reclines in a jack-in cyber suit, pistol raised and cables trailing, framed by a neon Ghost in the Shell title panel."
  },
  {
   "id": "tanuki-spider-punk",
@@ -19796,7 +19796,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Spider-Punk from Marvel."
+  "description": "Spider-Punk shreds on his sticker-covered guitar atop a graffiti-tagged Big Ben, all chaos and zine-cutout attitude."
  },
  {
   "id": "tanuki-death",
@@ -19820,7 +19820,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Death from Darksiders II."
+  "description": "Death, the Pale Horseman, crouches in his bone mask with twin scythes raised, emerging from a dark green ruin lit by flickering candles."
  },
  {
   "id": "tanuki-kon-extra",
@@ -19887,7 +19887,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Gohan SSJ2 from Dragon Ball Z."
+  "description": "Teen Gohan powers up to Super Saiyan 2, golden hair spiked and blue lightning crackling around him on a shattered rocky base."
  },
  {
   "id": "tanuki-juggernaut",
@@ -19908,7 +19908,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Juggernaut from X-Men."
+  "description": "The Juggernaut stands unstoppable in his crimson armor, fists clenched over a broken-weapon base marked for the X-Men anniversary."
  },
  {
   "id": "tanuki-minato",
@@ -19932,7 +19932,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Minato from Naruto."
+  "description": "Minato Namikaze leaps from a gnarled tree stump, kunai drawn and Hokage cloak flaring, with a swirl of blue chakra trailing behind him."
  },
  {
   "id": "tanuki-dovahkiin",
@@ -19955,7 +19955,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dovahkiin from Skyrim."
+  "description": "The Dragonborn stands in his iron horned helm and battle-worn armor, sword drawn, on a snowy mountain outcrop."
  },
  {
   "id": "tanuki-maki",
@@ -19979,7 +19979,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Maki from Jujutsu Kaisen."
+  "description": "Maki Zenin rests her cursed blade on her shoulder, scarred arms and glasses-free glare, atop a wrecked dojo base lit from below."
  },
  {
   "id": "tanuki-big-boss",
@@ -20003,7 +20003,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Big Boss from Metal Gear."
+  "description": "Big Boss stands battle-ready in his olive fatigues and eyepatch, rifle at his side, on a jungle base."
  },
  {
   "id": "tanuki-cody",
@@ -20025,7 +20025,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Cody from It Takes Two."
+  "description": "Cody, the doll-sized hero of It Takes Two, in his chunky knit sweater with a sprout on his head, on a wooden plank base with giant nails."
  },
  {
   "id": "tanuki-deidara-chibi",
@@ -20067,7 +20067,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Phoenix Ikki from Saint Seiya."
+  "description": "Phoenix Ikki stands in his Bronze Cloth as blazing phoenix wings of fire erupt behind him from a molten base."
  },
  {
   "id": "tanuki-darth-vader",
@@ -20089,7 +20089,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Darth Vader from Star Wars."
+  "description": "Darth Vader steps forward with his red lightsaber ignited and cape billowing, over a molten Mustafar-inspired base."
  },
  {
   "id": "tanuki-master-chief",
@@ -20113,7 +20113,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Master Chief from Halo 4."
+  "description": "Master Chief stands ready in his Halo 4 Mjolnir armor, assault rifle raised, on an icy alien outcrop with a looming planet behind him."
  },
  {
   "id": "tanuki-kratos-v2",
@@ -20137,7 +20137,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Kratos from God of War."
+  "description": "Kratos from God of War (2018), bearded and battle-hardened, gripping the Leviathan Axe and Guardian Shield atop a snowy Midgard outcrop."
  },
  {
   "id": "tanuki-malenia",
@@ -20161,7 +20161,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Malenia from Elden Ring."
+  "description": "Malenia, Blade of Miquella, leaps into Waterfowl Dance, katana sweeping and long red hair flowing, over a base blooming with scarlet rot flowers."
  },
  {
   "id": "tanuki-android-18",
@@ -20185,7 +20185,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Android 18 from Dragon Ball Z."
+  "description": "Android 18 stands calm and cool in her denim vest and skirt, an energy blast glowing in her palm, over a shattered rocky base."
  },
  {
   "id": "tanuki-pakkun",
@@ -20206,7 +20206,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Pakkun from Naruto."
+  "description": "Pakkun, Kakashi's grumpy little ninja pug, sits in his Leaf headband and blue vest with a perfectly unimpressed face."
  },
  {
   "id": "tanuki-goblin-slayer-chibi",
@@ -20250,7 +20250,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Jin Kazama from Tekken."
+  "description": "Jin Kazama stands bare-chested in his fighting gloves, crimson Devil Gene lightning crackling around him."
  },
  {
   "id": "tanuki-dr-octopus",
@@ -20274,7 +20274,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Dr. Octopus from Marvel."
+  "description": "Doctor Octopus rides his four mechanical tentacles over a looted bank-vault base, goggles on and a grin of mad-scientist glee."
  },
  {
   "id": "tanuki-faye",
@@ -20297,7 +20297,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Faye from Cowboy Bebop."
+  "description": "Faye Valentine stands cool and confident in her yellow outfit and shades, pistol raised, one boot propped on a stack of crates and cargo."
  },
  {
   "id": "tanuki-yennefer",
@@ -20321,7 +20321,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Yennefer from The Witcher."
+  "description": "Yennefer of Vengerberg casts crackling violet magic from both hands, black dress flowing, on a gnarled branch-and-skull base."
  },
  {
   "id": "tanuki-san",
@@ -20344,7 +20344,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of San from Princess Mononoke."
+  "description": "San, the Wolf Princess, rides atop a great white wolf across a mossy fallen log, spear in hand, with tiny kodama spirits peeking out below."
  },
  {
   "id": "tanuki-john-wick",
@@ -20368,7 +20368,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Baba Yaga from Folklore & Mythology."
+  "description": "John Wick takes aim in his tailored black suit, pistol raised, against a neon-lit Continental hotel base."
  },
  {
   "id": "tanuki-mr-burns",
@@ -20388,7 +20388,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Mr. Burns from The Simpsons."
+  "description": "Mr. Burns hunches in his green suit, fingers steepled in his signature 'Excellent…' pose."
  },
  {
   "id": "tanuki-ghost-rider-chibi",
@@ -20434,7 +20434,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Eva 01 from Neon Genesis Evangelion."
+  "description": "Evangelion Unit-01 stalks across a ruined Tokyo-3 cityscape base, purple-and-green armor gleaming under a blue sky."
  },
  {
   "id": "tanuki-albedo",
@@ -20458,7 +20458,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Albedo from Overlord."
+  "description": "Albedo sits gracefully atop a stepped throne in her white gown, enormous black wings spread wide behind her."
  },
  {
   "id": "tanuki-sagat",
@@ -20482,7 +20482,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Sagat from Street Fighter."
+  "description": "Sagat raises a fist in his Muay Thai stance, scarred chest bared, before a ruined Buddha head and temple base."
  },
  {
   "id": "tanuki-vincent-valentine",
@@ -20506,7 +20506,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Vincent Valentine from Final Fantasy VII."
+  "description": "Vincent Valentine crouches atop a ruined coffin-like structure, crimson cloak billowing, Cerberus at the ready and his golden claw extended."
  },
  {
   "id": "tanuki-wolverine",
@@ -20529,7 +20529,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Wolverine from X-Men."
+  "description": "Wolverine crouches on a snowy fallen log in his classic yellow-and-blue suit, claws extended and mouth open mid-snarl."
  },
  {
   "id": "tanuki-edward",
@@ -20553,7 +20553,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Edward from Assassin's Creed Black Flag."
+  "description": "Edward Kenway balances atop a ship's mast in his white hood, cutlass in hand, as a wave crashes over the splintered hull below."
  },
  {
   "id": "tanuki-moogle",
@@ -20577,7 +20577,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Moogle from Final Fantasy."
+  "description": "A cheerful Moogle, kupo! Pom-pom bobbing, satchel slung and a feather quill in hand, perched on a treasure chest beside potions and a lantern."
  },
  {
   "id": "tanuki-kisame-chibi",
@@ -20622,7 +20622,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Original resin sculpt of Musashi from Vagabond."
+  "description": "Vagabond's Miyamoto Musashi stands in quiet resolve, twin katanas sheathed at his hip, by a bonsai on a lakeside rock."
  },
  {
   "id": "ca3d-2b-v1",
