@@ -35455,5 +35455,856 @@ const MODELS = [
    }
   ],
   "description": "Coen from The Blood of Dawnwalker, sword gripped and ready, sculpted in a grounded, period-appropriate dark fantasy stance."
+  },
+ {
+  "id": "neko2-86-vladilena-milize",
+  "artist": "Neko Figurines",
+  "series": "86",
+  "title": "Vladilena Milizé",
+  "images": [
+   "images/neko-figurines-2/86/vladilena-milize/vladilena-milize-1.jpg",
+   "images/neko-figurines-2/86/vladilena-milize/vladilena-milize-2.jpg",
+   "images/neko-figurines-2/86/vladilena-milize/vladilena-milize-3.jpg",
+   "images/neko-figurines-2/86/vladilena-milize/vladilena-milize-4.jpg",
+   "images/neko-figurines-2/86/vladilena-milize/vladilena-milize-5.jpg",
+   "images/neko-figurines-2/86/vladilena-milize/vladilena-milize-6.jpg",
+   "images/neko-figurines-2/86/vladilena-milize/vladilena-milize-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 5.4 in (13.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Vladilena \"Lena\" Milizé from 86, in her Spearhead Squadron dress uniform, posed seated and standing against a weathered brick wall alongside a pair of olive ammo crates."
+ },
+ {
+  "id": "neko2-chainsaw-man-power",
+  "artist": "Neko Figurines",
+  "series": "Chainsaw Man",
+  "title": "Power",
+  "images": [
+   "images/neko-figurines-2/chainsaw-man/power/power-1.jpg",
+   "images/neko-figurines-2/chainsaw-man/power/power-2.jpg",
+   "images/neko-figurines-2/chainsaw-man/power/power-3.jpg",
+   "images/neko-figurines-2/chainsaw-man/power/power-4.jpg",
+   "images/neko-figurines-2/chainsaw-man/power/power-5.jpg",
+   "images/neko-figurines-2/chainsaw-man/power/power-6.jpg",
+   "images/neko-figurines-2/chainsaw-man/power/power-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.6 in (19.3 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Power from Chainsaw Man, horns bared and jacket half-slipped off one shoulder, swinging her massive blood-red hammer in a dynamic combat pose."
+ },
+ {
+  "id": "neko2-cyberpunk-2077-lucy",
+  "artist": "Neko Figurines",
+  "series": "Cyberpunk 2077",
+  "title": "Lucy",
+  "images": [
+   "images/neko-figurines-2/cyberpunk-2077/lucy/lucy-1.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 6.2 in (15.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Lucy from Cyberpunk: Edgerunners, white hair catching the light as she reclines against a hulking cyberware chair, a thick coiled cable looping beside her."
+ },
+ {
+  "id": "neko2-darling-in-the-franxx-zero-two",
+  "artist": "Neko Figurines",
+  "series": "Darling in the Franxx",
+  "title": "Zero-Two",
+  "images": [
+   "images/neko-figurines-2/darling-in-the-franxx/zero-two/zero-two-1.jpg",
+   "images/neko-figurines-2/darling-in-the-franxx/zero-two/zero-two-2.jpg",
+   "images/neko-figurines-2/darling-in-the-franxx/zero-two/zero-two-3.jpg",
+   "images/neko-figurines-2/darling-in-the-franxx/zero-two/zero-two-4.jpg",
+   "images/neko-figurines-2/darling-in-the-franxx/zero-two/zero-two-5.jpg",
+   "images/neko-figurines-2/darling-in-the-franxx/zero-two/zero-two-6.jpg",
+   "images/neko-figurines-2/darling-in-the-franxx/zero-two/zero-two-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 8.6 in (21.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Zero-Two from Darling in the Franxx, in her signature red military dress and pilot cap, seated in the open cockpit of her white Strelizia-style mech."
+ },
+ {
+  "id": "neko2-delicious-in-dungeon-marcille",
+  "artist": "Neko Figurines",
+  "series": "Delicious in Dungeon",
+  "title": "Marcille",
+  "images": [
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-1.jpg",
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-2.jpg",
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-3.jpg",
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-4.jpg",
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-5.jpg",
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-6.jpg",
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-7.jpg",
+   "images/neko-figurines-2/delicious-in-dungeon/marcille/marcille-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.5 in (19.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Marcille from Delicious in Dungeon, staff in hand with her mandrake companion at her feet, posed atop a stack of worn tomes."
+ },
+ {
+  "id": "neko2-elden-ring-recluse",
+  "artist": "Neko Figurines",
+  "series": "Elden Ring",
+  "title": "Recluse",
+  "images": [
+   "images/neko-figurines-2/elden-ring/recluse/recluse-1.jpg",
+   "images/neko-figurines-2/elden-ring/recluse/recluse-2.jpg",
+   "images/neko-figurines-2/elden-ring/recluse/recluse-3.jpg",
+   "images/neko-figurines-2/elden-ring/recluse/recluse-4.jpg",
+   "images/neko-figurines-2/elden-ring/recluse/recluse-5.jpg",
+   "images/neko-figurines-2/elden-ring/recluse/recluse-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 11.7 in (29.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Recluse from Elden Ring, hooded and robed in dark witch's garb, staff raised beside a cluster of glowing magical orbs."
+ },
+ {
+  "id": "neko2-expedition-33-gustave",
+  "artist": "Neko Figurines",
+  "series": "Clair Obscur: Expedition 33",
+  "title": "Gustave",
+  "images": [
+   "images/neko-figurines-2/expedition-33/gustave/gustave-1.jpg",
+   "images/neko-figurines-2/expedition-33/gustave/gustave-2.jpg",
+   "images/neko-figurines-2/expedition-33/gustave/gustave-3.jpg",
+   "images/neko-figurines-2/expedition-33/gustave/gustave-4.jpg",
+   "images/neko-figurines-2/expedition-33/gustave/gustave-5.jpg",
+   "images/neko-figurines-2/expedition-33/gustave/gustave-6.jpg",
+   "images/neko-figurines-2/expedition-33/gustave/gustave-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 12.6 in (31.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Gustave from Clair Obscur: Expedition 33, in his weathered coat with rifle in hand, captured mid-stride against a stormy backdrop."
+ },
+ {
+  "id": "neko2-expedition-33-lune",
+  "artist": "Neko Figurines",
+  "series": "Clair Obscur: Expedition 33",
+  "title": "Lune",
+  "images": [
+   "images/neko-figurines-2/expedition-33/lune/lune-1.jpg",
+   "images/neko-figurines-2/expedition-33/lune/lune-2.jpg",
+   "images/neko-figurines-2/expedition-33/lune/lune-3.jpg",
+   "images/neko-figurines-2/expedition-33/lune/lune-4.jpg",
+   "images/neko-figurines-2/expedition-33/lune/lune-5.jpg",
+   "images/neko-figurines-2/expedition-33/lune/lune-6.jpg",
+   "images/neko-figurines-2/expedition-33/lune/lune-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 11.0 in (27.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Lune from Clair Obscur: Expedition 33, twin daggers drawn and wreathed in swirling orange fire effects."
+ },
+ {
+  "id": "neko2-expedition-33-maelle",
+  "artist": "Neko Figurines",
+  "series": "Clair Obscur: Expedition 33",
+  "title": "Maelle",
+  "images": [
+   "images/neko-figurines-2/expedition-33/maelle/maelle-1.jpg",
+   "images/neko-figurines-2/expedition-33/maelle/maelle-2.jpg",
+   "images/neko-figurines-2/expedition-33/maelle/maelle-3.jpg",
+   "images/neko-figurines-2/expedition-33/maelle/maelle-4.jpg",
+   "images/neko-figurines-2/expedition-33/maelle/maelle-5.jpg",
+   "images/neko-figurines-2/expedition-33/maelle/maelle-6.jpg",
+   "images/neko-figurines-2/expedition-33/maelle/maelle-7.jpg",
+   "images/neko-figurines-2/expedition-33/maelle/maelle-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 9.8 in (24.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Maelle from Clair Obscur: Expedition 33, red hair flying as she lunges forward with rapier drawn, armor plates catching the light."
+ },
+ {
+  "id": "neko2-expedition-33-sciel",
+  "artist": "Neko Figurines",
+  "series": "Clair Obscur: Expedition 33",
+  "title": "Sciel",
+  "images": [
+   "images/neko-figurines-2/expedition-33/sciel/sciel-1.jpg",
+   "images/neko-figurines-2/expedition-33/sciel/sciel-2.jpg",
+   "images/neko-figurines-2/expedition-33/sciel/sciel-3.jpg",
+   "images/neko-figurines-2/expedition-33/sciel/sciel-4.jpg",
+   "images/neko-figurines-2/expedition-33/sciel/sciel-5.jpg",
+   "images/neko-figurines-2/expedition-33/sciel/sciel-6.jpg",
+   "images/neko-figurines-2/expedition-33/sciel/sciel-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.2 in (25.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Sciel from Clair Obscur: Expedition 33, her scythe-like weapon traced in luminous gold, posed mid-motion with chains unspooling around her."
+ },
+ {
+  "id": "neko2-expedition-33-verso",
+  "artist": "Neko Figurines",
+  "series": "Clair Obscur: Expedition 33",
+  "title": "Verso",
+  "images": [
+   "images/neko-figurines-2/expedition-33/verso/verso-1.jpg",
+   "images/neko-figurines-2/expedition-33/verso/verso-2.jpg",
+   "images/neko-figurines-2/expedition-33/verso/verso-3.jpg",
+   "images/neko-figurines-2/expedition-33/verso/verso-4.jpg",
+   "images/neko-figurines-2/expedition-33/verso/verso-5.jpg",
+   "images/neko-figurines-2/expedition-33/verso/verso-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.8 in (27.5 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Verso from Clair Obscur: Expedition 33, cloaked and gripping a glowing purple blade, cutting a sharp silhouette against a muted backdrop."
+ },
+ {
+  "id": "neko2-fire-emblem-ingrid-galatea",
+  "artist": "Neko Figurines",
+  "series": "Fire Emblem",
+  "title": "Ingrid Galatea",
+  "images": [
+   "images/neko-figurines-2/fire-emblem/ingrid-galatea/ingrid-galatea-1.jpg",
+   "images/neko-figurines-2/fire-emblem/ingrid-galatea/ingrid-galatea-2.jpg",
+   "images/neko-figurines-2/fire-emblem/ingrid-galatea/ingrid-galatea-3.jpg",
+   "images/neko-figurines-2/fire-emblem/ingrid-galatea/ingrid-galatea-4.jpg",
+   "images/neko-figurines-2/fire-emblem/ingrid-galatea/ingrid-galatea-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 6.4 in (16.3 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Ingrid Galatea from Fire Emblem, in pegasus knight armor with lance in hand, standing at the ready."
+ },
+ {
+  "id": "neko2-fire-emblem-lucina",
+  "artist": "Neko Figurines",
+  "series": "Fire Emblem",
+  "title": "Lucina",
+  "images": [
+   "images/neko-figurines-2/fire-emblem/lucina/lucina-1.jpg",
+   "images/neko-figurines-2/fire-emblem/lucina/lucina-2.jpg",
+   "images/neko-figurines-2/fire-emblem/lucina/lucina-3.jpg",
+   "images/neko-figurines-2/fire-emblem/lucina/lucina-4.jpg",
+   "images/neko-figurines-2/fire-emblem/lucina/lucina-5.jpg",
+   "images/neko-figurines-2/fire-emblem/lucina/lucina-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.4 in (18.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Lucina from Fire Emblem, Falchion drawn and cape billowing, standing tall in her signature blue-and-gold armor."
+ },
+ {
+  "id": "neko2-frieren-fern",
+  "artist": "Neko Figurines",
+  "series": "Frieren: Beyond Journey's End",
+  "title": "Fern",
+  "images": [
+   "images/neko-figurines-2/frieren/fern/fern-1.jpg",
+   "images/neko-figurines-2/frieren/fern/fern-2.jpg",
+   "images/neko-figurines-2/frieren/fern/fern-3.jpg",
+   "images/neko-figurines-2/frieren/fern/fern-4.jpg",
+   "images/neko-figurines-2/frieren/fern/fern-5.jpg",
+   "images/neko-figurines-2/frieren/fern/fern-6.jpg",
+   "images/neko-figurines-2/frieren/fern/fern-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.8 in (19.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Fern from Frieren: Beyond Journey's End, staff raised and robes catching the wind, perched atop a swirl of magical energy."
+ },
+ {
+  "id": "neko2-frieren-frieren",
+  "artist": "Neko Figurines",
+  "series": "Frieren: Beyond Journey's End",
+  "title": "Frieren",
+  "images": [
+   "images/neko-figurines-2/frieren/frieren/frieren-1.jpg",
+   "images/neko-figurines-2/frieren/frieren/frieren-2.jpg",
+   "images/neko-figurines-2/frieren/frieren/frieren-3.jpg",
+   "images/neko-figurines-2/frieren/frieren/frieren-4.jpg",
+   "images/neko-figurines-2/frieren/frieren/frieren-5.jpg",
+   "images/neko-figurines-2/frieren/frieren/frieren-6.jpg",
+   "images/neko-figurines-2/frieren/frieren/frieren-7.jpg",
+   "images/neko-figurines-2/frieren/frieren/frieren-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.6 in (19.3 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Frieren from Frieren: Beyond Journey's End, in her white-and-gold traveling robes, staff and travel case in hand with a swirl of magic coiling around her base."
+ },
+ {
+  "id": "neko2-frieren-stark",
+  "artist": "Neko Figurines",
+  "series": "Frieren: Beyond Journey's End",
+  "title": "Stark",
+  "images": [
+   "images/neko-figurines-2/frieren/stark/stark-1.jpg",
+   "images/neko-figurines-2/frieren/stark/stark-2.jpg",
+   "images/neko-figurines-2/frieren/stark/stark-3.jpg",
+   "images/neko-figurines-2/frieren/stark/stark-4.jpg",
+   "images/neko-figurines-2/frieren/stark/stark-5.jpg",
+   "images/neko-figurines-2/frieren/stark/stark-6.jpg",
+   "images/neko-figurines-2/frieren/stark/stark-7.jpg",
+   "images/neko-figurines-2/frieren/stark/stark-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 8.0 in (20.4 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Stark from Frieren: Beyond Journey's End, axe raised mid-swing atop a rocky outcrop, red cloak caught in motion."
+ },
+ {
+  "id": "neko2-frieren-ubel",
+  "artist": "Neko Figurines",
+  "series": "Frieren: Beyond Journey's End",
+  "title": "Ubel",
+  "images": [
+   "images/neko-figurines-2/frieren/ubel/ubel-1.jpg",
+   "images/neko-figurines-2/frieren/ubel/ubel-2.jpg",
+   "images/neko-figurines-2/frieren/ubel/ubel-3.jpg",
+   "images/neko-figurines-2/frieren/ubel/ubel-4.jpg",
+   "images/neko-figurines-2/frieren/ubel/ubel-5.jpg",
+   "images/neko-figurines-2/frieren/ubel/ubel-6.jpg",
+   "images/neko-figurines-2/frieren/ubel/ubel-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 8.1 in (20.6 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Ubel from Frieren: Beyond Journey's End, spear in hand and poised to strike, rendered against a dramatic magenta-to-red gradient backdrop."
+ },
+ {
+  "id": "neko2-genshin-impact-arlecchino",
+  "artist": "Neko Figurines",
+  "series": "Genshin Impact",
+  "title": "Arlecchino",
+  "images": [
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-1.jpg",
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-2.jpg",
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-3.jpg",
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-4.jpg",
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-5.jpg",
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-6.jpg",
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-7.jpg",
+   "images/neko-figurines-2/genshin-impact/arlecchino/arlecchino-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 10.5 in (26.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Arlecchino from Genshin Impact, wreathed in fiery red wings and tattered ribbon, a dramatic full-figure pose with her signature polearm."
+ },
+ {
+  "id": "neko2-genshin-impact-skirk",
+  "artist": "Neko Figurines",
+  "series": "Genshin Impact",
+  "title": "Skirk",
+  "images": [
+   "images/neko-figurines-2/genshin-impact/skirk/skirk-1.jpg",
+   "images/neko-figurines-2/genshin-impact/skirk/skirk-2.jpg",
+   "images/neko-figurines-2/genshin-impact/skirk/skirk-3.jpg",
+   "images/neko-figurines-2/genshin-impact/skirk/skirk-4.jpg",
+   "images/neko-figurines-2/genshin-impact/skirk/skirk-5.jpg",
+   "images/neko-figurines-2/genshin-impact/skirk/skirk-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.9 in (27.6 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Skirk from Genshin Impact, twin blades crossed amid swirling blue water effects coiling up from the base."
+ },
+ {
+  "id": "neko2-hololive-pekomama",
+  "artist": "Neko Figurines",
+  "series": "Hololive",
+  "title": "Pekomama",
+  "images": [
+   "images/neko-figurines-2/hololive/pekomama/pekomama-1.jpg",
+   "images/neko-figurines-2/hololive/pekomama/pekomama-2.jpg",
+   "images/neko-figurines-2/hololive/pekomama/pekomama-3.jpg",
+   "images/neko-figurines-2/hololive/pekomama/pekomama-4.jpg",
+   "images/neko-figurines-2/hololive/pekomama/pekomama-5.jpg",
+   "images/neko-figurines-2/hololive/pekomama/pekomama-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.3 in (18.6 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Pekomama from Hololive, bunny ears and all, in a flowing white dress with an orange-accented sash."
+ },
+ {
+  "id": "neko2-honkai-star-rail-himeko",
+  "artist": "Neko Figurines",
+  "series": "Honkai: Star Rail",
+  "title": "Himeko",
+  "images": [
+   "images/neko-figurines-2/honkai-star-rail/himeko/himeko-1.jpg",
+   "images/neko-figurines-2/honkai-star-rail/himeko/himeko-2.jpg",
+   "images/neko-figurines-2/honkai-star-rail/himeko/himeko-3.jpg",
+   "images/neko-figurines-2/honkai-star-rail/himeko/himeko-4.jpg",
+   "images/neko-figurines-2/honkai-star-rail/himeko/himeko-5.jpg",
+   "images/neko-figurines-2/honkai-star-rail/himeko/himeko-6.jpg",
+   "images/neko-figurines-2/honkai-star-rail/himeko/himeko-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.4 in (18.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Himeko from Honkai: Star Rail, in her white-and-crimson coat, posed with quiet confidence against a starlit backdrop."
+ },
+ {
+  "id": "neko2-kpop-demon-hunters-rumi",
+  "artist": "Neko Figurines",
+  "series": "KPop Demon Hunters",
+  "title": "Rumi",
+  "images": [
+   "images/neko-figurines-2/kpop-demon-hunters/rumi/rumi-1.jpg",
+   "images/neko-figurines-2/kpop-demon-hunters/rumi/rumi-2.jpg",
+   "images/neko-figurines-2/kpop-demon-hunters/rumi/rumi-3.jpg",
+   "images/neko-figurines-2/kpop-demon-hunters/rumi/rumi-4.jpg",
+   "images/neko-figurines-2/kpop-demon-hunters/rumi/rumi-5.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.6 in (27.0 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Rumi from KPop Demon Hunters, sword drawn and purple hair flowing, posed against the film's own neon title-card backdrop."
+ },
+ {
+  "id": "neko2-mushoku-tensei-eris-greyrat",
+  "artist": "Neko Figurines",
+  "series": "Mushoku Tensei",
+  "title": "Eris Greyrat",
+  "images": [
+   "images/neko-figurines-2/mushoku-tensei/eris-greyrat/eris-greyrat-1.jpg",
+   "images/neko-figurines-2/mushoku-tensei/eris-greyrat/eris-greyrat-2.jpg",
+   "images/neko-figurines-2/mushoku-tensei/eris-greyrat/eris-greyrat-3.jpg",
+   "images/neko-figurines-2/mushoku-tensei/eris-greyrat/eris-greyrat-4.jpg",
+   "images/neko-figurines-2/mushoku-tensei/eris-greyrat/eris-greyrat-5.jpg",
+   "images/neko-figurines-2/mushoku-tensei/eris-greyrat/eris-greyrat-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.1 in (18.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Eris Greyrat from Mushoku Tensei, sword in hand and red hair streaming, caught mid-stride in her traveling armor."
+ },
+ {
+  "id": "neko2-mushoku-tensei-roxy-migurdia",
+  "artist": "Neko Figurines",
+  "series": "Mushoku Tensei",
+  "title": "Roxy Migurdia",
+  "images": [
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-1.jpg",
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-2.jpg",
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-3.jpg",
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-4.jpg",
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-5.jpg",
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-6.jpg",
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-7.jpg",
+   "images/neko-figurines-2/mushoku-tensei/roxy-migurdia/roxy-migurdia-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 8.3 in (21.0 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Roxy Migurdia from Mushoku Tensei, in her wide-brimmed witch's hat and flowing orange-and-gold robes, staff raised against an open sky backdrop."
+ },
+ {
+  "id": "neko2-mushoku-tensei-rudeus-greyrat",
+  "artist": "Neko Figurines",
+  "series": "Mushoku Tensei",
+  "title": "Rudeus Greyrat",
+  "images": [
+   "images/neko-figurines-2/mushoku-tensei/rudeus-greyrat/rudeus-greyrat-1.jpg",
+   "images/neko-figurines-2/mushoku-tensei/rudeus-greyrat/rudeus-greyrat-2.jpg",
+   "images/neko-figurines-2/mushoku-tensei/rudeus-greyrat/rudeus-greyrat-3.jpg",
+   "images/neko-figurines-2/mushoku-tensei/rudeus-greyrat/rudeus-greyrat-4.jpg",
+   "images/neko-figurines-2/mushoku-tensei/rudeus-greyrat/rudeus-greyrat-5.jpg",
+   "images/neko-figurines-2/mushoku-tensei/rudeus-greyrat/rudeus-greyrat-6.jpg",
+   "images/neko-figurines-2/mushoku-tensei/rudeus-greyrat/rudeus-greyrat-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 8.2 in (20.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Rudeus Greyrat from Mushoku Tensei, staff crackling with blue magic, standing against a dusky sunset sky."
+ },
+ {
+  "id": "neko2-mushoku-tensei-sylphiette",
+  "artist": "Neko Figurines",
+  "series": "Mushoku Tensei",
+  "title": "Sylphiette",
+  "images": [
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-1.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-2.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-3.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-4.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-5.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-6.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-7.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-8.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-9.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-10.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-11.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-12.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-13.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-14.jpg",
+   "images/neko-figurines-2/mushoku-tensei/sylphiette/sylphiette-15.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 6.7 in (17.0 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Sylphiette from Mushoku Tensei, shown in her default green-and-white traveling outfit as well as an alternate Shy Pose variant."
+ },
+ {
+  "id": "neko2-my-dress-up-darling-marin-succubus",
+  "artist": "Neko Figurines",
+  "series": "My Dress-Up Darling",
+  "title": "Marin Kitagawa (Succubus)",
+  "images": [
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-1.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-2.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-3.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-4.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-5.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-6.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-7.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-succubus/marin-succubus-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 5.8 in (14.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Marin Kitagawa from My Dress-Up Darling, in an original succubus-themed cosplay with bat wings and a sultry pin-up pose."
+ },
+ {
+  "id": "neko2-my-dress-up-darling-marin-yukata",
+  "artist": "Neko Figurines",
+  "series": "My Dress-Up Darling",
+  "title": "Marin Kitagawa (Yukata Ver.)",
+  "images": [
+   "images/neko-figurines-2/my-dress-up-darling/marin-yukata/marin-yukata-1.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-yukata/marin-yukata-2.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-yukata/marin-yukata-3.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-yukata/marin-yukata-4.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-yukata/marin-yukata-5.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-yukata/marin-yukata-6.jpg",
+   "images/neko-figurines-2/my-dress-up-darling/marin-yukata/marin-yukata-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 6.8 in (17.3 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Marin Kitagawa from My Dress-Up Darling, in a floral yukata for a festival-night scene, lantern bokeh glowing softly in the background."
+ },
+ {
+  "id": "neko2-persona-makoto-yuki",
+  "artist": "Neko Figurines",
+  "series": "Persona",
+  "title": "Makoto Yuki",
+  "images": [
+   "images/neko-figurines-2/persona/makoto-yuki/makoto-yuki-1.jpg",
+   "images/neko-figurines-2/persona/makoto-yuki/makoto-yuki-2.jpg",
+   "images/neko-figurines-2/persona/makoto-yuki/makoto-yuki-3.jpg",
+   "images/neko-figurines-2/persona/makoto-yuki/makoto-yuki-4.jpg",
+   "images/neko-figurines-2/persona/makoto-yuki/makoto-yuki-5.jpg",
+   "images/neko-figurines-2/persona/makoto-yuki/makoto-yuki-6.jpg",
+   "images/neko-figurines-2/persona/makoto-yuki/makoto-yuki-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 6.8 in (17.3 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Makoto Yuki from Persona 3, evoker drawn and coat flaring as blue flames erupt beneath him."
+ },
+ {
+  "id": "neko2-shield-hero-raphtalia",
+  "artist": "Neko Figurines",
+  "series": "Shield Hero",
+  "title": "Raphtalia",
+  "images": [
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-1.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-2.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-3.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-4.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-5.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-6.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-7.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-8.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-9.jpg",
+   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-10.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.3 in (18.5 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Raphtalia from The Rising of the Shield Hero, sword in hand, posed mid-motion against a glowing pink-and-orange sunset sky."
+ },
+ {
+  "id": "neko2-spice-and-wolf-holo",
+  "artist": "Neko Figurines",
+  "series": "Spice and Wolf",
+  "title": "Holo",
+  "images": [
+   "images/neko-figurines-2/spice-and-wolf/holo/holo-1.jpg",
+   "images/neko-figurines-2/spice-and-wolf/holo/holo-2.jpg",
+   "images/neko-figurines-2/spice-and-wolf/holo/holo-3.jpg",
+   "images/neko-figurines-2/spice-and-wolf/holo/holo-4.jpg",
+   "images/neko-figurines-2/spice-and-wolf/holo/holo-5.jpg",
+   "images/neko-figurines-2/spice-and-wolf/holo/holo-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.2 in (18.4 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Holo from Spice and Wolf, wolf ears and tail on full display, cloak trailing as she's caught mid-stride against a warm amber sunset."
+ },
+ {
+  "id": "neko2-spy-x-family-anya-and-bond",
+  "artist": "Neko Figurines",
+  "series": "Spy x Family",
+  "title": "Anya & Bond (Demon Slayer Ver.)",
+  "images": [
+   "images/neko-figurines-2/spy-x-family/anya-and-bond/anya-and-bond-1.jpg",
+   "images/neko-figurines-2/spy-x-family/anya-and-bond/anya-and-bond-2.jpg",
+   "images/neko-figurines-2/spy-x-family/anya-and-bond/anya-and-bond-3.jpg",
+   "images/neko-figurines-2/spy-x-family/anya-and-bond/anya-and-bond-4.jpg",
+   "images/neko-figurines-2/spy-x-family/anya-and-bond/anya-and-bond-5.jpg",
+   "images/neko-figurines-2/spy-x-family/anya-and-bond/anya-and-bond-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 4.2 in (10.6 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Anya and Bond from Spy x Family, dressed up in Demon Slayer-style checkered haori for a playful crossover pose together."
+ },
+ {
+  "id": "neko2-uma-musume-goldship",
+  "artist": "Neko Figurines",
+  "series": "Uma Musume",
+  "title": "Goldship",
+  "images": [
+   "images/neko-figurines-2/uma-musume/goldship/goldship-1.jpg",
+   "images/neko-figurines-2/uma-musume/goldship/goldship-2.jpg",
+   "images/neko-figurines-2/uma-musume/goldship/goldship-3.jpg",
+   "images/neko-figurines-2/uma-musume/goldship/goldship-4.jpg",
+   "images/neko-figurines-2/uma-musume/goldship/goldship-5.jpg",
+   "images/neko-figurines-2/uma-musume/goldship/goldship-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 11.1 in (28.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Goldship from Uma Musume: Pretty Derby, in her team's red-and-white racing uniform, posed trackside against a sunny stadium backdrop."
+ },
+ {
+  "id": "neko2-wuthering-waves-zani",
+  "artist": "Neko Figurines",
+  "series": "Wuthering Waves",
+  "title": "Zani",
+  "images": [
+   "images/neko-figurines-2/wuthering-waves/zani/zani-1.jpg",
+   "images/neko-figurines-2/wuthering-waves/zani/zani-2.jpg",
+   "images/neko-figurines-2/wuthering-waves/zani/zani-3.jpg",
+   "images/neko-figurines-2/wuthering-waves/zani/zani-4.jpg",
+   "images/neko-figurines-2/wuthering-waves/zani/zani-5.jpg",
+   "images/neko-figurines-2/wuthering-waves/zani/zani-6.jpg",
+   "images/neko-figurines-2/wuthering-waves/zani/zani-7.jpg",
+   "images/neko-figurines-2/wuthering-waves/zani/zani-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 12.1 in (30.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Zani from Wuthering Waves, in a sleek dress shirt and tie, dark wing-like mechanical attachments unfurling behind her."
+ },
+ {
+  "id": "neko2-xenoblade-mio",
+  "artist": "Neko Figurines",
+  "series": "Xenoblade",
+  "title": "Mio",
+  "images": [
+   "images/neko-figurines-2/xenoblade/mio/mio-1.jpg",
+   "images/neko-figurines-2/xenoblade/mio/mio-2.jpg",
+   "images/neko-figurines-2/xenoblade/mio/mio-3.jpg",
+   "images/neko-figurines-2/xenoblade/mio/mio-4.jpg",
+   "images/neko-figurines-2/xenoblade/mio/mio-5.jpg",
+   "images/neko-figurines-2/xenoblade/mio/mio-6.jpg",
+   "images/neko-figurines-2/xenoblade/mio/mio-7.jpg",
+   "images/neko-figurines-2/xenoblade/mio/mio-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/10 Scale",
+    "size": "Approx. 7.7 in (19.5 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Mio from Xenoblade Chronicles 3, caught mid-motion with a glowing green energy ring trailing from her blade."
+ },
+ {
+  "id": "neko2-zenless-zone-zero-trigger",
+  "artist": "Neko Figurines",
+  "series": "Zenless Zone Zero",
+  "title": "Trigger",
+  "images": [
+   "images/neko-figurines-2/zenless-zone-zero/trigger/trigger-1.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/trigger/trigger-2.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/trigger/trigger-3.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/trigger/trigger-4.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/trigger/trigger-5.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/trigger/trigger-6.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/trigger/trigger-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.2 in (26.0 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Trigger from Zenless Zone Zero, perched atop a stack of supply crates with her oversized weapon slung over one shoulder."
+ },
+ {
+  "id": "neko2-zenless-zone-zero-yixuan",
+  "artist": "Neko Figurines",
+  "series": "Zenless Zone Zero",
+  "title": "Yixuan",
+  "images": [
+   "images/neko-figurines-2/zenless-zone-zero/yixuan/yixuan-1.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/yixuan/yixuan-2.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/yixuan/yixuan-3.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/yixuan/yixuan-4.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/yixuan/yixuan-5.jpg",
+   "images/neko-figurines-2/zenless-zone-zero/yixuan/yixuan-6.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 11.0 in (27.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Yixuan from Zenless Zone Zero, dark chain-like tendrils coiling around her as she strikes a dynamic battle pose."
  }
 ];
