@@ -35147,17 +35147,13 @@ const MODELS = [
  {
   "id": "neko-catwoman-catwoman",
   "artist": "Neko Figurines",
-  "series": "Catwoman",
+  "series": "Batman",
   "title": "Catwoman",
   "images": [
-   "images/neko-figurines/catwoman/catwoman/catwoman-1.jpg",
-   "images/neko-figurines/catwoman/catwoman/catwoman-2.jpg",
-   "images/neko-figurines/catwoman/catwoman/catwoman-3.jpg",
-   "images/neko-figurines/catwoman/catwoman/catwoman-4.jpg",
-   "images/neko-figurines/catwoman/catwoman/catwoman-5.jpg",
-   "images/neko-figurines/catwoman/catwoman/catwoman-6.jpg",
-   "images/neko-figurines/catwoman/catwoman/catwoman-7.jpg",
-   "images/neko-figurines/catwoman/catwoman/catwoman-8.jpg"
+   "images/neko-figurines/batman/catwoman/catwoman-1.jpg",
+   "images/neko-figurines/batman/catwoman/catwoman-2.jpg",
+   "images/neko-figurines/batman/catwoman/catwoman-3.jpg",
+   "images/neko-figurines/batman/catwoman/catwoman-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -36125,19 +36121,19 @@ const MODELS = [
  {
   "id": "neko2-shield-hero-raphtalia",
   "artist": "Neko Figurines",
-  "series": "Shield Hero",
+  "series": "Rising of the Shield Hero",
   "title": "Raphtalia",
   "images": [
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-1.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-2.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-3.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-4.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-5.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-6.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-7.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-8.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-9.jpg",
-   "images/neko-figurines-2/shield-hero/raphtalia/raphtalia-10.jpg"
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-1.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-2.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-3.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-4.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-5.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-6.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-7.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-8.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-9.jpg",
+   "images/neko-figurines-2/rising-of-the-shield-hero/raphtalia/raphtalia-10.jpg"
   ],
   "scaleOptions": [
    {
