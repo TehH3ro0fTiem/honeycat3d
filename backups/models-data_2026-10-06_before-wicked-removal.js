@@ -34594,4 +34594,11919 @@ const MODELS = [
  ],
  "description": "Adult Link from Ocarina of Time in his green tunic, with Navi glowing at his shoulder and a bottle and gear slung at his side."
 },
+ {
+ "id": "wicked-avengers-avengers-captain-america-3d",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-1.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-3.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-4.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-5.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-6.jpg",
+  "images/wicked/avengers/avengers-captain-america-3d/avengers-captain-america-3d-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "WWII-era Captain America plants the Stars and Stripes atop a pair of defeated Hydra soldiers, shield on his arm."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Iron Patriot + Rocket Base (Diorama) [Avengers Endgame]",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready/avengers-endgame-iron-patriot-rocket-diorama-base-stls-ready-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Patriot and Rocket blast into battle on a smoky Avengers diorama base."
+},
+ {
+ "id": "wicked-avengers-avengers-endgame-iron-patriot-sculpture-stls-ready-for-print",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Iron Patriot [Avengers Endgame]",
+ "images": [
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-1.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-2.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-3.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-4.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-5.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-6.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-7.jpg",
+  "images/wicked/avengers/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print/avengers-endgame-iron-patriot-sculpture-stls-ready-for-print-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Patriot blasts forward in his patriotic armor, from Avengers: Endgame."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Rocket Raccoon [Avengers Endgame]",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin/avengers-endgame-rocket-racoon-sculpture-stls-ready-for-prin-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rocket Raccoon hefts a massive minigun on his shoulder, from Avengers: Endgame."
+},
+ {
+ "id": "wicked-moon-knight-v1",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "Moon Knight",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-1.jpg",
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-2.jpg",
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-3.jpg",
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-4.jpg",
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-5.jpg",
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-6.jpg",
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-7.jpg",
+  "images/wicked/moon-knight/moon-knight-v1/moon-knight-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Moon Knight swoops in with his crescent cape flowing over a bird-skull base."
+},
+ {
+ "id": "wicked-black-panther-killmonger-vs-black-panther-diorama-base",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Killmonger vs Black Panther (Diorama)",
+ "images": [
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-1.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-2.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-3.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-4.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-5.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-6.jpg",
+  "images/wicked/black-panther/killmonger-vs-black-panther-diorama-base/killmonger-vs-black-panther-diorama-base-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Killmonger and Black Panther clash atop shattered vibranium in this Wakanda diorama."
+},
+ {
+ "id": "wicked-black-panther-killmonger-stls-sculpture-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Killmonger",
+ "images": [
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-1.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-2.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-3.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-4.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-5.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-6.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-7.jpg",
+  "images/wicked/black-panther/killmonger-stls-sculpture-ready-for-printing/killmonger-stls-sculpture-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Killmonger crouches with his twin blades, golden panther suit gleaming."
+},
+ {
+ "id": "wicked-black-panther-captain-america-vs-black-panther-diorama-base",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Captain America vs Black Panther base (Diorama)",
+ "images": [
+  "images/wicked/black-panther/captain-america-vs-black-panther-diorama-base/captain-america-vs-black-panther-diorama-base-1.jpg",
+  "images/wicked/black-panther/captain-america-vs-black-panther-diorama-base/captain-america-vs-black-panther-diorama-base-2.jpg",
+  "images/wicked/black-panther/captain-america-vs-black-panther-diorama-base/captain-america-vs-black-panther-diorama-base-3.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain America and Black Panther clash in this Civil War diorama base."
+},
+ {
+ "id": "wicked-avengers-captain-america-civil-war-stls-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-1.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-2.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-3.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-4.jpg",
+  "images/wicked/avengers/captain-america-civil-war-stls-ready-for-printing/captain-america-civil-war-stls-ready-for-printing-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain America charges with shield raised, from Captain America: Civil War."
+},
+ {
+ "id": "wicked-black-panther-v1",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Black Panther",
+ "images": [
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-1.jpg",
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-2.jpg",
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-3.jpg",
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-4.jpg",
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-5.jpg",
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-6.jpg",
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-7.jpg",
+  "images/wicked/black-panther/black-panther-v1/black-panther-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Panther leaps from a shattered rooftop, claws out, in his vibranium suit."
+},
+ {
+ "id": "wicked-avengers-ultron",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Ultron",
+ "images": [
+  "images/wicked/avengers/ultron/ultron-1.jpg",
+  "images/wicked/avengers/ultron/ultron-2.jpg",
+  "images/wicked/avengers/ultron/ultron-3.jpg",
+  "images/wicked/avengers/ultron/ultron-4.jpg",
+  "images/wicked/avengers/ultron/ultron-5.jpg",
+  "images/wicked/avengers/ultron/ultron-6.jpg",
+  "images/wicked/avengers/ultron/ultron-7.jpg",
+  "images/wicked/avengers/ultron/ultron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ultron towers over a mass of destroyed robots, menacing and metallic."
+},
+ {
+ "id": "wicked-scarlet-witch-v1",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Scarlet Witch",
+ "images": [
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-1.jpg",
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-2.jpg",
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-3.jpg",
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-4.jpg",
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-5.jpg",
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-6.jpg",
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-7.jpg",
+  "images/wicked/avengers/scarlet-witch-v1/scarlet-witch-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Scarlet Witch sits within a swirling crescent of chaos magic, crown gleaming."
+},
+ {
+ "id": "wicked-thor-hela",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Hela",
+ "images": [
+  "images/wicked/thor/hela/hela-1.jpg",
+  "images/wicked/thor/hela/hela-2.jpg",
+  "images/wicked/thor/hela/hela-3.jpg",
+  "images/wicked/thor/hela/hela-4.jpg",
+  "images/wicked/thor/hela/hela-5.jpg",
+  "images/wicked/thor/hela/hela-6.jpg",
+  "images/wicked/thor/hela/hela-7.jpg",
+  "images/wicked/thor/hela/hela-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Hela, Goddess of Death, raises her hand in her antlered headdress as Fenris the wolf snarls below."
+},
+ {
+ "id": "wicked-avengers-avengers-rescue-pepper-potts-3d",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Rescue [Pepper Potts] [Avengers Endgame]",
+ "images": [
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-1.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-2.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-3.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-4.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-5.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-6.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-7.jpg",
+  "images/wicked/avengers/avengers-rescue-pepper-potts-3d/avengers-rescue-pepper-potts-3d-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Pepper Potts flies in her Rescue armor, repulsors firing, from Avengers: Endgame."
+},
+ {
+ "id": "wicked-thor-thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Thor Ragnarok 3d Sculpture: Avengers",
+ "images": [
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-1.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-2.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-3.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-4.jpg",
+  "images/wicked/thor/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing/thor-ragnarok-3d-sculpture-avengers-stl-ready-for-printing-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thor of Ragnarok unleashes lightning in his gladiator armor, Stormbreaker raised."
+},
+ {
+ "id": "wicked-avengers-hulk-3d-sculpture-avengers-stl-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hulk 3d Sculpture: Avengers",
+ "images": [
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-1.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-2.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-3.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-4.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-5.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-6.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-7.jpg",
+  "images/wicked/avengers/hulk-3d-sculpture-avengers-stl-ready-for-printing/hulk-3d-sculpture-avengers-stl-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/8 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Hulk lunges with a massive spiked mace, in full gladiator fury."
+},
+ {
+ "id": "wicked-avengers-avengers-iron-man-3d",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Iron Man",
+ "images": [
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-1.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-2.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-3.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-4.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-5.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-6.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-7.jpg",
+  "images/wicked/avengers/avengers-iron-man-3d/avengers-iron-man-3d-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Man in his Mark 85 armor stands beside Cap's shattered shield, from Avengers: Endgame."
+},
+ {
+ "id": "wicked-spider-man-scarlet-spider",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Scarlet Spider",
+ "images": [
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-1.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-2.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-3.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-4.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-5.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-6.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-7.jpg",
+  "images/wicked/spider-man/scarlet-spider/scarlet-spider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.3 in (46.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Scarlet Spider crouches with webs flying, from Across the Spider-Verse."
+},
+ {
+ "id": "wicked-spider-man-the-spot",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "The Spot",
+ "images": [
+  "images/wicked/spider-man/the-spot/the-spot-1.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-2.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-3.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-4.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-5.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-6.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-7.jpg",
+  "images/wicked/spider-man/the-spot/the-spot-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.7 in (47.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Spot opens a swirling portal with his spotted body, from Across the Spider-Verse."
+},
+ {
+ "id": "wicked-spider-man-spider-punk",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider Punk",
+ "images": [
+  "images/wicked/spider-man/spider-punk/spider-punk-1.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-2.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-3.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-4.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-5.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-6.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-7.jpg",
+  "images/wicked/spider-man/spider-punk/spider-punk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (44.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Punk shreds his guitar with a high kick in his patched vest and mohawk."
+},
+ {
+ "id": "wicked-fantastic-four-wicked-promo-fantastic-four-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Fantastic 4 (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-1.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-2.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-3.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-4.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-5.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-6.jpg",
+  "images/wicked/fantastic-four/wicked-promo-fantastic-four-diorama-complete/wicked-promo-fantastic-four-diorama-complete-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Fantastic Four burst through a glowing ring together in this complete F4 diorama."
+},
+ {
+ "id": "wicked-harry-potter-harry-potter-diorama",
+ "artist": "Wicked 3D",
+ "series": "Harry Potter",
+ "title": "Harry Potter (Diorama)",
+ "images": [
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-1.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-2.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-3.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-4.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-5.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-6.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-7.jpg",
+  "images/wicked/harry-potter/harry-potter-diorama/harry-potter-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.9 in (40.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Harry and Voldemort face off with wands drawn in this Harry Potter diorama."
+},
+ {
+ "id": "wicked-harry-potter-voldemort",
+ "artist": "Wicked 3D",
+ "series": "Harry Potter",
+ "title": "Voldemort",
+ "images": [
+  "images/wicked/harry-potter/voldemort/voldemort-1.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-2.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-3.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-4.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-5.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-6.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-7.jpg",
+  "images/wicked/harry-potter/voldemort/voldemort-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.9 in (37.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Lord Voldemort conjures a curse with his wand, pale and serpent-like in his robes."
+},
+ {
+ "id": "wicked-harry-potter-harry-potter",
+ "artist": "Wicked 3D",
+ "series": "Harry Potter",
+ "title": "Harry Potter",
+ "images": [
+  "images/wicked/harry-potter/harry-potter/harry-potter-1.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-2.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-3.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-4.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-5.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-6.jpg",
+  "images/wicked/harry-potter/harry-potter/harry-potter-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Harry Potter casts a spell in his Gryffindor robes, wand raised."
+},
+ {
+ "id": "wicked-spider-man-peter-b-parker-and-mayday",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Peter B Parker & Mayday",
+ "images": [
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-1.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-2.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-3.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-4.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-5.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-6.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-7.jpg",
+  "images/wicked/spider-man/peter-b-parker-and-mayday/peter-b-parker-and-mayday-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.7 in (47.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Peter B. Parker swings with baby Mayday clinging to him, from Across the Spider-Verse."
+},
+ {
+ "id": "wicked-avengers-taskmaster",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Taskmaster",
+ "images": [
+  "images/wicked/avengers/taskmaster/taskmaster-1.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-2.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-3.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-4.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-5.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-6.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-7.jpg",
+  "images/wicked/avengers/taskmaster/taskmaster-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Taskmaster stands with skull mask, shield and sword, ready to mimic any fighting style."
+},
+ {
+ "id": "wicked-x-men-psylocke",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Psylocke",
+ "images": [
+  "images/wicked/x-men/psylocke/psylocke-1.jpg",
+  "images/wicked/x-men/psylocke/psylocke-2.jpg",
+  "images/wicked/x-men/psylocke/psylocke-3.jpg",
+  "images/wicked/x-men/psylocke/psylocke-4.jpg",
+  "images/wicked/x-men/psylocke/psylocke-5.jpg",
+  "images/wicked/x-men/psylocke/psylocke-6.jpg",
+  "images/wicked/x-men/psylocke/psylocke-7.jpg",
+  "images/wicked/x-men/psylocke/psylocke-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.9 in (43.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Psylocke slashes with a blazing pink psychic blade, butterfly aura flaring behind her."
+},
+ {
+ "id": "wicked-spider-man-spider-woman-spiderverse",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider Woman Spiderverse",
+ "images": [
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-1.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-2.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-3.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-4.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-5.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-6.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-7.jpg",
+  "images/wicked/spider-man/spider-woman-spiderverse/spider-woman-spiderverse-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jessica Drew's Spider-Woman rides her motorcycle with her afro flowing, from Across the Spider-Verse."
+},
+ {
+ "id": "wicked-spider-man-spiderman-2099",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spiderman 2099",
+ "images": [
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-1.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-2.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-3.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-4.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-5.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-6.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-7.jpg",
+  "images/wicked/spider-man/spiderman-2099/spiderman-2099-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Man 2099 lunges forward with talons out against a splash of red and blue."
+},
+ {
+ "id": "wicked-the-witcher-geralt-de-rivia-and-ciri-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "The Witcher",
+ "title": "Geralt of Rivia & Ciri (Diorama)",
+ "images": [
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-1.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-2.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-3.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-4.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-5.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-6.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-7.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia-and-ciri-diorama-complete/geralt-de-rivia-and-ciri-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 30.6 in (77.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Geralt and Ciri fight side by side over a fallen beast in this Witcher 3 diorama."
+},
+ {
+ "id": "wicked-the-witcher-ciri",
+ "artist": "Wicked 3D",
+ "series": "The Witcher",
+ "title": "Ciri",
+ "images": [
+  "images/wicked/the-witcher/ciri/ciri-1.jpg",
+  "images/wicked/the-witcher/ciri/ciri-2.jpg",
+  "images/wicked/the-witcher/ciri/ciri-3.jpg",
+  "images/wicked/the-witcher/ciri/ciri-4.jpg",
+  "images/wicked/the-witcher/ciri/ciri-5.jpg",
+  "images/wicked/the-witcher/ciri/ciri-6.jpg",
+  "images/wicked/the-witcher/ciri/ciri-7.jpg",
+  "images/wicked/the-witcher/ciri/ciri-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 11.0 in (28.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ciri crouches with her sword ready, ashen hair and scar on full display, from The Witcher 3."
+},
+ {
+ "id": "wicked-the-witcher-geralt-de-rivia",
+ "artist": "Wicked 3D",
+ "series": "The Witcher",
+ "title": "Geralt of Rivia",
+ "images": [
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-1.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-2.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-3.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-4.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-5.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-6.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-7.jpg",
+  "images/wicked/the-witcher/geralt-de-rivia/geralt-de-rivia-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.0 in (43.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Geralt of Rivia rides a slain beast with his silver sword drawn, on a Witcher 3 base."
+},
+ {
+ "id": "wicked-spider-man-spider-gwen",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider Gwen",
+ "images": [
+  "images/wicked/spider-man/spider-gwen/spider-gwen-1.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-2.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-3.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-4.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-5.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-6.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-7.jpg",
+  "images/wicked/spider-man/spider-gwen/spider-gwen-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.5 in (34.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Gwen hangs upside down from her web, hood up, in Across the Spider-Verse style."
+},
+ {
+ "id": "wicked-spider-man-miles-morales",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Miles Morales",
+ "images": [
+  "images/wicked/spider-man/miles-morales/miles-morales-1.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-2.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-3.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-4.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-5.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-6.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-7.jpg",
+  "images/wicked/spider-man/miles-morales/miles-morales-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.9 in (40.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Miles Morales swings through Spider-Verse glitch effects, web lines trailing."
+},
+ {
+ "id": "wicked-bishop-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Bishop",
+ "images": [
+  "images/wicked/x-men/bishop-v1/bishop-v1-1.jpg",
+  "images/wicked/x-men/bishop-v1/bishop-v1-2.jpg",
+  "images/wicked/x-men/bishop-v1/bishop-v1-3.jpg",
+  "images/wicked/x-men/bishop-v1/bishop-v1-4.jpg",
+  "images/wicked/x-men/bishop-v1/bishop-v1-5.jpg",
+  "images/wicked/x-men/bishop-v1/bishop-v1-6.jpg",
+  "images/wicked/x-men/bishop-v1/bishop-v1-7.jpg",
+  "images/wicked/x-men/bishop-v1/bishop-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bishop of the X-Men absorbs and fires a blast of pink energy from his fist."
+},
+ {
+ "id": "wicked-aliens-aliens-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Aliens",
+ "title": "Aliens (Diorama)",
+ "images": [
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-1.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-2.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-3.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-4.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-5.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-6.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-7.jpg",
+  "images/wicked/aliens/aliens-diorama-complete/aliens-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ripley in the Power Loader faces off against the Alien Queen in this complete Aliens diorama."
+},
+ {
+ "id": "wicked-bishop-v2",
+ "artist": "Wicked 3D",
+ "series": "Aliens",
+ "title": "Bishop",
+ "images": [
+  "images/wicked/aliens/bishop-v2/bishop-v2-1.jpg",
+  "images/wicked/aliens/bishop-v2/bishop-v2-2.jpg",
+  "images/wicked/aliens/bishop-v2/bishop-v2-3.jpg",
+  "images/wicked/aliens/bishop-v2/bishop-v2-4.jpg",
+  "images/wicked/aliens/bishop-v2/bishop-v2-5.jpg",
+  "images/wicked/aliens/bishop-v2/bishop-v2-6.jpg",
+  "images/wicked/aliens/bishop-v2/bishop-v2-7.jpg",
+  "images/wicked/aliens/bishop-v2/bishop-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bishop, the android, reaches out with his torso torn in half, from the climax of Aliens."
+},
+ {
+ "id": "wicked-aliens-alien-warrior",
+ "artist": "Wicked 3D",
+ "series": "Aliens",
+ "title": "Alien Warrior",
+ "images": [
+  "images/wicked/aliens/alien-warrior/alien-warrior-1.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-2.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-3.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-4.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-5.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-6.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-7.jpg",
+  "images/wicked/aliens/alien-warrior/alien-warrior-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A Xenomorph warrior rears up with its ribbed dome and inner jaw bared."
+},
+ {
+ "id": "wicked-aliens-power-loader-and-ripley",
+ "artist": "Wicked 3D",
+ "series": "Aliens",
+ "title": "Power Loader & Ripley",
+ "images": [
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-1.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-2.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-3.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-4.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-5.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-6.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-7.jpg",
+  "images/wicked/aliens/power-loader-and-ripley/power-loader-and-ripley-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ripley straps into the Power Loader, ready to tell the Queen to get away from her."
+},
+ {
+ "id": "wicked-aliens-rebecca-newt-jorden",
+ "artist": "Wicked 3D",
+ "series": "Aliens",
+ "title": "Rebecca Newt Jorden",
+ "images": [
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-1.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-2.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-3.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-4.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-5.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-6.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-7.jpg",
+  "images/wicked/aliens/rebecca-newt-jorden/rebecca-newt-jorden-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Newt screams in terror in her oversized jacket, from Aliens."
+},
+ {
+ "id": "wicked-aliens-queen-alien",
+ "artist": "Wicked 3D",
+ "series": "Aliens",
+ "title": "Queen Alien",
+ "images": [
+  "images/wicked/aliens/queen-alien/queen-alien-1.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-2.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-3.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-4.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-5.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-6.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-7.jpg",
+  "images/wicked/aliens/queen-alien/queen-alien-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Alien Queen rears up with her massive crested head and dripping jaws."
+},
+ {
+ "id": "wicked-aliens-facehugger",
+ "artist": "Wicked 3D",
+ "series": "Aliens",
+ "title": "Facehugger",
+ "images": [
+  "images/wicked/aliens/facehugger/facehugger-1.jpg",
+  "images/wicked/aliens/facehugger/facehugger-2.jpg",
+  "images/wicked/aliens/facehugger/facehugger-3.jpg",
+  "images/wicked/aliens/facehugger/facehugger-4.jpg",
+  "images/wicked/aliens/facehugger/facehugger-5.jpg",
+  "images/wicked/aliens/facehugger/facehugger-6.jpg",
+  "images/wicked/aliens/facehugger/facehugger-7.jpg",
+  "images/wicked/aliens/facehugger/facehugger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A Facehugger bursts from its egg, legs splayed and ready to latch on."
+},
+ {
+ "id": "wicked-avengers-m-o-d-o-k",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "M.O.D.O.K",
+ "images": [
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-1.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-2.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-3.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-4.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-5.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-6.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-7.jpg",
+  "images/wicked/avengers/m-o-d-o-k/m-o-d-o-k-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "M.O.D.O.K. hovers in his floating chair, enormous head and grin full of menace."
+},
+ {
+ "id": "wicked-x-men-iceman",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Iceman",
+ "images": [
+  "images/wicked/x-men/iceman/iceman-1.jpg",
+  "images/wicked/x-men/iceman/iceman-2.jpg",
+  "images/wicked/x-men/iceman/iceman-3.jpg",
+  "images/wicked/x-men/iceman/iceman-4.jpg",
+  "images/wicked/x-men/iceman/iceman-5.jpg",
+  "images/wicked/x-men/iceman/iceman-6.jpg",
+  "images/wicked/x-men/iceman/iceman-7.jpg",
+  "images/wicked/x-men/iceman/iceman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iceman in his icy form, frozen spikes and crystals shooting up around him."
+},
+ {
+ "id": "wicked-avengers-hulk-and-bruce-banner-sculptures-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hulk & Bruce Banner (Diorama)",
+ "images": [
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-1.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-2.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-3.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-4.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-5.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-6.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-7.jpg",
+  "images/wicked/avengers/hulk-and-bruce-banner-sculptures-diorama-complete/hulk-and-bruce-banner-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bruce Banner stands before the raging Hulk on a shared base in this diorama."
+},
+ {
+ "id": "wicked-avengers-bruce-banner",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Bruce Banner",
+ "images": [
+  "images/wicked/avengers/bruce-banner/bruce-banner-1.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-2.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-3.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-4.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-5.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-6.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-7.jpg",
+  "images/wicked/avengers/bruce-banner/bruce-banner-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bruce Banner adjusts his glasses with his satchel slung, the man behind the monster."
+},
+ {
+ "id": "wicked-avengers-hulk-2023",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hulk 2023",
+ "images": [
+  "images/wicked/avengers/hulk-2023/hulk-2023-1.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-2.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-3.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-4.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-5.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-6.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-7.jpg",
+  "images/wicked/avengers/hulk-2023/hulk-2023-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Incredible Hulk roars with fists clenched, on a glowing Hulk-branded base."
+},
+ {
+ "id": "wicked-mortal-kombat-sub-zero-vs-scorpion-diorama-spine-rip",
+ "artist": "Wicked 3D",
+ "series": "Mortal Kombat",
+ "title": "Sub Zero Vs Scorpion SPINE RIP (Diorama)",
+ "images": [
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-1.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-2.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-3.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-4.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-5.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-6.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-7.jpg",
+  "images/wicked/mortal-kombat/sub-zero-vs-scorpion-diorama-spine-rip/sub-zero-vs-scorpion-diorama-spine-rip-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sub-Zero rips out Scorpion's spine in this brutal Mortal Kombat fatality diorama."
+},
+ {
+ "id": "wicked-mortal-kombat-scorpion-vs-sub-zero-diorama-toasty",
+ "artist": "Wicked 3D",
+ "series": "Mortal Kombat",
+ "title": "Scorpion Vs Sub Zero TOASTY (Diorama)",
+ "images": [
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-1.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-2.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-3.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-4.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-5.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-6.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-7.jpg",
+  "images/wicked/mortal-kombat/scorpion-vs-sub-zero-diorama-toasty/scorpion-vs-sub-zero-diorama-toasty-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Scorpion unleashes hellfire on Sub-Zero in this explosive Mortal Kombat diorama. Toasty!"
+},
+ {
+ "id": "wicked-mortal-kombat-sub-zero",
+ "artist": "Wicked 3D",
+ "series": "Mortal Kombat",
+ "title": "Sub Zero",
+ "images": [
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-1.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-2.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-3.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-4.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-5.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-6.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-7.jpg",
+  "images/wicked/mortal-kombat/sub-zero/sub-zero-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sub-Zero summons a burst of ice, his blue mask and hood framing a frosty glare."
+},
+ {
+ "id": "wicked-mortal-kombat-scorpion",
+ "artist": "Wicked 3D",
+ "series": "Mortal Kombat",
+ "title": "Scorpion",
+ "images": [
+  "images/wicked/mortal-kombat/scorpion/scorpion-1.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-2.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-3.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-4.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-5.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-6.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-7.jpg",
+  "images/wicked/mortal-kombat/scorpion/scorpion-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Scorpion stands with his spear chain ready, flaming skull blazing behind his mask."
+},
+ {
+ "id": "wicked-avengers-iron-man-and-tony-stark-sculptures-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Tony Stark & Iron Man (Diorama)",
+ "images": [
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-1.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-2.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-3.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-4.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-5.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-6.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-7.jpg",
+  "images/wicked/avengers/iron-man-and-tony-stark-sculptures-diorama-complete/iron-man-and-tony-stark-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Tony Stark stands beside his Iron Man suit in this arc-reactor-lit diorama."
+},
+ {
+ "id": "wicked-avengers-tony-stark",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Tony Stark",
+ "images": [
+  "images/wicked/avengers/tony-stark/tony-stark-1.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-2.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-3.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-4.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-5.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-6.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-7.jpg",
+  "images/wicked/avengers/tony-stark/tony-stark-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Tony Stark adjusts his tie with a cocky grin on an arc-reactor base."
+},
+ {
+ "id": "wicked-avengers-iron-man-2023",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Iron Man",
+ "images": [
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-1.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-2.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-3.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-4.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-5.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-6.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-7.jpg",
+  "images/wicked/avengers/iron-man-2023/iron-man-2023-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Man stands tall in his gleaming armor on a glowing arc-reactor base."
+},
+ {
+ "id": "wicked-daredevil-daredevil-and-kingpin-sculptures-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Daredevil & Kingpin (Diorama)",
+ "images": [
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-1.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-2.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-3.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-4.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-5.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-6.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-7.jpg",
+  "images/wicked/daredevil/daredevil-and-kingpin-sculptures-diorama-complete/daredevil-and-kingpin-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Daredevil faces down Kingpin on his throne in this Hell's Kitchen diorama."
+},
+ {
+ "id": "wicked-kingpin-v1",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Kingpin",
+ "images": [
+  "images/wicked/daredevil/kingpin-v1/kingpin-v1-1.jpg",
+  "images/wicked/daredevil/kingpin-v1/kingpin-v1-2.jpg",
+  "images/wicked/daredevil/kingpin-v1/kingpin-v1-3.jpg",
+  "images/wicked/daredevil/kingpin-v1/kingpin-v1-4.jpg",
+  "images/wicked/daredevil/kingpin-v1/kingpin-v1-5.jpg",
+  "images/wicked/daredevil/kingpin-v1/kingpin-v1-6.jpg",
+  "images/wicked/daredevil/kingpin-v1/kingpin-v1-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kingpin stands imposing in his white suit and cane, the crime lord of New York."
+},
+ {
+ "id": "wicked-daredevil-v1",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Daredevil",
+ "images": [
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-1.jpg",
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-2.jpg",
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-3.jpg",
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-4.jpg",
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-5.jpg",
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-6.jpg",
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-7.jpg",
+  "images/wicked/daredevil/daredevil-v1/daredevil-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Daredevil stands in shadow, billy clubs in hand, on a Hell's Kitchen base."
+},
+ {
+ "id": "wicked-avengers-captain-america-and-steve-rogers-sculptures-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America (Diorama)",
+ "images": [
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-1.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-2.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-3.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-4.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-5.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-6.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-7.jpg",
+  "images/wicked/avengers/captain-america-and-steve-rogers-sculptures-diorama-complete/captain-america-and-steve-rogers-sculptures-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain America and Steve Rogers stand together in this First Avenger diorama."
+},
+ {
+ "id": "wicked-avengers-captain-america",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/avengers/captain-america/captain-america-1.jpg",
+  "images/wicked/avengers/captain-america/captain-america-2.jpg",
+  "images/wicked/avengers/captain-america/captain-america-3.jpg",
+  "images/wicked/avengers/captain-america/captain-america-4.jpg",
+  "images/wicked/avengers/captain-america/captain-america-5.jpg",
+  "images/wicked/avengers/captain-america/captain-america-6.jpg",
+  "images/wicked/avengers/captain-america/captain-america-7.jpg",
+  "images/wicked/avengers/captain-america/captain-america-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain America storms forward with his shield raised, in his WWII First Avenger uniform."
+},
+ {
+ "id": "wicked-avengers-steve-rogers",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Steve Rogers",
+ "images": [
+  "images/wicked/avengers/steve-rogers/steve-rogers-1.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-2.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-3.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-4.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-5.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-6.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-7.jpg",
+  "images/wicked/avengers/steve-rogers/steve-rogers-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Steve Rogers in his WWII uniform plants the flag, The First Avenger before the shield."
+},
+ {
+ "id": "wicked-power-rangers-tigerzord",
+ "artist": "Wicked 3D",
+ "series": "Power Rangers",
+ "title": "Tigerzord",
+ "images": [
+  "images/wicked/power-rangers/tigerzord/tigerzord-1.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-2.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-3.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-4.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-5.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-6.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-7.jpg",
+  "images/wicked/power-rangers/tigerzord/tigerzord-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The White Tigerzord stands battle-ready, the White Ranger's mighty mech."
+},
+ {
+ "id": "wicked-spider-man-spider-woman",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider Woman",
+ "images": [
+  "images/wicked/spider-man/spider-woman/spider-woman-1.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-2.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-3.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-4.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-5.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-6.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-7.jpg",
+  "images/wicked/spider-man/spider-woman/spider-woman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Woman crouches atop a traffic light in her red-and-yellow suit, ready to pounce."
+},
+ {
+ "id": "wicked-x-men-beast",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Beast",
+ "images": [
+  "images/wicked/x-men/beast/beast-1.jpg",
+  "images/wicked/x-men/beast/beast-2.jpg",
+  "images/wicked/x-men/beast/beast-3.jpg",
+  "images/wicked/x-men/beast/beast-4.jpg",
+  "images/wicked/x-men/beast/beast-5.jpg",
+  "images/wicked/x-men/beast/beast-6.jpg",
+  "images/wicked/x-men/beast/beast-7.jpg",
+  "images/wicked/x-men/beast/beast-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Beast roars with fangs bared, crouched atop a flaming base in his furry blue glory."
+},
+ {
+ "id": "wicked-power-rangers-power-ranger-green-and-power-ranger-white-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Power Rangers",
+ "title": "Power Ranger Green & Power Ranger White (Diorama)",
+ "images": [
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-1.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-2.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-3.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-4.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-5.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-6.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-7.jpg",
+  "images/wicked/power-rangers/power-ranger-green-and-power-ranger-white-diorama-complete/power-ranger-green-and-power-ranger-white-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Green and White Rangers team up on a shared base in this Power Rangers diorama."
+},
+ {
+ "id": "wicked-power-rangers-power-ranger-green",
+ "artist": "Wicked 3D",
+ "series": "Power Rangers",
+ "title": "Power Ranger Green",
+ "images": [
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-1.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-2.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-3.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-4.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-5.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-6.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-7.jpg",
+  "images/wicked/power-rangers/power-ranger-green/power-ranger-green-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Green Ranger raises his Dragon Dagger to his helmet, ready to summon the Dragonzord."
+},
+ {
+ "id": "wicked-power-rangers-power-ranger-white",
+ "artist": "Wicked 3D",
+ "series": "Power Rangers",
+ "title": "Power Ranger White",
+ "images": [
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-1.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-2.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-3.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-4.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-5.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-6.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-7.jpg",
+  "images/wicked/power-rangers/power-ranger-white/power-ranger-white-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The White Ranger stands ready with Saba, his talking tiger sword, in hand."
+},
+ {
+ "id": "wicked-x-men-deadpool-and-cable-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Cable & Deadpool (Diorama)",
+ "images": [
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-1.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-2.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-3.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-4.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-5.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-6.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-7.jpg",
+  "images/wicked/x-men/deadpool-and-cable-diorama-complete/deadpool-and-cable-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cable and Deadpool fight side by side amid gunfire and explosions in this X-Force diorama."
+},
+ {
+ "id": "wicked-x-men-cable",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Cable",
+ "images": [
+  "images/wicked/x-men/cable/cable-1.jpg",
+  "images/wicked/x-men/cable/cable-2.jpg",
+  "images/wicked/x-men/cable/cable-3.jpg",
+  "images/wicked/x-men/cable/cable-4.jpg",
+  "images/wicked/x-men/cable/cable-5.jpg",
+  "images/wicked/x-men/cable/cable-6.jpg",
+  "images/wicked/x-men/cable/cable-7.jpg",
+  "images/wicked/x-men/cable/cable-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cable stands battle-hardened with his bionic eye glowing and massive gun ready."
+},
+ {
+ "id": "wicked-deadpool-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Deadpool",
+ "images": [
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-1.jpg",
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-2.jpg",
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-3.jpg",
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-4.jpg",
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-5.jpg",
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-6.jpg",
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-7.jpg",
+  "images/wicked/x-men/deadpool-v1/deadpool-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Deadpool fires a pistol mid-leap as explosions burst behind him on a rubble base."
+},
+ {
+ "id": "wicked-avengers-the-sentry",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "The Sentry",
+ "images": [
+  "images/wicked/avengers/the-sentry/the-sentry-1.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-2.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-3.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-4.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-5.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-6.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-7.jpg",
+  "images/wicked/avengers/the-sentry/the-sentry-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Sentry crouches with his golden cape flaring, the hero with the power of a million exploding suns."
+},
+ {
+ "id": "wicked-x-men-jean-grey-and-cyclops-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Jean Grey & Cyclops (Diorama)",
+ "images": [
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-1.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-2.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-3.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-4.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-5.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-6.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-7.jpg",
+  "images/wicked/x-men/jean-grey-and-cyclops-diorama-complete/jean-grey-and-cyclops-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jean Grey and Cyclops fight side by side in this dynamic X-Men diorama."
+},
+ {
+ "id": "wicked-x-men-jean-grey",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Jean Grey",
+ "images": [
+  "images/wicked/x-men/jean-grey/jean-grey-1.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-2.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-3.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-4.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-5.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-6.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-7.jpg",
+  "images/wicked/x-men/jean-grey/jean-grey-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jean Grey channels a blazing pink telekinetic burst, red hair whipping in the psychic storm."
+},
+ {
+ "id": "wicked-super-mario-mario-and-luigi",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Mario & Luigi",
+ "images": [
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-1.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-2.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-3.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-4.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-5.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-6.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-7.jpg",
+  "images/wicked/super-mario/mario-and-luigi/mario-and-luigi-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Super Mario Bros. themselves, ready for a plumbing emergency: Mario with his pipe wrench, Luigi with his trusty plunger."
+},
+ {
+ "id": "wicked-super-mario-super-mario-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Super Mario (Diorama)",
+ "images": [
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-1.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-2.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-3.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-4.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-5.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-6.jpg",
+  "images/wicked/super-mario/super-mario-diorama-complete/super-mario-diorama-complete-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A towering Super Mario diorama of warp pipes, power-ups and every era of Mario, topped by a Super Star."
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-bros-movie",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Only Super Mario Bros Movie",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-bros-movie/only-super-mario-bros-movie-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mario from The Super Mario Bros. Movie reaches for a Super Star, mid-leap and grinning."
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-64",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Only Super Mario 64",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-64/only-super-mario-64-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wing Cap Mario soars beside Yoshi in this Super Mario 64 tribute."
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-world",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Only Super Mario World",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-world/only-super-mario-world-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cape Mario rides Yoshi past a question block in this Super Mario World tribute."
+},
+ {
+ "id": "wicked-super-mario-only-super-mario-bros-3",
+ "artist": "Wicked 3D",
+ "series": "Super Mario",
+ "title": "Only Super Mario Bros 3",
+ "images": [
+  "images/wicked/super-mario/only-super-mario-bros-3/only-super-mario-bros-3-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Raccoon Mario leaps from a warp pipe in this Super Mario Bros. 3 tribute."
+},
+  {
+ "id": "wicked-cyclops-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Cyclops",
+ "images": [
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-1.jpg",
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-2.jpg",
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-3.jpg",
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-4.jpg",
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-5.jpg",
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-6.jpg",
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-7.jpg",
+  "images/wicked/x-men/cyclops-v1/cyclops-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cyclops roars as he braces for battle, visor glowing, on an X-Men base."
+},
+ {
+ "id": "wicked-avengers-black-order-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Black Order (Diorama)",
+ "images": [
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-1.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-2.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-3.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-4.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-5.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-6.jpg",
+  "images/wicked/avengers/black-order-diorama-complete/black-order-diorama-complete-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thanos and his Black Order assemble on a rocky battlefield in this complete Infinity War diorama."
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-gandalf-and-balrog-diorama-complete",
+ "artist": "Wicked 3D",
+ "series": "The Lord of the Rings",
+ "title": "Gandalf vs Balrog (Diorama)",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-1.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-2.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-3.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-4.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-5.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-6.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-7.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf-and-balrog-diorama-complete/gandalf-and-balrog-diorama-complete-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gandalf stands on the Bridge of Khazad-dûm as the Balrog looms in flames. You shall not pass!"
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-balrog",
+ "artist": "Wicked 3D",
+ "series": "The Lord of the Rings",
+ "title": "Balrog",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-1.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-2.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-3.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-4.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-5.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-6.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-7.jpg",
+  "images/wicked/the-lord-of-the-rings/balrog/balrog-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Balrog of Khazad-dûm rages in fire and shadow, whip and sword in hand."
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-gandalf",
+ "artist": "Wicked 3D",
+ "series": "The Lord of the Rings",
+ "title": "Gandalf",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-1.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-2.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-3.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-4.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-5.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-6.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-7.jpg",
+  "images/wicked/the-lord-of-the-rings/gandalf/gandalf-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gandalf the Grey raises his glowing staff and Glamdring, ready to face the Balrog."
+},
+ {
+ "id": "wicked-avengers-lady-death-and-thanos-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Lady Death & Thanos (Diorama)",
+ "images": [
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-1.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-2.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-3.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-4.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-5.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-6.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-7.jpg",
+  "images/wicked/avengers/lady-death-and-thanos-diorama/lady-death-and-thanos-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thanos stands beside Lady Death, the object of his devotion, in this Infinity War diorama."
+},
+ {
+ "id": "wicked-avengers-lady-death",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Lady Death",
+ "images": [
+  "images/wicked/avengers/lady-death/lady-death-1.jpg",
+  "images/wicked/avengers/lady-death/lady-death-2.jpg",
+  "images/wicked/avengers/lady-death/lady-death-3.jpg",
+  "images/wicked/avengers/lady-death/lady-death-4.jpg",
+  "images/wicked/avengers/lady-death/lady-death-5.jpg",
+  "images/wicked/avengers/lady-death/lady-death-6.jpg",
+  "images/wicked/avengers/lady-death/lady-death-7.jpg",
+  "images/wicked/avengers/lady-death/lady-death-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Lady Death, Thanos's obsession, glides in her hooded robe with a skeletal face."
+},
+ {
+ "id": "wicked-avengers-thanos-comic",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Thanos Comic",
+ "images": [
+  "images/wicked/avengers/thanos-comic/thanos-comic-1.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-2.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-3.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-4.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-5.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-6.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-7.jpg",
+  "images/wicked/avengers/thanos-comic/thanos-comic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Thanos grins with his signature helmet, the Mad Titan in classic comic style."
+},
+ {
+ "id": "wicked-avengers-corvus-glaive",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Corvus Glaive",
+ "images": [
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-1.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-2.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-3.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-4.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-5.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-6.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-7.jpg",
+  "images/wicked/avengers/corvus-glaive/corvus-glaive-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Corvus Glaive crouches with his glaive spear, cloak spread, the Black Order's warrior."
+},
+ {
+ "id": "wicked-transformers-diorama-base-optimus-sculpture-megatron",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "BASE + Optimus + Megatron (Diorama)",
+ "images": [
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-1.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-2.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-3.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-4.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-5.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-6.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-7.jpg",
+  "images/wicked/transformers/diorama-base-optimus-sculpture-megatron/diorama-base-optimus-sculpture-megatron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Optimus Prime and Megatron face off on a shared base in this Transformers diorama."
+},
+ {
+ "id": "wicked-transformers-megatron",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "Megatron",
+ "images": [
+  "images/wicked/transformers/megatron/megatron-1.jpg",
+  "images/wicked/transformers/megatron/megatron-2.jpg",
+  "images/wicked/transformers/megatron/megatron-3.jpg",
+  "images/wicked/transformers/megatron/megatron-4.jpg",
+  "images/wicked/transformers/megatron/megatron-5.jpg",
+  "images/wicked/transformers/megatron/megatron-6.jpg",
+  "images/wicked/transformers/megatron/megatron-7.jpg",
+  "images/wicked/transformers/megatron/megatron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Megatron stands in robot mode with his fusion cannon, the leader of the Decepticons."
+},
+ {
+ "id": "wicked-transformers-megatron-gun",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "Megatron Gun",
+ "images": [
+  "images/wicked/transformers/megatron-gun/megatron-gun-1.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-2.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-3.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-4.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-5.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-6.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-7.jpg",
+  "images/wicked/transformers/megatron-gun/megatron-gun-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Megatron in his classic Walther P38 gun mode, on a Decepticon display base."
+},
+ {
+ "id": "wicked-storm-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Storm",
+ "images": [
+  "images/wicked/x-men/storm-v1/storm-v1-1.jpg",
+  "images/wicked/x-men/storm-v1/storm-v1-2.jpg",
+  "images/wicked/x-men/storm-v1/storm-v1-3.jpg",
+  "images/wicked/x-men/storm-v1/storm-v1-4.jpg",
+  "images/wicked/x-men/storm-v1/storm-v1-5.jpg",
+  "images/wicked/x-men/storm-v1/storm-v1-6.jpg",
+  "images/wicked/x-men/storm-v1/storm-v1-7.jpg",
+  "images/wicked/x-men/storm-v1/storm-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Storm soars on a crackle of lightning, white cape billowing and eyes glowing."
+},
+ {
+ "id": "wicked-thanos-v1",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Thanos",
+ "images": [
+  "images/wicked/avengers/thanos-v1/thanos-v1-1.jpg",
+  "images/wicked/avengers/thanos-v1/thanos-v1-2.jpg",
+  "images/wicked/avengers/thanos-v1/thanos-v1-3.jpg",
+  "images/wicked/avengers/thanos-v1/thanos-v1-4.jpg",
+  "images/wicked/avengers/thanos-v1/thanos-v1-5.jpg",
+  "images/wicked/avengers/thanos-v1/thanos-v1-6.jpg",
+  "images/wicked/avengers/thanos-v1/thanos-v1-7.jpg",
+  "images/wicked/avengers/thanos-v1/thanos-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thanos, the Mad Titan, stands in golden armor with the Infinity Gauntlet raised."
+},
+ {
+ "id": "wicked-street-fighter-street-fighter-diorama",
+ "artist": "Wicked 3D",
+ "series": "Street Fighter",
+ "title": "Street Fighter (Diorama)",
+ "images": [
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-1.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-2.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-3.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-4.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-5.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-6.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-7.jpg",
+  "images/wicked/street-fighter/street-fighter-diorama/street-fighter-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ryu and Ken face off with Hadoken and Shoryuken in this Street Fighter diorama."
+},
+ {
+ "id": "wicked-street-fighter-ken",
+ "artist": "Wicked 3D",
+ "series": "Street Fighter",
+ "title": "Ken Masters",
+ "images": [
+  "images/wicked/street-fighter/ken/ken-1.jpg",
+  "images/wicked/street-fighter/ken/ken-2.jpg",
+  "images/wicked/street-fighter/ken/ken-3.jpg",
+  "images/wicked/street-fighter/ken/ken-4.jpg",
+  "images/wicked/street-fighter/ken/ken-5.jpg",
+  "images/wicked/street-fighter/ken/ken-6.jpg",
+  "images/wicked/street-fighter/ken/ken-7.jpg",
+  "images/wicked/street-fighter/ken/ken-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ken Masters launches a flaming red Shoryuken in his signature red gi."
+},
+ {
+ "id": "wicked-street-fighter-ryu",
+ "artist": "Wicked 3D",
+ "series": "Street Fighter",
+ "title": "Ryu",
+ "images": [
+  "images/wicked/street-fighter/ryu/ryu-1.jpg",
+  "images/wicked/street-fighter/ryu/ryu-2.jpg",
+  "images/wicked/street-fighter/ryu/ryu-3.jpg",
+  "images/wicked/street-fighter/ryu/ryu-4.jpg",
+  "images/wicked/street-fighter/ryu/ryu-5.jpg",
+  "images/wicked/street-fighter/ryu/ryu-6.jpg",
+  "images/wicked/street-fighter/ryu/ryu-7.jpg",
+  "images/wicked/street-fighter/ryu/ryu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ryu fires a blue Hadoken as Ken counters with a blazing Shoryuken."
+},
+ {
+ "id": "wicked-avengers-proxima-midnight",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Proxima Midnight",
+ "images": [
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-1.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-2.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-3.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-4.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-5.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-6.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-7.jpg",
+  "images/wicked/avengers/proxima-midnight/proxima-midnight-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Proxima Midnight lunges with her triple-bladed spear, the Black Order's deadliest warrior."
+},
+ {
+ "id": "wicked-transformers-optimus-prime-truck",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "Optimus Prime Truck",
+ "images": [
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-1.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-2.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-3.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-4.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-5.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-6.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-7.jpg",
+  "images/wicked/transformers/optimus-prime-truck/optimus-prime-truck-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Optimus Prime in his iconic semi-truck alt mode, ready to roll out."
+},
+ {
+ "id": "wicked-transformers-optimus-prime",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "Optimus Prime",
+ "images": [
+  "images/wicked/transformers/optimus-prime/optimus-prime-1.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-2.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-3.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-4.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-5.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-6.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-7.jpg",
+  "images/wicked/transformers/optimus-prime/optimus-prime-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Optimus Prime stands tall in robot mode with his ion blaster raised."
+},
+ {
+ "id": "wicked-x-men-diorama-base-rogue-sculpture-gambit",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "BASE + Rogue + Gambit (Diorama)",
+ "images": [
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-1.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-2.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-3.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-4.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-5.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-6.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-7.jpg",
+  "images/wicked/x-men/diorama-base-rogue-sculpture-gambit/diorama-base-rogue-sculpture-gambit-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rogue and Gambit stand together before a giant X-Men emblem in this X-Men diorama."
+},
+ {
+ "id": "wicked-rogue-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Rogue",
+ "images": [
+  "images/wicked/x-men/rogue-v1/rogue-v1-1.jpg",
+  "images/wicked/x-men/rogue-v1/rogue-v1-2.jpg",
+  "images/wicked/x-men/rogue-v1/rogue-v1-3.jpg",
+  "images/wicked/x-men/rogue-v1/rogue-v1-4.jpg",
+  "images/wicked/x-men/rogue-v1/rogue-v1-5.jpg",
+  "images/wicked/x-men/rogue-v1/rogue-v1-6.jpg",
+  "images/wicked/x-men/rogue-v1/rogue-v1-7.jpg",
+  "images/wicked/x-men/rogue-v1/rogue-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rogue soars with her white streak flowing, fists raised over a Sentinel-themed base."
+},
+ {
+ "id": "wicked-avengers-ebony-maw",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Ebony Maw",
+ "images": [
+  "images/wicked/avengers/ebony-maw/ebony-maw-1.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-2.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-3.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-4.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-5.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-6.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-7.jpg",
+  "images/wicked/avengers/ebony-maw/ebony-maw-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ebony Maw floats with telekinetic debris swirling around him, the Black Order's cunning mind."
+},
+ {
+ "id": "wicked-avengers-cull-obsidian",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Cull Obsidian",
+ "images": [
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-1.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-2.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-3.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-4.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-5.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-6.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-7.jpg",
+  "images/wicked/avengers/cull-obsidian/cull-obsidian-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cull Obsidian roars with his massive chain-hammer, the brute of the Black Order."
+},
+ {
+ "id": "wicked-x-men-x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "x Uncle Jessy: Magneto Helmet 1:1 scale for 3d Printing",
+ "images": [
+  "images/wicked/x-men/x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing/x-uncle-jessy-magneto-helmet-1-1-scale-for-3d-printing-1.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/1 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A wearable 1:1 scale Magneto helmet, made with Uncle Jessy, ready to print."
+},
+ {
+ "id": "wicked-jingle-all-the-way-turboman",
+ "artist": "Wicked 3D",
+ "series": "Jingle All the Way",
+ "title": "Turboman",
+ "images": [
+  "images/wicked/jingle-all-the-way/turboman/turboman-1.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-2.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-3.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-4.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-5.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-6.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-7.jpg",
+  "images/wicked/jingle-all-the-way/turboman/turboman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Turboman strikes his heroic pose in gold-and-blue armor, the must-have toy of Jingle All the Way."
+},
+ {
+ "id": "wicked-die-hard-john-mcclane",
+ "artist": "Wicked 3D",
+ "series": "Die Hard",
+ "title": "John McClane",
+ "images": [
+  "images/wicked/die-hard/john-mcclane/john-mcclane-1.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-2.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-3.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-4.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-5.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-6.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-7.jpg",
+  "images/wicked/die-hard/john-mcclane/john-mcclane-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "John McClane in his bloodied tank top, MP5 in hand. Yippee-ki-yay!"
+},
+ {
+ "id": "wicked-spider-man-man-spider",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Man Spider",
+ "images": [
+  "images/wicked/spider-man/man-spider/man-spider-1.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-2.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-3.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-4.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-5.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-6.jpg",
+  "images/wicked/spider-man/man-spider/man-spider-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Man-Spider, Peter Parker's monstrous mutation, crouches with extra limbs splayed, shown in three angles."
+},
+ {
+ "id": "wicked-thor-gorr",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Gorr",
+ "images": [
+  "images/wicked/thor/gorr/gorr-1.jpg",
+  "images/wicked/thor/gorr/gorr-2.jpg",
+  "images/wicked/thor/gorr/gorr-3.jpg",
+  "images/wicked/thor/gorr/gorr-4.jpg",
+  "images/wicked/thor/gorr/gorr-5.jpg",
+  "images/wicked/thor/gorr/gorr-6.jpg",
+  "images/wicked/thor/gorr/gorr-7.jpg",
+  "images/wicked/thor/gorr/gorr-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gorr the God Butcher stands in pale robes with the Necrosword, his gaunt face full of menace."
+},
+ {
+ "id": "wicked-devil-may-cry-dante-and-vergil-diorama",
+ "artist": "Wicked 3D",
+ "series": "Devil May Cry",
+ "title": "Dante & Vergil (Diorama)",
+ "images": [
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-1.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-2.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-3.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-4.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-5.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-6.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-7.jpg",
+  "images/wicked/devil-may-cry/dante-and-vergil-diorama/dante-and-vergil-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dante and Vergil clash blade-to-blade in this Devil May Cry brothers diorama."
+},
+ {
+ "id": "wicked-x-men-magneto-and-xavier-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Magneto & Xavier (Diorama)",
+ "images": [
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-1.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-2.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-3.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-4.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-5.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-6.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-7.jpg",
+  "images/wicked/x-men/magneto-and-xavier-diorama/magneto-and-xavier-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Magneto and Professor X face each other in their magnetic spheres in this X-Men diorama."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-ronan",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Ronan",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/ronan/ronan-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ronan the Accuser grips his Universal Weapon hammer, hooded and stern in his Kree robes."
+},
+ {
+ "id": "wicked-devil-may-cry-vergil",
+ "artist": "Wicked 3D",
+ "series": "Devil May Cry",
+ "title": "Vergil",
+ "images": [
+  "images/wicked/devil-may-cry/vergil/vergil-1.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-2.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-3.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-4.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-5.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-6.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-7.jpg",
+  "images/wicked/devil-may-cry/vergil/vergil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Vergil, Dante's twin, stands cold and composed in his long blue coat with Yamato drawn."
+},
+ {
+ "id": "wicked-devil-may-cry-dante",
+ "artist": "Wicked 3D",
+ "series": "Devil May Cry",
+ "title": "Dante",
+ "images": [
+  "images/wicked/devil-may-cry/dante/dante-1.jpg",
+  "images/wicked/devil-may-cry/dante/dante-2.jpg",
+  "images/wicked/devil-may-cry/dante/dante-3.jpg",
+  "images/wicked/devil-may-cry/dante/dante-4.jpg",
+  "images/wicked/devil-may-cry/dante/dante-5.jpg",
+  "images/wicked/devil-may-cry/dante/dante-6.jpg",
+  "images/wicked/devil-may-cry/dante/dante-7.jpg",
+  "images/wicked/devil-may-cry/dante/dante-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dante stands in his red coat with Rebellion slung on his back and a cocky grin."
+},
+ {
+ "id": "wicked-x-men-charles-xavier",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Professor Charles Xavier",
+ "images": [
+  "images/wicked/x-men/charles-xavier/charles-xavier-1.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-2.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-3.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-4.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-5.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-6.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-7.jpg",
+  "images/wicked/x-men/charles-xavier/charles-xavier-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Professor X sits in his hover chair, fingers to his temple, deep in psychic concentration."
+},
+ {
+ "id": "wicked-magneto-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Magneto",
+ "images": [
+  "images/wicked/x-men/magneto-v1/magneto-v1-1.jpg",
+  "images/wicked/x-men/magneto-v1/magneto-v1-2.jpg",
+  "images/wicked/x-men/magneto-v1/magneto-v1-3.jpg",
+  "images/wicked/x-men/magneto-v1/magneto-v1-4.jpg",
+  "images/wicked/x-men/magneto-v1/magneto-v1-5.jpg",
+  "images/wicked/x-men/magneto-v1/magneto-v1-6.jpg",
+  "images/wicked/x-men/magneto-v1/magneto-v1-7.jpg",
+  "images/wicked/x-men/magneto-v1/magneto-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Magneto stands within a magnetic sphere, his helmet and stern expression shown in close detail."
+},
+ {
+ "id": "wicked-kraven-v1",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Kraven the Hunter",
+ "images": [
+  "images/wicked/spider-man/kraven-v1/kraven-v1-1.jpg",
+  "images/wicked/spider-man/kraven-v1/kraven-v1-2.jpg",
+  "images/wicked/spider-man/kraven-v1/kraven-v1-3.jpg",
+  "images/wicked/spider-man/kraven-v1/kraven-v1-4.jpg",
+  "images/wicked/spider-man/kraven-v1/kraven-v1-5.jpg",
+  "images/wicked/spider-man/kraven-v1/kraven-v1-6.jpg",
+  "images/wicked/spider-man/kraven-v1/kraven-v1-7.jpg",
+  "images/wicked/spider-man/kraven-v1/kraven-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kraven the Hunter stalks with his rifle and lion vest, on a skull-strewn hunting base."
+},
+ {
+ "id": "wicked-the-shining-jack-torrance",
+ "artist": "Wicked 3D",
+ "series": "The Shining",
+ "title": "Jack Torrance",
+ "images": [
+  "images/wicked/the-shining/jack-torrance/jack-torrance-1.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-2.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-3.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-4.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-5.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-6.jpg",
+  "images/wicked/the-shining/jack-torrance/jack-torrance-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jack Torrance grins maniacally, axe in hand. Here's Johnny!"
+},
+ {
+ "id": "wicked-avengers-crossbones",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Crossbones",
+ "images": [
+  "images/wicked/avengers/crossbones/crossbones-1.jpg",
+  "images/wicked/avengers/crossbones/crossbones-2.jpg",
+  "images/wicked/avengers/crossbones/crossbones-3.jpg",
+  "images/wicked/avengers/crossbones/crossbones-4.jpg",
+  "images/wicked/avengers/crossbones/crossbones-5.jpg",
+  "images/wicked/avengers/crossbones/crossbones-6.jpg",
+  "images/wicked/avengers/crossbones/crossbones-7.jpg",
+  "images/wicked/avengers/crossbones/crossbones-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Crossbones stands armored with gauntlet blasters raised, on a Hydra-eagle base."
+},
+ {
+ "id": "wicked-avengers-red-skull",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Red Skull",
+ "images": [
+  "images/wicked/avengers/red-skull/red-skull-1.jpg",
+  "images/wicked/avengers/red-skull/red-skull-2.jpg",
+  "images/wicked/avengers/red-skull/red-skull-3.jpg",
+  "images/wicked/avengers/red-skull/red-skull-4.jpg",
+  "images/wicked/avengers/red-skull/red-skull-5.jpg",
+  "images/wicked/avengers/red-skull/red-skull-6.jpg",
+  "images/wicked/avengers/red-skull/red-skull-7.jpg",
+  "images/wicked/avengers/red-skull/red-skull-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Red Skull in his Hydra officer's uniform and cap, gripping the Tesseract on a Hydra base."
+},
+ {
+ "id": "wicked-a-nightmare-on-elm-street-fredy-krueger",
+ "artist": "Wicked 3D",
+ "series": "A Nightmare on Elm Street",
+ "title": "Freddy Krueger",
+ "images": [
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-1.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-2.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-3.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-4.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-5.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-6.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-7.jpg",
+  "images/wicked/a-nightmare-on-elm-street/fredy-krueger/fredy-krueger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Freddy Krueger flexes his bladed glove in his fedora and striped sweater, ready to haunt your dreams."
+},
+ {
+ "id": "wicked-thor-thor-avengers-diorama",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Thor (Avengers) (Diorama)",
+ "images": [
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-1.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-2.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-3.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-4.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-5.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-6.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-7.jpg",
+  "images/wicked/thor/thor-avengers-diorama/thor-avengers-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thor stands with Mjolnir in hand and cape flowing, from the Avengers Assemble collection."
+},
+ {
+ "id": "wicked-thor-beta-ray-bill",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Beta Ray Bill",
+ "images": [
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-1.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-2.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-3.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-4.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-5.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-6.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-7.jpg",
+  "images/wicked/thor/beta-ray-bill/beta-ray-bill-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Beta Ray Bill raises Stormbreaker, his horse-like face fierce beneath his crested helm."
+},
+ {
+ "id": "wicked-x-men-juggernaut-and-colossus-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Juggernaut vs Colossus",
+ "images": [
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-1.jpg",
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-2.jpg",
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-3.jpg",
+  "images/wicked/x-men/juggernaut-and-colossus-diorama/juggernaut-and-colossus-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Juggernaut and Colossus clash in a brutal brick-wall brawl in this X-Men diorama."
+},
+ {
+ "id": "wicked-avengers-iron-man",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Iron Man",
+ "images": [
+  "images/wicked/avengers/iron-man/iron-man-1.jpg",
+  "images/wicked/avengers/iron-man/iron-man-2.jpg",
+  "images/wicked/avengers/iron-man/iron-man-3.jpg",
+  "images/wicked/avengers/iron-man/iron-man-4.jpg",
+  "images/wicked/avengers/iron-man/iron-man-5.jpg",
+  "images/wicked/avengers/iron-man/iron-man-6.jpg",
+  "images/wicked/avengers/iron-man/iron-man-7.jpg",
+  "images/wicked/avengers/iron-man/iron-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Man stands tall in his Avengers armor, arc reactor glowing."
+},
+ {
+ "id": "wicked-x-men-colossus",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Colossus",
+ "images": [
+  "images/wicked/x-men/colossus/colossus-1.jpg",
+  "images/wicked/x-men/colossus/colossus-2.jpg",
+  "images/wicked/x-men/colossus/colossus-3.jpg",
+  "images/wicked/x-men/colossus/colossus-4.jpg",
+  "images/wicked/x-men/colossus/colossus-5.jpg",
+  "images/wicked/x-men/colossus/colossus-6.jpg",
+  "images/wicked/x-men/colossus/colossus-7.jpg",
+  "images/wicked/x-men/colossus/colossus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Colossus flexes his organic steel, smashing through debris as he charges into battle."
+},
+ {
+ "id": "wicked-predator-predator-and-naru-diorama",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Predator & Naru (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-1.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-2.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-3.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-4.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-5.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-6.jpg",
+  "images/wicked/predator/predator-and-naru-diorama/predator-and-naru-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Naru faces down the Feral Predator in this Prey-inspired Predator diorama."
+},
+ {
+ "id": "wicked-predator-predator",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Predator",
+ "images": [
+  "images/wicked/predator/predator/predator-1.jpg",
+  "images/wicked/predator/predator/predator-2.jpg",
+  "images/wicked/predator/predator/predator-3.jpg",
+  "images/wicked/predator/predator/predator-4.jpg",
+  "images/wicked/predator/predator/predator-5.jpg",
+  "images/wicked/predator/predator/predator-6.jpg",
+  "images/wicked/predator/predator/predator-7.jpg",
+  "images/wicked/predator/predator/predator-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Feral Predator from Prey stands with his skull-masked helm and bone trophies."
+},
+ {
+ "id": "wicked-predator-naru",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Naru",
+ "images": [
+  "images/wicked/predator/naru/naru-1.jpg",
+  "images/wicked/predator/naru/naru-2.jpg",
+  "images/wicked/predator/naru/naru-3.jpg",
+  "images/wicked/predator/naru/naru-4.jpg",
+  "images/wicked/predator/naru/naru-5.jpg",
+  "images/wicked/predator/naru/naru-6.jpg",
+  "images/wicked/predator/naru/naru-7.jpg",
+  "images/wicked/predator/naru/naru-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Naru, the Comanche warrior from Prey, readies her tomahawk on a Predator base."
+},
+ {
+ "id": "wicked-x-men-nova",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Nova",
+ "images": [
+  "images/wicked/x-men/nova/nova-1.jpg",
+  "images/wicked/x-men/nova/nova-2.jpg",
+  "images/wicked/x-men/nova/nova-3.jpg",
+  "images/wicked/x-men/nova/nova-4.jpg",
+  "images/wicked/x-men/nova/nova-5.jpg",
+  "images/wicked/x-men/nova/nova-6.jpg",
+  "images/wicked/x-men/nova/nova-7.jpg",
+  "images/wicked/x-men/nova/nova-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Nova blazes across the sky in his golden-helmeted Nova Corps uniform, energy streaming."
+},
+ {
+ "id": "wicked-doom-doom-slayer-diorama",
+ "artist": "Wicked 3D",
+ "series": "Doom",
+ "title": "Doom Slayer (Diorama)",
+ "images": [
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-1.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-2.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-3.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-4.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-5.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-6.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-7.jpg",
+  "images/wicked/doom/doom-slayer-diorama/doom-slayer-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Doom Slayer stands over a slain demon in a hellish red diorama, ready to rip and tear."
+},
+ {
+ "id": "wicked-x-men-juggernaut",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Juggernaut",
+ "images": [
+  "images/wicked/x-men/juggernaut/juggernaut-1.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-2.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-3.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-4.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-5.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-6.jpg",
+  "images/wicked/x-men/juggernaut/juggernaut-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Juggernaut smashes through a brick wall, unstoppable in his helmet and armor."
+},
+ {
+ "id": "wicked-avengers-hulk-avengers-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hulk (Avengers) (Diorama)",
+ "images": [
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-1.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-2.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-3.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-4.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-5.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-6.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-7.jpg",
+  "images/wicked/avengers/hulk-avengers-diorama/hulk-avengers-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Hulk roars as he leaps into battle, from the Avengers Assemble collection."
+},
+ {
+ "id": "wicked-avengers-hawkeye-avengers-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hawkeye",
+ "images": [
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-1.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-2.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-3.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-4.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-5.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-6.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-7.jpg",
+  "images/wicked/avengers/hawkeye-avengers-diorama/hawkeye-avengers-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Hawkeye draws back his bow in a tense close-up, from the Avengers Assemble collection."
+},
+ {
+ "id": "wicked-avengers-black-widow",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Black Widow",
+ "images": [
+  "images/wicked/avengers/black-widow/black-widow-1.jpg",
+  "images/wicked/avengers/black-widow/black-widow-2.jpg",
+  "images/wicked/avengers/black-widow/black-widow-3.jpg",
+  "images/wicked/avengers/black-widow/black-widow-4.jpg",
+  "images/wicked/avengers/black-widow/black-widow-5.jpg",
+  "images/wicked/avengers/black-widow/black-widow-6.jpg",
+  "images/wicked/avengers/black-widow/black-widow-7.jpg",
+  "images/wicked/avengers/black-widow/black-widow-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Widow stands poised with pistols drawn, from the Avengers Assemble collection."
+},
+ {
+ "id": "wicked-avengers-captain-america-first-avenger",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-1.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-2.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-3.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-4.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-5.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-6.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-7.jpg",
+  "images/wicked/avengers/captain-america-first-avenger/captain-america-first-avenger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain America: The First Avenger stands proud in his WWII uniform, shield on his arm."
+},
+ {
+ "id": "wicked-fantastic-four-4f-diorama",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Fantastic 4 (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-1.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-2.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-3.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-4.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-5.jpg",
+  "images/wicked/fantastic-four/4f-diorama/4f-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The whole Fantastic Four team up together on a shared base in this complete F4 diorama."
+},
+ {
+ "id": "wicked-x-men-archangel",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Archangel",
+ "images": [
+  "images/wicked/x-men/archangel/archangel-1.jpg",
+  "images/wicked/x-men/archangel/archangel-2.jpg",
+  "images/wicked/x-men/archangel/archangel-3.jpg",
+  "images/wicked/x-men/archangel/archangel-4.jpg",
+  "images/wicked/x-men/archangel/archangel-5.jpg",
+  "images/wicked/x-men/archangel/archangel-6.jpg",
+  "images/wicked/x-men/archangel/archangel-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Archangel stands with his bladed metal wings spread, the deadly Horseman of Apocalypse."
+},
+ {
+ "id": "wicked-fantastic-four-dr-doom-f4-diorama-version",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Doctor Doom (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-1.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-2.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-3.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-4.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-5.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-6.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-7.jpg",
+  "images/wicked/fantastic-four/dr-doom-f4-diorama-version/dr-doom-f4-diorama-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Doom unleashes green energy from his gauntlet, cloak sweeping, in this Fantastic Four diorama version."
+},
+ {
+ "id": "wicked-fantastic-four-reed-richards",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Reed Richards",
+ "images": [
+  "images/wicked/fantastic-four/reed-richards/reed-richards-1.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-2.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-3.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-4.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-5.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-6.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-7.jpg",
+  "images/wicked/fantastic-four/reed-richards/reed-richards-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mister Fantastic stretches his elastic limbs into action, on a Fantastic Four base."
+},
+ {
+ "id": "wicked-fantastic-four-susan-storm",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Susan Storm",
+ "images": [
+  "images/wicked/fantastic-four/susan-storm/susan-storm-1.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-2.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-3.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-4.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-5.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-6.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-7.jpg",
+  "images/wicked/fantastic-four/susan-storm/susan-storm-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sue Storm rises with force fields shimmering around her, on a Fantastic Four base."
+},
+ {
+ "id": "wicked-avengers-captain-marvel",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain Marvel",
+ "images": [
+  "images/wicked/avengers/captain-marvel/captain-marvel-1.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-2.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-3.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-4.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-5.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-6.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-7.jpg",
+  "images/wicked/avengers/captain-marvel/captain-marvel-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain Marvel roars with power, binary energy blazing around her as she rises."
+},
+ {
+ "id": "wicked-moon-knight-moon-knight-diorama-base-and-logo",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "Moon Knight Base & Logo (Diorama)",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-1.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-2.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-3.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-4.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-5.jpg",
+  "images/wicked/moon-knight/moon-knight-diorama-base-and-logo/moon-knight-diorama-base-and-logo-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The crescent-moon diorama base and logo for the Moon Knight set, ready to display your figures."
+},
+ {
+ "id": "wicked-moon-knight-scarlet-scarab",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "Scarlet Scarab",
+ "images": [
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-1.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-2.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-3.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-4.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-5.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-6.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-7.jpg",
+  "images/wicked/moon-knight/scarlet-scarab/scarlet-scarab-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Scarlet Scarab spreads her golden wings on a Moon Knight base, curls framing her fierce look."
+},
+ {
+ "id": "wicked-fantastic-four-jhonny-storm-human-torch",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Human Torch [Johnny Storm]",
+ "images": [
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-1.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-2.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-3.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-4.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-5.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-6.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-7.jpg",
+  "images/wicked/fantastic-four/jhonny-storm-human-torch/jhonny-storm-human-torch-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Human Torch flames on, fire licking up his body as he rises from a burning base."
+},
+ {
+ "id": "wicked-avengers-war-machine",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "War Machine",
+ "images": [
+  "images/wicked/avengers/war-machine/war-machine-1.jpg",
+  "images/wicked/avengers/war-machine/war-machine-2.jpg",
+  "images/wicked/avengers/war-machine/war-machine-3.jpg",
+  "images/wicked/avengers/war-machine/war-machine-4.jpg",
+  "images/wicked/avengers/war-machine/war-machine-5.jpg",
+  "images/wicked/avengers/war-machine/war-machine-6.jpg",
+  "images/wicked/avengers/war-machine/war-machine-7.jpg",
+  "images/wicked/avengers/war-machine/war-machine-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "War Machine stands armed to the teeth atop a massive war tank, shoulder cannon ready."
+},
+ {
+ "id": "wicked-moon-knight-khonshu",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "Khonshu",
+ "images": [
+  "images/wicked/moon-knight/khonshu/khonshu-1.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-2.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-3.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-4.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-5.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-6.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-7.jpg",
+  "images/wicked/moon-knight/khonshu/khonshu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Khonshu, the bird-skulled god of the moon, towers in bandage-wrapped robes with his crescent-topped staff in hand."
+},
+ {
+ "id": "wicked-moon-knight-mr-knight",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "Mr Knight",
+ "images": [
+  "images/wicked/moon-knight/mr-knight/mr-knight-1.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-2.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-3.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-4.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-5.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-6.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-7.jpg",
+  "images/wicked/moon-knight/mr-knight/mr-knight-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mr. Knight in his crisp white three-piece suit and mask, the dapper side of Moon Knight."
+},
+ {
+ "id": "wicked-moon-knight-v2",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "Moon Knight",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-1.jpg",
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-2.jpg",
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-3.jpg",
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-4.jpg",
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-5.jpg",
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-6.jpg",
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-7.jpg",
+  "images/wicked/moon-knight/moon-knight-v2/moon-knight-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Moon Knight stands hooded in his white cloak and crescent darts, beside Mr. Knight in his sharp suit."
+},
+ {
+ "id": "wicked-moon-knight-war-tank",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "War Tank",
+ "images": [
+  "images/wicked/moon-knight/war-tank/war-tank-1.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-2.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-3.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-4.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-5.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-6.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-7.jpg",
+  "images/wicked/moon-knight/war-tank/war-tank-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A massive Moon Knight-themed war tank bristles with armor and cannons."
+},
+ {
+ "id": "wicked-spider-man-jack-o-lantern",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Jack O'Lantern",
+ "images": [
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-1.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-2.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-3.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-4.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-5.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-6.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-7.jpg",
+  "images/wicked/spider-man/jack-o-lantern/jack-o-lantern-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jack O'Lantern rides his glider with a flaming pumpkin head and scythe in hand."
+},
+ {
+ "id": "wicked-fantastic-four-the-thing",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "The Thing",
+ "images": [
+  "images/wicked/fantastic-four/the-thing/the-thing-1.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-2.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-3.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-4.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-5.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-6.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-7.jpg",
+  "images/wicked/fantastic-four/the-thing/the-thing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Thing flexes his rocky orange fists, ready for clobberin' time."
+},
+ {
+ "id": "wicked-avengers-ant-man-and-wasp-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Ant Man & Wasp (Diorama)",
+ "images": [
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-1.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-2.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-3.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-4.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-5.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-6.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-7.jpg",
+  "images/wicked/avengers/ant-man-and-wasp-diorama/ant-man-and-wasp-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ant-Man and the Wasp ride their ant mounts into battle in this Quantumania-inspired diorama."
+},
+ {
+ "id": "wicked-the-wasp-v1",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "The Wasp",
+ "images": [
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-1.jpg",
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-2.jpg",
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-3.jpg",
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-4.jpg",
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-5.jpg",
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-6.jpg",
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-7.jpg",
+  "images/wicked/avengers/the-wasp-v1/the-wasp-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Wasp flutters into flight with her wings spread, on a red hex base."
+},
+ {
+ "id": "wicked-avengers-ant-man",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Ant Man",
+ "images": [
+  "images/wicked/avengers/ant-man/ant-man-1.jpg",
+  "images/wicked/avengers/ant-man/ant-man-2.jpg",
+  "images/wicked/avengers/ant-man/ant-man-3.jpg",
+  "images/wicked/avengers/ant-man/ant-man-4.jpg",
+  "images/wicked/avengers/ant-man/ant-man-5.jpg",
+  "images/wicked/avengers/ant-man/ant-man-6.jpg",
+  "images/wicked/avengers/ant-man/ant-man-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ant-Man leaps into action from a red hex base, shown in three poses."
+},
+ {
+ "id": "wicked-avengers-wanda-and-vision-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Wanda & Vision (Diorama)",
+ "images": [
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-1.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-2.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-3.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-4.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-5.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-6.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-7.jpg",
+  "images/wicked/avengers/wanda-and-vision-diorama/wanda-and-vision-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wanda and Vision stand together amid swirling chaos magic in this WandaVision diorama."
+},
+ {
+ "id": "wicked-fantastic-four-silver-surfer",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Silver Surfer",
+ "images": [
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-1.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-2.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-3.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-4.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-5.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-6.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-7.jpg",
+  "images/wicked/fantastic-four/silver-surfer/silver-surfer-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Silver Surfer rides his cosmic board through space, chrome body gleaming."
+},
+ {
+ "id": "wicked-avengers-vision",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Vision",
+ "images": [
+  "images/wicked/avengers/vision/vision-1.jpg",
+  "images/wicked/avengers/vision/vision-2.jpg",
+  "images/wicked/avengers/vision/vision-3.jpg",
+  "images/wicked/avengers/vision/vision-4.jpg",
+  "images/wicked/avengers/vision/vision-5.jpg",
+  "images/wicked/avengers/vision/vision-6.jpg",
+  "images/wicked/avengers/vision/vision-7.jpg",
+  "images/wicked/avengers/vision/vision-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Vision bursts upward with the Mind Stone blazing, cape flowing behind him."
+},
+ {
+ "id": "wicked-avengers-wanda",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Wanda",
+ "images": [
+  "images/wicked/avengers/wanda/wanda-1.jpg",
+  "images/wicked/avengers/wanda/wanda-2.jpg",
+  "images/wicked/avengers/wanda/wanda-3.jpg",
+  "images/wicked/avengers/wanda/wanda-4.jpg",
+  "images/wicked/avengers/wanda/wanda-5.jpg",
+  "images/wicked/avengers/wanda/wanda-6.jpg",
+  "images/wicked/avengers/wanda/wanda-7.jpg",
+  "images/wicked/avengers/wanda/wanda-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wanda summons crimson chaos magic in her Scarlet Witch costume."
+},
+ {
+ "id": "wicked-blade-blade",
+ "artist": "Wicked 3D",
+ "series": "Blade",
+ "title": "Blade",
+ "images": [
+  "images/wicked/blade/blade/blade-1.jpg",
+  "images/wicked/blade/blade/blade-2.jpg",
+  "images/wicked/blade/blade/blade-3.jpg",
+  "images/wicked/blade/blade/blade-4.jpg",
+  "images/wicked/blade/blade/blade-5.jpg",
+  "images/wicked/blade/blade/blade-6.jpg",
+  "images/wicked/blade/blade/blade-7.jpg",
+  "images/wicked/blade/blade/blade-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Blade slashes through a horde of vampires with sword drawn and shades on."
+},
+ {
+ "id": "wicked-fantastic-four-galactus",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Galactus",
+ "images": [
+  "images/wicked/fantastic-four/galactus/galactus-1.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-2.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-3.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-4.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-5.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-6.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-7.jpg",
+  "images/wicked/fantastic-four/galactus/galactus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Galactus, Devourer of Worlds, looms with his towering helmet, a planet in his grasp."
+},
+ {
+ "id": "wicked-spider-man-green-goblin",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Green Goblin",
+ "images": [
+  "images/wicked/spider-man/green-goblin/green-goblin-1.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-2.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-3.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-4.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-5.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-6.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-7.jpg",
+  "images/wicked/spider-man/green-goblin/green-goblin-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Green Goblin rides his glider in No Way Home armor, pumpkin bomb ready."
+},
+ {
+ "id": "wicked-spider-man-spiderman-tom-holland",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spiderman (Tom Holland)",
+ "images": [
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-1.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-2.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-3.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-4.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-5.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-6.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-7.jpg",
+  "images/wicked/spider-man/spiderman-tom-holland/spiderman-tom-holland-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Tom Holland's Spider-Man crouches in the Iron Spider suit with spider legs deployed."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-nebula",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Nebula",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/nebula/nebula-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Nebula stands battle-ready with her shock batons, cybernetic face plate gleaming."
+},
+ {
+ "id": "wicked-x-men-mr-sinister",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Mr. Sinister",
+ "images": [
+  "images/wicked/x-men/mr-sinister/mr-sinister-1.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-2.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-3.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-4.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-5.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-6.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-7.jpg",
+  "images/wicked/x-men/mr-sinister/mr-sinister-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mr. Sinister grins with green energy flaring from both hands, cape spread wide."
+},
+ {
+ "id": "wicked-gambit-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Gambit",
+ "images": [
+  "images/wicked/x-men/gambit-v1/gambit-v1-1.jpg",
+  "images/wicked/x-men/gambit-v1/gambit-v1-2.jpg",
+  "images/wicked/x-men/gambit-v1/gambit-v1-3.jpg",
+  "images/wicked/x-men/gambit-v1/gambit-v1-4.jpg",
+  "images/wicked/x-men/gambit-v1/gambit-v1-5.jpg",
+  "images/wicked/x-men/gambit-v1/gambit-v1-6.jpg",
+  "images/wicked/x-men/gambit-v1/gambit-v1-7.jpg",
+  "images/wicked/x-men/gambit-v1/gambit-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gambit charges a pink kinetic card in a detailed close-up and full-figure sculpt."
+},
+ {
+ "id": "wicked-spider-man-electro",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Electro",
+ "images": [
+  "images/wicked/spider-man/electro/electro-1.jpg",
+  "images/wicked/spider-man/electro/electro-2.jpg",
+  "images/wicked/spider-man/electro/electro-3.jpg",
+  "images/wicked/spider-man/electro/electro-4.jpg",
+  "images/wicked/spider-man/electro/electro-5.jpg",
+  "images/wicked/spider-man/electro/electro-6.jpg",
+  "images/wicked/spider-man/electro/electro-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Electro crackles with lightning on a No Way Home base, one of the three villains."
+},
+ {
+ "id": "wicked-spider-man-spider-man-andrew-garfield",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider man (Andrew Garfield)",
+ "images": [
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-1.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-2.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-3.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-4.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-5.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-6.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-7.jpg",
+  "images/wicked/spider-man/spider-man-andrew-garfield/spider-man-andrew-garfield-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Andrew Garfield's Amazing Spider-Man swings into action, one of three No Way Home Spider-Men."
+},
+ {
+ "id": "wicked-spider-man-spider-man-sculpture-tobey",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider man Sculpture (Tobey)",
+ "images": [
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-1.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-2.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-3.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-4.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-5.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-6.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-7.jpg",
+  "images/wicked/spider-man/spider-man-sculpture-tobey/spider-man-sculpture-tobey-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Tobey Maguire's Spider-Man crouches on a web-slinging perch, from No Way Home."
+},
+ {
+ "id": "wicked-spider-man-dr-octupus",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Doctor Octopus",
+ "images": [
+  "images/wicked/spider-man/dr-octupus/dr-octupus-1.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-2.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-3.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-4.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-5.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-6.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-7.jpg",
+  "images/wicked/spider-man/dr-octupus/dr-octupus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Octopus grimaces as his mechanical tentacles coil around him, in his No Way Home look."
+},
+ {
+ "id": "wicked-omega-red-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Omega Red",
+ "images": [
+  "images/wicked/x-men/omega-red-v1/omega-red-v1-1.jpg",
+  "images/wicked/x-men/omega-red-v1/omega-red-v1-2.jpg",
+  "images/wicked/x-men/omega-red-v1/omega-red-v1-3.jpg",
+  "images/wicked/x-men/omega-red-v1/omega-red-v1-4.jpg",
+  "images/wicked/x-men/omega-red-v1/omega-red-v1-5.jpg",
+  "images/wicked/x-men/omega-red-v1/omega-red-v1-6.jpg",
+  "images/wicked/x-men/omega-red-v1/omega-red-v1-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Omega Red lashes out with his carbonadium coils, ready to drain Wolverine's life force."
+},
+ {
+ "id": "wicked-x-men-wolverine",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Wolverine",
+ "images": [
+  "images/wicked/x-men/wolverine/wolverine-1.jpg",
+  "images/wicked/x-men/wolverine/wolverine-2.jpg",
+  "images/wicked/x-men/wolverine/wolverine-3.jpg",
+  "images/wicked/x-men/wolverine/wolverine-4.jpg",
+  "images/wicked/x-men/wolverine/wolverine-5.jpg",
+  "images/wicked/x-men/wolverine/wolverine-6.jpg",
+  "images/wicked/x-men/wolverine/wolverine-7.jpg",
+  "images/wicked/x-men/wolverine/wolverine-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wolverine lunges forward with claws extended, ready to take on Omega Red."
+},
+ {
+ "id": "wicked-x-men-nightcrawler",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Nightcrawler",
+ "images": [
+  "images/wicked/x-men/nightcrawler/nightcrawler-1.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-2.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-3.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-4.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-5.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-6.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-7.jpg",
+  "images/wicked/x-men/nightcrawler/nightcrawler-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Nightcrawler leaps with dual swords from a puff of purple teleport smoke, tail curling."
+},
+ {
+ "id": "wicked-avengers-hulk-age-of-ultron",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hulk Age of Ultron",
+ "images": [
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-1.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-2.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-3.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-4.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-5.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-6.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-7.jpg",
+  "images/wicked/avengers/hulk-age-of-ultron/hulk-age-of-ultron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Hulk clashes with the Hulkbuster armor in this Age of Ultron-inspired sculpt."
+},
+ {
+ "id": "wicked-avengers-cap-carter-hydra-stomper",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Cap. Carter + Hydra Stomper",
+ "images": [
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-1.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-2.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-3.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-4.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-5.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-6.jpg",
+  "images/wicked/avengers/cap-carter-hydra-stomper/cap-carter-hydra-stomper-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain Carter stands with her Union Jack shield beside Steve Rogers in the Hydra Stomper armor."
+},
+ {
+ "id": "wicked-x-men-domino",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Domino",
+ "images": [
+  "images/wicked/x-men/domino/domino-1.jpg",
+  "images/wicked/x-men/domino/domino-2.jpg",
+  "images/wicked/x-men/domino/domino-3.jpg",
+  "images/wicked/x-men/domino/domino-4.jpg",
+  "images/wicked/x-men/domino/domino-5.jpg",
+  "images/wicked/x-men/domino/domino-6.jpg",
+  "images/wicked/x-men/domino/domino-7.jpg",
+  "images/wicked/x-men/domino/domino-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Domino fires her gun mid-leap from an X-Force base, red debris scattering below."
+},
+ {
+ "id": "wicked-spider-man-venom-vs-carnage-diorama-1",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Venom vs Carnage (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-1.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-2.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-3.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-4.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-5.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-6.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-7.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-1/venom-vs-carnage-diorama-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Venom and Carnage tear into each other atop a city ruin in this Venom vs Carnage diorama."
+},
+ {
+ "id": "wicked-spider-man-venom",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Venom",
+ "images": [
+  "images/wicked/spider-man/venom/venom-1.jpg",
+  "images/wicked/spider-man/venom/venom-2.jpg",
+  "images/wicked/spider-man/venom/venom-3.jpg",
+  "images/wicked/spider-man/venom/venom-4.jpg",
+  "images/wicked/spider-man/venom/venom-5.jpg",
+  "images/wicked/spider-man/venom/venom-6.jpg",
+  "images/wicked/spider-man/venom/venom-7.jpg",
+  "images/wicked/spider-man/venom/venom-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Venom lunges with jaws open and tongue lashing over a shattered city rooftop."
+},
+ {
+ "id": "wicked-spider-man-carnage",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Carnage",
+ "images": [
+  "images/wicked/spider-man/carnage/carnage-1.jpg",
+  "images/wicked/spider-man/carnage/carnage-2.jpg",
+  "images/wicked/spider-man/carnage/carnage-3.jpg",
+  "images/wicked/spider-man/carnage/carnage-4.jpg",
+  "images/wicked/spider-man/carnage/carnage-5.jpg",
+  "images/wicked/spider-man/carnage/carnage-6.jpg",
+  "images/wicked/spider-man/carnage/carnage-7.jpg",
+  "images/wicked/spider-man/carnage/carnage-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Carnage erupts in a whirlwind of jagged symbiote blades and tendrils."
+},
+ {
+ "id": "wicked-x-men-phoenix",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Phoenix",
+ "images": [
+  "images/wicked/x-men/phoenix/phoenix-1.jpg",
+  "images/wicked/x-men/phoenix/phoenix-2.jpg",
+  "images/wicked/x-men/phoenix/phoenix-3.jpg",
+  "images/wicked/x-men/phoenix/phoenix-4.jpg",
+  "images/wicked/x-men/phoenix/phoenix-5.jpg",
+  "images/wicked/x-men/phoenix/phoenix-6.jpg",
+  "images/wicked/x-men/phoenix/phoenix-7.jpg",
+  "images/wicked/x-men/phoenix/phoenix-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Phoenix rises in a storm of fiery wings and feathers, Jean Grey at the center of cosmic flame."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-mantis",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Mantis",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis/mantis-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mantis stands gracefully with antennae glowing on a lush alien base."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-drax",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Drax",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/drax/drax-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax/drax-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Drax the Destroyer charges with twin blades and a heavy gun over an alien skull base."
+},
+ {
+ "id": "wicked-marvel-other-mephisto",
+ "artist": "Wicked 3D",
+ "series": "Marvel Comics",
+ "title": "Mephisto",
+ "images": [
+  "images/wicked/marvel-other/mephisto/mephisto-1.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-2.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-3.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-4.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-5.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-6.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-7.jpg",
+  "images/wicked/marvel-other/mephisto/mephisto-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mephisto, the Marvel demon lord, crouches menacingly in his high collar over a hellish base."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-groot",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Groot",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/groot/groot-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot/groot-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Groot reaches out with branching arms, roots spreading over a base of red blossoms."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-yondu",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Yondu",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/yondu/yondu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Yondu Udonta crouches in his ravager coat, his Yaka Arrow fin glowing atop his head."
+},
+ {
+ "id": "wicked-thor-loki-sylvie-diorama",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Loki & Sylvie (Diorama)",
+ "images": [
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-1.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-2.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-3.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-4.jpg",
+  "images/wicked/thor/loki-sylvie-diorama/loki-sylvie-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Loki and Sylvie stand together before the TVA's Time Door in this Loki diorama."
+},
+ {
+ "id": "wicked-ghost-rider-cosmic-ghost-rider",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Cosmic Ghost Rider",
+ "images": [
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-1.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-2.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-3.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-4.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-5.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-6.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-7.jpg",
+  "images/wicked/ghost-rider/cosmic-ghost-rider/cosmic-ghost-rider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cosmic Ghost Rider charges on his flaming cosmic bike, chain whipping red hellfire."
+},
+ {
+ "id": "wicked-thor-loki",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Loki",
+ "images": [
+  "images/wicked/thor/loki/loki-1.jpg",
+  "images/wicked/thor/loki/loki-2.jpg",
+  "images/wicked/thor/loki/loki-3.jpg",
+  "images/wicked/thor/loki/loki-4.jpg",
+  "images/wicked/thor/loki/loki-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Loki stands in his horned crown and long coat, scepter in hand, arm outstretched."
+},
+ {
+ "id": "wicked-thor-sylvie",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Sylvie",
+ "images": [
+  "images/wicked/thor/sylvie/sylvie-1.jpg",
+  "images/wicked/thor/sylvie/sylvie-2.jpg",
+  "images/wicked/thor/sylvie/sylvie-3.jpg",
+  "images/wicked/thor/sylvie/sylvie-4.jpg",
+  "images/wicked/thor/sylvie/sylvie-5.jpg",
+  "images/wicked/thor/sylvie/sylvie-6.jpg",
+  "images/wicked/thor/sylvie/sylvie-7.jpg",
+  "images/wicked/thor/sylvie/sylvie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sylvie stands defiant with her sword drawn, long coat flowing, over rocky rubble."
+},
+ {
+ "id": "wicked-spider-man-spider-man-vs-vulture-diorama",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider man vs Vulture (Diorama)",
+ "images": [
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-1.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-2.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-3.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-4.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-5.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-6.jpg",
+  "images/wicked/spider-man/spider-man-vs-vulture-diorama/spider-man-vs-vulture-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Man battles the Vulture amid smoke and wreckage in this Homecoming-inspired diorama."
+},
+ {
+ "id": "wicked-spider-man-knull",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Knull",
+ "images": [
+  "images/wicked/spider-man/knull/knull-1.jpg",
+  "images/wicked/spider-man/knull/knull-2.jpg",
+  "images/wicked/spider-man/knull/knull-3.jpg",
+  "images/wicked/spider-man/knull/knull-4.jpg",
+  "images/wicked/spider-man/knull/knull-5.jpg",
+  "images/wicked/spider-man/knull/knull-6.jpg",
+  "images/wicked/spider-man/knull/knull-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Knull, the King in Black, rises from a writhing mass of symbiotes with his All-Black blade."
+},
+ {
+ "id": "wicked-spider-man-vulture",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Vulture",
+ "images": [
+  "images/wicked/spider-man/vulture/vulture-1.jpg",
+  "images/wicked/spider-man/vulture/vulture-2.jpg",
+  "images/wicked/spider-man/vulture/vulture-3.jpg",
+  "images/wicked/spider-man/vulture/vulture-4.jpg",
+  "images/wicked/spider-man/vulture/vulture-5.jpg",
+  "images/wicked/spider-man/vulture/vulture-6.jpg",
+  "images/wicked/spider-man/vulture/vulture-7.jpg",
+  "images/wicked/spider-man/vulture/vulture-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Vulture swoops down in his mechanical wing suit, bursting through billowing smoke."
+},
+ {
+ "id": "wicked-spider-man-spider-man",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spider man",
+ "images": [
+  "images/wicked/spider-man/spider-man/spider-man-1.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-2.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-3.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-4.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-5.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-6.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-7.jpg",
+  "images/wicked/spider-man/spider-man/spider-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Man swings over a crashed jet turbine wrapped in webs, on a Spider-Man base."
+},
+ {
+ "id": "wicked-deadpool-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Deadpool",
+ "images": [
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-1.jpg",
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-2.jpg",
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-3.jpg",
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-4.jpg",
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-5.jpg",
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-6.jpg",
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-7.jpg",
+  "images/wicked/x-men/deadpool-v2/deadpool-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Deadpool leaps from a crashing billboard, guns blazing, in a chaotic action pose."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Gamora + Star Lord (Diorama)",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n/diorama-gamora-star-lord-guardians-of-the-galaxy-only-base-n-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Guardians of the Galaxy diorama base for Star-Lord and Gamora, sold base only, no figures."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-star-lord-sculpture-guardians-of-the-galaxy",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Star Lord Sculpture: Guardians of the Galaxy",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy/star-lord-sculpture-guardians-of-the-galaxy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Star-Lord takes aim with his element guns in his long coat and masked helmet."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-gamora-sculpture-guardians-of-the-galaxy",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Gamora",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy/gamora-sculpture-guardians-of-the-galaxy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gamora lunges with her blade Godslayer drawn, coat flaring, on a rocky Guardians base."
+},
+ {
+ "id": "wicked-avengers-falcon-captain-america",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America [Sam Wilson]",
+ "images": [
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-1.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-2.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-3.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-4.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-5.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-6.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-7.jpg",
+  "images/wicked/avengers/falcon-captain-america/falcon-captain-america-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sam Wilson as Captain America, wings spread and shield raised, on a rocky base."
+},
+ {
+ "id": "wicked-avengers-winter-soldier",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Winter Soldier",
+ "images": [
+  "images/wicked/avengers/winter-soldier/winter-soldier-1.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-2.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-3.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-4.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-5.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-6.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-7.jpg",
+  "images/wicked/avengers/winter-soldier/winter-soldier-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Winter Soldier advances with his rifle, metal arm gleaming, on a star base."
+},
+ {
+ "id": "wicked-avengers-may-diorama-winter-soldier-falcon-stls-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "May : Winter Soldier + Falcon (Diorama)",
+ "images": [
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-1.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-2.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-3.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-4.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-5.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-6.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-7.jpg",
+  "images/wicked/avengers/may-diorama-winter-soldier-falcon-stls-ready-for-printing/may-diorama-winter-soldier-falcon-stls-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Falcon and the Winter Soldier fight side by side atop a wrecked vehicle in this diorama."
+},
+ {
+ "id": "wicked-fantastic-four-dr-doom",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Doctor Doom",
+ "images": [
+  "images/wicked/fantastic-four/dr-doom/dr-doom-1.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-2.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-3.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-4.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-5.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-6.jpg",
+  "images/wicked/fantastic-four/dr-doom/dr-doom-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Doom stands with his cloak sweeping and one fist raised in command."
+},
+ {
+ "id": "wicked-doctor-strange-doctor-strange-vs-dormammu-diorama",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Doctor Strange vs Dormammu (Diorama)",
+ "images": [
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-1.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-2.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-3.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-4.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-5.jpg",
+  "images/wicked/doctor-strange/doctor-strange-vs-dormammu-diorama/doctor-strange-vs-dormammu-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Strange faces down Dormammu's flaming head with mystic shields raised in this diorama."
+},
+ {
+ "id": "wicked-doctor-strange-dormammu",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Dormammu",
+ "images": [
+  "images/wicked/doctor-strange/dormammu/dormammu-1.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-2.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-3.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-4.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-5.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-6.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-7.jpg",
+  "images/wicked/doctor-strange/dormammu/dormammu-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dormammu stands wreathed in flames on an ornate Sanctum base, the lord of the Dark Dimension."
+},
+ {
+ "id": "wicked-doctor-strange-doctor-strange",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Doctor Strange",
+ "images": [
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-1.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-2.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-3.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-4.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-5.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-6.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-7.jpg",
+  "images/wicked/doctor-strange/doctor-strange/doctor-strange-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Strange conjures mystic shields with his Cloak of Levitation flaring over a swirling base."
+},
+ {
+ "id": "wicked-daredevil-marvel-netflix-daredevil-sculpture-stls-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Daredevil",
+ "images": [
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-1.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-2.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-3.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-4.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-5.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-6.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-7.jpg",
+  "images/wicked/daredevil/marvel-netflix-daredevil-sculpture-stls-ready-for-printing/marvel-netflix-daredevil-sculpture-stls-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Netflix's Daredevil leaps from a church ledge in his red suit, billy club in hand."
+},
+ {
+ "id": "wicked-daredevil-punisher-vs-daredevil-diorama-base-stls-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Punisher vs Daredevil base (Diorama)",
+ "images": [
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-1.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-2.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-3.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-4.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-5.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-6.jpg",
+  "images/wicked/daredevil/punisher-vs-daredevil-diorama-base-stls-ready-for-printing/punisher-vs-daredevil-diorama-base-stls-ready-for-printing-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Daredevil and the Punisher clash atop a church rooftop in this Netflix-inspired diorama."
+},
+ {
+ "id": "wicked-daredevil-marvel-netflix-punisher-sculpture-stls-ready-for-printing",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Punisher [Netflix]",
+ "images": [
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-1.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-2.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-3.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-4.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-5.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-6.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-7.jpg",
+  "images/wicked/daredevil/marvel-netflix-punisher-sculpture-stls-ready-for-printing/marvel-netflix-punisher-sculpture-stls-ready-for-printing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Netflix's Punisher leaps from a church ledge in his long coat, pistol drawn."
+},
+ {
+ "id": "wicked-predator-predator-and-dutch-diorama",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Predator & Dutch (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-1.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-2.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-3.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-4.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-5.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-6.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-7.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama/predator-and-dutch-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 22.6 in (57.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Predator perches above Dutch in the jungle canopy in this classic Predator diorama."
+},
+ {
+ "id": "wicked-predator-the-predator",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "The Predator",
+ "images": [
+  "images/wicked/predator/the-predator/the-predator-1.jpg",
+  "images/wicked/predator/the-predator/the-predator-2.jpg",
+  "images/wicked/predator/the-predator/the-predator-3.jpg",
+  "images/wicked/predator/the-predator/the-predator-4.jpg",
+  "images/wicked/predator/the-predator/the-predator-5.jpg",
+  "images/wicked/predator/the-predator/the-predator-6.jpg",
+  "images/wicked/predator/the-predator/the-predator-7.jpg",
+  "images/wicked/predator/the-predator/the-predator-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 23.3 in (59.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Predator crouches atop a jungle tree, wrist blades out and plasma caster mounted."
+},
+ {
+ "id": "wicked-predator-dutch",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Dutch",
+ "images": [
+  "images/wicked/predator/dutch/dutch-1.jpg",
+  "images/wicked/predator/dutch/dutch-2.jpg",
+  "images/wicked/predator/dutch/dutch-3.jpg",
+  "images/wicked/predator/dutch/dutch-4.jpg",
+  "images/wicked/predator/dutch/dutch-5.jpg",
+  "images/wicked/predator/dutch/dutch-6.jpg",
+  "images/wicked/predator/dutch/dutch-7.jpg",
+  "images/wicked/predator/dutch/dutch-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dutch stands battle-ready with his rifle on a Predator base, muscles and resolve on full display."
+},
+ {
+ "id": "wicked-predator-predator-and-dutch-diorama-v2-lifting-the-torch",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Predator & Dutch V2 (Lifting the torch) (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-1.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-2.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-3.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-4.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-5.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-6.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-7.jpg",
+  "images/wicked/predator/predator-and-dutch-diorama-v2-lifting-the-torch/predator-and-dutch-diorama-v2-lifting-the-torch-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 22.6 in (57.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dutch raises a flaming torch beneath the Predator's tree perch in this jungle Predator diorama."
+},
+ {
+ "id": "wicked-predator-predator-vs-alien-diorama",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Predator VS Alien (Diorama)",
+ "images": [
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-1.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-2.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-3.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-4.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-5.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-6.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-7.jpg",
+  "images/wicked/predator/predator-vs-alien-diorama/predator-vs-alien-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.6 in (65.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A Predator wrestles a Xenomorph over a hive of eggs in this savage Predator vs Alien diorama."
+},
+ {
+ "id": "wicked-ghost-rider-johnny-blaze-ghost-rider",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider [Johnny Blaze]",
+ "images": [
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-1.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-2.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-3.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-4.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-5.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-6.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-7.jpg",
+  "images/wicked/ghost-rider/johnny-blaze-ghost-rider/johnny-blaze-ghost-rider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.0 in (38.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Johnny Blaze swings his chain from his flaming chopper as hellfire sweeps across the road."
+},
+ {
+ "id": "wicked-ghost-rider-danny-ketch-ghost-rider",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider [Danny Ketch]",
+ "images": [
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-1.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-2.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-3.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-4.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-5.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-6.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-7.jpg",
+  "images/wicked/ghost-rider/danny-ketch-ghost-rider/danny-ketch-ghost-rider-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.6 in (37.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Danny Ketch's Ghost Rider whips his chains beside his spiked motorcycle over a skull-strewn base."
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-diorama",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider (Diorama)",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-diorama/ghost-rider-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.5 in (64.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ghost Rider's blazing skull roars over his hellfire bike, chains whipping in this fiery diorama."
+},
+ {
+ "id": "wicked-x-men-x-23",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "X-23",
+ "images": [
+  "images/wicked/x-men/x-23/x-23-1.jpg",
+  "images/wicked/x-men/x-23/x-23-2.jpg",
+  "images/wicked/x-men/x-23/x-23-3.jpg",
+  "images/wicked/x-men/x-23/x-23-4.jpg",
+  "images/wicked/x-men/x-23/x-23-5.jpg",
+  "images/wicked/x-men/x-23/x-23-6.jpg",
+  "images/wicked/x-men/x-23/x-23-7.jpg",
+  "images/wicked/x-men/x-23/x-23-8.jpg",
+  "images/wicked/x-men/x-23/x-23-9.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 11.8 in (30.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "X-23 crouches atop a Sentinel's tentacled head, claws out, ready to pounce."
+},
+ {
+ "id": "wicked-daredevil-punisher-2024",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Punisher 2024",
+ "images": [
+  "images/wicked/daredevil/punisher-2024/punisher-2024-1.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-2.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-3.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-4.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-5.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-6.jpg",
+  "images/wicked/daredevil/punisher-2024/punisher-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.4 in (39.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Punisher fires an Uzi from atop a crumbling building, ammo belts and skull vest on display."
+},
+ {
+ "id": "wicked-x-men-archangel-2024",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Archangel 2024",
+ "images": [
+  "images/wicked/x-men/archangel-2024/archangel-2024-1.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-2.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-3.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-4.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-5.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-6.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-7.jpg",
+  "images/wicked/x-men/archangel-2024/archangel-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.0 in (45.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Archangel spreads his razor-sharp metal wings over a base of skulls, the deadliest of Apocalypse's Horsemen."
+},
+ {
+ "id": "wicked-x-men-famine",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Famine",
+ "images": [
+  "images/wicked/x-men/famine/famine-1.jpg",
+  "images/wicked/x-men/famine/famine-2.jpg",
+  "images/wicked/x-men/famine/famine-3.jpg",
+  "images/wicked/x-men/famine/famine-4.jpg",
+  "images/wicked/x-men/famine/famine-5.jpg",
+  "images/wicked/x-men/famine/famine-6.jpg",
+  "images/wicked/x-men/famine/famine-7.jpg",
+  "images/wicked/x-men/famine/famine-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.2 in (38.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Famine, Horseman of Apocalypse, rises skeletal and gaunt from a churning base of bones and skulls."
+},
+ {
+ "id": "wicked-x-men-war",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "War",
+ "images": [
+  "images/wicked/x-men/war/war-1.jpg",
+  "images/wicked/x-men/war/war-2.jpg",
+  "images/wicked/x-men/war/war-3.jpg",
+  "images/wicked/x-men/war/war-4.jpg",
+  "images/wicked/x-men/war/war-5.jpg",
+  "images/wicked/x-men/war/war-6.jpg",
+  "images/wicked/x-men/war/war-7.jpg",
+  "images/wicked/x-men/war/war-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.4 in (46.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "War, Horseman of Apocalypse, stands arms crossed in heavy armor over a skull-ringed base."
+},
+ {
+ "id": "wicked-x-men-apocalypse",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Apocalypse",
+ "images": [
+  "images/wicked/x-men/apocalypse/apocalypse-1.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-2.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-3.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-4.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-5.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-6.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-7.jpg",
+  "images/wicked/x-men/apocalypse/apocalypse-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.5 in (52.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Apocalypse towers in blue-and-gray armor, a skull in hand, between flaming braziers."
+},
+ {
+ "id": "wicked-black-panther-black-panther-and-namor-diorama",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Black Panther & Namor (Diorama)",
+ "images": [
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-1.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-2.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-3.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-4.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-5.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-6.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-7.jpg",
+  "images/wicked/black-panther/black-panther-and-namor-diorama/black-panther-and-namor-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Panther and Namor clash over coiling sea serpents in this Wakanda Forever diorama."
+},
+ {
+ "id": "wicked-black-panther-black-panther-shuri-2024",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Black Panther Shuri 2024",
+ "images": [
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-1.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-2.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-3.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-4.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-5.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-6.jpg",
+  "images/wicked/black-panther/black-panther-shuri-2024/black-panther-shuri-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Shuri as Black Panther crouches over a stalking panther on a rocky Wakandan base."
+},
+ {
+ "id": "wicked-black-panther-namor",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Namor",
+ "images": [
+  "images/wicked/black-panther/namor/namor-1.jpg",
+  "images/wicked/black-panther/namor/namor-2.jpg",
+  "images/wicked/black-panther/namor/namor-3.jpg",
+  "images/wicked/black-panther/namor/namor-4.jpg",
+  "images/wicked/black-panther/namor/namor-5.jpg",
+  "images/wicked/black-panther/namor/namor-6.jpg",
+  "images/wicked/black-panther/namor/namor-7.jpg",
+  "images/wicked/black-panther/namor/namor-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Namor rises from coiling sea serpents with his spear raised and feathered headdress, on a Wakanda Forever base."
+},
+ {
+ "id": "wicked-robocop-robocop-and-ed-209-diorama",
+ "artist": "Wicked 3D",
+ "series": "RoboCop",
+ "title": "Robocop & ED 209 (Diorama)",
+ "images": [
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-1.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-2.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-3.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-4.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-5.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-6.jpg",
+  "images/wicked/robocop/robocop-and-ed-209-diorama/robocop-and-ed-209-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.6 in (42.1 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "RoboCop faces down ED-209 amid fire and rubble in this full RoboCop diorama."
+},
+ {
+ "id": "wicked-robocop-robocop",
+ "artist": "Wicked 3D",
+ "series": "RoboCop",
+ "title": "Robocop",
+ "images": [
+  "images/wicked/robocop/robocop/robocop-1.jpg",
+  "images/wicked/robocop/robocop/robocop-2.jpg",
+  "images/wicked/robocop/robocop/robocop-3.jpg",
+  "images/wicked/robocop/robocop/robocop-4.jpg",
+  "images/wicked/robocop/robocop/robocop-5.jpg",
+  "images/wicked/robocop/robocop/robocop-6.jpg",
+  "images/wicked/robocop/robocop/robocop-7.jpg",
+  "images/wicked/robocop/robocop/robocop-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.2 in (38.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "RoboCop raises his Auto-9 in front of a wall of OCP monitors on a detailed base."
+},
+ {
+ "id": "wicked-robocop-ed-209",
+ "artist": "Wicked 3D",
+ "series": "RoboCop",
+ "title": "ED 209",
+ "images": [
+  "images/wicked/robocop/ed-209/ed-209-1.jpg",
+  "images/wicked/robocop/ed-209/ed-209-2.jpg",
+  "images/wicked/robocop/ed-209/ed-209-3.jpg",
+  "images/wicked/robocop/ed-209/ed-209-4.jpg",
+  "images/wicked/robocop/ed-209/ed-209-5.jpg",
+  "images/wicked/robocop/ed-209/ed-209-6.jpg",
+  "images/wicked/robocop/ed-209/ed-209-7.jpg",
+  "images/wicked/robocop/ed-209/ed-209-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (39.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "ED-209 stands guard with its massive cannon arms raised over a ruined base. You have 20 seconds to comply."
+},
+ {
+ "id": "wicked-x-men-pestilence",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Pestilence",
+ "images": [
+  "images/wicked/x-men/pestilence/pestilence-1.jpg",
+  "images/wicked/x-men/pestilence/pestilence-2.jpg",
+  "images/wicked/x-men/pestilence/pestilence-3.jpg",
+  "images/wicked/x-men/pestilence/pestilence-4.jpg",
+  "images/wicked/x-men/pestilence/pestilence-5.jpg",
+  "images/wicked/x-men/pestilence/pestilence-6.jpg",
+  "images/wicked/x-men/pestilence/pestilence-7.jpg",
+  "images/wicked/x-men/pestilence/pestilence-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.5 in (36.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Pestilence, Horseman of Apocalypse, rises with a hand raised over a base of skulls and serpents."
+},
+ {
+ "id": "wicked-robocop-robocop-gun",
+ "artist": "Wicked 3D",
+ "series": "RoboCop",
+ "title": "Robocop Gun",
+ "images": [
+  "images/wicked/robocop/robocop-gun/robocop-gun-1.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-2.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-3.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-4.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-5.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-6.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-7.jpg",
+  "images/wicked/robocop/robocop-gun/robocop-gun-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/1 Scale",
+   "size": "Approx. 7.6 in (19.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "RoboCop's iconic Auto-9 pistol, ready to print as a standalone prop."
+},
+ {
+ "id": "wicked-avengers-black-widow-2024",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Black Widow 2024",
+ "images": [
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-1.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-2.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-3.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-4.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-5.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-6.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-7.jpg",
+  "images/wicked/avengers/black-widow-2024/black-widow-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Widow takes aim with her rifle on a crumbling ruin, long hair flowing."
+},
+ {
+ "id": "wicked-rocky-rocky-balboa",
+ "artist": "Wicked 3D",
+ "series": "Rocky",
+ "title": "Rocky Balboa",
+ "images": [
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-1.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-2.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-3.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-4.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-5.jpg",
+  "images/wicked/rocky/rocky-balboa/rocky-balboa-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.4 in (34.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rocky Balboa throws a punch in his trunks and gloves, on a 'Match of the Century' ring base."
+},
+ {
+ "id": "wicked-rocky-apollo-creed",
+ "artist": "Wicked 3D",
+ "series": "Rocky",
+ "title": "Apollo Creed",
+ "images": [
+  "images/wicked/rocky/apollo-creed/apollo-creed-1.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-2.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-3.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-4.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-5.jpg",
+  "images/wicked/rocky/apollo-creed/apollo-creed-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.6 in (34.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Apollo Creed throws a hook in his trunks and gloves, on a ring-apron base."
+},
+ {
+ "id": "wicked-rocky-rocky-balboa-and-apollo-creed-diorama",
+ "artist": "Wicked 3D",
+ "series": "Rocky",
+ "title": "Rocky Balboa & Apollo Creed (Diorama)",
+ "images": [
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-1.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-2.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-3.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-4.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-5.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-6.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-7.jpg",
+  "images/wicked/rocky/rocky-balboa-and-apollo-creed-diorama/rocky-balboa-and-apollo-creed-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.2 in (33.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rocky and Apollo trade blows in the ring in this Rocky diorama, ropes and all."
+},
+ {
+ "id": "wicked-avengers-hawkeye-2024",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hawkeye",
+ "images": [
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-1.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-2.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-3.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-4.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-5.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-6.jpg",
+  "images/wicked/avengers/hawkeye-2024/hawkeye-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.1 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Hawkeye lunges forward with bow raised, quiver on his back, over a battle-worn base."
+},
+ {
+ "id": "wicked-avengers-hawkeye-and-black-widow-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Hawkeye & Black Widow (Diorama)",
+ "images": [
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-1.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-2.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-3.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-4.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-5.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-6.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-7.jpg",
+  "images/wicked/avengers/hawkeye-and-black-widow-diorama/hawkeye-and-black-widow-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.2 in (51.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Hawkeye draws his bow as Black Widow takes aim beside him on a ruined rooftop diorama."
+},
+ {
+ "id": "wicked-avengers-iron-man-and-iron-monger-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Iron Man & Iron Monger (Diorama)",
+ "images": [
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-1.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-2.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-3.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-4.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-5.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-6.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-7.jpg",
+  "images/wicked/avengers/iron-man-and-iron-monger-diorama/iron-man-and-iron-monger-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 23.6 in (60.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Monger crushes forward as Iron Man flies overhead in this classic Iron Man diorama."
+},
+ {
+ "id": "wicked-avengers-iron-monger",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Iron Monger",
+ "images": [
+  "images/wicked/avengers/iron-monger/iron-monger-1.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-2.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-3.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-4.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-5.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-6.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-7.jpg",
+  "images/wicked/avengers/iron-monger/iron-monger-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Monger looms in bronze armor over a battered Iron Man, on a glowing arc-reactor base."
+},
+ {
+ "id": "wicked-avengers-gladiator",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Gladiator",
+ "images": [
+  "images/wicked/avengers/gladiator/gladiator-1.jpg",
+  "images/wicked/avengers/gladiator/gladiator-2.jpg",
+  "images/wicked/avengers/gladiator/gladiator-3.jpg",
+  "images/wicked/avengers/gladiator/gladiator-4.jpg",
+  "images/wicked/avengers/gladiator/gladiator-5.jpg",
+  "images/wicked/avengers/gladiator/gladiator-6.jpg",
+  "images/wicked/avengers/gladiator/gladiator-7.jpg",
+  "images/wicked/avengers/gladiator/gladiator-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gladiator, Majestor of the Shi'ar, leaps forward with his cape billowing over a rocky base."
+},
+ {
+ "id": "wicked-mystique-v1",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Mystique",
+ "images": [
+  "images/wicked/x-men/mystique-v1/mystique-v1-1.jpg",
+  "images/wicked/x-men/mystique-v1/mystique-v1-2.jpg",
+  "images/wicked/x-men/mystique-v1/mystique-v1-3.jpg",
+  "images/wicked/x-men/mystique-v1/mystique-v1-4.jpg",
+  "images/wicked/x-men/mystique-v1/mystique-v1-5.jpg",
+  "images/wicked/x-men/mystique-v1/mystique-v1-6.jpg",
+  "images/wicked/x-men/mystique-v1/mystique-v1-7.jpg",
+  "images/wicked/x-men/mystique-v1/mystique-v1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.2 in (38.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mystique in her white dress with twin pistols raised, on a skull-adorned base."
+},
+ {
+ "id": "wicked-avengers-kang",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Kang",
+ "images": [
+  "images/wicked/avengers/kang/kang-1.jpg",
+  "images/wicked/avengers/kang/kang-2.jpg",
+  "images/wicked/avengers/kang/kang-3.jpg",
+  "images/wicked/avengers/kang/kang-4.jpg",
+  "images/wicked/avengers/kang/kang-5.jpg",
+  "images/wicked/avengers/kang/kang-6.jpg",
+  "images/wicked/avengers/kang/kang-7.jpg",
+  "images/wicked/avengers/kang/kang-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kang the Conqueror stands armored on a time-platform base, a massive cannon over his shoulder."
+},
+ {
+ "id": "wicked-x-men-magic",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Magic",
+ "images": [
+  "images/wicked/x-men/magic/magic-1.jpg",
+  "images/wicked/x-men/magic/magic-2.jpg",
+  "images/wicked/x-men/magic/magic-3.jpg",
+  "images/wicked/x-men/magic/magic-4.jpg",
+  "images/wicked/x-men/magic/magic-5.jpg",
+  "images/wicked/x-men/magic/magic-6.jpg",
+  "images/wicked/x-men/magic/magic-7.jpg",
+  "images/wicked/x-men/magic/magic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Magik raises her Soulsword high over a dark Limbo demon, white hair streaming."
+},
+ {
+ "id": "wicked-universal-soldier-luc-deveraux",
+ "artist": "Wicked 3D",
+ "series": "Universal Soldier",
+ "title": "Luc Deveraux",
+ "images": [
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-1.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-2.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-3.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-4.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-5.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-6.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-7.jpg",
+  "images/wicked/universal-soldier/luc-deveraux/luc-deveraux-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.5 in (34.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Luc Deveraux in UniSol armor, eyepiece on and rifle raised, beside a fuel pump."
+},
+ {
+ "id": "wicked-universal-soldier-andrew-scott",
+ "artist": "Wicked 3D",
+ "series": "Universal Soldier",
+ "title": "Andrew Scott",
+ "images": [
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-1.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-2.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-3.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-4.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-5.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-6.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-7.jpg",
+  "images/wicked/universal-soldier/andrew-scott/andrew-scott-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.6 in (37.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sergeant Andrew Scott in UniSol armor with a bandolier and severed ears necklace, on a Universal Soldier base."
+},
+ {
+ "id": "wicked-universal-soldier-universal-soldier-diorama",
+ "artist": "Wicked 3D",
+ "series": "Universal Soldier",
+ "title": "Universal Soldier (Diorama)",
+ "images": [
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-1.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-2.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-3.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-4.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-5.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-6.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-7.jpg",
+  "images/wicked/universal-soldier/universal-soldier-diorama/universal-soldier-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.6 in (37.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Luc Deveraux and Andrew Scott face off in UniSol armor beside a gas station in this Universal Soldier diorama."
+},
+ {
+ "id": "wicked-lethal-weapon-lethal-weapon-diorama",
+ "artist": "Wicked 3D",
+ "series": "Lethal Weapon",
+ "title": "Lethal Weapon (Diorama)",
+ "images": [
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-1.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-2.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-3.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-4.jpg",
+  "images/wicked/lethal-weapon/lethal-weapon-diorama/lethal-weapon-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.8 in (37.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Riggs and Murtaugh stand guns-drawn before the Hollywood sign in this Lethal Weapon diorama."
+},
+ {
+ "id": "wicked-lethal-weapon-riggs",
+ "artist": "Wicked 3D",
+ "series": "Lethal Weapon",
+ "title": "Riggs",
+ "images": [
+  "images/wicked/lethal-weapon/riggs/riggs-1.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-2.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-3.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-4.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-5.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-6.jpg",
+  "images/wicked/lethal-weapon/riggs/riggs-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.2 in (36.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Martin Riggs aims his pistol with wild hair and jeans, on a Lethal Weapon base."
+},
+ {
+ "id": "wicked-lethal-weapon-roger",
+ "artist": "Wicked 3D",
+ "series": "Lethal Weapon",
+ "title": "Roger",
+ "images": [
+  "images/wicked/lethal-weapon/roger/roger-1.jpg",
+  "images/wicked/lethal-weapon/roger/roger-2.jpg",
+  "images/wicked/lethal-weapon/roger/roger-3.jpg",
+  "images/wicked/lethal-weapon/roger/roger-4.jpg",
+  "images/wicked/lethal-weapon/roger/roger-5.jpg",
+  "images/wicked/lethal-weapon/roger/roger-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.2 in (36.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Roger Murtaugh stands ready in his suit with pistol drawn, on a Lethal Weapon base."
+},
+ {
+ "id": "wicked-fantastic-four-super-skrull-diorama",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Super Skrull (Diorama)",
+ "images": [
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-1.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-2.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-3.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-4.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-5.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-6.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-7.jpg",
+  "images/wicked/fantastic-four/super-skrull-diorama/super-skrull-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Super-Skrull flexes the combined powers of the Fantastic Four, flame and rock fists blazing."
+},
+ {
+ "id": "wicked-spider-man-venom-and-spiderman-diorama",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Venom & Spiderman (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-1.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-2.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-3.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-4.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-5.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-6.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-7.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-diorama/venom-and-spiderman-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Man and Venom collide over a city block in this Amazing Spider-Man comic-cover diorama."
+},
+ {
+ "id": "wicked-spider-man-venom-sculpture-2024",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Venom Sculpture 2024",
+ "images": [
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-1.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-2.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-3.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-4.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-5.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-6.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-7.jpg",
+  "images/wicked/spider-man/venom-sculpture-2024/venom-sculpture-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Venom crouches atop a ruined monument, tendrils lashing, on a bold VENOM-lettered base."
+},
+ {
+ "id": "wicked-x-men-kitty-pryde",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Kitty Pryde",
+ "images": [
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-1.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-2.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-3.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-4.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-5.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-6.jpg",
+  "images/wicked/x-men/kitty-pryde/kitty-pryde-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kitty Pryde phases through a gothic stone wall mid-leap, ponytail flying, on an X-Men base."
+},
+ {
+ "id": "wicked-x-men-apocalypse-and-horseman-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Apocalypse & Horseman (Diorama)",
+ "images": [
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-1.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-2.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-3.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-4.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-5.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-6.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-7.jpg",
+  "images/wicked/x-men/apocalypse-and-horseman-diorama/apocalypse-and-horseman-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.2 in (63.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Apocalypse stands with his Four Horsemen over a skull-strewn temple in this epic X-Men diorama."
+},
+ {
+ "id": "wicked-spider-man-venom-and-spiderman-v2-diorama",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Venom & Spiderman V2 (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-1.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-2.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-3.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-4.jpg",
+  "images/wicked/spider-man/venom-and-spiderman-v2-diorama/venom-and-spiderman-v2-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.3 in (41.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Man swings into a clash with Venom over an Amazing Spider-Man base in this dynamic diorama."
+},
+ {
+ "id": "wicked-the-crow-the-crow",
+ "artist": "Wicked 3D",
+ "series": "The Crow",
+ "title": "The Crow",
+ "images": [
+  "images/wicked/the-crow/the-crow/the-crow-1.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-2.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-3.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-4.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-5.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-6.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-7.jpg",
+  "images/wicked/the-crow/the-crow/the-crow-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.9 in (53.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Eric Draven perches atop a gothic spire, coat flowing and a crow at his shoulder, on a The Crow base."
+},
+ {
+ "id": "wicked-the-crow-the-crow-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Crow",
+ "title": "The Crow (Diorama)",
+ "images": [
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-1.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-2.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-3.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-4.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-5.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-6.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-7.jpg",
+  "images/wicked/the-crow/the-crow-diorama/the-crow-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Crow spreads his arms over his seated enemies at the crime boss table in this dramatic The Crow diorama."
+},
+ {
+ "id": "wicked-avengers-dead-strange-and-scarlet-witch-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Dead Strange & Scarlet Witch (Diorama)",
+ "images": [
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-1.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-2.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-3.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-4.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-5.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-6.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-7.jpg",
+  "images/wicked/avengers/dead-strange-and-scarlet-witch-diorama/dead-strange-and-scarlet-witch-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 28.8 in (73.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dead Strange looms with dark wings over the Scarlet Witch in this towering Multiverse of Madness diorama."
+},
+ {
+ "id": "wicked-doctor-strange-dead-strange",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Dead Strange",
+ "images": [
+  "images/wicked/doctor-strange/dead-strange/dead-strange-1.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-2.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-3.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-4.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-5.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-6.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-7.jpg",
+  "images/wicked/doctor-strange/dead-strange/dead-strange-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (43.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dead Strange rises with tattered spectral wings spread, flanked by tortured souls on a Multiverse of Madness base."
+},
+ {
+ "id": "wicked-scarlet-witch-v2",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Scarlet Witch",
+ "images": [
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-1.jpg",
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-2.jpg",
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-3.jpg",
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-4.jpg",
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-5.jpg",
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-6.jpg",
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-7.jpg",
+  "images/wicked/avengers/scarlet-witch-v2/scarlet-witch-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wanda Maximoff stands in her Scarlet Witch crown and cape, chaos magic flaring, on a Multiverse of Madness base."
+},
+ {
+ "id": "wicked-avengers-scarlet-witch-second",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Scarlet Witch Second",
+ "images": [
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-1.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-2.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-3.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-4.jpg",
+  "images/wicked/avengers/scarlet-witch-second/scarlet-witch-second-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/4 Scale",
+   "size": "Approx. 11.4 in (29.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Scarlet Witch levitates cross-legged above the Darkhold, chaos magic swirling around her."
+},
+ {
+ "id": "wicked-x-men-onslaught",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Onslaught",
+ "images": [
+  "images/wicked/x-men/onslaught/onslaught-1.jpg",
+  "images/wicked/x-men/onslaught/onslaught-2.jpg",
+  "images/wicked/x-men/onslaught/onslaught-3.jpg",
+  "images/wicked/x-men/onslaught/onslaught-4.jpg",
+  "images/wicked/x-men/onslaught/onslaught-5.jpg",
+  "images/wicked/x-men/onslaught/onslaught-6.jpg",
+  "images/wicked/x-men/onslaught/onslaught-7.jpg",
+  "images/wicked/x-men/onslaught/onslaught-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 29.1 in (74.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Onslaught towers in crimson and violet armor, the massive psionic menace of the X-Men."
+},
+ {
+ "id": "wicked-black-panther-namor-comic-silver-age",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Namor Comic Silver Age",
+ "images": [
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-1.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-2.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-3.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-4.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-5.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-6.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-7.jpg",
+  "images/wicked/black-panther/namor-comic-silver-age/namor-comic-silver-age-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Silver Age Namor raises his trident over a shark-filled undersea base in his classic trunks."
+},
+ {
+ "id": "wicked-black-panther-namor-modern",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Namor Modern",
+ "images": [
+  "images/wicked/black-panther/namor-modern/namor-modern-1.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-2.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-3.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-4.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-5.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-6.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-7.jpg",
+  "images/wicked/black-panther/namor-modern/namor-modern-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Namor stands with his trident raised over a coral reef base, sharks circling below."
+},
+ {
+ "id": "wicked-x-men-havok",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Havok",
+ "images": [
+  "images/wicked/x-men/havok/havok-1.jpg",
+  "images/wicked/x-men/havok/havok-2.jpg",
+  "images/wicked/x-men/havok/havok-3.jpg",
+  "images/wicked/x-men/havok/havok-4.jpg",
+  "images/wicked/x-men/havok/havok-5.jpg",
+  "images/wicked/x-men/havok/havok-6.jpg",
+  "images/wicked/x-men/havok/havok-7.jpg",
+  "images/wicked/x-men/havok/havok-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Havok unleashes glowing plasma rings from his hands, standing on Sentinel wreckage."
+},
+ {
+ "id": "wicked-doctor-strange-wong",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Wong",
+ "images": [
+  "images/wicked/doctor-strange/wong/wong-1.jpg",
+  "images/wicked/doctor-strange/wong/wong-2.jpg",
+  "images/wicked/doctor-strange/wong/wong-3.jpg",
+  "images/wicked/doctor-strange/wong/wong-4.jpg",
+  "images/wicked/doctor-strange/wong/wong-5.jpg",
+  "images/wicked/doctor-strange/wong/wong-6.jpg",
+  "images/wicked/doctor-strange/wong/wong-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wong conjures twin mystic shields, robes flowing, on a Multiverse of Madness base."
+},
+ {
+ "id": "wicked-star-trek-star-trek-diorama",
+ "artist": "Wicked 3D",
+ "series": "Star Trek",
+ "title": "Star Trek (Diorama)",
+ "images": [
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-1.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-2.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-3.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-4.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-5.jpg",
+  "images/wicked/star-trek/star-trek-diorama/star-trek-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.7 in (34.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kirk and Spock stand shoulder to shoulder on a Wrath of Khan base in this Star Trek diorama."
+},
+ {
+ "id": "wicked-star-trek-kirk",
+ "artist": "Wicked 3D",
+ "series": "Star Trek",
+ "title": "Captain James T. Kirk",
+ "images": [
+  "images/wicked/star-trek/kirk/kirk-1.jpg",
+  "images/wicked/star-trek/kirk/kirk-2.jpg",
+  "images/wicked/star-trek/kirk/kirk-3.jpg",
+  "images/wicked/star-trek/kirk/kirk-4.jpg",
+  "images/wicked/star-trek/kirk/kirk-5.jpg",
+  "images/wicked/star-trek/kirk/kirk-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.1 in (33.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain Kirk stands confident with his communicator, on a Star Trek II: The Wrath of Khan base."
+},
+ {
+ "id": "wicked-star-trek-spock",
+ "artist": "Wicked 3D",
+ "series": "Star Trek",
+ "title": "Spock",
+ "images": [
+  "images/wicked/star-trek/spock/spock-1.jpg",
+  "images/wicked/star-trek/spock/spock-2.jpg",
+  "images/wicked/star-trek/spock/spock-3.jpg",
+  "images/wicked/star-trek/spock/spock-4.jpg",
+  "images/wicked/star-trek/spock/spock-5.jpg",
+  "images/wicked/star-trek/spock/spock-6.jpg",
+  "images/wicked/star-trek/spock/spock-7.jpg",
+  "images/wicked/star-trek/spock/spock-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.4 in (34.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mr. Spock gives the Vulcan salute in his Starfleet uniform, on a Wrath of Khan base."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-star-lord-comic-version",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Star Lord Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/star-lord-comic-version/star-lord-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.9 in (43.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Star-Lord rockets upward on his jet boots, blasters blazing, over a fiery Guardians base."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-gamora-comic-version",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Gamora",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/gamora-comic-version/gamora-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.4 in (36.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Gamora leaps with blade drawn over a glowing green acid-splashed base."
+},
+ {
+ "id": "wicked-spider-man-black-cat",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Black Cat",
+ "images": [
+  "images/wicked/spider-man/black-cat/black-cat-1.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-2.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-3.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-4.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-5.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-6.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-7.jpg",
+  "images/wicked/spider-man/black-cat/black-cat-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.1 in (46.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Cat smirks with pearls in hand and fur-trimmed suit, platinum hair flowing."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-groot-comic-version",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Groot",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-comic-version/groot-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.9 in (47.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Groot towers with branches spread and roots twisting."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-rocket-comic-version",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Rocket Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-comic-version/rocket-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 7.6 in (19.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Rocket Raccoon fires a massive cannon from a rocky perch."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-groot-and-rocket-diorama-comic-version",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Groot & Rocket (Diorama)",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/groot-and-rocket-diorama-comic-version/groot-and-rocket-diorama-comic-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.8 in (52.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Rocket rides atop Groot as they charge into battle."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-rocket-handgun",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Rocket Handgun",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/rocket-handgun/rocket-handgun-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 7.9 in (20.1 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A life-size 1:1 replica of Rocket's oversized blaster, ready to print and display."
+},
+ {
+ "id": "wicked-x-men-deadpool-and-wolverine-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Deadpool & Wolverine (Diorama)",
+ "images": [
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-1.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-2.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-3.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-4.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-5.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-6.jpg",
+  "images/wicked/x-men/deadpool-and-wolverine-diorama/deadpool-and-wolverine-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.6 in (42.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Deadpool and Wolverine burst through a time-portal ring in this Deadpool & Wolverine diorama."
+},
+ {
+ "id": "wicked-x-men-deadpool-2024",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Deadpool",
+ "images": [
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-1.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-2.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-3.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-4.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-5.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-6.jpg",
+  "images/wicked/x-men/deadpool-2024/deadpool-2024-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.0 in (38.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Deadpool leaps into action with katanas out, over a debris-strewn base."
+},
+ {
+ "id": "wicked-x-men-wolverine-2024",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Wolverine 2024",
+ "images": [
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-1.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-2.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-3.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-4.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-5.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-6.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-7.jpg",
+  "images/wicked/x-men/wolverine-2024/wolverine-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.0 in (30.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wolverine lunges with claws extended over a wrecked base."
+},
+ {
+ "id": "wicked-x-men-lady-deadpool",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Lady Deadpool",
+ "images": [
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-1.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-2.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-3.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-4.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-5.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-6.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-7.jpg",
+  "images/wicked/x-men/lady-deadpool/lady-deadpool-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.6 in (37.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Lady Deadpool leaps with katanas drawn, ponytail flying, over a rubble base."
+},
+ {
+ "id": "wicked-back-to-the-future-back-to-the-future-diorama",
+ "artist": "Wicked 3D",
+ "series": "Back to the Future",
+ "title": "Marty McFly & Doc Brown",
+ "images": [
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-1.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-2.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-3.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-4.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-5.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-6.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-7.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama/back-to-the-future-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.7 in (34.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Marty and Doc Brown stand together on a Back to the Future Part II base."
+},
+ {
+ "id": "wicked-back-to-the-future-marty-mcfly",
+ "artist": "Wicked 3D",
+ "series": "Back to the Future",
+ "title": "Marty McFly",
+ "images": [
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-1.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-2.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-3.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-4.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-5.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-6.jpg",
+  "images/wicked/back-to-the-future/marty-mcfly/marty-mcfly-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.2 in (31.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Marty McFly in his self-lacing sneakers and jacket, on a Back to the Future Part II base."
+},
+ {
+ "id": "wicked-back-to-the-future-dr-emmett-brown",
+ "artist": "Wicked 3D",
+ "series": "Back to the Future",
+ "title": "Dr. Emmett Brown",
+ "images": [
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-1.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-2.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-3.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-4.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-5.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-6.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-7.jpg",
+  "images/wicked/back-to-the-future/dr-emmett-brown/dr-emmett-brown-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.4 in (34.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doc Brown checks his watch in his lab coat and goggles, on a Back to the Future Part II base."
+},
+ {
+ "id": "wicked-back-to-the-future-delorean",
+ "artist": "Wicked 3D",
+ "series": "Back to the Future",
+ "title": "DeLorean",
+ "images": [
+  "images/wicked/back-to-the-future/delorean/delorean-1.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-2.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-3.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-4.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-5.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-6.jpg",
+  "images/wicked/back-to-the-future/delorean/delorean-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 12.6 in (32.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The iconic DeLorean time machine with gull-wing doors open and flux capacitor ready."
+},
+ {
+ "id": "wicked-back-to-the-future-back-to-the-future-diorama-with-delorean",
+ "artist": "Wicked 3D",
+ "series": "Back to the Future",
+ "title": "Back To The Future With DeLorean (Diorama)",
+ "images": [
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-1.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-2.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-3.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-4.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-5.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-6.jpg",
+  "images/wicked/back-to-the-future/back-to-the-future-diorama-with-delorean/back-to-the-future-diorama-with-delorean-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.6 in (32.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Marty and Doc stand beside the full-size DeLorean time machine, gull-wing doors open, in this Back to the Future diorama."
+},
+ {
+ "id": "wicked-ghostbusters-winston",
+ "artist": "Wicked 3D",
+ "series": "Ghostbusters",
+ "title": "Winston",
+ "images": [
+  "images/wicked/ghostbusters/winston/winston-1.jpg",
+  "images/wicked/ghostbusters/winston/winston-2.jpg",
+  "images/wicked/ghostbusters/winston/winston-3.jpg",
+  "images/wicked/ghostbusters/winston/winston-4.jpg",
+  "images/wicked/ghostbusters/winston/winston-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.8 in (32.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Winston Zeddemore stands ready with his proton pack on a Ghostbusters base."
+},
+ {
+ "id": "wicked-ghostbusters-egon",
+ "artist": "Wicked 3D",
+ "series": "Ghostbusters",
+ "title": "Egon Spengler",
+ "images": [
+  "images/wicked/ghostbusters/egon/egon-1.jpg",
+  "images/wicked/ghostbusters/egon/egon-2.jpg",
+  "images/wicked/ghostbusters/egon/egon-3.jpg",
+  "images/wicked/ghostbusters/egon/egon-4.jpg",
+  "images/wicked/ghostbusters/egon/egon-5.jpg",
+  "images/wicked/ghostbusters/egon/egon-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.6 in (32.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Egon Spengler grips his proton thrower, glasses and swept-up hair in place, on a Ghostbusters base."
+},
+ {
+ "id": "wicked-ghostbusters-peter",
+ "artist": "Wicked 3D",
+ "series": "Ghostbusters",
+ "title": "Peter",
+ "images": [
+  "images/wicked/ghostbusters/peter/peter-1.jpg",
+  "images/wicked/ghostbusters/peter/peter-2.jpg",
+  "images/wicked/ghostbusters/peter/peter-3.jpg",
+  "images/wicked/ghostbusters/peter/peter-4.jpg",
+  "images/wicked/ghostbusters/peter/peter-5.jpg",
+  "images/wicked/ghostbusters/peter/peter-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.5 in (31.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Peter Venkman aims his proton wand with cool confidence, on a Ghostbusters base."
+},
+ {
+ "id": "wicked-ghostbusters-ray",
+ "artist": "Wicked 3D",
+ "series": "Ghostbusters",
+ "title": "Ray",
+ "images": [
+  "images/wicked/ghostbusters/ray/ray-1.jpg",
+  "images/wicked/ghostbusters/ray/ray-2.jpg",
+  "images/wicked/ghostbusters/ray/ray-3.jpg",
+  "images/wicked/ghostbusters/ray/ray-4.jpg",
+  "images/wicked/ghostbusters/ray/ray-5.jpg",
+  "images/wicked/ghostbusters/ray/ray-6.jpg",
+  "images/wicked/ghostbusters/ray/ray-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.7 in (32.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ray Stantz fires his proton pack, goggles on his head, on a Ghostbusters base."
+},
+ {
+ "id": "wicked-ghostbusters-mr-stay-puft",
+ "artist": "Wicked 3D",
+ "series": "Ghostbusters",
+ "title": "Mr Stay Puft",
+ "images": [
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-1.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-2.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-3.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-4.jpg",
+  "images/wicked/ghostbusters/mr-stay-puft/mr-stay-puft-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Stay Puft Marshmallow Man stomps over a city-block Ghostbusters base, sailor hat and all."
+},
+ {
+ "id": "wicked-ghostbusters-slimer",
+ "artist": "Wicked 3D",
+ "series": "Ghostbusters",
+ "title": "Slimer",
+ "images": [
+  "images/wicked/ghostbusters/slimer/slimer-1.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-2.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-3.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-4.jpg",
+  "images/wicked/ghostbusters/slimer/slimer-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 11.0 in (28.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Slimer grins wide as he rises from a ghost trap, ectoplasm dripping."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-mantis-comic-version",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Mantis Comic Version",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/mantis-comic-version/mantis-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.5 in (31.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Mantis strikes a graceful martial-arts pose, antennae raised and ribbons flowing."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-adam-warlock",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Adam Warlock",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/adam-warlock/adam-warlock-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.5 in (44.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Adam Warlock soars skyward from a swirling cosmic base, cape trailing."
+},
+ {
+ "id": "wicked-marvel-zombies-spiderman-zombie",
+ "artist": "Wicked 3D",
+ "series": "Marvel Zombies",
+ "title": "Spider-Man",
+ "images": [
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-1.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-2.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-3.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-4.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-5.jpg",
+  "images/wicked/marvel-zombies/spiderman-zombie/spiderman-zombie-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.0 in (38.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A decaying zombie Spider-Man springs from a toppled gravestone over a pile of skulls in a graveyard base."
+},
+ {
+ "id": "wicked-marvel-zombies-cyclops-zombie",
+ "artist": "Wicked 3D",
+ "series": "Marvel Zombies",
+ "title": "Cyclops",
+ "images": [
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-1.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-2.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-3.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-4.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-5.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-6.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-7.jpg",
+  "images/wicked/marvel-zombies/cyclops-zombie/cyclops-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.5 in (52.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Zombie Cyclops stands atop a graveyard stair, flesh rotting and visor cracked."
+},
+ {
+ "id": "wicked-universal-monsters-frankenstein",
+ "artist": "Wicked 3D",
+ "series": "Universal Monsters",
+ "title": "Frankenstein's Monster",
+ "images": [
+  "images/wicked/universal-monsters/frankenstein/frankenstein-1.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-2.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-3.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-4.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-5.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-6.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-7.jpg",
+  "images/wicked/universal-monsters/frankenstein/frankenstein-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Frankenstein's Monster steps from a gothic laboratory frame."
+},
+ {
+ "id": "wicked-universal-monsters-creature-of-the-black-lagoon",
+ "artist": "Wicked 3D",
+ "series": "Universal Monsters",
+ "title": "Creature of the Black Lagoon",
+ "images": [
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-1.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-2.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-3.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-4.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-5.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-6.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-7.jpg",
+  "images/wicked/universal-monsters/creature-of-the-black-lagoon/creature-of-the-black-lagoon-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (41.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Gill-man rises from an aquarium base with claws raised."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-cosmo",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Cosmo",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/cosmo/cosmo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 9.6 in (24.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cosmo the Spacedog in his bubble helmet and spacesuit, perched on an asteroid."
+},
+ {
+ "id": "wicked-marvel-zombies-wolverine-zombie",
+ "artist": "Wicked 3D",
+ "series": "Marvel Zombies",
+ "title": "Wolverine",
+ "images": [
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-1.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-2.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-3.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-4.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-5.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-6.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-7.jpg",
+  "images/wicked/marvel-zombies/wolverine-zombie/wolverine-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.6 in (34.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Zombie Wolverine leaps from an open coffin over a skull-strewn RIP base, claws extended."
+},
+ {
+ "id": "wicked-marvel-zombies-captain-america-zombie",
+ "artist": "Wicked 3D",
+ "series": "Marvel Zombies",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-1.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-2.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-3.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-4.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-5.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-6.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-7.jpg",
+  "images/wicked/marvel-zombies/captain-america-zombie/captain-america-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.0 in (38.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Zombie Captain America lurches from a graveyard, flesh torn and shield in hand."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-drax-comic-version",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Drax",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/drax-comic-version/drax-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.4 in (49.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic Drax leaps with twin knives drawn over an alien-plant base."
+},
+ {
+ "id": "wicked-guardians-of-the-galaxy-quasar",
+ "artist": "Wicked 3D",
+ "series": "Guardians of the Galaxy",
+ "title": "Quasar",
+ "images": [
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-1.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-2.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-3.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-4.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-5.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-6.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-7.jpg",
+  "images/wicked/guardians-of-the-galaxy/quasar/quasar-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (39.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Quasar flies forward with cape billowing, quantum bands blazing."
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-nightmare-before-christmas-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Nightmare Before Christmas",
+ "title": "Nightmare Before Christmas (Diorama)",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/nightmare-before-christmas-diorama/nightmare-before-christmas-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.1 in (35.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jack's coffin sleigh soars over Spiral Hill with the whole Halloween Town gang in this full diorama."
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-jack-and-sally-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Nightmare Before Christmas",
+ "title": "Jack & Sally (Diorama)",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/jack-and-sally-diorama/jack-and-sally-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 9.7 in (24.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jack and Sally ride a coffin sleigh across Spiral Hill in this Nightmare Before Christmas diorama."
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-mayor",
+ "artist": "Wicked 3D",
+ "series": "The Nightmare Before Christmas",
+ "title": "Mayor",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/mayor/mayor-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 5.2 in (13.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The two-faced Mayor of Halloween Town shouts through his megaphone in his tall hat and sash."
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-oogie-boogie",
+ "artist": "Wicked 3D",
+ "series": "The Nightmare Before Christmas",
+ "title": "Oogie Boogie",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/oogie-boogie/oogie-boogie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 5.0 in (12.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Oogie Boogie looms in his burlap sack body, bugs and dice at the ready, on a Halloween Town base."
+},
+ {
+ "id": "wicked-the-nightmare-before-christmas-zero",
+ "artist": "Wicked 3D",
+ "series": "The Nightmare Before Christmas",
+ "title": "Zero",
+ "images": [
+  "images/wicked/the-nightmare-before-christmas/zero/zero-1.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-2.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-3.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-4.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-5.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-6.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-7.jpg",
+  "images/wicked/the-nightmare-before-christmas/zero/zero-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 2.2 in (5.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Zero, Jack's ghost dog, floats with his glowing pumpkin nose over a Halloween Town base."
+},
+ {
+ "id": "wicked-avengers-nick-fury-and-falcon-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Nick Fury & Falcon (Diorama)",
+ "images": [
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-1.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-2.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-3.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-4.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-5.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-6.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-7.jpg",
+  "images/wicked/avengers/nick-fury-and-falcon-diorama/nick-fury-and-falcon-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 23.9 in (60.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Nick Fury and Falcon fight side by side atop a SHIELD-crested base."
+},
+ {
+ "id": "wicked-avengers-nick-fury",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Nick Fury",
+ "images": [
+  "images/wicked/avengers/nick-fury/nick-fury-1.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-2.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-3.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-4.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-5.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-6.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-7.jpg",
+  "images/wicked/avengers/nick-fury/nick-fury-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Classic Nick Fury fires his rifle in his SHIELD jumpsuit."
+},
+ {
+ "id": "wicked-avengers-falcon-sculpture-2024",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America [Sam Wilson]",
+ "images": [
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-1.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-2.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-3.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-4.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-5.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-6.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-7.jpg",
+  "images/wicked/avengers/falcon-sculpture-2024/falcon-sculpture-2024-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.2 in (43.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sam Wilson as Captain America, shield raised and wings spread, on a Captain America base."
+},
+ {
+ "id": "wicked-x-men-mojo",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Mojo",
+ "images": [
+  "images/wicked/x-men/mojo/mojo-1.jpg",
+  "images/wicked/x-men/mojo/mojo-2.jpg",
+  "images/wicked/x-men/mojo/mojo-3.jpg",
+  "images/wicked/x-men/mojo/mojo-4.jpg",
+  "images/wicked/x-men/mojo/mojo-5.jpg",
+  "images/wicked/x-men/mojo/mojo-6.jpg",
+  "images/wicked/x-men/mojo/mojo-7.jpg",
+  "images/wicked/x-men/mojo/mojo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mojo lounges on his mechanical throne under a looping track, the tyrant of the Mojoverse."
+},
+ {
+ "id": "wicked-avengers-quicksilver",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Quicksilver",
+ "images": [
+  "images/wicked/avengers/quicksilver/quicksilver-1.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-2.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-3.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-4.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-5.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-6.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-7.jpg",
+  "images/wicked/avengers/quicksilver/quicksilver-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.4 in (34.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Quicksilver streaks forward in a blur of speed over a Sentinel-strewn X-Men base."
+},
+ {
+ "id": "wicked-the-grinch-grinch-cindy-and-dog-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Grinch",
+ "title": "Grinch, Cindy Lou & Max (Diorama)",
+ "images": [
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-1.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-2.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-3.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-4.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-5.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-6.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-7.jpg",
+  "images/wicked/the-grinch/grinch-cindy-and-dog-diorama/grinch-cindy-and-dog-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 20.2 in (51.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Grinch, Cindy Lou Who and Max share the rooftop in this How the Grinch Stole Christmas diorama."
+},
+ {
+ "id": "wicked-the-grinch-grinch-jim-carry",
+ "artist": "Wicked 3D",
+ "series": "The Grinch",
+ "title": "Grinch [Jim Carrey]",
+ "images": [
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-1.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-2.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-3.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-4.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-5.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-6.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-7.jpg",
+  "images/wicked/the-grinch/grinch-jim-carry/grinch-jim-carry-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Grinch tiptoes across a Whoville chimney in his Santa suit, ornament in hand."
+},
+ {
+ "id": "wicked-the-grinch-max",
+ "artist": "Wicked 3D",
+ "series": "The Grinch",
+ "title": "Max",
+ "images": [
+  "images/wicked/the-grinch/max/max-1.jpg",
+  "images/wicked/the-grinch/max/max-2.jpg",
+  "images/wicked/the-grinch/max/max-3.jpg",
+  "images/wicked/the-grinch/max/max-4.jpg",
+  "images/wicked/the-grinch/max/max-5.jpg",
+  "images/wicked/the-grinch/max/max-6.jpg",
+  "images/wicked/the-grinch/max/max-7.jpg",
+  "images/wicked/the-grinch/max/max-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 12.1 in (30.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Max, the Grinch's loyal dog, sits atop a snowy chimney with a single antler strapped to his head."
+},
+ {
+ "id": "wicked-daredevil-daredevil-and-electra-diorama",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Daredevil & Elektra (Diorama)",
+ "images": [
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-1.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-2.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-3.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-4.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-5.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-6.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-7.jpg",
+  "images/wicked/daredevil/daredevil-and-electra-diorama/daredevil-and-electra-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Daredevil and Elektra leap through a gothic rooftop scene, billy clubs and sai drawn."
+},
+ {
+ "id": "wicked-x-men-jubilee",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Jubilee",
+ "images": [
+  "images/wicked/x-men/jubilee/jubilee-1.jpg",
+  "images/wicked/x-men/jubilee/jubilee-2.jpg",
+  "images/wicked/x-men/jubilee/jubilee-3.jpg",
+  "images/wicked/x-men/jubilee/jubilee-4.jpg",
+  "images/wicked/x-men/jubilee/jubilee-5.jpg",
+  "images/wicked/x-men/jubilee/jubilee-6.jpg",
+  "images/wicked/x-men/jubilee/jubilee-7.jpg",
+  "images/wicked/x-men/jubilee/jubilee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.9 in (43.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jubilee leaps above Sentinel tentacles, fireworks bursting from her hands."
+},
+ {
+ "id": "wicked-daredevil-black-heart",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Blackheart",
+ "images": [
+  "images/wicked/daredevil/black-heart/black-heart-1.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-2.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-3.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-4.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-5.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-6.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-7.jpg",
+  "images/wicked/daredevil/black-heart/black-heart-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Blackheart, son of Mephisto, rises with demonic wings and flames over a writhing base."
+},
+ {
+ "id": "wicked-marvel-other-stan-lee",
+ "artist": "Wicked 3D",
+ "series": "Marvel Comics",
+ "title": "Stan Lee",
+ "images": [
+  "images/wicked/marvel-other/stan-lee/stan-lee-1.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-2.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-3.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-4.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-5.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-6.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-7.jpg",
+  "images/wicked/marvel-other/stan-lee/stan-lee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (41.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Stan Lee stands hands-on-hips with a warm smile, on a Marvel signature base."
+},
+ {
+ "id": "wicked-daredevil-hulk-and-punisher-diorama",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Hulk & Punisher (Diorama)",
+ "images": [
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-1.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-2.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-3.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-4.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-5.jpg",
+  "images/wicked/daredevil/hulk-and-punisher-diorama/hulk-and-punisher-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 22.4 in (57.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Hulk smashes down as the Punisher fires back, in a rubble-strewn showdown."
+},
+ {
+ "id": "wicked-spider-man-agent-venom",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Agent Venom",
+ "images": [
+  "images/wicked/spider-man/agent-venom/agent-venom-1.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-2.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-3.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-4.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-5.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-6.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-7.jpg",
+  "images/wicked/spider-man/agent-venom/agent-venom-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Agent Venom rises from a skull-strewn base with symbiote tendrils fanning out behind him."
+},
+ {
+ "id": "wicked-x-men-cable-2025",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Cable",
+ "images": [
+  "images/wicked/x-men/cable-2025/cable-2025-1.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-2.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-3.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-4.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-5.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-6.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-7.jpg",
+  "images/wicked/x-men/cable-2025/cable-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cable hefts his massive gun overhead, cape billowing, on an X-Men base."
+},
+ {
+ "id": "wicked-daredevil-cloak-and-dagger-diorama",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Cloak & Dagger (Diorama)",
+ "images": [
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-1.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-2.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-3.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-4.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-5.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-6.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-7.jpg",
+  "images/wicked/daredevil/cloak-and-dagger-diorama/cloak-and-dagger-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 24.0 in (61.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dagger glows with light framed by Cloak's billowing shadowy form in this ornate Cloak & Dagger diorama."
+},
+ {
+ "id": "wicked-evil-dead-ash",
+ "artist": "Wicked 3D",
+ "series": "Evil Dead",
+ "title": "Ash Williams",
+ "images": [
+  "images/wicked/evil-dead/ash/ash-1.jpg",
+  "images/wicked/evil-dead/ash/ash-2.jpg",
+  "images/wicked/evil-dead/ash/ash-3.jpg",
+  "images/wicked/evil-dead/ash/ash-4.jpg",
+  "images/wicked/evil-dead/ash/ash-5.jpg",
+  "images/wicked/evil-dead/ash/ash-6.jpg",
+  "images/wicked/evil-dead/ash/ash-7.jpg",
+  "images/wicked/evil-dead/ash/ash-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 16.1 in (41.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ash Williams raises his chainsaw hand and boomstick before the cabin, on an Evil Dead 2 base."
+},
+ {
+ "id": "wicked-evil-dead-henrietta",
+ "artist": "Wicked 3D",
+ "series": "Evil Dead",
+ "title": "Henrietta",
+ "images": [
+  "images/wicked/evil-dead/henrietta/henrietta-1.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-2.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-3.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-4.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-5.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-6.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-7.jpg",
+  "images/wicked/evil-dead/henrietta/henrietta-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Deadite Henrietta bursts from the cabin's cellar with arms raised, on an Evil Dead 2 base."
+},
+ {
+ "id": "wicked-black-panther-black-panther-vs-predator-diorama",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Black Panther VS Predator (Diorama)",
+ "images": [
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-1.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-2.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-3.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-4.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-5.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-6.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-7.jpg",
+  "images/wicked/black-panther/black-panther-vs-predator-diorama/black-panther-vs-predator-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 23.6 in (60.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Panther and a Predator clash atop a jungle outcrop, spear and claws flying."
+},
+ {
+ "id": "wicked-x-men-blink-joe-madureira",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Blink",
+ "images": [
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-1.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-2.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-3.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-4.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-5.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-6.jpg",
+  "images/wicked/x-men/blink-joe-madureira/blink-joe-madureira-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Blink leaps through a swirling teleport portal, crystal javelins drawn, in Joe Madureira's style."
+},
+ {
+ "id": "wicked-warhammer-40-000-titus-warhammer",
+ "artist": "Wicked 3D",
+ "series": "Warhammer 40K",
+ "title": "Titus Warhammer",
+ "images": [
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-1.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-2.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-3.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-4.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-5.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-6.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-7.jpg",
+  "images/wicked/warhammer-40k/titus-warhammer/titus-warhammer-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 27.6 in (70.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Lieutenant Titus stands in Ultramarine power armor before a chapter banner, holding a Tyranid head aloft."
+},
+ {
+ "id": "wicked-fantastic-four-dr-doom-horse",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Doctor Doom",
+ "images": [
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-1.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-2.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-3.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-4.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-5.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-6.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-7.jpg",
+  "images/wicked/fantastic-four/dr-doom-horse/dr-doom-horse-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.6 in (65.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Doom charges on a rearing armored warhorse, sword raised, in a regal sculpt."
+},
+ {
+ "id": "wicked-terminator-terminator-1-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Terminator",
+ "title": "Terminator 1 (Diorama)",
+ "images": [
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-1.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-2.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-3.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-4.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-5.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-6.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-7.jpg",
+  "images/wicked/terminator/terminator-1-diorama/terminator-1-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 20.1 in (51.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The T-800 stands beside his exposed endoskeleton self on a skull-strewn Terminator diorama."
+},
+ {
+ "id": "wicked-terminator-terminator-1",
+ "artist": "Wicked 3D",
+ "series": "The Terminator",
+ "title": "Terminator 1",
+ "images": [
+  "images/wicked/terminator/terminator-1/terminator-1-1.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-2.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-3.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-4.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-5.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-6.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-7.jpg",
+  "images/wicked/terminator/terminator-1/terminator-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 18.9 in (48.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The T-800 in leather jacket and shades, shotgun raised, over a skull-strewn Terminator base."
+},
+ {
+ "id": "wicked-terminator-t-800",
+ "artist": "Wicked 3D",
+ "series": "The Terminator",
+ "title": "T-800",
+ "images": [
+  "images/wicked/terminator/t-800/t-800-1.jpg",
+  "images/wicked/terminator/t-800/t-800-2.jpg",
+  "images/wicked/terminator/t-800/t-800-3.jpg",
+  "images/wicked/terminator/t-800/t-800-4.jpg",
+  "images/wicked/terminator/t-800/t-800-5.jpg",
+  "images/wicked/terminator/t-800/t-800-6.jpg",
+  "images/wicked/terminator/t-800/t-800-7.jpg",
+  "images/wicked/terminator/t-800/t-800-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 17.5 in (44.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The T-800 endoskeleton advances with plasma rifle in hand over a skull-strewn base."
+},
+ {
+ "id": "wicked-predator-weapon-x-vs-predator-diorama",
+ "artist": "Wicked 3D",
+ "series": "Predator",
+ "title": "Weapon X VS Predator (Diorama)",
+ "images": [
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-1.jpg",
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-2.jpg",
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-3.jpg",
+  "images/wicked/predator/weapon-x-vs-predator-diorama/weapon-x-vs-predator-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.6 in (65.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Weapon X Logan battles a Predator atop a frozen ridge of skulls in this brutal snow-covered showdown."
+},
+ {
+ "id": "wicked-x-men-angel",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Angel",
+ "images": [
+  "images/wicked/x-men/angel/angel-1.jpg",
+  "images/wicked/x-men/angel/angel-2.jpg",
+  "images/wicked/x-men/angel/angel-3.jpg",
+  "images/wicked/x-men/angel/angel-4.jpg",
+  "images/wicked/x-men/angel/angel-5.jpg",
+  "images/wicked/x-men/angel/angel-6.jpg",
+  "images/wicked/x-men/angel/angel-7.jpg",
+  "images/wicked/x-men/angel/angel-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.6 in (65.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Angel soars with his great feathered wings spread wide."
+},
+ {
+ "id": "wicked-x-men-nimrod",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Nimrod",
+ "images": [
+  "images/wicked/x-men/nimrod/nimrod-1.jpg",
+  "images/wicked/x-men/nimrod/nimrod-2.jpg",
+  "images/wicked/x-men/nimrod/nimrod-3.jpg",
+  "images/wicked/x-men/nimrod/nimrod-4.jpg",
+  "images/wicked/x-men/nimrod/nimrod-5.jpg",
+  "images/wicked/x-men/nimrod/nimrod-6.jpg",
+  "images/wicked/x-men/nimrod/nimrod-7.jpg",
+  "images/wicked/x-men/nimrod/nimrod-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.6 in (65.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Nimrod, the future Sentinel, rises on a jet of energy over rubble."
+},
+ {
+ "id": "wicked-bloodsport-bloodsport-diorama",
+ "artist": "Wicked 3D",
+ "series": "Bloodsport",
+ "title": "Bloodsport (Diorama)",
+ "images": [
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-1.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-2.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-3.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-4.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-5.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-6.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-7.jpg",
+  "images/wicked/bloodsport/bloodsport-diorama/bloodsport-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 18.6 in (47.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Frank Dux lands a flying kick on Chong Li in this Kumite showdown diorama."
+},
+ {
+ "id": "wicked-bloodsport-frank-dux",
+ "artist": "Wicked 3D",
+ "series": "Bloodsport",
+ "title": "Frank Dux",
+ "images": [
+  "images/wicked/bloodsport/frank-dux/frank-dux-1.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-2.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-3.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-4.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-5.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-6.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-7.jpg",
+  "images/wicked/bloodsport/frank-dux/frank-dux-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 18.9 in (48.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Frank Dux throws a high kick on the Kumite stage, on a red Bloodsport base."
+},
+ {
+ "id": "wicked-bloodsport-chong-li",
+ "artist": "Wicked 3D",
+ "series": "Bloodsport",
+ "title": "Chong Li",
+ "images": [
+  "images/wicked/bloodsport/chong-li/chong-li-1.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-2.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-3.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-4.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-5.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-6.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-7.jpg",
+  "images/wicked/bloodsport/chong-li/chong-li-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 17.4 in (44.1 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Chong Li stands menacingly in his fighting shorts on a Kumite base."
+},
+ {
+ "id": "wicked-thor-thor-and-loki-diorama",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Thor & Loki (Diorama)",
+ "images": [
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-1.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-2.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-3.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-4.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-5.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-6.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-7.jpg",
+  "images/wicked/thor/thor-and-loki-diorama/thor-and-loki-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 24.2 in (61.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thor and Loki clash on a rocky Asgardian base, Mjolnir against scepter."
+},
+ {
+ "id": "wicked-avengers-she-hulk",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "She Hulk",
+ "images": [
+  "images/wicked/avengers/she-hulk/she-hulk-1.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-2.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-3.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-4.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-5.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-6.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-7.jpg",
+  "images/wicked/avengers/she-hulk/she-hulk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "She-Hulk smashes through a wrecked wall, tire and debris at her feet."
+},
+ {
+ "id": "wicked-x-men-dazzler",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Dazzler [Alison Blaire]",
+ "images": [
+  "images/wicked/x-men/dazzler/dazzler-1.jpg",
+  "images/wicked/x-men/dazzler/dazzler-2.jpg",
+  "images/wicked/x-men/dazzler/dazzler-3.jpg",
+  "images/wicked/x-men/dazzler/dazzler-4.jpg",
+  "images/wicked/x-men/dazzler/dazzler-5.jpg",
+  "images/wicked/x-men/dazzler/dazzler-6.jpg",
+  "images/wicked/x-men/dazzler/dazzler-7.jpg",
+  "images/wicked/x-men/dazzler/dazzler-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.9 in (53.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dazzler poses atop a disco-star stage with spotlights and speakers."
+},
+ {
+ "id": "wicked-god-of-war-god-of-war-4-diorama",
+ "artist": "Wicked 3D",
+ "series": "God of War",
+ "title": "God Of War 4 (Diorama)",
+ "images": [
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-1.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-2.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-3.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-4.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-5.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-6.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-7.jpg",
+  "images/wicked/god-of-war/god-of-war-4-diorama/god-of-war-4-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 22.0 in (55.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kratos and Atreus battle a dragon across a Norse bridge in this God of War diorama."
+},
+ {
+ "id": "wicked-god-of-war-kratos",
+ "artist": "Wicked 3D",
+ "series": "God of War",
+ "title": "Kratos",
+ "images": [
+  "images/wicked/god-of-war/kratos/kratos-1.jpg",
+  "images/wicked/god-of-war/kratos/kratos-2.jpg",
+  "images/wicked/god-of-war/kratos/kratos-3.jpg",
+  "images/wicked/god-of-war/kratos/kratos-4.jpg",
+  "images/wicked/god-of-war/kratos/kratos-5.jpg",
+  "images/wicked/god-of-war/kratos/kratos-6.jpg",
+  "images/wicked/god-of-war/kratos/kratos-7.jpg",
+  "images/wicked/god-of-war/kratos/kratos-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (44.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kratos raises the Guardian Shield as he storms forward on a rocky Norse base."
+},
+ {
+ "id": "wicked-god-of-war-atreus",
+ "artist": "Wicked 3D",
+ "series": "God of War",
+ "title": "Atreus",
+ "images": [
+  "images/wicked/god-of-war/atreus/atreus-1.jpg",
+  "images/wicked/god-of-war/atreus/atreus-2.jpg",
+  "images/wicked/god-of-war/atreus/atreus-3.jpg",
+  "images/wicked/god-of-war/atreus/atreus-4.jpg",
+  "images/wicked/god-of-war/atreus/atreus-5.jpg",
+  "images/wicked/god-of-war/atreus/atreus-6.jpg",
+  "images/wicked/god-of-war/atreus/atreus-7.jpg",
+  "images/wicked/god-of-war/atreus/atreus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 8.5 in (21.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Atreus lunges with his bow drawn over a rocky Norse base."
+},
+ {
+ "id": "wicked-the-matrix-neo",
+ "artist": "Wicked 3D",
+ "series": "The Matrix",
+ "title": "Neo",
+ "images": [
+  "images/wicked/the-matrix/neo/neo-1.jpg",
+  "images/wicked/the-matrix/neo/neo-2.jpg",
+  "images/wicked/the-matrix/neo/neo-3.jpg",
+  "images/wicked/the-matrix/neo/neo-4.jpg",
+  "images/wicked/the-matrix/neo/neo-5.jpg",
+  "images/wicked/the-matrix/neo/neo-6.jpg",
+  "images/wicked/the-matrix/neo/neo-7.jpg",
+  "images/wicked/the-matrix/neo/neo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 17.8 in (45.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Neo stands in his long coat with twin pistols raised, on a Matrix cityscape base."
+},
+ {
+ "id": "wicked-the-matrix-trinity",
+ "artist": "Wicked 3D",
+ "series": "The Matrix",
+ "title": "Trinity",
+ "images": [
+  "images/wicked/the-matrix/trinity/trinity-1.jpg",
+  "images/wicked/the-matrix/trinity/trinity-2.jpg",
+  "images/wicked/the-matrix/trinity/trinity-3.jpg",
+  "images/wicked/the-matrix/trinity/trinity-4.jpg",
+  "images/wicked/the-matrix/trinity/trinity-5.jpg",
+  "images/wicked/the-matrix/trinity/trinity-6.jpg",
+  "images/wicked/the-matrix/trinity/trinity-7.jpg",
+  "images/wicked/the-matrix/trinity/trinity-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 12.1 in (30.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Trinity stands poised in sunglasses and leather, pistol drawn, on a Matrix base."
+},
+ {
+ "id": "wicked-avengers-red-hulk-and-ross-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Red Hulk & Ross (Diorama)",
+ "images": [
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-1.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-2.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-3.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-4.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-5.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-6.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-7.jpg",
+  "images/wicked/avengers/red-hulk-and-ross-diorama/red-hulk-and-ross-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.5 in (54.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "President Ross stands before his monstrous Red Hulk form in this Captain America diorama."
+},
+ {
+ "id": "wicked-avengers-red-hulk",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Red Hulk",
+ "images": [
+  "images/wicked/avengers/red-hulk/red-hulk-1.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-2.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-3.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-4.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-5.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-6.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-7.jpg",
+  "images/wicked/avengers/red-hulk/red-hulk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.7 in (47.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Red Hulk crouches on a rocky outcrop, cape torn and muscles bulging."
+},
+ {
+ "id": "wicked-avengers-ross",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Ross",
+ "images": [
+  "images/wicked/avengers/ross/ross-1.jpg",
+  "images/wicked/avengers/ross/ross-2.jpg",
+  "images/wicked/avengers/ross/ross-3.jpg",
+  "images/wicked/avengers/ross/ross-4.jpg",
+  "images/wicked/avengers/ross/ross-5.jpg",
+  "images/wicked/avengers/ross/ross-6.jpg",
+  "images/wicked/avengers/ross/ross-7.jpg",
+  "images/wicked/avengers/ross/ross-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (41.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thaddeus Ross salutes in a sharp suit on a Captain America base."
+},
+ {
+ "id": "wicked-x-men-pyro",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Pyro",
+ "images": [
+  "images/wicked/x-men/pyro/pyro-1.jpg",
+  "images/wicked/x-men/pyro/pyro-2.jpg",
+  "images/wicked/x-men/pyro/pyro-3.jpg",
+  "images/wicked/x-men/pyro/pyro-4.jpg",
+  "images/wicked/x-men/pyro/pyro-5.jpg",
+  "images/wicked/x-men/pyro/pyro-6.jpg",
+  "images/wicked/x-men/pyro/pyro-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Pyro unleashes a towering wave of flame from his flamethrowers."
+},
+ {
+ "id": "wicked-avengers-captain-marvel-2025",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain Marvel",
+ "images": [
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-1.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-2.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-3.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-4.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-5.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-6.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-7.jpg",
+  "images/wicked/avengers/captain-marvel-2025/captain-marvel-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain Marvel rises with photon energy blazing from both hands, on a swirling base."
+},
+ {
+ "id": "wicked-the-matrix-matrix-diorama-neo-trinity-and-morpheus",
+ "artist": "Wicked 3D",
+ "series": "The Matrix",
+ "title": "Matrix (Neo, Trinity & Morpheus) (Diorama)",
+ "images": [
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-1.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-2.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-3.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-4.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-5.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-6.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-7.jpg",
+  "images/wicked/the-matrix/matrix-diorama-neo-trinity-and-morpheus/matrix-diorama-neo-trinity-and-morpheus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 18.5 in (47.1 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Neo, Trinity and Morpheus stand guns-drawn together in this full Matrix diorama."
+},
+ {
+ "id": "wicked-the-matrix-morpheus",
+ "artist": "Wicked 3D",
+ "series": "The Matrix",
+ "title": "Morpheus",
+ "images": [
+  "images/wicked/the-matrix/morpheus/morpheus-1.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-2.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-3.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-4.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-5.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-6.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-7.jpg",
+  "images/wicked/the-matrix/morpheus/morpheus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 19.0 in (48.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Morpheus stands in his long coat, pistols raised, on a Matrix city base."
+},
+ {
+ "id": "wicked-the-matrix-smith",
+ "artist": "Wicked 3D",
+ "series": "The Matrix",
+ "title": "Smith",
+ "images": [
+  "images/wicked/the-matrix/smith/smith-1.jpg",
+  "images/wicked/the-matrix/smith/smith-2.jpg",
+  "images/wicked/the-matrix/smith/smith-3.jpg",
+  "images/wicked/the-matrix/smith/smith-4.jpg",
+  "images/wicked/the-matrix/smith/smith-5.jpg",
+  "images/wicked/the-matrix/smith/smith-6.jpg",
+  "images/wicked/the-matrix/smith/smith-7.jpg",
+  "images/wicked/the-matrix/smith/smith-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 18.1 in (46.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Agent Smith adjusts his suit and shades atop a cityscape Matrix base."
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-sonic",
+ "artist": "Wicked 3D",
+ "series": "Sonic the Hedgehog",
+ "title": "Sonic",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-1.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-2.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-3.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-4.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-5.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-6.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-7.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic/sonic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 9.4 in (24.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sonic dashes in a whirl of speed lines above Green Hill Zone."
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-dr-eggman",
+ "artist": "Wicked 3D",
+ "series": "Sonic the Hedgehog",
+ "title": "Dr Eggman",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-1.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-2.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-3.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-4.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-5.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-6.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-7.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman/dr-eggman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dr. Eggman pilots his Egg Mobile with saw blades and spikes deployed, on a Sonic base."
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-sonic-diorama",
+ "artist": "Wicked 3D",
+ "series": "Sonic the Hedgehog",
+ "title": "Sonic (Diorama)",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-1.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-2.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-3.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-4.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-5.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-6.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-diorama/sonic-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sonic races past Dr. Eggman's Egg Mobile on a Green Hill Zone diorama."
+},
+ {
+ "id": "wicked-spider-man-spiderman-and-gwen-stacy-diorama",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spiderman & Gwen Stacy (Diorama)",
+ "images": [
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-1.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-2.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-3.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-4.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-5.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-6.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-7.jpg",
+  "images/wicked/spider-man/spiderman-and-gwen-stacy-diorama/spiderman-and-gwen-stacy-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Spider-Man cradles a fallen Gwen Stacy on a comic-cover base — The Night Gwen Stacy Died."
+},
+ {
+ "id": "wicked-spider-man-gwen-stacy",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Gwen Stacy",
+ "images": [
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-1.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-2.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-3.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-4.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-5.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-6.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-7.jpg",
+  "images/wicked/spider-man/gwen-stacy/gwen-stacy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (44.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gwen Stacy stands under her umbrella beside a web-draped wall."
+},
+ {
+ "id": "wicked-avengers-ultron-2025",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Ultron 2025",
+ "images": [
+  "images/wicked/avengers/ultron-2025/ultron-2025-1.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-2.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-3.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-4.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-5.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-6.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-7.jpg",
+  "images/wicked/avengers/ultron-2025/ultron-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.3 in (54.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ultron sits enthroned beneath a crown of robotic arms, menacing and regal."
+},
+ {
+ "id": "wicked-x-men-forge",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Forge [Daniel Lone Eagle]",
+ "images": [
+  "images/wicked/x-men/forge/forge-1.jpg",
+  "images/wicked/x-men/forge/forge-2.jpg",
+  "images/wicked/x-men/forge/forge-3.jpg",
+  "images/wicked/x-men/forge/forge-4.jpg",
+  "images/wicked/x-men/forge/forge-5.jpg",
+  "images/wicked/x-men/forge/forge-6.jpg",
+  "images/wicked/x-men/forge/forge-7.jpg",
+  "images/wicked/x-men/forge/forge-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Forge leaps into action with blasters drawn over a swirling energy base."
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-sonic-sculpture-2",
+ "artist": "Wicked 3D",
+ "series": "Sonic the Hedgehog",
+ "title": "Sonic Sculpture #2",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-1.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-2.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-3.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-4.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-5.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-6.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-7.jpg",
+  "images/wicked/sonic-the-hedgehog/sonic-sculpture-2/sonic-sculpture-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 10.6 in (27.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sonic wags a finger with his trademark smirk, sneakers planted."
+},
+ {
+ "id": "wicked-sonic-the-hedgehog-dr-eggman-sculpture-2",
+ "artist": "Wicked 3D",
+ "series": "Sonic the Hedgehog",
+ "title": "Dr Eggman Sculpture #2",
+ "images": [
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-1.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-2.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-3.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-4.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-5.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-6.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-7.jpg",
+  "images/wicked/sonic-the-hedgehog/dr-eggman-sculpture-2/dr-eggman-sculpture-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.9 in (40.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dr. Eggman cackles with a Chaos Emerald held high, mustache bristling."
+},
+ {
+ "id": "wicked-godzilla-vs-kong-godzilla-vs-kong-diorama",
+ "artist": "Wicked 3D",
+ "series": "Godzilla vs. Kong",
+ "title": "Godzilla VS Kong (Diorama)",
+ "images": [
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-1.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-2.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-3.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-4.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-5.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-6.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-7.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla-vs-kong-diorama/godzilla-vs-kong-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 35.4 in (89.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Godzilla and Kong collide amid crumbling skyscrapers in this towering 70cm diorama."
+},
+ {
+ "id": "wicked-godzilla-vs-kong-godzilla",
+ "artist": "Wicked 3D",
+ "series": "Godzilla vs. Kong",
+ "title": "Godzilla",
+ "images": [
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-1.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-2.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-3.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-4.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-5.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-6.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-7.jpg",
+  "images/wicked/godzilla-vs-kong/godzilla/godzilla-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 27.6 in (70.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Godzilla stomps through the city, dorsal spines jagged, on a Godzilla vs. Kong base."
+},
+ {
+ "id": "wicked-godzilla-vs-kong-kong",
+ "artist": "Wicked 3D",
+ "series": "Godzilla vs. Kong",
+ "title": "Kong",
+ "images": [
+  "images/wicked/godzilla-vs-kong/kong/kong-1.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-2.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-3.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-4.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-5.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-6.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-7.jpg",
+  "images/wicked/godzilla-vs-kong/kong/kong-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 34.5 in (87.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kong roars mid-swing with his axe held high, rising over a shattered city skyline on a Godzilla vs. Kong base."
+},
+ {
+ "id": "wicked-halo-halo-diorama",
+ "artist": "Wicked 3D",
+ "series": "Halo",
+ "title": "Halo (Diorama)",
+ "images": [
+  "images/wicked/halo/halo-diorama/halo-diorama-1.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-2.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-3.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-4.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-5.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-6.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-7.jpg",
+  "images/wicked/halo/halo-diorama/halo-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 22.6 in (57.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Master Chief and the Arbiter battle side by side before a hexagonal energy shield in this Halo diorama."
+},
+ {
+ "id": "wicked-halo-master-chief",
+ "artist": "Wicked 3D",
+ "series": "Halo",
+ "title": "Master Chief",
+ "images": [
+  "images/wicked/halo/master-chief/master-chief-1.jpg",
+  "images/wicked/halo/master-chief/master-chief-2.jpg",
+  "images/wicked/halo/master-chief/master-chief-3.jpg",
+  "images/wicked/halo/master-chief/master-chief-4.jpg",
+  "images/wicked/halo/master-chief/master-chief-5.jpg",
+  "images/wicked/halo/master-chief/master-chief-6.jpg",
+  "images/wicked/halo/master-chief/master-chief-7.jpg",
+  "images/wicked/halo/master-chief/master-chief-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (41.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Master Chief advances with his rifle raised over rocky ruins."
+},
+ {
+ "id": "wicked-halo-the-arbiter",
+ "artist": "Wicked 3D",
+ "series": "Halo",
+ "title": "The Arbiter",
+ "images": [
+  "images/wicked/halo/the-arbiter/the-arbiter-1.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-2.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-3.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-4.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-5.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-6.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-7.jpg",
+  "images/wicked/halo/the-arbiter/the-arbiter-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.3 in (33.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Arbiter crouches with his energy sword raised on a rocky Halo base."
+},
+ {
+ "id": "wicked-doctor-strange-dr-strange-and-shuma-gorath-diorama",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Doctor Strange & Shuma Gorath (Diorama)",
+ "images": [
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-1.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-2.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-3.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-4.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-5.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-6.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-7.jpg",
+  "images/wicked/doctor-strange/dr-strange-and-shuma-gorath-diorama/dr-strange-and-shuma-gorath-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 24.7 in (62.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Strange battles the tentacled Shuma-Gorath in this mystic Doctor Strange diorama."
+},
+ {
+ "id": "wicked-doctor-strange-dr-strange-2025",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Doctor Strange",
+ "images": [
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-1.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-2.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-3.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-4.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-5.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-6.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-7.jpg",
+  "images/wicked/doctor-strange/dr-strange-2025/dr-strange-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Doctor Strange conjures mystic shields atop the Sanctum, the Book of Vishanti in hand."
+},
+ {
+ "id": "wicked-doctor-strange-shuma-gorath",
+ "artist": "Wicked 3D",
+ "series": "Doctor Strange",
+ "title": "Shuma Gorath",
+ "images": [
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-1.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-2.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-3.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-4.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-5.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-6.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-7.jpg",
+  "images/wicked/doctor-strange/shuma-gorath/shuma-gorath-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.7 in (55.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Shuma-Gorath writhes with its great single eye and tentacles."
+},
+ {
+ "id": "wicked-x-men-professor-x-helmet",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Professor X Helmet",
+ "images": [
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-1.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-2.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-3.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-4.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-5.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-6.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-7.jpg",
+  "images/wicked/x-men/professor-x-helmet/professor-x-helmet-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Charles Xavier rises in Cerebro's helmet amid swirling psychic tendrils."
+},
+ {
+ "id": "wicked-fantastic-four-annihilus",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Annihilus",
+ "images": [
+  "images/wicked/fantastic-four/annihilus/annihilus-1.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-2.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-3.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-4.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-5.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-6.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-7.jpg",
+  "images/wicked/fantastic-four/annihilus/annihilus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 24.8 in (63.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Annihilus rises with insectoid wings spread from a writhing base."
+},
+ {
+ "id": "wicked-tomb-raider-tomb-raider-diorama",
+ "artist": "Wicked 3D",
+ "series": "Tomb Raider",
+ "title": "Tomb Raider (Diorama)",
+ "images": [
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-1.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-2.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-3.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-4.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-5.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-6.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-7.jpg",
+  "images/wicked/tomb-raider/tomb-raider-diorama/tomb-raider-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 24.4 in (62.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Lara Croft takes on a T-Rex and raptors from a jungle ruin in this classic Tomb Raider diorama."
+},
+ {
+ "id": "wicked-tomb-raider-lara-croft",
+ "artist": "Wicked 3D",
+ "series": "Tomb Raider",
+ "title": "Lara Croft",
+ "images": [
+  "images/wicked/tomb-raider/lara-croft/lara-croft-1.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-2.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-3.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-4.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-5.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-6.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-7.jpg",
+  "images/wicked/tomb-raider/lara-croft/lara-croft-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 24.4 in (62.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Lara Croft fires her pistols atop a crumbling ruin as raptors circle below."
+},
+ {
+ "id": "wicked-tomb-raider-t-rex-1",
+ "artist": "Wicked 3D",
+ "series": "Tomb Raider",
+ "title": "T-REX",
+ "images": [
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-1.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-2.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-3.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-4.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-5.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-6.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-7.jpg",
+  "images/wicked/tomb-raider/t-rex-1/t-rex-1-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 21.1 in (53.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A massive T-Rex lunges forward with jaws wide."
+},
+ {
+ "id": "wicked-thor-thor",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "Thor",
+ "images": [
+  "images/wicked/thor/thor/thor-1.jpg",
+  "images/wicked/thor/thor/thor-2.jpg",
+  "images/wicked/thor/thor/thor-3.jpg",
+  "images/wicked/thor/thor/thor-4.jpg",
+  "images/wicked/thor/thor/thor-5.jpg",
+  "images/wicked/thor/thor/thor-6.jpg",
+  "images/wicked/thor/thor/thor-7.jpg",
+  "images/wicked/thor/thor/thor-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.0 in (50.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thor raises Mjolnir with cape flowing atop a rocky Avengers base."
+},
+ {
+ "id": "wicked-the-wasp-v2",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "The Wasp",
+ "images": [
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-1.jpg",
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-2.jpg",
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-3.jpg",
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-4.jpg",
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-5.jpg",
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-6.jpg",
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-7.jpg",
+  "images/wicked/avengers/the-wasp-v2/the-wasp-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (44.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Wasp takes flight from a rocky Avengers base, wings spread."
+},
+ {
+ "id": "wicked-x-men-banshee",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Banshee",
+ "images": [
+  "images/wicked/x-men/banshee/banshee-1.jpg",
+  "images/wicked/x-men/banshee/banshee-2.jpg",
+  "images/wicked/x-men/banshee/banshee-3.jpg",
+  "images/wicked/x-men/banshee/banshee-4.jpg",
+  "images/wicked/x-men/banshee/banshee-5.jpg",
+  "images/wicked/x-men/banshee/banshee-6.jpg",
+  "images/wicked/x-men/banshee/banshee-7.jpg",
+  "images/wicked/x-men/banshee/banshee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Banshee soars with his wing-like cape spread, unleashing his sonic scream."
+},
+ {
+ "id": "wicked-marvel-other-man-thing",
+ "artist": "Wicked 3D",
+ "series": "Marvel Comics",
+ "title": "Man-Thing",
+ "images": [
+  "images/wicked/marvel-other/man-thing/man-thing-1.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-2.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-3.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-4.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-5.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-6.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-7.jpg",
+  "images/wicked/marvel-other/man-thing/man-thing-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Man-Thing rises from the swamp with dripping roots and tendrils."
+},
+ {
+ "id": "wicked-avengers-iron-man-2025",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Iron Man",
+ "images": [
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-1.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-2.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-3.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-4.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-5.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-6.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-7.jpg",
+  "images/wicked/avengers/iron-man-2025/iron-man-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Man launches skyward, repulsor hand raised, from a debris-strewn Avengers base."
+},
+ {
+ "id": "wicked-avengers-captain-america-2025",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-1.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-2.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-3.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-4.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-5.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-6.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-7.jpg",
+  "images/wicked/avengers/captain-america-2025/captain-america-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain America stands proud with his shield at his side on an Avengers base."
+},
+ {
+ "id": "wicked-spider-man-hobgoblin",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Hobgoblin",
+ "images": [
+  "images/wicked/spider-man/hobgoblin/hobgoblin-1.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-2.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-3.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-4.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-5.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-6.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-7.jpg",
+  "images/wicked/spider-man/hobgoblin/hobgoblin-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.9 in (48.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Hobgoblin soars on his goblin glider over a smoking rooftop, pumpkin bomb ready."
+},
+ {
+ "id": "wicked-inhumans-black-bolt",
+ "artist": "Wicked 3D",
+ "series": "Inhumans",
+ "title": "Black Bolt",
+ "images": [
+  "images/wicked/inhumans/black-bolt/black-bolt-1.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-2.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-3.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-4.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-5.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-6.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-7.jpg",
+  "images/wicked/inhumans/black-bolt/black-bolt-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (41.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Bolt hovers silently above a crescent-moon base, arms spread."
+},
+ {
+ "id": "wicked-pirates-of-the-caribbean-pirates-of-the-caribbean-diorama",
+ "artist": "Wicked 3D",
+ "series": "Pirates of the Caribbean",
+ "title": "Pirates of the Caribbean (Diorama)",
+ "images": [
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-1.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-2.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-3.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-4.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-5.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-6.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-7.jpg",
+  "images/wicked/pirates-of-the-caribbean/pirates-of-the-caribbean-diorama/pirates-of-the-caribbean-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.5 in (47.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jack Sparrow and Barbossa duel over the cursed Aztec chest in this Pirates of the Caribbean diorama."
+},
+ {
+ "id": "wicked-pirates-of-the-caribbean-jack-sparrow",
+ "artist": "Wicked 3D",
+ "series": "Pirates of the Caribbean",
+ "title": "Jack Sparrow",
+ "images": [
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-1.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-2.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-3.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-4.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-5.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-6.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-7.jpg",
+  "images/wicked/pirates-of-the-caribbean/jack-sparrow/jack-sparrow-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.8 in (37.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain Jack Sparrow lunges with his sword atop a treasure-strewn rock."
+},
+ {
+ "id": "wicked-pirates-of-the-caribbean-hector-barbossa",
+ "artist": "Wicked 3D",
+ "series": "Pirates of the Caribbean",
+ "title": "Hector Barbossa",
+ "images": [
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-1.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-2.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-3.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-4.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-5.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-6.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-7.jpg",
+  "images/wicked/pirates-of-the-caribbean/hector-barbossa/hector-barbossa-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.2 in (41.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain Barbossa brandishes his cutlass from a rocky outcrop strewn with treasure."
+},
+ {
+ "id": "wicked-universal-monsters-the-mummy",
+ "artist": "Wicked 3D",
+ "series": "Universal Monsters",
+ "title": "The Mummy",
+ "images": [
+  "images/wicked/universal-monsters/the-mummy/the-mummy-1.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-2.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-3.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-4.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-5.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-6.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-7.jpg",
+  "images/wicked/universal-monsters/the-mummy/the-mummy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.9 in (48.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Mummy steps from his sarcophagus in Egyptian bandages, on a hieroglyph base."
+},
+ {
+ "id": "wicked-universal-monsters-invisible-man",
+ "artist": "Wicked 3D",
+ "series": "Universal Monsters",
+ "title": "Invisible Man",
+ "images": [
+  "images/wicked/universal-monsters/invisible-man/invisible-man-1.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-2.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-3.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-4.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-5.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-6.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-7.jpg",
+  "images/wicked/universal-monsters/invisible-man/invisible-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (41.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Invisible Man raises a flask in his lab coat amid bubbling glassware."
+},
+ {
+ "id": "wicked-blade-blade-vs-dracula-diorama",
+ "artist": "Wicked 3D",
+ "series": "Blade",
+ "title": "Blade VS Dracula (Diorama)",
+ "images": [
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-1.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-2.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-3.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-4.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-5.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-6.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-7.jpg",
+  "images/wicked/blade/blade-vs-dracula-diorama/blade-vs-dracula-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 27.0 in (68.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Blade dives at Dracula from above in this gothic rooftop showdown."
+},
+ {
+ "id": "wicked-blade-blade-2025",
+ "artist": "Wicked 3D",
+ "series": "Blade",
+ "title": "Blade",
+ "images": [
+  "images/wicked/blade/blade-2025/blade-2025-1.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-2.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-3.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-4.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-5.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-6.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-7.jpg",
+  "images/wicked/blade/blade-2025/blade-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.6 in (65.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Blade leaps from a crumbling chimney, sword drawn and coat flaring."
+},
+ {
+ "id": "wicked-blade-dracula",
+ "artist": "Wicked 3D",
+ "series": "Blade",
+ "title": "Dracula",
+ "images": [
+  "images/wicked/blade/dracula/dracula-1.jpg",
+  "images/wicked/blade/dracula/dracula-2.jpg",
+  "images/wicked/blade/dracula/dracula-3.jpg",
+  "images/wicked/blade/dracula/dracula-4.jpg",
+  "images/wicked/blade/dracula/dracula-5.jpg",
+  "images/wicked/blade/dracula/dracula-6.jpg",
+  "images/wicked/blade/dracula/dracula-7.jpg",
+  "images/wicked/blade/dracula/dracula-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.0 in (43.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dracula rises in his sweeping cape from a gothic altar flanked by gargoyles."
+},
+ {
+ "id": "wicked-marvel-zombies-deadpool-zombie",
+ "artist": "Wicked 3D",
+ "series": "Marvel Zombies",
+ "title": "Deadpool",
+ "images": [
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-1.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-2.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-3.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-4.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-5.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-6.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-7.jpg",
+  "images/wicked/marvel-zombies/deadpool-zombie/deadpool-zombie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.9 in (48.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Zombie Deadpool leaps over a gaping serpent maw with katana raised."
+},
+ {
+ "id": "wicked-avengers-giant-man",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Giant Man",
+ "images": [
+  "images/wicked/avengers/giant-man/giant-man-1.jpg",
+  "images/wicked/avengers/giant-man/giant-man-2.jpg",
+  "images/wicked/avengers/giant-man/giant-man-3.jpg",
+  "images/wicked/avengers/giant-man/giant-man-4.jpg",
+  "images/wicked/avengers/giant-man/giant-man-5.jpg",
+  "images/wicked/avengers/giant-man/giant-man-6.jpg",
+  "images/wicked/avengers/giant-man/giant-man-7.jpg",
+  "images/wicked/avengers/giant-man/giant-man-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.5 in (39.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Giant-Man steps over a rocky Avengers base in his classic helmet and suit."
+},
+ {
+ "id": "wicked-hellraiser-hellraiser-diorama",
+ "artist": "Wicked 3D",
+ "series": "Hellraiser",
+ "title": "Hellraiser (Diorama)",
+ "images": [
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-1.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-2.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-3.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-4.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-5.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-6.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-7.jpg",
+  "images/wicked/hellraiser/hellraiser-diorama/hellraiser-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Pinhead, Butterball, the Female Cenobite and Chatterer gather at their chained gates in this Hellraiser diorama."
+},
+ {
+ "id": "wicked-hellraiser-pinhead",
+ "artist": "Wicked 3D",
+ "series": "Hellraiser",
+ "title": "Pinhead",
+ "images": [
+  "images/wicked/hellraiser/pinhead/pinhead-1.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-2.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-3.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-4.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-5.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-6.jpg",
+  "images/wicked/hellraiser/pinhead/pinhead-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Pinhead stands within a chained Lament Configuration gateway, robes flowing."
+},
+ {
+ "id": "wicked-hellraiser-butternall",
+ "artist": "Wicked 3D",
+ "series": "Hellraiser",
+ "title": "Butterball",
+ "images": [
+  "images/wicked/hellraiser/butternall/butternall-1.jpg",
+  "images/wicked/hellraiser/butternall/butternall-2.jpg",
+  "images/wicked/hellraiser/butternall/butternall-3.jpg",
+  "images/wicked/hellraiser/butternall/butternall-4.jpg",
+  "images/wicked/hellraiser/butternall/butternall-5.jpg",
+  "images/wicked/hellraiser/butternall/butternall-6.jpg",
+  "images/wicked/hellraiser/butternall/butternall-7.jpg",
+  "images/wicked/hellraiser/butternall/butternall-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Butterball, the hulking Cenobite, stands in his chained gateway with goggles on."
+},
+ {
+ "id": "wicked-silent-hill-silent-hill-diorama",
+ "artist": "Wicked 3D",
+ "series": "Silent Hill 2",
+ "title": "Silent Hill (Diorama)",
+ "images": [
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-1.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-2.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-3.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-4.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-5.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-6.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-7.jpg",
+  "images/wicked/silent-hill/silent-hill-diorama/silent-hill-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.6 in (44.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "James faces Pyramid Head before a rusted door in this foreboding Silent Hill 2 diorama."
+},
+ {
+ "id": "wicked-silent-hill-james",
+ "artist": "Wicked 3D",
+ "series": "Silent Hill 2",
+ "title": "James",
+ "images": [
+  "images/wicked/silent-hill/james/james-1.jpg",
+  "images/wicked/silent-hill/james/james-2.jpg",
+  "images/wicked/silent-hill/james/james-3.jpg",
+  "images/wicked/silent-hill/james/james-4.jpg",
+  "images/wicked/silent-hill/james/james-5.jpg",
+  "images/wicked/silent-hill/james/james-6.jpg",
+  "images/wicked/silent-hill/james/james-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.6 in (37.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "James Sunderland swings a wooden plank in his green jacket, in a grimy Silent Hill 2 hallway base."
+},
+ {
+ "id": "wicked-silent-hill-pyramid-head",
+ "artist": "Wicked 3D",
+ "series": "Silent Hill 2",
+ "title": "Pyramid Head",
+ "images": [
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-1.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-2.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-3.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-4.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-5.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-6.jpg",
+  "images/wicked/silent-hill/pyramid-head/pyramid-head-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.6 in (37.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Pyramid Head drags his Great Knife past a rusted fence on an industrial Silent Hill 2 base."
+},
+ {
+ "id": "wicked-resident-evil-diorama-resident-evil",
+ "artist": "Wicked 3D",
+ "series": "Resident Evil",
+ "title": "Resident Evil (Diorama)",
+ "images": [
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-1.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-2.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-3.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-4.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-5.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-6.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-7.jpg",
+  "images/wicked/resident-evil/diorama-resident-evil/diorama-resident-evil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.4 in (44.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Chris and Jill fight off zombies on the mansion stairs in this Resident Evil diorama."
+},
+ {
+ "id": "wicked-resident-evil-chris-resident-evil",
+ "artist": "Wicked 3D",
+ "series": "Resident Evil",
+ "title": "Chris Redfield",
+ "images": [
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-1.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-2.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-3.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-4.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-5.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-6.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-7.jpg",
+  "images/wicked/resident-evil/chris-resident-evil/chris-resident-evil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.2 in (36.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Chris Redfield aims his shotgun in tactical gear on a Resident Evil base."
+},
+ {
+ "id": "wicked-resident-evil-jill-resident-evil",
+ "artist": "Wicked 3D",
+ "series": "Resident Evil",
+ "title": "Jill Resident Evil",
+ "images": [
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-1.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-2.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-3.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-4.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-5.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-6.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-7.jpg",
+  "images/wicked/resident-evil/jill-resident-evil/jill-resident-evil-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.8 in (32.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jill Valentine takes aim in her S.T.A.R.S. gear on a Resident Evil base."
+},
+ {
+ "id": "wicked-hellraiser-chatterer",
+ "artist": "Wicked 3D",
+ "series": "Hellraiser",
+ "title": "Chatterer",
+ "images": [
+  "images/wicked/hellraiser/chatterer/chatterer-1.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-2.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-3.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-4.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-5.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-6.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-7.jpg",
+  "images/wicked/hellraiser/chatterer/chatterer-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (44.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Chatterer, teeth bared and chains dangling, poses before a brick wall."
+},
+ {
+ "id": "wicked-hellraiser-female-cenobite",
+ "artist": "Wicked 3D",
+ "series": "Hellraiser",
+ "title": "Female Cenobite",
+ "images": [
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-1.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-2.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-3.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-4.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-5.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-6.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-7.jpg",
+  "images/wicked/hellraiser/female-cenobite/female-cenobite-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.2 in (38.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Female Cenobite stands in an ornate chained archway, puzzle box overhead."
+},
+ {
+ "id": "wicked-inhumans-medusa-inhumans",
+ "artist": "Wicked 3D",
+ "series": "Inhumans",
+ "title": "Medusa Inhumans",
+ "images": [
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-1.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-2.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-3.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-4.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-5.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-6.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-7.jpg",
+  "images/wicked/inhumans/medusa-inhumans/medusa-inhumans-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Medusa of the Inhumans rises amid swirling waves of her living prehensile hair."
+},
+ {
+ "id": "wicked-avengers-winter-soldier-2025",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Winter Soldier 2025",
+ "images": [
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-1.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-2.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-3.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-4.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-5.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-6.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-7.jpg",
+  "images/wicked/avengers/winter-soldier-2025/winter-soldier-2025-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (44.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bucky Barnes as the Winter Soldier, rifle raised and metal arm ready, on a Captain America base."
+},
+ {
+ "id": "wicked-spider-man-venom-2025",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Venom 2025",
+ "images": [
+  "images/wicked/spider-man/venom-2025/venom-2025-1.jpg",
+  "images/wicked/spider-man/venom-2025/venom-2025-2.jpg",
+  "images/wicked/spider-man/venom-2025/venom-2025-3.jpg",
+  "images/wicked/spider-man/venom-2025/venom-2025-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Venom crouches over a wrecked base, tongue lashing and tendrils swirling."
+},
+ {
+ "id": "wicked-spider-man-carnage-2025",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Carnage",
+ "images": [
+  "images/wicked/spider-man/carnage-2025/carnage-2025-1.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-2.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-3.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-4.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-5.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-6.jpg",
+  "images/wicked/spider-man/carnage-2025/carnage-2025-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 24.1 in (61.1 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Carnage twists upward in a frenzy of tendrils over a ruined cityscape."
+},
+ {
+ "id": "wicked-spider-man-venom-vs-carnage-diorama-2",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Venom VS Carnage (Diorama)",
+ "images": [
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-1.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-2.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-3.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-4.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-5.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-6.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-7.jpg",
+  "images/wicked/spider-man/venom-vs-carnage-diorama-2/venom-vs-carnage-diorama-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 30.5 in (77.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Carnage launches down on Venom in a swirling tangle of symbiote tendrils."
+},
+ {
+ "id": "wicked-x-men-logan",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Logan",
+ "images": [
+  "images/wicked/x-men/logan/logan-1.jpg",
+  "images/wicked/x-men/logan/logan-2.jpg",
+  "images/wicked/x-men/logan/logan-3.jpg",
+  "images/wicked/x-men/logan/logan-4.jpg",
+  "images/wicked/x-men/logan/logan-5.jpg",
+  "images/wicked/x-men/logan/logan-6.jpg",
+  "images/wicked/x-men/logan/logan-7.jpg",
+  "images/wicked/x-men/logan/logan-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cowboy Logan in a tank top and hat, claws extended, on a bar-themed X-Men base."
+},
+ {
+ "id": "wicked-x-men-juggernaut-comic-version",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Juggernaut",
+ "images": [
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-1.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-2.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-3.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-4.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-5.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-6.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-7.jpg",
+  "images/wicked/x-men/juggernaut-comic-version/juggernaut-comic-version-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.3 in (46.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Comic-style Juggernaut stands in a wrecked saloon, fists clenched in his crimson helmet and armor."
+},
+ {
+ "id": "wicked-x-men-logan-vs-juggernaut-comic-version-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Logan VS Juggernaut Comic Version (Diorama)",
+ "images": [
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-1.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-2.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-3.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-4.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-5.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-6.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-7.jpg",
+  "images/wicked/x-men/logan-vs-juggernaut-comic-version-diorama/logan-vs-juggernaut-comic-version-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.8 in (47.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Logan squares off against Juggernaut in a battered bar, claws out, in this comic-style X-Men diorama."
+},
+ {
+ "id": "wicked-marvel-other-darkhawk",
+ "artist": "Wicked 3D",
+ "series": "Marvel Comics",
+ "title": "Darkhawk",
+ "images": [
+  "images/wicked/marvel-other/darkhawk/darkhawk-1.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-2.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-3.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-4.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-5.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-6.jpg",
+  "images/wicked/marvel-other/darkhawk/darkhawk-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.2 in (64.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Darkhawk spreads his bladed silver wings, rising from a crystal base against a cosmic backdrop."
+},
+ {
+ "id": "wicked-donkey-kong-donkey-kong-donkey-and-diddy-diorama",
+ "artist": "Wicked 3D",
+ "series": "Donkey Kong",
+ "title": "Donkey & Diddy Kong (Diorama)",
+ "images": [
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-1.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-2.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-3.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-4.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-5.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-6.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-7.jpg",
+  "images/wicked/donkey-kong/donkey-kong-donkey-and-diddy-diorama/donkey-kong-donkey-and-diddy-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Donkey and Diddy Kong burst out of a mine cart on a banana-filled Donkey Kong Country diorama."
+},
+ {
+ "id": "wicked-donkey-kong-cranky",
+ "artist": "Wicked 3D",
+ "series": "Donkey Kong",
+ "title": "Cranky Kong",
+ "images": [
+  "images/wicked/donkey-kong/cranky/cranky-1.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-2.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-3.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-4.jpg",
+  "images/wicked/donkey-kong/cranky/cranky-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 9.8 in (25.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cranky Kong rocks in his chair, cane in hand, beside his gramophone on a Donkey Kong Country base."
+},
+ {
+ "id": "wicked-donkey-kong-king-rool",
+ "artist": "Wicked 3D",
+ "series": "Donkey Kong",
+ "title": "King K. Rool",
+ "images": [
+  "images/wicked/donkey-kong/king-rool/king-rool-1.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-2.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-3.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-4.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-5.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-6.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-7.jpg",
+  "images/wicked/donkey-kong/king-rool/king-rool-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.4 in (36.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "King K. Rool flexes his claws in his crown and cape, on a Donkey Kong Country base."
+},
+ {
+ "id": "wicked-elf-elf",
+ "artist": "Wicked 3D",
+ "series": "Elf",
+ "title": "Buddy the Elf",
+ "images": [
+  "images/wicked/elf/elf/elf-1.jpg",
+  "images/wicked/elf/elf/elf-2.jpg",
+  "images/wicked/elf/elf/elf-3.jpg",
+  "images/wicked/elf/elf/elf-4.jpg",
+  "images/wicked/elf/elf/elf-5.jpg",
+  "images/wicked/elf/elf/elf-6.jpg",
+  "images/wicked/elf/elf/elf-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.7 in (40.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Buddy the Elf stands proudly beside a decorated Christmas tree, candy cane in hand, on a snowy street base."
+},
+ {
+ "id": "wicked-avengers-planet-hulk",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Planet Hulk",
+ "images": [
+  "images/wicked/avengers/planet-hulk/planet-hulk-1.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-2.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-3.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-4.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-5.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-6.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-7.jpg",
+  "images/wicked/avengers/planet-hulk/planet-hulk-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 27.6 in (70.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gladiator Hulk raises his spiked mace in Sakaar armor and plumed helmet, alien worms writhing below."
+},
+ {
+ "id": "wicked-fantastic-four-silver-surfer-comic",
+ "artist": "Wicked 3D",
+ "series": "Fantastic Four",
+ "title": "Silver Surfer Comic",
+ "images": [
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-1.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-2.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-3.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-4.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-5.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-6.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-7.jpg",
+  "images/wicked/fantastic-four/silver-surfer-comic/silver-surfer-comic-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.8 in (45.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A gladiator Silver Surfer charges with mace and board, in arena armor over snarling beasts on a Sakaar base."
+},
+ {
+ "id": "wicked-kingpin-v2",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Kingpin",
+ "images": [
+  "images/wicked/daredevil/kingpin-v2/kingpin-v2-1.jpg",
+  "images/wicked/daredevil/kingpin-v2/kingpin-v2-2.jpg",
+  "images/wicked/daredevil/kingpin-v2/kingpin-v2-3.jpg",
+  "images/wicked/daredevil/kingpin-v2/kingpin-v2-4.jpg",
+  "images/wicked/daredevil/kingpin-v2/kingpin-v2-5.jpg",
+  "images/wicked/daredevil/kingpin-v2/kingpin-v2-6.jpg",
+  "images/wicked/daredevil/kingpin-v2/kingpin-v2-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.9 in (43.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kingpin in his white suit and purple vest, cane in hand, towering over a red-lit Hell's Kitchen base."
+},
+ {
+ "id": "wicked-avengers-planet-hulk-diorama",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Planet Hulk (Diorama)",
+ "images": [
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-1.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-2.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-3.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-4.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-5.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-6.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-7.jpg",
+  "images/wicked/avengers/planet-hulk-diorama/planet-hulk-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 28.2 in (71.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Planet Hulk swings his mace at the Silver Savage in a Sakaar arena diorama, alien beasts snapping below."
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Lord of the Rings",
+ "title": "Legolas Vs Troll (Diorama)",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-1.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-2.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-3.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-4.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-5.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-6.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama/movies-legolas-vs-troll-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/8 Scale",
+   "size": "Approx. 29.5 in (75.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Legolas fires an arrow from atop a massive chained cave troll, on a skull-strewn Moria base."
+},
+ {
+ "id": "wicked-avengers-nick-fury-mcu",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Nick Fury MCU",
+ "images": [
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-1.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-2.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-3.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-4.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-5.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-6.jpg",
+  "images/wicked/avengers/nick-fury-mcu/nick-fury-mcu-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.8 in (32.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Nick Fury in his long black coat, standing tall on an Avengers helicarrier-style base."
+},
+ {
+ "id": "wicked-moon-knight-v3",
+ "artist": "Wicked 3D",
+ "series": "Moon Knight",
+ "title": "Moon Knight",
+ "images": [
+  "images/wicked/moon-knight/moon-knight-v3/moon-knight-v3-1.jpg",
+  "images/wicked/moon-knight/moon-knight-v3/moon-knight-v3-2.jpg",
+  "images/wicked/moon-knight/moon-knight-v3/moon-knight-v3-3.jpg",
+  "images/wicked/moon-knight/moon-knight-v3/moon-knight-v3-4.jpg",
+  "images/wicked/moon-knight/moon-knight-v3/moon-knight-v3-5.jpg",
+  "images/wicked/moon-knight/moon-knight-v3/moon-knight-v3-6.jpg",
+  "images/wicked/moon-knight/moon-knight-v3/moon-knight-v3-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Moon Knight stands atop a golden cobra pillar, white cape flowing, against a desert pyramid backdrop."
+},
+ {
+ "id": "wicked-the-way-of-the-dragon-the-way-of-the-dragon-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Way of the Dragon",
+ "title": "The Way of the Dragon (Diorama)",
+ "images": [
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-1.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-2.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-3.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-4.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-5.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-6.jpg",
+  "images/wicked/the-way-of-the-dragon/the-way-of-the-dragon-diorama/the-way-of-the-dragon-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bruce Lee lands a kick on Chuck Norris in their legendary Colosseum duel from The Way of the Dragon."
+},
+ {
+ "id": "wicked-the-way-of-the-dragon-bruce-lee",
+ "artist": "Wicked 3D",
+ "series": "The Way of the Dragon",
+ "title": "Bruce Lee",
+ "images": [
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-1.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-2.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-3.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-4.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-5.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-6.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-7.jpg",
+  "images/wicked/the-way-of-the-dragon/bruce-lee/bruce-lee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 11.9 in (30.1 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bruce Lee delivers a flying side kick, bare-chested and focused, on a Way of the Dragon Colosseum base."
+},
+ {
+ "id": "wicked-the-way-of-the-dragon-chuck-norris",
+ "artist": "Wicked 3D",
+ "series": "The Way of the Dragon",
+ "title": "Chuck Norris",
+ "images": [
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-1.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-2.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-3.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-4.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-5.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-6.jpg",
+  "images/wicked/the-way-of-the-dragon/chuck-norris/chuck-norris-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.4 in (31.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Chuck Norris throws a high kick in his white gi pants inside the Colosseum, on a Way of the Dragon base."
+},
+ {
+ "id": "wicked-the-lord-of-the-rings-movies-legolas-vs-troll-diorama-lite-version",
+ "artist": "Wicked 3D",
+ "series": "The Lord of the Rings",
+ "title": "Legolas Vs Troll (Lite Version) (Diorama)",
+ "images": [
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-1.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-2.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-3.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-4.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-5.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-6.jpg",
+  "images/wicked/the-lord-of-the-rings/movies-legolas-vs-troll-diorama-lite-version/movies-legolas-vs-troll-diorama-lite-version-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/8 Scale",
+   "size": "Approx. 19.9 in (50.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Legolas draws his bow atop a roaring cave troll's shoulder, in a compact Lord of the Rings diorama."
+},
+ {
+ "id": "wicked-cyclops-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Cyclops",
+ "images": [
+  "images/wicked/x-men/cyclops-v2/cyclops-v2-1.jpg",
+  "images/wicked/x-men/cyclops-v2/cyclops-v2-2.jpg",
+  "images/wicked/x-men/cyclops-v2/cyclops-v2-3.jpg",
+  "images/wicked/x-men/cyclops-v2/cyclops-v2-4.jpg",
+  "images/wicked/x-men/cyclops-v2/cyclops-v2-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cyclops unleashes a crimson optic blast against a crumbling wall, on a Phoenix Must Die! X-Men base."
+},
+ {
+ "id": "wicked-x-men-jean",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Jean Grey",
+ "images": [
+  "images/wicked/x-men/jean/jean-1.jpg",
+  "images/wicked/x-men/jean/jean-2.jpg",
+  "images/wicked/x-men/jean/jean-3.jpg",
+  "images/wicked/x-men/jean/jean-4.jpg",
+  "images/wicked/x-men/jean/jean-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.1 in (38.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jean Grey channels her telekinesis, hand raised and eyes glowing pink, on a Phoenix Must Die! base."
+},
+ {
+ "id": "wicked-x-men-cyclops-and-jean-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Cyclops & Jean (Diorama)",
+ "images": [
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-1.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-2.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-3.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-4.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-5.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-6.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-7.jpg",
+  "images/wicked/x-men/cyclops-and-jean-diorama/cyclops-and-jean-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.2 in (41.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Cyclops and Jean Grey fight back-to-back before a towering X-Men comic cover in this Phoenix Must Die! diorama."
+},
+ {
+ "id": "wicked-thor-the-mighty-thor",
+ "artist": "Wicked 3D",
+ "series": "Thor",
+ "title": "The Mighty Thor",
+ "images": [
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-1.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-2.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-3.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-4.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-5.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-6.jpg",
+  "images/wicked/thor/the-mighty-thor/the-mighty-thor-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Jane Foster's Mighty Thor calls down lightning with Mjolnir raised, cape billowing over a Viking-shield base."
+},
+ {
+ "id": "wicked-avengers-captain-america-winter-soldier",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Captain America",
+ "images": [
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-1.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-2.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-3.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-4.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-5.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-6.jpg",
+  "images/wicked/avengers/captain-america-winter-soldier/captain-america-winter-soldier-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.8 in (40.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Captain America in his dark Winter Soldier stealth suit, shield on his arm, on a Captain America base."
+},
+ {
+ "id": "wicked-metroid-metroid-diorama",
+ "artist": "Wicked 3D",
+ "series": "Metroid",
+ "title": "Metroid (Diorama)",
+ "images": [
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-1.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-2.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-3.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-4.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-5.jpg",
+  "images/wicked/metroid/metroid-diorama/metroid-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.2 in (43.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Varia Suit Samus and Zero Suit Samus fight side by side over glowing Metroid containment tanks."
+},
+ {
+ "id": "wicked-metroid-samus",
+ "artist": "Wicked 3D",
+ "series": "Metroid",
+ "title": "Samus",
+ "images": [
+  "images/wicked/metroid/samus/samus-1.jpg",
+  "images/wicked/metroid/samus/samus-2.jpg",
+  "images/wicked/metroid/samus/samus-3.jpg",
+  "images/wicked/metroid/samus/samus-4.jpg",
+  "images/wicked/metroid/samus/samus-5.jpg",
+  "images/wicked/metroid/samus/samus-6.jpg",
+  "images/wicked/metroid/samus/samus-7.jpg",
+  "images/wicked/metroid/samus/samus-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.6 in (37.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Zero Suit Samus leaps above glowing Metroid tanks, paralyzer pistol drawn and ponytail flying."
+},
+ {
+ "id": "wicked-metroid-samus-varia-suit",
+ "artist": "Wicked 3D",
+ "series": "Metroid",
+ "title": "Samus Varia Suit",
+ "images": [
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-1.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-2.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-3.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-4.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-5.jpg",
+  "images/wicked/metroid/samus-varia-suit/samus-varia-suit-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.0 in (40.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Samus Aran in her orange Varia Suit lunges with arm cannon raised, over glowing Metroid containment tubes on a Metroid base."
+},
+ {
+ "id": "wicked-metroid-chozo",
+ "artist": "Wicked 3D",
+ "series": "Metroid",
+ "title": "Chozo",
+ "images": [
+  "images/wicked/metroid/chozo/chozo-1.jpg",
+  "images/wicked/metroid/chozo/chozo-2.jpg",
+  "images/wicked/metroid/chozo/chozo-3.jpg",
+  "images/wicked/metroid/chozo/chozo-4.jpg",
+  "images/wicked/metroid/chozo/chozo-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/4 Scale",
+   "size": "Approx. 11.8 in (30.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "A Chozo statue sits in quiet contemplation, cradling a glowing Morph Ball upgrade in its hands."
+},
+ {
+ "id": "wicked-the-karate-kid-karate-kid-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Karate Kid",
+ "title": "Karate Kid (Diorama)",
+ "images": [
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-1.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-2.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-3.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-4.jpg",
+  "images/wicked/the-karate-kid/karate-kid-diorama/karate-kid-diorama-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Daniel and Mr. Miyagi practice the crane stance side by side on posts above the waves."
+},
+ {
+ "id": "wicked-the-karate-kid-larusso",
+ "artist": "Wicked 3D",
+ "series": "The Karate Kid",
+ "title": "Danny LaRusso",
+ "images": [
+  "images/wicked/the-karate-kid/larusso/larusso-1.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-2.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-3.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-4.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-5.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-6.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-7.jpg",
+  "images/wicked/the-karate-kid/larusso/larusso-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.4 in (44.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Daniel LaRusso nails the crane kick stance atop a post against a setting sun, in his headband."
+},
+ {
+ "id": "wicked-the-karate-kid-miyagi",
+ "artist": "Wicked 3D",
+ "series": "The Karate Kid",
+ "title": "Miyagi",
+ "images": [
+  "images/wicked/the-karate-kid/miyagi/miyagi-1.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-2.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-3.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-4.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-5.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-6.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-7.jpg",
+  "images/wicked/the-karate-kid/miyagi/miyagi-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mr. Miyagi strikes the crane stance atop a wooden post, crashing waves below, on a Karate Kid base."
+},
+ {
+ "id": "wicked-jurassic-park-jurassic-park-diorama",
+ "artist": "Wicked 3D",
+ "series": "Jurassic Park",
+ "title": "Jurassic Park (Diorama)",
+ "images": [
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-1.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-2.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-3.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-4.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-5.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-6.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-7.jpg",
+  "images/wicked/jurassic-park/jurassic-park-diorama/jurassic-park-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/12 Scale",
+   "size": "Approx. 14.3 in (36.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The T-Rex breaks through the paddock fence in the rain in this classic Jurassic Park diorama."
+},
+ {
+ "id": "wicked-jurassic-park-alan-grant",
+ "artist": "Wicked 3D",
+ "series": "Jurassic Park",
+ "title": "Dr. Alan Grant",
+ "images": [
+  "images/wicked/jurassic-park/alan-grant/alan-grant-1.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-2.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-3.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-4.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-5.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-6.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-7.jpg",
+  "images/wicked/jurassic-park/alan-grant/alan-grant-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/12 Scale",
+   "size": "Approx. 7.9 in (20.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dr. Alan Grant holds a blazing flare high to lure the T-Rex, on a Jurassic Park gate base."
+},
+ {
+ "id": "wicked-tomb-raider-t-rex-2",
+ "artist": "Wicked 3D",
+ "series": "Tomb Raider",
+ "title": "T-Rex",
+ "images": [
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-1.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-2.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-3.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-4.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-5.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-6.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-7.jpg",
+  "images/wicked/tomb-raider/t-rex-2/t-rex-2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/12 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The T-Rex roars on the Jurassic Park gate base, flaming torches flanking the iconic logo."
+},
+ {
+ "id": "wicked-gears-of-war-gears-of-wars-diorama",
+ "artist": "Wicked 3D",
+ "series": "Gears of War",
+ "title": "Gears of War (Diorama)",
+ "images": [
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-1.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-2.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-3.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-4.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-5.jpg",
+  "images/wicked/gears-of-war/gears-of-wars-diorama/gears-of-wars-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.5 in (52.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Marcus and Dom take cover side by side, Lancers raised, in this Gears of War diorama."
+},
+ {
+ "id": "wicked-gears-of-war-dominic-santiago",
+ "artist": "Wicked 3D",
+ "series": "Gears of War",
+ "title": "Dominic Santiago",
+ "images": [
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-1.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-2.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-3.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-4.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-5.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-6.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-7.jpg",
+  "images/wicked/gears-of-war/dominic-santiago/dominic-santiago-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.3 in (41.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Dom Santiago stands ready in his COG armor, rifle at his side, behind sandbags on a Gears of War base."
+},
+ {
+ "id": "wicked-gears-of-war-marcus-fenix",
+ "artist": "Wicked 3D",
+ "series": "Gears of War",
+ "title": "Marcus Fenix",
+ "images": [
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-1.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-2.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-3.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-4.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-5.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-6.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-7.jpg",
+  "images/wicked/gears-of-war/marcus-fenix/marcus-fenix-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Marcus Fenix hoists his Lancer assault rifle, chainsaw bayonet ready, atop a Gears of War Reloaded base."
+},
+ {
+ "id": "wicked-black-panther-black-panther-and-storm-diorama",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Black Panther & Storm (Diorama)",
+ "images": [
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-1.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-2.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-3.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-4.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-5.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-6.jpg",
+  "images/wicked/black-panther/black-panther-and-storm-diorama/black-panther-and-storm-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.0 in (45.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Storm rises above T'Challa on his panther throne in this royal Black Panther diorama."
+},
+ {
+ "id": "wicked-black-panther-v2",
+ "artist": "Wicked 3D",
+ "series": "Black Panther",
+ "title": "Black Panther",
+ "images": [
+  "images/wicked/black-panther/black-panther-v2/black-panther-v2-1.jpg",
+  "images/wicked/black-panther/black-panther-v2/black-panther-v2-2.jpg",
+  "images/wicked/black-panther/black-panther-v2/black-panther-v2-3.jpg",
+  "images/wicked/black-panther/black-panther-v2/black-panther-v2-4.jpg",
+  "images/wicked/black-panther/black-panther-v2/black-panther-v2-5.jpg",
+  "images/wicked/black-panther/black-panther-v2/black-panther-v2-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (44.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black Panther sits on his Wakandan throne flanked by snarling panther statues, on a golden Black Panther base."
+},
+ {
+ "id": "wicked-storm-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Storm",
+ "images": [
+  "images/wicked/x-men/storm-v2/storm-v2-1.jpg",
+  "images/wicked/x-men/storm-v2/storm-v2-2.jpg",
+  "images/wicked/x-men/storm-v2/storm-v2-3.jpg",
+  "images/wicked/x-men/storm-v2/storm-v2-4.jpg",
+  "images/wicked/x-men/storm-v2/storm-v2-5.jpg",
+  "images/wicked/x-men/storm-v2/storm-v2-6.jpg",
+  "images/wicked/x-men/storm-v2/storm-v2-7.jpg",
+  "images/wicked/x-men/storm-v2/storm-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.0 in (38.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Storm summons purple lightning in her black suit and cape, rising from a stormy Black Panther-branded base."
+},
+ {
+ "id": "wicked-daredevil-v2",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Daredevil",
+ "images": [
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-1.jpg",
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-2.jpg",
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-3.jpg",
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-4.jpg",
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-5.jpg",
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-6.jpg",
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-7.jpg",
+  "images/wicked/daredevil/daredevil-v2/daredevil-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (41.8 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Daredevil adjusts his mask in his red suit, billy clubs at his hip, on a glowing red Hell's Kitchen base."
+},
+ {
+ "id": "wicked-conan-the-barbarian-conan-the-barbarian",
+ "artist": "Wicked 3D",
+ "series": "Conan the Barbarian",
+ "title": "Conan the Barbarian",
+ "images": [
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-1.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-2.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-3.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-4.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-5.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-6.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-7.jpg",
+  "images/wicked/conan-the-barbarian/conan-the-barbarian/conan-the-barbarian-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.9 in (43.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Conan raises a trident and axe overhead atop a hoard of gold and skulls, on a Conan logo base."
+},
+ {
+ "id": "wicked-stranger-things-stranger-things-diorama",
+ "artist": "Wicked 3D",
+ "series": "Stranger Things",
+ "title": "Stranger Things (Diorama)",
+ "images": [
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-1.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-2.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-3.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-4.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-5.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-6.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-7.jpg",
+  "images/wicked/stranger-things/stranger-things-diorama/stranger-things-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.7 in (52.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Eleven faces down Vecna before a gaping Demogorgon maw in this full Stranger Things diorama."
+},
+ {
+ "id": "wicked-stranger-things-eleven",
+ "artist": "Wicked 3D",
+ "series": "Stranger Things",
+ "title": "Eleven",
+ "images": [
+  "images/wicked/stranger-things/eleven/eleven-1.jpg",
+  "images/wicked/stranger-things/eleven/eleven-2.jpg",
+  "images/wicked/stranger-things/eleven/eleven-3.jpg",
+  "images/wicked/stranger-things/eleven/eleven-4.jpg",
+  "images/wicked/stranger-things/eleven/eleven-5.jpg",
+  "images/wicked/stranger-things/eleven/eleven-6.jpg",
+  "images/wicked/stranger-things/eleven/eleven-7.jpg",
+  "images/wicked/stranger-things/eleven/eleven-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.6 in (32.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Eleven reaches out with her powers, nose bleeding and hair tied back, on a spiked Stranger Things base."
+},
+ {
+ "id": "wicked-stranger-things-vecna",
+ "artist": "Wicked 3D",
+ "series": "Stranger Things",
+ "title": "Vecna",
+ "images": [
+  "images/wicked/stranger-things/vecna/vecna-1.jpg",
+  "images/wicked/stranger-things/vecna/vecna-2.jpg",
+  "images/wicked/stranger-things/vecna/vecna-3.jpg",
+  "images/wicked/stranger-things/vecna/vecna-4.jpg",
+  "images/wicked/stranger-things/vecna/vecna-5.jpg",
+  "images/wicked/stranger-things/vecna/vecna-6.jpg",
+  "images/wicked/stranger-things/vecna/vecna-7.jpg",
+  "images/wicked/stranger-things/vecna/vecna-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.8 in (45.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Vecna looms in his root-like flesh, clawed hand outstretched, rising from a spiked Upside Down base."
+},
+ {
+ "id": "wicked-warcraft-warcraft-diorama",
+ "artist": "Wicked 3D",
+ "series": "Warcraft",
+ "title": "Warcraft (Diorama)",
+ "images": [
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-1.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-2.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-3.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-4.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-5.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-6.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-7.jpg",
+  "images/wicked/warcraft/warcraft-diorama/warcraft-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 21.1 in (53.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Arthas and Thrall stand together on a combined Warcraft: Reign of Chaos diorama."
+},
+ {
+ "id": "wicked-warcraft-arthas",
+ "artist": "Wicked 3D",
+ "series": "Warcraft",
+ "title": "Arthas",
+ "images": [
+  "images/wicked/warcraft/arthas/arthas-1.jpg",
+  "images/wicked/warcraft/arthas/arthas-2.jpg",
+  "images/wicked/warcraft/arthas/arthas-3.jpg",
+  "images/wicked/warcraft/arthas/arthas-4.jpg",
+  "images/wicked/warcraft/arthas/arthas-5.jpg",
+  "images/wicked/warcraft/arthas/arthas-6.jpg",
+  "images/wicked/warcraft/arthas/arthas-7.jpg",
+  "images/wicked/warcraft/arthas/arthas-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.6 in (39.6 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Prince Arthas in his gleaming paladin armor, hammer in hand, before flaming braziers on a Warcraft III base."
+},
+ {
+ "id": "wicked-warcraft-thrall",
+ "artist": "Wicked 3D",
+ "series": "Warcraft",
+ "title": "Thrall",
+ "images": [
+  "images/wicked/warcraft/thrall/thrall-1.jpg",
+  "images/wicked/warcraft/thrall/thrall-2.jpg",
+  "images/wicked/warcraft/thrall/thrall-3.jpg",
+  "images/wicked/warcraft/thrall/thrall-4.jpg",
+  "images/wicked/warcraft/thrall/thrall-5.jpg",
+  "images/wicked/warcraft/thrall/thrall-6.jpg",
+  "images/wicked/warcraft/thrall/thrall-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.5 in (52.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thrall, Warchief of the Horde, raises the Doomhammer on a tusked Warcraft: Reign of Chaos base."
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-caleb",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider [Caleb]",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb/ghost-rider-caleb-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.1 in (46.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Caleb's Ghost Rider rears up on his burning skeletal steed, tattered coat whipping in the hellfire."
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-billy",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider [Caleb]",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy/ghost-rider-billy-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.1 in (46.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ghost Rider Caleb rides out on his skeletal horse, flaming skull and chains, on a Ghost Rider: Trail of Tears base."
+},
+ {
+ "id": "wicked-daredevil-punisher-born-again",
+ "artist": "Wicked 3D",
+ "series": "Daredevil",
+ "title": "Punisher Born Again",
+ "images": [
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-1.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-2.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-3.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-4.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-5.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-6.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-7.jpg",
+  "images/wicked/daredevil/punisher-born-again/punisher-born-again-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Punisher from Born Again stands tall with rifle and hatchet, skull vest stark against a red-lit base."
+},
+ {
+ "id": "wicked-x-men-lady-deathstrike",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Lady Deathstrike",
+ "images": [
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-1.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-2.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-3.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-4.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-5.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-6.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-7.jpg",
+  "images/wicked/x-men/lady-deathstrike/lady-deathstrike-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.4 in (39.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Lady Deathstrike lunges forward with her adamantium finger-claws spread, cloak flaring over a cryo-lab base."
+},
+ {
+ "id": "wicked-the-last-of-us-last-of-us-diorama",
+ "artist": "Wicked 3D",
+ "series": "The Last of Us",
+ "title": "Last of Us (Diorama)",
+ "images": [
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-1.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-2.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-3.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-4.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-5.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-6.jpg",
+  "images/wicked/the-last-of-us/last-of-us-diorama/last-of-us-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (40.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Joel fights off an Infected as Ellie readies her switchblade above, in a gritty The Last of Us diorama."
+},
+ {
+ "id": "wicked-the-last-of-us-joel",
+ "artist": "Wicked 3D",
+ "series": "The Last of Us",
+ "title": "Joel",
+ "images": [
+  "images/wicked/the-last-of-us/joel/joel-1.jpg",
+  "images/wicked/the-last-of-us/joel/joel-2.jpg",
+  "images/wicked/the-last-of-us/joel/joel-3.jpg",
+  "images/wicked/the-last-of-us/joel/joel-4.jpg",
+  "images/wicked/the-last-of-us/joel/joel-5.jpg",
+  "images/wicked/the-last-of-us/joel/joel-6.jpg",
+  "images/wicked/the-last-of-us/joel/joel-7.jpg",
+  "images/wicked/the-last-of-us/joel/joel-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.1 in (40.9 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Joel grapples a snarling Clicker, revolver drawn, on an overgrown rubble base."
+},
+ {
+ "id": "wicked-the-last-of-us-ellie",
+ "artist": "Wicked 3D",
+ "series": "The Last of Us",
+ "title": "Ellie",
+ "images": [
+  "images/wicked/the-last-of-us/ellie/ellie-1.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-2.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-3.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-4.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-5.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-6.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-7.jpg",
+  "images/wicked/the-last-of-us/ellie/ellie-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.2 in (31.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ellie draws her bow with backpack slung, on an overgrown, ruined The Last of Us base."
+},
+ {
+ "id": "wicked-pacific-rim-pacific-rim-diorama",
+ "artist": "Wicked 3D",
+ "series": "Pacific Rim",
+ "title": "Pacific Rim (Diorama)",
+ "images": [
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-1.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-2.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-3.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-4.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-5.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-6.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-7.jpg",
+  "images/wicked/pacific-rim/pacific-rim-diorama/pacific-rim-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.7 in (52.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gipsy Danger and Leatherback clash in the surf in this full Pacific Rim diorama."
+},
+ {
+ "id": "wicked-pacific-rim-gipsy-danger",
+ "artist": "Wicked 3D",
+ "series": "Pacific Rim",
+ "title": "Gipsy Danger",
+ "images": [
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-1.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-2.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-3.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-4.jpg",
+  "images/wicked/pacific-rim/gipsy-danger/gipsy-danger-5.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gipsy Danger fires its plasma cannon, nuclear heart glowing, as it strides through crashing ocean waves."
+},
+ {
+ "id": "wicked-pacific-rim-leatherback",
+ "artist": "Wicked 3D",
+ "series": "Pacific Rim",
+ "title": "Leatherback",
+ "images": [
+  "images/wicked/pacific-rim/leatherback/leatherback-1.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-2.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-3.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-4.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-5.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-6.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-7.jpg",
+  "images/wicked/pacific-rim/leatherback/leatherback-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Approx. 20.0 in (50.7 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Leatherback, the gorilla-like Kaiju, roars with glowing blue veins as waves crash around him on a Pacific Rim base."
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-caleb-diorama",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider [Caleb] (Diorama)",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-6.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-7.jpg",
+  "images/wicked/ghost-rider/ghost-rider-caleb-diorama/ghost-rider-caleb-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.6 in (52.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Caleb's Ghost Rider rears on his burning steed, coat billowing, above a blazing graveyard base."
+},
+ {
+ "id": "wicked-ghost-rider-ghost-rider-billy-diorama",
+ "artist": "Wicked 3D",
+ "series": "Ghost Rider",
+ "title": "Ghost Rider [Caleb] (Diorama)",
+ "images": [
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-1.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-2.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-3.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-4.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-5.jpg",
+  "images/wicked/ghost-rider/ghost-rider-billy-diorama/ghost-rider-billy-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.6 in (52.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Ghost Rider Caleb charges on his flaming skeletal horse over fallen corpses, in a hellfire Ghost Rider diorama."
+},
+ {
+ "id": "wicked-spider-man-the-last-hunt-spiderman-diorama",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "The Last Hunt Spiderman (Diorama)",
+ "images": [
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-1.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-2.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-3.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-4.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-5.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-6.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-7.jpg",
+  "images/wicked/spider-man/the-last-hunt-spiderman-diorama/the-last-hunt-spiderman-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.7 in (47.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kraven looms with knife raised above a crouching black-suit Spider-Man in this Kraven's Last Hunt diorama."
+},
+ {
+ "id": "wicked-spider-man-spiderman",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Spiderman",
+ "images": [
+  "images/wicked/spider-man/spiderman/spiderman-1.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-2.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-3.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-4.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-5.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-6.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-7.jpg",
+  "images/wicked/spider-man/spiderman/spiderman-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.1 in (33.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Black-suited Spider-Man crouches low, spider-sense crackling, on a Kraven's Last Hunt base."
+},
+ {
+ "id": "wicked-kraven-v2",
+ "artist": "Wicked 3D",
+ "series": "Spider-Man",
+ "title": "Kraven the Hunter",
+ "images": [
+  "images/wicked/spider-man/kraven-v2/kraven-v2-1.jpg",
+  "images/wicked/spider-man/kraven-v2/kraven-v2-2.jpg",
+  "images/wicked/spider-man/kraven-v2/kraven-v2-3.jpg",
+  "images/wicked/spider-man/kraven-v2/kraven-v2-4.jpg",
+  "images/wicked/spider-man/kraven-v2/kraven-v2-5.jpg",
+  "images/wicked/spider-man/kraven-v2/kraven-v2-6.jpg",
+  "images/wicked/spider-man/kraven-v2/kraven-v2-7.jpg",
+  "images/wicked/spider-man/kraven-v2/kraven-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Kraven the Hunter raises his blade in his lion vest, on a Kraven's Last Hunt Amazing Spider-Man base."
+},
+ {
+ "id": "wicked-avengers-quick-silver",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Quicksilver",
+ "images": [
+  "images/wicked/avengers/quick-silver/quick-silver-1.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-2.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-3.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-4.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-5.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-6.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-7.jpg",
+  "images/wicked/avengers/quick-silver/quick-silver-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.5 in (42.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Quicksilver adjusts his goggles in a silver jacket and boots, cool and confident on an X-Men logo base."
+},
+ {
+ "id": "wicked-avengers-baron",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Baron Zemo",
+ "images": [
+  "images/wicked/avengers/baron/baron-1.jpg",
+  "images/wicked/avengers/baron/baron-2.jpg",
+  "images/wicked/avengers/baron/baron-3.jpg",
+  "images/wicked/avengers/baron/baron-4.jpg",
+  "images/wicked/avengers/baron/baron-5.jpg",
+  "images/wicked/avengers/baron/baron-6.jpg",
+  "images/wicked/avengers/baron/baron-7.jpg",
+  "images/wicked/avengers/baron/baron-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.4 in (39.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Baron Zemo fires his submachine gun from atop a stone wall, purple mask and fur collar on a Hydra-eagle base."
+},
+ {
+ "id": "wicked-thanos-v2",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Thanos",
+ "images": [
+  "images/wicked/avengers/thanos-v2/thanos-v2-1.jpg",
+  "images/wicked/avengers/thanos-v2/thanos-v2-2.jpg",
+  "images/wicked/avengers/thanos-v2/thanos-v2-3.jpg",
+  "images/wicked/avengers/thanos-v2/thanos-v2-4.jpg",
+  "images/wicked/avengers/thanos-v2/thanos-v2-5.jpg",
+  "images/wicked/avengers/thanos-v2/thanos-v2-6.jpg",
+  "images/wicked/avengers/thanos-v2/thanos-v2-7.jpg",
+  "images/wicked/avengers/thanos-v2/thanos-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.9 in (48.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Thanos, Infinity Gauntlet raised, stands atop a pile of skulls and flames on a THANOS-branded base."
+},
+ {
+ "id": "wicked-omega-red-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Omega Red",
+ "images": [
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-1.jpg",
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-2.jpg",
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-3.jpg",
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-4.jpg",
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-5.jpg",
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-6.jpg",
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-7.jpg",
+  "images/wicked/x-men/omega-red-v2/omega-red-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.3 in (49.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Omega Red unleashes his carbonadium coils, standing atop a shattered cryo-chamber on an X-Men base."
+},
+ {
+ "id": "wicked-red-sonja-red-sonja",
+ "artist": "Wicked 3D",
+ "series": "Red Sonja",
+ "title": "Red Sonja",
+ "images": [
+  "images/wicked/red-sonja/red-sonja/red-sonja-1.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-2.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-3.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-4.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-5.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-6.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-7.jpg",
+  "images/wicked/red-sonja/red-sonja/red-sonja-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.1 in (46.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Red Sonja wields her great axe over a fiery base of skulls and bones, crimson hair blazing."
+},
+ {
+ "id": "wicked-magneto-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Magneto",
+ "images": [
+  "images/wicked/x-men/magneto-v2/magneto-v2-1.jpg",
+  "images/wicked/x-men/magneto-v2/magneto-v2-2.jpg",
+  "images/wicked/x-men/magneto-v2/magneto-v2-3.jpg",
+  "images/wicked/x-men/magneto-v2/magneto-v2-4.jpg",
+  "images/wicked/x-men/magneto-v2/magneto-v2-5.jpg",
+  "images/wicked/x-men/magneto-v2/magneto-v2-6.jpg",
+  "images/wicked/x-men/magneto-v2/magneto-v2-7.jpg",
+  "images/wicked/x-men/magneto-v2/magneto-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.1 in (43.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "An elder Magneto in his black cape and crimson helmet, red energy swirling up from an X-Men base."
+},
+ {
+ "id": "wicked-lone-wolf-mcquade-lone-wolf-mcquade-diorama",
+ "artist": "Wicked 3D",
+ "series": "Lone Wolf McQuade",
+ "title": "Lone Wolf McQuade (Diorama)",
+ "images": [
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-1.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-2.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-3.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-4.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-5.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-6.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-7.jpg",
+  "images/wicked/lone-wolf-mcquade/lone-wolf-mcquade-diorama/lone-wolf-mcquade-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "McQuade and Rawley Wilke face off before a fiery explosion in this Lone Wolf McQuade diorama."
+},
+ {
+ "id": "wicked-lone-wolf-mcquade-chuck-norris-lone-wolf",
+ "artist": "Wicked 3D",
+ "series": "Lone Wolf McQuade",
+ "title": "Chuck Norris",
+ "images": [
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-1.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-2.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-3.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-4.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-5.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-6.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-7.jpg",
+  "images/wicked/lone-wolf-mcquade/chuck-norris-lone-wolf/chuck-norris-lone-wolf-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Chuck Norris as J.J. McQuade, open shirt and denim vest, fists ready on a Lone Wolf McQuade base."
+},
+ {
+ "id": "wicked-lone-wolf-mcquade-rawley-wilke",
+ "artist": "Wicked 3D",
+ "series": "Lone Wolf McQuade",
+ "title": "Rawley Wilke",
+ "images": [
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-1.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-2.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-3.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-4.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-5.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-6.jpg",
+  "images/wicked/lone-wolf-mcquade/rawley-wilke/rawley-wilke-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.4 in (34.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rawley Wilke squares up in his argyle sweater, on a Lone Wolf McQuade logo base."
+},
+ {
+ "id": "wicked-assassin-s-creed-assassin-s-creed-1-diorama",
+ "artist": "Wicked 3D",
+ "series": "Assassin's Creed",
+ "title": "Assassin’s Creed (Diorama)",
+ "images": [
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-1.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-2.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-3.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-4.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-5.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-6.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-7.jpg",
+  "images/wicked/assassin-s-creed/assassin-s-creed-1-diorama/assassin-s-creed-1-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 20.5 in (52.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Altaïr leaps from a stone ledge, blade drawn over a fallen Templar, in this Assassin's Creed diorama."
+},
+ {
+ "id": "wicked-assassin-s-creed-altair",
+ "artist": "Wicked 3D",
+ "series": "Assassin's Creed",
+ "title": "Altair",
+ "images": [
+  "images/wicked/assassin-s-creed/altair/altair-1.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-2.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-3.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-4.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-5.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-6.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-7.jpg",
+  "images/wicked/assassin-s-creed/altair/altair-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.4 in (39.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Altaïr stands hooded and silent in white Assassin robes, hidden blade ready, on a glowing Assassin's Creed base."
+},
+ {
+ "id": "wicked-x-men-rogue-and-gambit-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Rogue & Gambit (Diorama)",
+ "images": [
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-1.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-2.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-3.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-4.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-5.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-6.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-7.jpg",
+  "images/wicked/x-men/rogue-and-gambit-diorama/rogue-and-gambit-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.5 in (47.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rogue and Gambit tear through Sentinels together in this vibrant X-Men diorama."
+},
+ {
+ "id": "wicked-rogue-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Rogue",
+ "images": [
+  "images/wicked/x-men/rogue-v2/rogue-v2-1.jpg",
+  "images/wicked/x-men/rogue-v2/rogue-v2-2.jpg",
+  "images/wicked/x-men/rogue-v2/rogue-v2-3.jpg",
+  "images/wicked/x-men/rogue-v2/rogue-v2-4.jpg",
+  "images/wicked/x-men/rogue-v2/rogue-v2-5.jpg",
+  "images/wicked/x-men/rogue-v2/rogue-v2-6.jpg",
+  "images/wicked/x-men/rogue-v2/rogue-v2-7.jpg",
+  "images/wicked/x-men/rogue-v2/rogue-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 18.5 in (47.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rogue soars out of a shattered pink Sentinel head, absorbing power in her green-and-yellow suit."
+},
+ {
+ "id": "wicked-gambit-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Gambit",
+ "images": [
+  "images/wicked/x-men/gambit-v2/gambit-v2-1.jpg",
+  "images/wicked/x-men/gambit-v2/gambit-v2-2.jpg",
+  "images/wicked/x-men/gambit-v2/gambit-v2-3.jpg",
+  "images/wicked/x-men/gambit-v2/gambit-v2-4.jpg",
+  "images/wicked/x-men/gambit-v2/gambit-v2-5.jpg",
+  "images/wicked/x-men/gambit-v2/gambit-v2-6.jpg",
+  "images/wicked/x-men/gambit-v2/gambit-v2-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.6 in (42.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Gambit charges a blazing pink card as he rises from a Sentinel's giant blue hand."
+},
+ {
+ "id": "wicked-avengers-clint-barton-ronin",
+ "artist": "Wicked 3D",
+ "series": "Avengers",
+ "title": "Ronin [Clint Barton]",
+ "images": [
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-1.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-2.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-3.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-4.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-5.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-6.jpg",
+  "images/wicked/avengers/clint-barton-ronin/clint-barton-ronin-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.3 in (44.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Clint Barton as Ronin draws his bow in tactical black, atop a neon Tokyo karaoke-sign base."
+},
+ {
+ "id": "wicked-diablo-diablo-diorama",
+ "artist": "Wicked 3D",
+ "series": "Diablo",
+ "title": "Diablo (Diorama)",
+ "images": [
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-1.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-2.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-3.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-4.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-5.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-6.jpg",
+  "images/wicked/diablo/diablo-diorama/diablo-diorama-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 26.1 in (66.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Diablo looms over Deckard Cain as Tyrael charges in, in a fiery Sanctuary diorama."
+},
+ {
+ "id": "wicked-diablo-diablo",
+ "artist": "Wicked 3D",
+ "series": "Diablo",
+ "title": "Diablo",
+ "images": [
+  "images/wicked/diablo/diablo/diablo-1.jpg",
+  "images/wicked/diablo/diablo/diablo-2.jpg",
+  "images/wicked/diablo/diablo/diablo-3.jpg",
+  "images/wicked/diablo/diablo/diablo-4.jpg",
+  "images/wicked/diablo/diablo/diablo-5.jpg",
+  "images/wicked/diablo/diablo/diablo-6.jpg",
+  "images/wicked/diablo/diablo/diablo-7.jpg",
+  "images/wicked/diablo/diablo/diablo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.7 in (65.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Diablo, the Lord of Terror, roars with horns and spines bristling over a hellfire-wreathed base."
+},
+ {
+ "id": "wicked-diablo-tyrael",
+ "artist": "Wicked 3D",
+ "series": "Diablo",
+ "title": "Tyrael",
+ "images": [
+  "images/wicked/diablo/tyrael/tyrael-1.jpg",
+  "images/wicked/diablo/tyrael/tyrael-2.jpg",
+  "images/wicked/diablo/tyrael/tyrael-3.jpg",
+  "images/wicked/diablo/tyrael/tyrael-4.jpg",
+  "images/wicked/diablo/tyrael/tyrael-5.jpg",
+  "images/wicked/diablo/tyrael/tyrael-6.jpg",
+  "images/wicked/diablo/tyrael/tyrael-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.7 in (50.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Tyrael, Archangel of Justice, descends in radiant gold armor, sword El'druin glowing and ethereal wings flowing."
+},
+ {
+ "id": "wicked-fight-club-fight-club-diorama",
+ "artist": "Wicked 3D",
+ "series": "Fight Club",
+ "title": "Fight Club (Diorama)",
+ "images": [
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-1.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-2.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-3.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-4.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-5.jpg",
+  "images/wicked/fight-club/fight-club-diorama/fight-club-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Narrator and Tyler Durden trade blows in a gritty basement alley — the first rule is you don't talk about it."
+},
+ {
+ "id": "wicked-fight-club-tyler",
+ "artist": "Wicked 3D",
+ "series": "Fight Club",
+ "title": "Tyler",
+ "images": [
+  "images/wicked/fight-club/tyler/tyler-1.jpg",
+  "images/wicked/fight-club/tyler/tyler-2.jpg",
+  "images/wicked/fight-club/tyler/tyler-3.jpg",
+  "images/wicked/fight-club/tyler/tyler-4.jpg",
+  "images/wicked/fight-club/tyler/tyler-5.jpg",
+  "images/wicked/fight-club/tyler/tyler-6.jpg",
+  "images/wicked/fight-club/tyler/tyler-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.8 in (35.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Tyler Durden swings into a punch in his red leather jacket and striped pants, on a Fight Club soap base."
+},
+ {
+ "id": "wicked-fight-club-edward-norton",
+ "artist": "Wicked 3D",
+ "series": "Fight Club",
+ "title": "Edward Norton",
+ "images": [
+  "images/wicked/fight-club/edward-norton/edward-norton-1.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-2.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-3.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-4.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-5.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-6.jpg",
+  "images/wicked/fight-club/edward-norton/edward-norton-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.1 in (33.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "The Narrator throws a wild punch in his rumpled office suit, on a Fight Club base with a bar of pink soap."
+},
+ {
+ "id": "wicked-transformers-tranformers-bumbublee-and-starscream-diorama",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "Transformers Bumblebee & Starscream (Diorama)",
+ "images": [
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-1.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-2.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-3.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-4.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-5.jpg",
+  "images/wicked/transformers/tranformers-bumbublee-and-starscream-diorama/tranformers-bumbublee-and-starscream-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bumblebee and Starscream face off in an explosive Transformers diorama, Autobot versus Decepticon."
+},
+ {
+ "id": "wicked-transformers-bumbublee",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "Bumblebee",
+ "images": [
+  "images/wicked/transformers/bumbublee/bumbublee-1.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-2.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-3.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-4.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-5.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-6.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-7.jpg",
+  "images/wicked/transformers/bumbublee/bumbublee-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.9 in (45.4 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Bumblebee rises in full robot mode with blaster raised, atop an Energon cube on a Transformers base."
+},
+ {
+ "id": "wicked-transformers-starscream",
+ "artist": "Wicked 3D",
+ "series": "Transformers",
+ "title": "Starscream",
+ "images": [
+  "images/wicked/transformers/starscream/starscream-1.jpg",
+  "images/wicked/transformers/starscream/starscream-2.jpg",
+  "images/wicked/transformers/starscream/starscream-3.jpg",
+  "images/wicked/transformers/starscream/starscream-4.jpg",
+  "images/wicked/transformers/starscream/starscream-5.jpg",
+  "images/wicked/transformers/starscream/starscream-6.jpg",
+  "images/wicked/transformers/starscream/starscream-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.5 in (49.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Starscream strikes a commanding pose with wings spread, null rays blazing on a fiery Transformers base."
+},
+ {
+ "id": "wicked-mystique-v2",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Mystique",
+ "images": [
+  "images/wicked/x-men/mystique-v2/mystique-v2-1.jpg",
+  "images/wicked/x-men/mystique-v2/mystique-v2-2.jpg",
+  "images/wicked/x-men/mystique-v2/mystique-v2-3.jpg",
+  "images/wicked/x-men/mystique-v2/mystique-v2-4.jpg",
+  "images/wicked/x-men/mystique-v2/mystique-v2-5.jpg",
+  "images/wicked/x-men/mystique-v2/mystique-v2-6.jpg",
+  "images/wicked/x-men/mystique-v2/mystique-v2-7.jpg",
+  "images/wicked/x-men/mystique-v2/mystique-v2-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 16.2 in (41.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Mystique stands tall in her scaly blue form, X-23 claws extended, on a sleek X-Men logo pedestal."
+},
+ {
+ "id": "wicked-marvel-other-squirrel",
+ "artist": "Wicked 3D",
+ "series": "Marvel Comics",
+ "title": "Squirrel",
+ "images": [
+  "images/wicked/marvel-other/squirrel/squirrel-1.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-2.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-3.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-4.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-5.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-6.jpg",
+  "images/wicked/marvel-other/squirrel/squirrel-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Squirrel Girl sits atop an autumn tree, slingshot in hand, her bushy tail and furry friends all around her."
+},
+ {
+ "id": "wicked-punch-out-punch-out-diorama",
+ "artist": "Wicked 3D",
+ "series": "Punch-Out!!",
+ "title": "Punch Out (Diorama)",
+ "images": [
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-1.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-2.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-3.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-4.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-5.jpg",
+  "images/wicked/punch-out/punch-out-diorama/punch-out-diorama-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 17.7 in (45.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Little Mac squares off against Mike Tyson in a retro 8-bit ring, with referee Mario between them."
+},
+ {
+ "id": "wicked-punch-out-mike-tyson",
+ "artist": "Wicked 3D",
+ "series": "Punch-Out!!",
+ "title": "Mike Tyson",
+ "images": [
+  "images/wicked/punch-out/mike-tyson/mike-tyson-1.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-2.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-3.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-4.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-5.jpg",
+  "images/wicked/punch-out/mike-tyson/mike-tyson-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 15.9 in (40.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Iron Mike Tyson raises a gloved fist in victory, on a pixel-art Mike Tyson's Punch-Out!! base."
+},
+ {
+ "id": "wicked-punch-out-little-mac",
+ "artist": "Wicked 3D",
+ "series": "Punch-Out!!",
+ "title": "Little Mac",
+ "images": [
+  "images/wicked/punch-out/little-mac/little-mac-1.jpg",
+  "images/wicked/punch-out/little-mac/little-mac-2.jpg",
+  "images/wicked/punch-out/little-mac/little-mac-3.jpg",
+  "images/wicked/punch-out/little-mac/little-mac-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 12.2 in (31.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Little Mac in his green trunks and gloves, guard up, on a retro Punch-Out!! scoreboard base."
+},
+ {
+ "id": "wicked-x-men-wolverine-pack-weapon-x",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Wolverine Pack - Weapon X",
+ "images": [
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-1.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-2.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-3.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-4.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-5.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-6.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-7.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x/wolverine-pack-weapon-x-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.0 in (33.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Weapon X Logan, wired and helmeted, roars as he breaks free on a frozen base, cables trailing from his body."
+},
+ {
+ "id": "wicked-x-men-wolverine-pack-wolverine-and-sabretooth-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Wolverine Pack - Wolverine & Sabretooth (Diorama)",
+ "images": [
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-1.jpg",
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-2.jpg",
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-3.jpg",
+  "images/wicked/x-men/wolverine-pack-wolverine-and-sabretooth-diorama/wolverine-pack-wolverine-and-sabretooth-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 22.2 in (56.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Wolverine and Sabretooth clash in mid-air over an icy X-Men base, claws slashing in their eternal feud."
+},
+ {
+ "id": "wicked-x-men-wolverine-pack-weapon-x-vs-predator-diorama",
+ "artist": "Wicked 3D",
+ "series": "X-Men",
+ "title": "Wolverine Pack - Weapon X VS Predator (Diorama)",
+ "images": [
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-1.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-2.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-3.jpg",
+  "images/wicked/x-men/wolverine-pack-weapon-x-vs-predator-diorama/wolverine-pack-weapon-x-vs-predator-diorama-4.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 25.6 in (65.0 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Weapon X Logan battles a Predator atop a frozen ridge of skulls in this brutal snow-covered showdown."
+},
+ {
+ "id": "wicked-marvel-zombies-wolverine-pack-wolverine-zombie",
+ "artist": "Wicked 3D",
+ "series": "Marvel Zombies",
+ "title": "Wolverine",
+ "images": [
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-1.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-2.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-3.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-4.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-5.jpg",
+  "images/wicked/marvel-zombies/wolverine-pack-wolverine-zombie/wolverine-pack-wolverine-zombie-6.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 13.6 in (34.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Zombie Wolverine lunges from an open coffin over a graveyard of skulls and tombstones, claws dripping and flesh rotting."
+},
+ {
+ "id": "wicked-rambo-rambo-first-blood-diorama",
+ "artist": "Wicked 3D",
+ "series": "Rambo",
+ "title": "Rambo First Blood (Diorama)",
+ "images": [
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-1.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-2.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-3.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-4.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-5.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-6.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-7.jpg",
+  "images/wicked/rambo/rambo-first-blood-diorama/rambo-first-blood-diorama-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 19.5 in (49.5 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Rambo and Sheriff Teasle face off around a giant tree trunk, police dog in tow, in this full First Blood diorama."
+},
+ {
+ "id": "wicked-rambo-john-rambo",
+ "artist": "Wicked 3D",
+ "series": "Rambo",
+ "title": "John Rambo",
+ "images": [
+  "images/wicked/rambo/john-rambo/john-rambo-1.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-2.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-3.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-4.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-5.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-6.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-7.jpg",
+  "images/wicked/rambo/john-rambo/john-rambo-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.3 in (36.2 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "John Rambo, battered and bloodied, hefts his M60 on a jungle base emblazoned with the First Blood logo."
+},
+ {
+ "id": "wicked-rambo-sheriff",
+ "artist": "Wicked 3D",
+ "series": "Rambo",
+ "title": "Sheriff",
+ "images": [
+  "images/wicked/rambo/sheriff/sheriff-1.jpg",
+  "images/wicked/rambo/sheriff/sheriff-2.jpg",
+  "images/wicked/rambo/sheriff/sheriff-3.jpg",
+  "images/wicked/rambo/sheriff/sheriff-4.jpg",
+  "images/wicked/rambo/sheriff/sheriff-5.jpg",
+  "images/wicked/rambo/sheriff/sheriff-6.jpg",
+  "images/wicked/rambo/sheriff/sheriff-7.jpg",
+  "images/wicked/rambo/sheriff/sheriff-8.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "1/6 Scale",
+   "size": "Approx. 14.3 in (36.3 cm) tall",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Sheriff Teasle stalks through the Hope, Washington woods, rifle raised and police dog lunging, on a First Blood base."
+},
 ];
