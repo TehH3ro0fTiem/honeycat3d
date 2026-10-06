@@ -34593,5 +34593,867 @@ const MODELS = [
   }
  ],
  "description": "Adult Link from Ocarina of Time in his green tunic, with Navi glowing at his shoulder and a bottle and gear slung at his side."
-},
+ },
+ {
+  "id": "neko-dispatch-blonde-blazer",
+  "artist": "Neko Figurines",
+  "series": "Dispatch",
+  "title": "Blonde Blazer",
+  "images": [
+   "images/neko-figurines/dispatch/blonde-blazer/blonde-blazer-1.jpg",
+   "images/neko-figurines/dispatch/blonde-blazer/blonde-blazer-2.jpg",
+   "images/neko-figurines/dispatch/blonde-blazer/blonde-blazer-3.jpg",
+   "images/neko-figurines/dispatch/blonde-blazer/blonde-blazer-4.jpg",
+   "images/neko-figurines/dispatch/blonde-blazer/blonde-blazer-5.jpg",
+   "images/neko-figurines/dispatch/blonde-blazer/blonde-blazer-6.jpg",
+   "images/neko-figurines/dispatch/blonde-blazer/blonde-blazer-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.7 in (27.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "A dynamic sculpt of Blonde Blazer from Dispatch, caped and masked with crackling energy arcing between her gloved fists in a confident hero's stance."
+ },
+ {
+  "id": "neko-dispatch-robert",
+  "artist": "Neko Figurines",
+  "series": "Dispatch",
+  "title": "Robert",
+  "images": [
+   "images/neko-figurines/dispatch/robert/robert-1.jpg",
+   "images/neko-figurines/dispatch/robert/robert-2.jpg",
+   "images/neko-figurines/dispatch/robert/robert-3.jpg",
+   "images/neko-figurines/dispatch/robert/robert-4.jpg",
+   "images/neko-figurines/dispatch/robert/robert-5.jpg",
+   "images/neko-figurines/dispatch/robert/robert-6.jpg",
+   "images/neko-figurines/dispatch/robert/robert-7.jpg",
+   "images/neko-figurines/dispatch/robert/robert-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 11.0 in (28.0 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Robert from Dispatch, captured in an everyday office moment in his dispatch-uniform polo, a quiet character study amid the show's superhero chaos."
+ },
+ {
+  "id": "neko-zenless-zone-zero-ye-shunguang",
+  "artist": "Neko Figurines",
+  "series": "Zenless Zone Zero",
+  "title": "Ye Shunguang",
+  "images": [
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-1.jpg",
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-2.jpg",
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-3.jpg",
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-4.jpg",
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-5.jpg",
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-6.jpg",
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-7.jpg",
+   "images/neko-figurines/zenless-zone-zero/ye-shunguang/ye-shunguang-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 13.5 in (34.4 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Ye Shunguang from Zenless Zone Zero, blade drawn and twin ribbons trailing, posed alongside her small hovering companion drone."
+ },
+ {
+  "id": "neko-genshin-impact-columbina",
+  "artist": "Neko Figurines",
+  "series": "Genshin Impact",
+  "title": "Columbina",
+  "images": [
+   "images/neko-figurines/genshin-impact/columbina/columbina-1.jpg",
+   "images/neko-figurines/genshin-impact/columbina/columbina-2.jpg",
+   "images/neko-figurines/genshin-impact/columbina/columbina-3.jpg",
+   "images/neko-figurines/genshin-impact/columbina/columbina-4.jpg",
+   "images/neko-figurines/genshin-impact/columbina/columbina-5.jpg",
+   "images/neko-figurines/genshin-impact/columbina/columbina-6.jpg",
+   "images/neko-figurines/genshin-impact/columbina/columbina-7.jpg",
+   "images/neko-figurines/genshin-impact/columbina/columbina-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 13.6 in (34.6 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Columbina from Genshin Impact, rendered in flowing layered robes with her wing-like hair ornaments, caught mid-step in an elegant, composed pose."
+ },
+ {
+  "id": "neko-the-mighty-nein-caleb-widogast",
+  "artist": "Neko Figurines",
+  "series": "The Mighty Nein",
+  "title": "Caleb Widogast",
+  "images": [
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-1.jpg",
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-2.jpg",
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-3.jpg",
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-4.jpg",
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-5.jpg",
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-6.jpg",
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-7.jpg",
+   "images/neko-figurines/the-mighty-nein/caleb-widogast/caleb-widogast-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 11.4 in (28.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Caleb Widogast from Critical Role's The Mighty Nein, a flame conjured in his open palm, scarf and coat billowing, with his cat Frumpkin perched at his shoulder."
+ },
+ {
+  "id": "neko-dispatch-sonar",
+  "artist": "Neko Figurines",
+  "series": "Dispatch",
+  "title": "Sonar",
+  "images": [
+   "images/neko-figurines/dispatch/sonar/sonar-1.jpg",
+   "images/neko-figurines/dispatch/sonar/sonar-2.jpg",
+   "images/neko-figurines/dispatch/sonar/sonar-3.jpg",
+   "images/neko-figurines/dispatch/sonar/sonar-4.jpg",
+   "images/neko-figurines/dispatch/sonar/sonar-5.jpg",
+   "images/neko-figurines/dispatch/sonar/sonar-6.jpg",
+   "images/neko-figurines/dispatch/sonar/sonar-7.jpg",
+   "images/neko-figurines/dispatch/sonar/sonar-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 12.1 in (30.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Sonar from Dispatch, an anthropomorphic figure sharply dressed in a tailored blue suit and red tie, posed with cool composure."
+ },
+ {
+  "id": "neko-arknights-endfield-laevatain-surtr",
+  "artist": "Neko Figurines",
+  "series": "Arknights: Endfield",
+  "title": "Laevatain Surtr",
+  "images": [
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-1.jpg",
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-2.jpg",
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-3.jpg",
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-4.jpg",
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-5.jpg",
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-6.jpg",
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-7.jpg",
+   "images/neko-figurines/arknights-endfield/laevatain-surtr/laevatain-surtr-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.5 in (26.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Laevatain Surtr from Arknights: Endfield, dual-wielding her blades amid drifting embers in a sculpt built around mid-combat motion."
+ },
+ {
+  "id": "neko-arknights-endfield-perlica",
+  "artist": "Neko Figurines",
+  "series": "Arknights: Endfield",
+  "title": "Perlica",
+  "images": [
+   "images/neko-figurines/arknights-endfield/perlica/perlica-1.jpg",
+   "images/neko-figurines/arknights-endfield/perlica/perlica-2.jpg",
+   "images/neko-figurines/arknights-endfield/perlica/perlica-3.jpg",
+   "images/neko-figurines/arknights-endfield/perlica/perlica-4.jpg",
+   "images/neko-figurines/arknights-endfield/perlica/perlica-5.jpg",
+   "images/neko-figurines/arknights-endfield/perlica/perlica-6.jpg",
+   "images/neko-figurines/arknights-endfield/perlica/perlica-7.jpg",
+   "images/neko-figurines/arknights-endfield/perlica/perlica-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.6 in (26.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Perlica from Arknights: Endfield, outfitted in tactical grey with exposed mechanical rigging, standing at ease against a glowing vertical accent panel."
+ },
+ {
+  "id": "neko-wuthering-waves-aemeath",
+  "artist": "Neko Figurines",
+  "series": "Wuthering Waves",
+  "title": "Aemeath",
+  "images": [
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-1.jpg",
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-2.jpg",
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-3.jpg",
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-4.jpg",
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-5.jpg",
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-6.jpg",
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-7.jpg",
+   "images/neko-figurines/wuthering-waves/aemeath/aemeath-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 9.0 in (22.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Aemeath from Wuthering Waves, rendered mid-motion with a paper airplane in hand and her signature mechanical wing accents fanned out behind her."
+ },
+ {
+  "id": "neko-deadlock-mina",
+  "artist": "Neko Figurines",
+  "series": "Deadlock",
+  "title": "Mina",
+  "images": [
+   "images/neko-figurines/deadlock/mina/mina-1.jpg",
+   "images/neko-figurines/deadlock/mina/mina-2.jpg",
+   "images/neko-figurines/deadlock/mina/mina-3.jpg",
+   "images/neko-figurines/deadlock/mina/mina-4.jpg",
+   "images/neko-figurines/deadlock/mina/mina-5.jpg",
+   "images/neko-figurines/deadlock/mina/mina-6.jpg",
+   "images/neko-figurines/deadlock/mina/mina-7.jpg",
+   "images/neko-figurines/deadlock/mina/mina-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 12.7 in (32.2 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Mina from Deadlock, a noir-styled figure beneath a striking red umbrella, trench coat and matching handbag completing a detective's silhouette."
+ },
+ {
+  "id": "neko-arknights-endfield-fluorite",
+  "artist": "Neko Figurines",
+  "series": "Arknights: Endfield",
+  "title": "Fluorite",
+  "images": [
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-1.jpg",
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-2.jpg",
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-3.jpg",
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-4.jpg",
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-5.jpg",
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-6.jpg",
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-7.jpg",
+   "images/neko-figurines/arknights-endfield/fluorite/fluorite-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 8.9 in (22.6 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Fluorite from Arknights: Endfield, hood up and heavy weapon braced, posed in a low combat-ready crouch against the Endfield insignia."
+ },
+ {
+  "id": "neko-witch-hat-atelier-coco",
+  "artist": "Neko Figurines",
+  "series": "Witch Hat Atelier",
+  "title": "Coco",
+  "images": [
+   "images/neko-figurines/witch-hat-atelier/coco/coco-1.jpg",
+   "images/neko-figurines/witch-hat-atelier/coco/coco-2.jpg",
+   "images/neko-figurines/witch-hat-atelier/coco/coco-3.jpg",
+   "images/neko-figurines/witch-hat-atelier/coco/coco-4.jpg",
+   "images/neko-figurines/witch-hat-atelier/coco/coco-5.jpg",
+   "images/neko-figurines/witch-hat-atelier/coco/coco-6.jpg",
+   "images/neko-figurines/witch-hat-atelier/coco/coco-7.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 11.9 in (30.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Coco from Witch Hat Atelier, pointed hat and traveling cloak in place, posed at the foot of a tree in a gentle, storybook moment."
+ },
+ {
+  "id": "neko-drakengard-zero",
+  "artist": "Neko Figurines",
+  "series": "Drakengard",
+  "title": "Zero",
+  "images": [
+   "images/neko-figurines/drakengard/zero/zero-1.jpg",
+   "images/neko-figurines/drakengard/zero/zero-2.jpg",
+   "images/neko-figurines/drakengard/zero/zero-3.jpg",
+   "images/neko-figurines/drakengard/zero/zero-4.jpg",
+   "images/neko-figurines/drakengard/zero/zero-5.jpg",
+   "images/neko-figurines/drakengard/zero/zero-6.jpg",
+   "images/neko-figurines/drakengard/zero/zero-7.jpg",
+   "images/neko-figurines/drakengard/zero/zero-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 12.6 in (31.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Zero from Drakengard, flowing white gown and a dark coiled weapon in hand, sculpted in a sultry, confrontational stance true to the character's tone."
+ },
+ {
+  "id": "neko-avatar-the-last-airbender-toph",
+  "artist": "Neko Figurines",
+  "series": "Avatar: The Last Airbender",
+  "title": "Toph",
+  "images": [
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-1.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-2.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-3.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-4.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-5.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-6.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-7.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/toph/toph-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 10.5 in (26.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Toph from Avatar: The Last Airbender, grounded in a bare-footed earthbending stance, fists raised and ready to strike."
+ },
+ {
+  "id": "neko-honkai-star-rail-silver-wolf-lv999",
+  "artist": "Neko Figurines",
+  "series": "Honkai: Star Rail",
+  "title": "Silver wolf LV999",
+  "images": [
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-1.jpg",
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-2.jpg",
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-3.jpg",
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-4.jpg",
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-5.jpg",
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-6.jpg",
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-7.jpg",
+   "images/neko-figurines/honkai-star-rail/silver-wolf-lv999/silver-wolf-lv999-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 12.5 in (31.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Silver Wolf from Honkai: Star Rail, wolf-eared hood up and holographic game interface wings spread, captured in her signature hacker's pose."
+ },
+ {
+  "id": "neko-arknights-endfield-zhuang-fangyi",
+  "artist": "Neko Figurines",
+  "series": "Arknights: Endfield",
+  "title": "Zhuang Fangyi",
+  "images": [
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-1.jpg",
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-2.jpg",
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-3.jpg",
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-4.jpg",
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-5.jpg",
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-6.jpg",
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-7.jpg",
+   "images/neko-figurines/arknights-endfield/zhuang-fangyi/zhuang-fangyi-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 12.3 in (31.3 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Zhuang Fangyi from Arknights: Endfield, antlered hair ornament and all, posed in quiet stillness as petals drift through the scene around her."
+ },
+ {
+  "id": "neko-deadlock-silver",
+  "artist": "Neko Figurines",
+  "series": "Deadlock",
+  "title": "Silver",
+  "images": [
+   "images/neko-figurines/deadlock/silver/silver-1.jpg",
+   "images/neko-figurines/deadlock/silver/silver-2.jpg",
+   "images/neko-figurines/deadlock/silver/silver-3.jpg",
+   "images/neko-figurines/deadlock/silver/silver-4.jpg",
+   "images/neko-figurines/deadlock/silver/silver-5.jpg",
+   "images/neko-figurines/deadlock/silver/silver-6.jpg",
+   "images/neko-figurines/deadlock/silver/silver-7.jpg",
+   "images/neko-figurines/deadlock/silver/silver-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 7.8 in (19.7 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Silver from Deadlock, slouched into a chair under a glowing marquee sign with pistol in hand, every inch the laid-back gunslinger."
+ },
+ {
+  "id": "neko-witch-hat-atelier-qifrey",
+  "artist": "Neko Figurines",
+  "series": "Witch Hat Atelier",
+  "title": "Qifrey",
+  "images": [
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-1.jpg",
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-2.jpg",
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-3.jpg",
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-4.jpg",
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-5.jpg",
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-6.jpg",
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-7.jpg",
+   "images/neko-figurines/witch-hat-atelier/qifrey/qifrey-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 12.2 in (31.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Qifrey from Witch Hat Atelier, his tall pointed hat and pale robes catching a soft arcane glow, posed with the quiet authority of a master witch."
+ },
+ {
+  "id": "neko-avatar-the-last-airbender-zuko",
+  "artist": "Neko Figurines",
+  "series": "Avatar: The Last Airbender",
+  "title": "Zuko",
+  "images": [
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-1.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-2.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-3.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-4.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-5.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-6.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-7.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/zuko/zuko-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.7 in (24.6 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Zuko from Avatar: The Last Airbender, flame erupting from a raised fist, robes caught mid-motion in an aggressive firebending stance."
+ },
+ {
+  "id": "neko-witch-hat-atelier-richeh",
+  "artist": "Neko Figurines",
+  "series": "Witch Hat Atelier",
+  "title": "Richeh",
+  "images": [
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-1.jpg",
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-2.jpg",
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-3.jpg",
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-4.jpg",
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-5.jpg",
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-6.jpg",
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-7.jpg",
+   "images/neko-figurines/witch-hat-atelier/richeh/richeh-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/7 Scale",
+    "size": "Approx. 7.3 in (18.5 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Richeh from Witch Hat Atelier, pointed hat and little blue dress intact, perched atop a giant tortoise's shell in a whimsical storybook scene."
+ },
+ {
+  "id": "neko-world-of-warcraft-jaina-proudmoore",
+  "artist": "Neko Figurines",
+  "series": "World of Warcraft",
+  "title": "Jaina Proudmoore",
+  "images": [
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-1.jpg",
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-2.jpg",
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-3.jpg",
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-4.jpg",
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-5.jpg",
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-6.jpg",
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-7.jpg",
+   "images/neko-figurines/world-of-warcraft/jaina-proudmoore/jaina-proudmoore-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 11.6 in (29.5 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Jaina Proudmoore from World of Warcraft, staff raised and an arcane orb glowing at its tip, cloak sweeping behind her in a commanding battle pose."
+ },
+ {
+  "id": "neko-honkai-star-rail-evanescia",
+  "artist": "Neko Figurines",
+  "series": "Honkai: Star Rail",
+  "title": "Evanescia",
+  "images": [
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-1.jpg",
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-2.jpg",
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-3.jpg",
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-4.jpg",
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-5.jpg",
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-6.jpg",
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-7.jpg",
+   "images/neko-figurines/honkai-star-rail/evanescia/evanescia-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.4 in (24.0 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Evanescia from Honkai: Star Rail, rabbit ears and bow in place, posed mid-skip with a drink in hand for a lighthearted, playful sculpt."
+ },
+ {
+  "id": "neko-genshin-impact-sandrone",
+  "artist": "Neko Figurines",
+  "series": "Genshin Impact",
+  "title": "Sandrone",
+  "images": [
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-1.jpg",
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-2.jpg",
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-3.jpg",
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-4.jpg",
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-5.jpg",
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-6.jpg",
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-7.jpg",
+   "images/neko-figurines/genshin-impact/sandrone/sandrone-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 8.3 in (21.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Sandrone from Genshin Impact, rendered as an ornate clockwork marionette with a glowing ship's-wheel display, paired with her companion Pulonia."
+ },
+ {
+  "id": "neko-catwoman-catwoman",
+  "artist": "Neko Figurines",
+  "series": "Catwoman",
+  "title": "Catwoman",
+  "images": [
+   "images/neko-figurines/catwoman/catwoman/catwoman-1.jpg",
+   "images/neko-figurines/catwoman/catwoman/catwoman-2.jpg",
+   "images/neko-figurines/catwoman/catwoman/catwoman-3.jpg",
+   "images/neko-figurines/catwoman/catwoman/catwoman-4.jpg",
+   "images/neko-figurines/catwoman/catwoman/catwoman-5.jpg",
+   "images/neko-figurines/catwoman/catwoman/catwoman-6.jpg",
+   "images/neko-figurines/catwoman/catwoman/catwoman-7.jpg",
+   "images/neko-figurines/catwoman/catwoman/catwoman-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 12.3 in (31.2 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "This take on Catwoman leans into her classic cat burglar silhouette, a sleek bodysuit and coiled whip posed low against a night skyline."
+ },
+ {
+  "id": "neko-avatar-the-last-airbender-aang",
+  "artist": "Neko Figurines",
+  "series": "Avatar: The Last Airbender",
+  "title": "Aang",
+  "images": [
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-1.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-2.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-3.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-4.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-5.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-6.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-7.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/aang/aang-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 11.2 in (28.4 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Aang from Avatar: The Last Airbender, robes spun wide mid-airbending leap, arrow tattoo on full display."
+ },
+ {
+  "id": "neko-ghost-in-the-shell-motoko-kusanagi-the-major",
+  "artist": "Neko Figurines",
+  "series": "Ghost in the Shell",
+  "title": "Motoko Kusanagi The Major",
+  "images": [
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-1.jpg",
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-2.jpg",
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-3.jpg",
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-4.jpg",
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-5.jpg",
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-6.jpg",
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-7.jpg",
+   "images/neko-figurines/ghost-in-the-shell/motoko-kusanagi-the-major/motoko-kusanagi-the-major-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.5 in (24.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Motoko Kusanagi from Ghost in the Shell, her cybernetic frame exposed at the joints and wiring, weapon in hand in a pose built around the character's synthetic anatomy."
+ },
+ {
+  "id": "neko-stellar-blade-blood-rain-evie",
+  "artist": "Neko Figurines",
+  "series": "Stellar Blade: Blood Rain",
+  "title": "Evie",
+  "images": [
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-1.jpg",
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-2.jpg",
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-3.jpg",
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-4.jpg",
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-5.jpg",
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-6.jpg",
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-7.jpg",
+   "images/neko-figurines/stellar-blade-blood-rain/evie/evie-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 8.3 in (21.2 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Eve in her Blood Rain look from Stellar Blade, sculpted in a sleek white combat suit with visible mechanical joint detailing, poised and ready."
+ },
+ {
+  "id": "neko-avatar-the-last-airbender-katara",
+  "artist": "Neko Figurines",
+  "series": "Avatar: The Last Airbender",
+  "title": "Katara",
+  "images": [
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-1.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-2.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-3.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-4.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-5.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-6.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-7.jpg",
+   "images/neko-figurines/avatar-the-last-airbender/katara/katara-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.8 in (24.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Katara from Avatar: The Last Airbender, caught mid-waterbend with the water itself sculpted swirling around her in a twisting action pose."
+ },
+ {
+  "id": "neko-cyberpunk-edgerunners-lucy",
+  "artist": "Neko Figurines",
+  "series": "Cyberpunk: Edgerunners",
+  "title": "Lucy",
+  "images": [
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-1.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-2.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-3.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-4.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-5.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-6.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-7.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/lucy/lucy-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.4 in (23.9 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Lucy from Cyberpunk: Edgerunners, her signature glowing whip-like cable lashed out mid-swing in a sharp, kinetic sculpt."
+ },
+ {
+  "id": "neko-zenless-zone-zero-remielle-dan",
+  "artist": "Neko Figurines",
+  "series": "Zenless Zone Zero",
+  "title": "Remielle Dan",
+  "images": [
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-1.jpg",
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-2.jpg",
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-3.jpg",
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-4.jpg",
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-5.jpg",
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-6.jpg",
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-7.jpg",
+   "images/neko-figurines/zenless-zone-zero/remielle-dan/remielle-dan-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.1 in (23.2 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Remielle Dan from Zenless Zone Zero, winged and in ornate regal attire, posed in an elegant perch alongside a smaller companion figure."
+ },
+ {
+  "id": "neko-beast-of-reincarnation-emma",
+  "artist": "Neko Figurines",
+  "series": "Beast of Reincarnation",
+  "title": "Emma",
+  "images": [
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-1.jpg",
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-2.jpg",
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-3.jpg",
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-4.jpg",
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-5.jpg",
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-6.jpg",
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-7.jpg",
+   "images/neko-figurines/beast-of-reincarnation/emma/emma-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.5 in (24.2 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Emma from Beast of Reincarnation, a stoic wide-brimmed-hat warrior with a blade sheathed at his back, standing in quiet readiness."
+ },
+ {
+  "id": "neko-cyberpunk-edgerunners-rebecca",
+  "artist": "Neko Figurines",
+  "series": "Cyberpunk: Edgerunners",
+  "title": "Rebecca",
+  "images": [
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-1.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-2.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-3.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-4.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-5.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-6.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-7.jpg",
+   "images/neko-figurines/cyberpunk-edgerunners/rebecca/rebecca-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.5 in (24.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Rebecca from Cyberpunk: Edgerunners, caught in an acrobatic mid-air kick with her signature heavy weapon in hand, explosive energy behind her."
+ },
+ {
+  "id": "neko-smoking-behind-the-supermarket-with-you-tayama",
+  "artist": "Neko Figurines",
+  "series": "Smoking Behind the Supermarket with You",
+  "title": "Tayama",
+  "images": [
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-1.jpg",
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-2.jpg",
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-3.jpg",
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-4.jpg",
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-5.jpg",
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-6.jpg",
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-7.jpg",
+   "images/neko-figurines/smoking-behind-the-supermarket-with-you/tayama/tayama-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 8.6 in (21.8 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Tayama from Smoking Behind the Supermarket with You, leaned against a chain-link fence with a cigarette and lighter in hand, a quiet slice-of-life moment."
+ },
+ {
+  "id": "neko-marvel-tokon-magik",
+  "artist": "Neko Figurines",
+  "series": "Marvel: Tokon",
+  "title": "Magik",
+  "images": [
+   "images/neko-figurines/marvel-tokon/magik/magik-1.jpg",
+   "images/neko-figurines/marvel-tokon/magik/magik-2.jpg",
+   "images/neko-figurines/marvel-tokon/magik/magik-3.jpg",
+   "images/neko-figurines/marvel-tokon/magik/magik-4.jpg",
+   "images/neko-figurines/marvel-tokon/magik/magik-5.jpg",
+   "images/neko-figurines/marvel-tokon/magik/magik-6.jpg",
+   "images/neko-figurines/marvel-tokon/magik/magik-7.jpg",
+   "images/neko-figurines/marvel-tokon/magik/magik-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 9.6 in (24.4 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Magik as she appears in Marvel: Tokon, Soulsword raised and demonic wing accents on full display in a combat-ready stance."
+ },
+ {
+  "id": "neko-fire-emblem-sothis",
+  "artist": "Neko Figurines",
+  "series": "Fire Emblem",
+  "title": "Sothis",
+  "images": [
+   "images/neko-figurines/fire-emblem/sothis/sothis-1.jpg",
+   "images/neko-figurines/fire-emblem/sothis/sothis-2.jpg",
+   "images/neko-figurines/fire-emblem/sothis/sothis-3.jpg",
+   "images/neko-figurines/fire-emblem/sothis/sothis-4.jpg",
+   "images/neko-figurines/fire-emblem/sothis/sothis-5.jpg",
+   "images/neko-figurines/fire-emblem/sothis/sothis-6.jpg",
+   "images/neko-figurines/fire-emblem/sothis/sothis-7.jpg",
+   "images/neko-figurines/fire-emblem/sothis/sothis-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 13.5 in (34.4 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Sothis from Fire Emblem, flowing green hair and ornate robes sculpted in a serene, almost weightless pose beside a small winged companion."
+ },
+ {
+  "id": "neko-the-blood-of-dawnwalker-coen",
+  "artist": "Neko Figurines",
+  "series": "The Blood of Dawnwalker",
+  "title": "Coen",
+  "images": [
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-1.jpg",
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-2.jpg",
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-3.jpg",
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-4.jpg",
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-5.jpg",
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-6.jpg",
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-7.jpg",
+   "images/neko-figurines/the-blood-of-dawnwalker/coen/coen-8.jpg"
+  ],
+  "scaleOptions": [
+   {
+    "scale": "1/8 Scale",
+    "size": "Approx. 10.3 in (26.1 cm) tall",
+    "etsyUrl": "LINK_GOES_HERE"
+   }
+  ],
+  "description": "Coen from The Blood of Dawnwalker, sword gripped and ready, sculpted in a grounded, period-appropriate dark fantasy stance."
+ }
 ];

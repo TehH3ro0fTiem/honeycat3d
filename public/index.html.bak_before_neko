@@ -1,0 +1,109 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <title>HoneyCat3D</title>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <div>
+                <strong class="gold">HoneyCat3D</strong>
+            </div>
+
+            <div class="links">
+                <a href="index.html">Home</a>
+                <a href="models.html">Available Models</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact Us</a>
+                <a href="https://www.etsy.com/shop/HoneyCat3D" target="_blank">Shop on Etsy</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div>
+            <h1>HoneyCat3D</h1>
+
+            <h2 class="gold">
+                3D Printed Resin Statues for Collectors & Enthusiasts
+            </h2>
+
+            <p>
+                Original creations crafted for anime fans, hobbyists, gamers, collectors,
+                and display enthusiasts.
+            </p>
+
+            <a class="btn" href="models.html">
+                Browse Current Collection
+            </a>
+
+            <a class="btn"
+               href="https://www.etsy.com/shop/HoneyCat3D"
+               target="_blank">Shop on Etsy
+            </a>
+        </div>
+    </section>
+
+    <section class="section section-wide">
+        <h2>Featured Models</h2>
+        <div class="grid" id="featured-grid"></div>
+    </section>
+
+    <script src="models-data.js?v=52"></script>
+    <script>
+        const featuredGrid = document.getElementById("featured-grid");
+        const shuffled = [...MODELS].sort(() => Math.random() - 0.5);
+
+        const CARD_MIN_WIDTH = 320;
+        const GRID_GAP = 24;
+        const MIN_CARDS = 3;
+        const MAX_CARDS = 6;
+
+        function renderFeatured() {
+            const containerWidth = featuredGrid.clientWidth;
+            const fitCount = Math.floor((containerWidth + GRID_GAP) / (CARD_MIN_WIDTH + GRID_GAP));
+            const count = Math.max(MIN_CARDS, Math.min(fitCount, MAX_CARDS, shuffled.length));
+            const featured = shuffled.slice(0, count);
+
+            featuredGrid.innerHTML = featured.map(m => `
+                <div class="card">
+                    <a href="model.html?id=${m.id}">
+                        <img src="${m.images[0]}" alt="${m.title}" loading="lazy">
+                    </a>
+                    <h3>${m.title}</h3>
+                    <a class="btn" href="model.html?id=${m.id}">View Details</a>
+                </div>
+            `).join("");
+        }
+
+        renderFeatured();
+
+        let resizeTimer;
+        window.addEventListener("resize", () => {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(renderFeatured, 200);
+        });
+    </script>
+
+    <section class="section" style="text-align: center;">
+        <h2>Follow the Process</h2>
+        <p>See prints in progress, paint jobs, and the occasional Zuko cameo.</p>
+
+        <!-- Elfsight Instagram Feed | Untitled Instagram Feed -->
+        <script src="https://elfsightcdn.com/platform.js" async></script>
+        <div class="elfsight-app-d59fb1c9-ade1-4fbd-bfcc-b4e3608c2f0c" data-elfsight-app-lazy></div>
+
+        <a class="btn" href="https://www.instagram.com/honey.cat.studios/" target="_blank">Follow on Instagram</a>
+    </section>
+
+    <div class="footer">
+        © HoneyCat3D • Premium Resin Collectibles
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,284 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="styles.css?v=2">
+    <title>Available Models - HoneyCat3D</title>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <div>
+                <strong class="gold">HoneyCat3D</strong>
+            </div>
+
+            <div class="links">
+                <a href="index.html">Home</a>
+                <a href="models.html">Available Models</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact Us</a>
+                <a href="https://www.etsy.com/shop/HoneyCat3D" target="_blank">Shop on Etsy</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="section section-wide browse-section">
+        <div class="browse-toolbar" id="browse-toolbar">
+            <h1>Available Models</h1>
+            <p class="results-count" id="results-count"></p>
+            <div class="pagination pagination-top" id="pagination-top"></div>
+        </div>
+
+        <div class="browse-layout">
+            <aside class="browse-sidebar">
+                <div class="sidebar-block">
+                    <label for="search-input">Search</label>
+                    <input type="text" id="search-input" placeholder="Search models...">
+                </div>
+
+                <div class="sidebar-block">
+                    <label for="sort-select">Sort by</label>
+                    <select id="sort-select">
+                        <option value="title-asc">Title (A-Z)</option>
+                        <option value="title-desc">Title (Z-A)</option>
+                        <option value="artist-asc">Artist (A-Z)</option>
+                    </select>
+                </div>
+
+                <div class="sidebar-block">
+                    <span class="sidebar-heading">Artist</span>
+                    <div id="artist-checkboxes" class="checkbox-list"></div>
+                </div>
+
+                <div class="sidebar-block">
+                    <span class="sidebar-heading">Series</span>
+                    <div id="series-checkboxes" class="checkbox-list"></div>
+                </div>
+            </aside>
+
+            <div class="browse-main">
+                <div class="grid" id="models-grid"></div>
+                <div class="pagination" id="pagination"></div>
+            </div>
+        </div>
+    </section>
+
+    <div class="footer">
+        © HoneyCat3D • Premium Resin Collectibles
+    </div>
+
+    <script src="models-data.js?v=52"></script>
+    <script>
+        const grid = document.getElementById("models-grid");
+        const resultsCount = document.getElementById("results-count");
+        const pagination = document.getElementById("pagination");
+        const paginationTop = document.getElementById("pagination-top");
+        const searchInput = document.getElementById("search-input");
+        const sortSelect = document.getElementById("sort-select");
+        const artistBox = document.getElementById("artist-checkboxes");
+        const seriesBox = document.getElementById("series-checkboxes");
+
+        const PAGE_SIZE = 60;
+        let currentPage = 1;
+
+        function buildCheckboxes(container, valueCounts, groupName) {
+            valueCounts.forEach(({ value, count }) => {
+                const id = groupName + "-" + value.replace(/\s+/g, "-").toLowerCase();
+                const wrapper = document.createElement("label");
+                wrapper.className = "checkbox-item";
+                wrapper.innerHTML = `
+                    <input type="checkbox" value="${value}" id="${id}" data-group="${groupName}">
+                    ${value}
+                    <span class="checkbox-count">${count}</span>
+                `;
+                container.appendChild(wrapper);
+            });
+        }
+
+        function getChecked(container) {
+            return Array.from(container.querySelectorAll("input:checked")).map(cb => cb.value);
+        }
+
+        function renderModels() {
+            const query = searchInput.value.trim().toLowerCase();
+            const checkedArtists = getChecked(artistBox);
+            const checkedSeries = getChecked(seriesBox);
+            const sortMode = sortSelect.value;
+
+            let filtered = MODELS.filter(m => {
+                const matchesQuery = m.title.toLowerCase().includes(query) || m.series.toLowerCase().includes(query);
+                const matchesArtist = checkedArtists.length === 0 || checkedArtists.includes(m.artist);
+                const matchesSeries = checkedSeries.length === 0 || checkedSeries.includes(m.series);
+                return matchesQuery && matchesArtist && matchesSeries;
+            });
+
+            filtered.sort((a, b) => {
+                if (sortMode === "title-asc") return a.title.localeCompare(b.title);
+                if (sortMode === "title-desc") return b.title.localeCompare(a.title);
+                if (sortMode === "artist-asc") return a.artist.localeCompare(b.artist);
+                return 0;
+            });
+
+            const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+            if (currentPage > totalPages) currentPage = totalPages;
+            if (currentPage < 1) currentPage = 1;
+
+            const startIndex = (currentPage - 1) * PAGE_SIZE;
+            const pageItems = filtered.slice(startIndex, startIndex + PAGE_SIZE);
+
+            if (filtered.length === 0) {
+                resultsCount.textContent = `Showing 0 of ${MODELS.length} models`;
+                grid.innerHTML = "<p>No models match those filters.</p>";
+                pagination.innerHTML = "";
+                paginationTop.innerHTML = "";
+                return;
+            }
+
+            resultsCount.textContent = `Showing ${startIndex + 1}-${startIndex + pageItems.length} of ${filtered.length} models`;
+
+            grid.innerHTML = pageItems.map(m => `
+                <div class="card">
+                    <a href="model.html?id=${m.id}">
+                        <img src="${m.images[0]}" alt="${m.title}" loading="lazy">
+                    </a>
+                    <h3>${m.title}</h3>
+                    <p class="card-series">${m.series}</p>
+                    <p class="card-artist">by ${m.artist}</p>
+                    <a class="btn" href="model.html?id=${m.id}">View Details</a>
+                </div>
+            `).join("");
+
+            renderPagination(totalPages);
+        }
+
+        function renderPagination(totalPages) {
+            if (totalPages <= 1) {
+                pagination.innerHTML = "";
+                paginationTop.innerHTML = "";
+                return;
+            }
+
+            let buttons = [];
+
+            buttons.push(`<button class="page-btn" data-page="prev" ${currentPage === 1 ? "disabled" : ""}>&laquo; Prev</button>`);
+
+            for (let i = 1; i <= totalPages; i++) {
+                if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) {
+                    buttons.push(`<button class="page-btn ${i === currentPage ? "active" : ""}" data-page="${i}">${i}</button>`);
+                } else if (Math.abs(i - currentPage) === 3) {
+                    buttons.push(`<span class="page-ellipsis">&hellip;</span>`);
+                }
+            }
+
+            buttons.push(`<button class="page-btn" data-page="next" ${currentPage === totalPages ? "disabled" : ""}>Next &raquo;</button>`);
+
+            pagination.innerHTML = buttons.join("");
+            paginationTop.innerHTML = buttons.join("");
+        }
+
+        // One click handler for both the top and bottom page buttons
+        function onPageClick(e) {
+            const btn = e.target.closest(".page-btn");
+            if (!btn || btn.disabled) return;
+            const target = btn.dataset.page;
+            if (target === "prev") {
+                currentPage--;
+            } else if (target === "next") {
+                currentPage++;
+            } else {
+                currentPage = parseInt(target, 10);
+            }
+            renderModels();
+            saveStateToUrl(true);
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        }
+        pagination.addEventListener("click", onPageClick);
+        paginationTop.addEventListener("click", onPageClick);
+
+        function countBy(key) {
+            const counts = {};
+            MODELS.forEach(m => {
+                counts[m[key]] = (counts[m[key]] || 0) + 1;
+            });
+            return Object.keys(counts)
+                .sort()
+                .map(value => ({ value, count: counts[value] }));
+        }
+
+        const artistCounts = countBy("artist");
+        const seriesCounts = countBy("series");
+        buildCheckboxes(artistBox, artistCounts, "artist");
+        buildCheckboxes(seriesBox, seriesCounts, "series");
+
+        // Keep page, search, sort and filters in the address bar so the
+        // browser Back button returns visitors to the same spot.
+        function applyUrlFilters() {
+            const params = new URLSearchParams(window.location.search);
+
+            searchInput.value = params.get("q") || "";
+            sortSelect.value = params.get("sort") || "title-asc";
+            if (!sortSelect.value) sortSelect.value = "title-asc";
+
+            const artists = params.getAll("artist");
+            const series = params.getAll("series");
+            artistBox.querySelectorAll("input").forEach(cb => { cb.checked = artists.includes(cb.value); });
+            seriesBox.querySelectorAll("input").forEach(cb => { cb.checked = series.includes(cb.value); });
+
+            currentPage = parseInt(params.get("page"), 10) || 1;
+        }
+
+        function saveStateToUrl(newHistoryEntry) {
+            const params = new URLSearchParams();
+            const query = searchInput.value.trim();
+            if (query) params.set("q", query);
+            if (sortSelect.value !== "title-asc") params.set("sort", sortSelect.value);
+            getChecked(artistBox).forEach(v => params.append("artist", v));
+            getChecked(seriesBox).forEach(v => params.append("series", v));
+            if (currentPage > 1) params.set("page", currentPage);
+
+            const qs = params.toString();
+            const url = window.location.pathname + (qs ? "?" + qs : "");
+            if (newHistoryEntry) {
+                history.pushState(null, "", url);
+            } else {
+                history.replaceState(null, "", url);
+            }
+        }
+
+        applyUrlFilters();
+
+        function resetToFirstPage() {
+            currentPage = 1;
+            renderModels();
+            saveStateToUrl(false);
+        }
+
+        searchInput.addEventListener("input", resetToFirstPage);
+        sortSelect.addEventListener("change", resetToFirstPage);
+        artistBox.addEventListener("change", resetToFirstPage);
+        seriesBox.addEventListener("change", resetToFirstPage);
+
+        // Browser Back/Forward between result pages
+        window.addEventListener("popstate", () => {
+            applyUrlFilters();
+            renderModels();
+            window.scrollTo({ top: 0 });
+        });
+
+        // Measure the sticky header and toolbar so the sidebar sits right below them
+        function measureStickyBars() {
+            const root = document.documentElement;
+            root.style.setProperty("--header-h", document.querySelector("header").offsetHeight + "px");
+            root.style.setProperty("--toolbar-h", document.getElementById("browse-toolbar").offsetHeight + "px");
+        }
+        window.addEventListener("resize", measureStickyBars);
+
+        renderModels();
+        measureStickyBars();
+    </script>
+
+</body>
+</html>
