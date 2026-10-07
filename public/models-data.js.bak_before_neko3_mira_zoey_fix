@@ -36335,9 +36335,7 @@ const MODELS = [
    "images/neko-figurines-3/kpop-demon-hunters/mira/mira-1.jpg",
    "images/neko-figurines-3/kpop-demon-hunters/mira/mira-2.jpg",
    "images/neko-figurines-3/kpop-demon-hunters/mira/mira-3.jpg",
-   "images/neko-figurines-3/kpop-demon-hunters/mira/mira-4.jpg",
-   "images/neko-figurines-3/kpop-demon-hunters/mira/mira-5.jpg",
-   "images/neko-figurines-3/kpop-demon-hunters/mira/mira-6.jpg"
+   "images/neko-figurines-3/kpop-demon-hunters/mira/mira-4.jpg"
   ],
   "scaleOptions": [
    {
@@ -36443,9 +36441,7 @@ const MODELS = [
    "images/neko-figurines-3/kpop-demon-hunters/zoey/zoey-1.jpg",
    "images/neko-figurines-3/kpop-demon-hunters/zoey/zoey-2.jpg",
    "images/neko-figurines-3/kpop-demon-hunters/zoey/zoey-3.jpg",
-   "images/neko-figurines-3/kpop-demon-hunters/zoey/zoey-4.jpg",
-   "images/neko-figurines-3/kpop-demon-hunters/zoey/zoey-5.jpg",
-   "images/neko-figurines-3/kpop-demon-hunters/zoey/zoey-6.jpg"
+   "images/neko-figurines-3/kpop-demon-hunters/zoey/zoey-4.jpg"
   ],
   "scaleOptions": [
    {
