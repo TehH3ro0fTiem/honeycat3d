@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="stylesheet" href="styles.css?v=3">
+    <link rel="stylesheet" href="styles.css">
     <title>Model - HoneyCat3D</title>
 </head>
 
@@ -33,7 +33,7 @@
         © HoneyCat3D • Premium Resin Collectibles
     </div>
 
-    <script src="models-data.js?v=60"></script>
+    <script src="models-data.js?v=59"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
         const modelId = params.get("id");
@@ -45,9 +45,6 @@
         } else {
             document.title = model.title + " - HoneyCat3D";
 
-            let currentVariantIndex = 0;
-            let currentImages = model.variants ? model.variants[0].images : model.images;
-
             container.innerHTML = `
                 <a class="back-link" href="models.html">&larr; Back to Available Models</a>
 
@@ -55,11 +52,11 @@
                     <div class="model-gallery">
                         <div class="main-image-wrap">
                             <button class="gallery-arrow gallery-arrow-left" id="prev-image" aria-label="Previous image">&#10094;</button>
-                            <img id="main-image" src="${currentImages[0]}" alt="${model.title}" fetchpriority="high">
+                            <img id="main-image" src="${model.images[0]}" alt="${model.title}" fetchpriority="high">
                             <button class="gallery-arrow gallery-arrow-right" id="next-image" aria-label="Next image">&#10095;</button>
                         </div>
-                        <div class="thumbnail-row" id="thumbnail-row">
-                            ${currentImages.map((img, i) => `
+                        <div class="thumbnail-row">
+                            ${model.images.map((img, i) => `
                                 <img class="thumbnail ${i === 0 ? "active" : ""}" src="${img}" alt="${model.title} view ${i + 1}" loading="lazy">
                             `).join("")}
                         </div>
@@ -72,17 +69,6 @@
                             <a href="models.html?series=${encodeURIComponent(model.series)}">${model.series}</a>
                         </p>
                         <h1>${model.title}</h1>
-
-                        ${model.variants ? `
-                        <div class="model-specs">
-                            <label for="variant-select"><strong>Version:</strong></label>
-                            <select id="variant-select">
-                                ${model.variants.map((v, i) => `
-                                    <option value="${i}">${v.label}</option>
-                                `).join("")}
-                            </select>
-                        </div>
-                        ` : ""}
 
                         <div class="model-specs">
                             <label for="scale-select"><strong>Scale:</strong></label>
@@ -174,31 +160,24 @@
             document.getElementById("etsy-link-wrap").innerHTML = renderEtsyButton(model.scaleOptions[0].etsyUrl);
 
             const mainImage = document.getElementById("main-image");
-            const thumbnailRow = document.getElementById("thumbnail-row");
+            const thumbnails = document.querySelectorAll(".thumbnail");
             const lightbox = document.getElementById("lightbox");
             const lightboxImage = document.getElementById("lightbox-image");
             let currentIndex = 0;
 
-            function bindThumbnails() {
-                thumbnailRow.querySelectorAll(".thumbnail").forEach((thumb, i) => {
-                    thumb.addEventListener("click", () => showImage(i));
-                });
-            }
-
             function showImage(index) {
-                currentIndex = (index + currentImages.length) % currentImages.length;
-                mainImage.src = currentImages[currentIndex];
-                const thumbs = thumbnailRow.querySelectorAll(".thumbnail");
-                thumbs.forEach(t => t.classList.remove("active"));
-                thumbs[currentIndex].classList.add("active");
-                thumbs[currentIndex].scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+                currentIndex = (index + model.images.length) % model.images.length;
+                mainImage.src = model.images[currentIndex];
+                thumbnails.forEach(t => t.classList.remove("active"));
+                thumbnails[currentIndex].classList.add("active");
+                thumbnails[currentIndex].scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
                 if (lightbox.classList.contains("open")) {
-                    lightboxImage.src = currentImages[currentIndex];
+                    lightboxImage.src = model.images[currentIndex];
                 }
             }
 
             function openLightbox() {
-                lightboxImage.src = currentImages[currentIndex];
+                lightboxImage.src = model.images[currentIndex];
                 lightbox.classList.add("open");
             }
 
@@ -206,22 +185,9 @@
                 lightbox.classList.remove("open");
             }
 
-            // Rebuilds the gallery (main image + thumbnail strip) for a new
-            // set of images, e.g. after the visitor picks a different Version.
-            function renderGallery(images) {
-                currentImages = images;
-                currentIndex = 0;
-                mainImage.src = currentImages[0];
-                thumbnailRow.innerHTML = currentImages.map((img, i) => `
-                    <img class="thumbnail ${i === 0 ? "active" : ""}" src="${img}" alt="${model.title} view ${i + 1}" loading="lazy">
-                `).join("");
-                bindThumbnails();
-                if (lightbox.classList.contains("open")) {
-                    lightboxImage.src = currentImages[0];
-                }
-            }
-
-            bindThumbnails();
+            thumbnails.forEach((thumb, i) => {
+                thumb.addEventListener("click", () => showImage(i));
+            });
 
             document.getElementById("prev-image").addEventListener("click", () => showImage(currentIndex - 1));
             document.getElementById("next-image").addEventListener("click", () => showImage(currentIndex + 1));
@@ -240,14 +206,6 @@
                 document.getElementById("size-display").innerHTML = `<strong>Size:</strong> ${opt.size}`;
                 document.getElementById("etsy-link-wrap").innerHTML = renderEtsyButton(opt.etsyUrl);
             });
-
-            const variantSelect = document.getElementById("variant-select");
-            if (variantSelect) {
-                variantSelect.addEventListener("change", (e) => {
-                    currentVariantIndex = parseInt(e.target.value, 10);
-                    renderGallery(model.variants[currentVariantIndex].images);
-                });
-            }
         }
     </script>
 

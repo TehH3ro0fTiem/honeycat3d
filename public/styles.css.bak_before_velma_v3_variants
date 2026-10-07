@@ -173,26 +173,6 @@ nav {
     display: block;
 }
 
-.card a {
-    position: relative;
-    display: block;
-    width: 100%;
-}
-
-.variant-badge {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    background: rgba(18, 18, 18, 0.75);
-    color: #d4a843;
-    border: 1px solid #d4a843;
-    padding: 4px 10px;
-    border-radius: 20px;
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.02em;
-}
-
 .card h3 {
     margin: 0;
     padding: 12px 20px;

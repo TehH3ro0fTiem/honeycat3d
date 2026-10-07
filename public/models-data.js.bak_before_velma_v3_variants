@@ -32437,50 +32437,27 @@ const MODELS = [
  "description": "Velma glances back over her shoulder in her chunky orange sweater, a Scooby-Doo tattoo peeking out."
 },
  {
-  "id": "esm-velma-dinkley-v3",
-  "artist": "ESMonster",
-  "series": "Scooby-Doo",
-  "title": "Velma Dinkley",
-  "images": [
-    "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-1.jpg",
-    "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-2.jpg"
-  ],
-  "scaleOptions": [
-    {
-      "scale": "Scale not yet listed",
-      "size": "Size not specified by designer",
-      "etsyUrl": "LINK_GOES_HERE"
-    }
-  ],
-  "description": "Velma Dinkley tugging up her chunky orange sweater, available in three looks: skirt on, skirt off, or down to nothing but her striped stockings, Scooby-Doo tattoos and her signature bob throughout. The tattoos are part of the digital render and won't be painted onto the physical figure. A wild-hair version is also available — contact us to custom order.",
-  "variants": [
-    {
-      "label": "With Skirt",
-      "images": [
-        "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-1.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-2.jpg"
-      ]
-    },
-    {
-      "label": "Without Skirt",
-      "images": [
-        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-1.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-2.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-3.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-4.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-5.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-6.jpg"
-      ]
-    },
-    {
-      "label": "Nude, with Stockings",
-      "images": [
-        "images/esmonster/scooby-doo/velma-dinkley-v3/nude-stockings/velma-dinkley-v3-nude-stockings-1.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/nude-stockings/velma-dinkley-v3-nude-stockings-2.jpg",
-        "images/esmonster/scooby-doo/velma-dinkley-v3/nude-stockings/velma-dinkley-v3-nude-stockings-3.jpg"
-      ]
-    }
-  ]
+ "id": "esm-velma-dinkley-v3",
+ "artist": "ESMonster",
+ "series": "Scooby-Doo",
+ "title": "Velma Dinkley",
+ "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-7.jpg"
+ ],
+ "scaleOptions": [
+  {
+   "scale": "Scale not yet listed",
+   "size": "Size not specified by designer",
+   "etsyUrl": "LINK_GOES_HERE"
+  }
+ ],
+ "description": "Velma lifts her orange sweater to reveal playful Scooby-Doo tattoos, glasses and bob as iconic as ever."
 },
  {
  "id": "esm-gambit",
