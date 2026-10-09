@@ -32719,32 +32719,52 @@ const MODELS = [
  "description": "An Adepta Sororitas Battle Sister in full black power armor, chainsword over her shoulder."
 },
  {
- "id": "esm-daphne-blake-v1",
- "artist": "ESMonster",
- "series": "Scooby-Doo",
- "title": "Daphne Blake",
- "images": [
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-1.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-2.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-3.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-4.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-5.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-6.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-7.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-8.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-9.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-10.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-11.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-12.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Daphne Blake glances back in her purple outfit and green scarf, red curls bouncing."
+  "id": "esm-daphne-blake-v1",
+  "artist": "ESMonster",
+  "series": "Scooby-Doo",
+  "title": "Daphne Blake",
+  "images": [
+    "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-1.jpg",
+    "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-2.jpg",
+    "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-3.jpg"
+  ],
+  "scaleOptions": [
+    {
+      "scale": "Scale not yet listed",
+      "size": "Size not specified by designer",
+      "etsyUrl": "LINK_GOES_HERE"
+    }
+  ],
+  "description": "Daphne Blake glances back in her purple outfit and green scarf, red curls bouncing. The tattoos are part of the digital render and won't be painted onto the physical figure.",
+  "variants": [
+    {
+      "label": "With Skirt",
+      "images": [
+        "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-1.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-2.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-3.jpg"
+      ]
+    },
+    {
+      "label": "Without Skirt",
+      "images": [
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-1.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-2.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-3.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-4.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-5.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-6.jpg"
+      ]
+    },
+    {
+      "label": "Nude, with Stockings",
+      "images": [
+        "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-1.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-2.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-3.jpg"
+      ]
+    }
+  ]
 },
  {
  "id": "esm-daphne-blake-v2",
