@@ -32353,24 +32353,20 @@ const MODELS = [
  "series": "Scooby-Doo",
  "title": "Velma Dinkley",
  "images": [
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-1.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-2.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-3.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-4.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-5.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-6.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-7.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-8.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-9.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-10.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-11.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-12.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-13.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-14.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-15.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-16.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-17.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v1/velma-dinkley-v1-18.jpg"
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-13.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-14.jpg"
  ],
  "scaleOptions": [
   {
@@ -32379,7 +32375,42 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "A cheeky pin-up take on Velma, peering over her oversized glasses as she tugs up her chunky orange knit sweater."
+ "description": "A cheeky pin-up take on Velma, peering over her oversized glasses as she tugs up her chunky orange knit sweater — available pulling up her sweater, in just her bikini, or topless. The tattoos are part of the digital render and won't be painted onto the physical figure.",
+ "variants": [
+  {
+   "label": "Pulling up Sweater",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-13.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/pulling-up-sweater/velma-dinkley-v1-pulling-up-sweater-14.jpg"
+   ]
+  },
+  {
+   "label": "Bikini Only",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v1/bikini-only/velma-dinkley-v1-bikini-only-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/bikini-only/velma-dinkley-v1-bikini-only-2.jpg"
+   ]
+  },
+  {
+   "label": "Topless",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v1/topless/velma-dinkley-v1-topless-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v1/topless/velma-dinkley-v1-topless-2.jpg"
+   ]
+  }
+ ]
 },
  {
  "id": "esm-velma-dinkley-v4",
@@ -32387,23 +32418,23 @@ const MODELS = [
  "series": "Scooby-Doo",
  "title": "Velma Dinkley",
  "images": [
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-1.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-2.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-3.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-4.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-5.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-6.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-7.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-8.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-9.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-10.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-11.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-12.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-13.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-14.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-15.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-16.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v4/velma-dinkley-v4-17.jpg"
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-13.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-14.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-15.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-16.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-17.jpg"
  ],
  "scaleOptions": [
   {
@@ -32412,7 +32443,37 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Velma in an orange bikini top, glasses perched on her nose and tattoo sleeves on show."
+ "description": "Velma in an orange bikini top, glasses perched on her nose and tattoo sleeves on show — also available topless. The tattoos are part of the digital render and won't be painted onto the physical figure.",
+ "variants": [
+  {
+   "label": "Bikini",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-3.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-4.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-5.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-6.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-7.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-8.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-9.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-10.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-11.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-12.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-13.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-14.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-15.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-16.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v4/bikini/velma-dinkley-v4-bikini-17.jpg"
+   ]
+  },
+  {
+   "label": "Topless",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v4/topless/velma-dinkley-v4-topless-1.jpg"
+   ]
+  }
+ ]
 },
  {
  "id": "esm-velma-dinkley-v2",
@@ -32420,12 +32481,8 @@ const MODELS = [
  "series": "Scooby-Doo",
  "title": "Velma Dinkley",
  "images": [
-  "images/esmonster/scooby-doo/velma-dinkley-v2/velma-dinkley-v2-1.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v2/velma-dinkley-v2-2.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v2/velma-dinkley-v2-3.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v2/velma-dinkley-v2-4.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v2/velma-dinkley-v2-5.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v2/velma-dinkley-v2-6.jpg"
+  "images/esmonster/scooby-doo/velma-dinkley-v2/sweater-with-skirt/velma-dinkley-v2-sweater-with-skirt-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v2/sweater-with-skirt/velma-dinkley-v2-sweater-with-skirt-2.jpg"
  ],
  "scaleOptions": [
   {
@@ -32434,30 +32491,76 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Velma glances back over her shoulder in her chunky orange sweater, a Scooby-Doo tattoo peeking out."
+ "description": "Velma glances back over her shoulder in her chunky orange sweater, a Scooby-Doo tattoo peeking out — available with her skirt on or off, or topless. The tattoos are part of the digital render and won't be painted onto the physical figure.",
+ "variants": [
+  {
+   "label": "Sweater w/ Skirt",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v2/sweater-with-skirt/velma-dinkley-v2-sweater-with-skirt-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v2/sweater-with-skirt/velma-dinkley-v2-sweater-with-skirt-2.jpg"
+   ]
+  },
+  {
+   "label": "Sweater w/o Skirt",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v2/sweater-without-skirt/velma-dinkley-v2-sweater-without-skirt-1.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v2/sweater-without-skirt/velma-dinkley-v2-sweater-without-skirt-2.jpg",
+  "images/esmonster/scooby-doo/velma-dinkley-v2/sweater-without-skirt/velma-dinkley-v2-sweater-without-skirt-3.jpg"
+   ]
+  },
+  {
+   "label": "Topless",
+   "images": [
+  "images/esmonster/scooby-doo/velma-dinkley-v2/topless/velma-dinkley-v2-topless-1.jpg"
+   ]
+  }
+ ]
 },
  {
- "id": "esm-velma-dinkley-v3",
- "artist": "ESMonster",
- "series": "Scooby-Doo",
- "title": "Velma Dinkley",
- "images": [
-  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-1.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-2.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-3.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-4.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-5.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-6.jpg",
-  "images/esmonster/scooby-doo/velma-dinkley-v3/velma-dinkley-v3-7.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Velma lifts her orange sweater to reveal playful Scooby-Doo tattoos, glasses and bob as iconic as ever."
+  "id": "esm-velma-dinkley-v3",
+  "artist": "ESMonster",
+  "series": "Scooby-Doo",
+  "title": "Velma Dinkley",
+  "images": [
+    "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-1.jpg",
+    "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-2.jpg"
+  ],
+  "scaleOptions": [
+    {
+      "scale": "Scale not yet listed",
+      "size": "Size not specified by designer",
+      "etsyUrl": "LINK_GOES_HERE"
+    }
+  ],
+  "description": "Velma Dinkley tugging up her chunky orange sweater, available in three looks: skirt on, skirt off, or down to nothing but her striped stockings, Scooby-Doo tattoos and her signature bob throughout. The tattoos are part of the digital render and won't be painted onto the physical figure. A wild-hair version is also available — contact us to custom order.",
+  "variants": [
+    {
+      "label": "With Skirt",
+      "images": [
+        "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-1.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/with-skirt/velma-dinkley-v3-with-skirt-2.jpg"
+      ]
+    },
+    {
+      "label": "Without Skirt",
+      "images": [
+        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-1.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-2.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-3.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-4.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-5.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/without-skirt/velma-dinkley-v3-without-skirt-6.jpg"
+      ]
+    },
+    {
+      "label": "Nude, with Stockings",
+      "images": [
+        "images/esmonster/scooby-doo/velma-dinkley-v3/nude-stockings/velma-dinkley-v3-nude-stockings-1.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/nude-stockings/velma-dinkley-v3-nude-stockings-2.jpg",
+        "images/esmonster/scooby-doo/velma-dinkley-v3/nude-stockings/velma-dinkley-v3-nude-stockings-3.jpg"
+      ]
+    }
+  ]
 },
  {
  "id": "esm-gambit",
@@ -32616,32 +32719,52 @@ const MODELS = [
  "description": "An Adepta Sororitas Battle Sister in full black power armor, chainsword over her shoulder."
 },
  {
- "id": "esm-daphne-blake-v1",
- "artist": "ESMonster",
- "series": "Scooby-Doo",
- "title": "Daphne Blake",
- "images": [
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-1.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-2.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-3.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-4.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-5.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-6.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-7.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-8.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-9.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-10.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-11.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v1/daphne-blake-v1-12.jpg"
- ],
- "scaleOptions": [
-  {
-   "scale": "Scale not yet listed",
-   "size": "Size not specified by designer",
-   "etsyUrl": "LINK_GOES_HERE"
-  }
- ],
- "description": "Daphne Blake glances back in her purple outfit and green scarf, red curls bouncing."
+  "id": "esm-daphne-blake-v1",
+  "artist": "ESMonster",
+  "series": "Scooby-Doo",
+  "title": "Daphne Blake",
+  "images": [
+    "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-1.jpg",
+    "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-2.jpg",
+    "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-3.jpg"
+  ],
+  "scaleOptions": [
+    {
+      "scale": "Scale not yet listed",
+      "size": "Size not specified by designer",
+      "etsyUrl": "LINK_GOES_HERE"
+    }
+  ],
+  "description": "Daphne Blake glances back in her purple outfit and green scarf, red curls bouncing. The tattoos are part of the digital render and won't be painted onto the physical figure.",
+  "variants": [
+    {
+      "label": "With Skirt",
+      "images": [
+        "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-1.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-2.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/with-skirt/daphne-blake-v1-with-skirt-3.jpg"
+      ]
+    },
+    {
+      "label": "Without Skirt",
+      "images": [
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-1.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-2.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-3.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-4.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-5.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/without-skirt/daphne-blake-v1-without-skirt-6.jpg"
+      ]
+    },
+    {
+      "label": "Nude, with Stockings",
+      "images": [
+        "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-1.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-2.jpg",
+        "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-3.jpg"
+      ]
+    }
+  ]
 },
  {
  "id": "esm-daphne-blake-v2",
@@ -32649,21 +32772,18 @@ const MODELS = [
  "series": "Scooby-Doo",
  "title": "Daphne Blake",
  "images": [
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-1.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-2.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-3.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-4.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-5.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-6.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-7.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-8.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-9.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-10.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-11.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-12.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-13.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-14.jpg",
-  "images/esmonster/scooby-doo/daphne-blake-v2/daphne-blake-v2-15.jpg"
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-1.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-2.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-3.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-4.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-5.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-6.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-7.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-8.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-9.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-10.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-11.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-12.jpg"
  ],
  "scaleOptions": [
   {
@@ -32672,7 +32792,34 @@ const MODELS = [
    "etsyUrl": "LINK_GOES_HERE"
   }
  ],
- "description": "Daphne gears up for a dive in a purple wetsuit, snorkel and flippers in hand, green scarf still on."
+ "description": "Daphne gears up for a dive in a purple wetsuit, snorkel and flippers in hand, green scarf still on — available pulling off her swimsuit or topless.",
+ "variants": [
+  {
+   "label": "Pulling off Swimsuit",
+   "images": [
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-1.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-2.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-3.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-4.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-5.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-6.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-7.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-8.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-9.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-10.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-11.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/pulling-off-swimsuit/daphne-blake-v2-pulling-off-swimsuit-12.jpg"
+   ]
+  },
+  {
+   "label": "Topless",
+   "images": [
+  "images/esmonster/scooby-doo/daphne-blake-v2/topless/daphne-blake-v2-topless-1.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/topless/daphne-blake-v2-topless-2.jpg",
+  "images/esmonster/scooby-doo/daphne-blake-v2/topless/daphne-blake-v2-topless-3.jpg"
+   ]
+  }
+ ]
 },
  {
  "id": "esm-psylocke-betsy-braddock-purple-clad-woman",

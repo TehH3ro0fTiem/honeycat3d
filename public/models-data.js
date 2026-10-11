@@ -451,7 +451,7 @@ const MODELS = [
     "etsyUrl": "LINK_GOES_HERE"
    }
   ],
-  "description": "Cape flared and hands raised mid-power, this Magneto sculpt is one of the larger pieces in our lineup  — an ambitious build for an ambitious character."
+  "description": "Cape flared and hands raised mid-power, this Magneto sculpt is one of the larger pieces in our lineup — an ambitious build for an ambitious character."
  },
  {
   "id": "jts-nightcrawler",
@@ -27131,7 +27131,7 @@ const MODELS = [
   "id": "ca3d-swimsuit-2b",
   "artist": "CA3D Studios",
   "series": "NieR: Automata",
-  "title": "2B (Swimsuit ver)",
+  "title": "2B (Swimsuit v1)",
   "images": [
    "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-1.jpg",
    "images/ca3d/nier-automata/swimsuit-2b/swimsuit-2b-2.jpg",
@@ -29143,10 +29143,10 @@ const MODELS = [
  "description": "Ada Wong in her slit red qipao, pistol raised and thigh holster strapped, poised for a mission."
 },
  {
- "id": "esm-ada-wong-v2-suntanned-ver",
+ "id": "esm-ada-wong-v2",
  "artist": "ESMonster",
  "series": "Resident Evil 4",
- "title": "Ada Wong (Swimsuit ver)",
+ "title": "Ada Wong (Swimsuit v1)",
  "images": [
   "images/esmonster/resident-evil-4/ada-wong-v2/ada-wong-v2-1.jpg",
   "images/esmonster/resident-evil-4/ada-wong-v2/ada-wong-v2-2.jpg",
@@ -31637,7 +31637,7 @@ const MODELS = [
  "id": "esm-juri-han-korean-style-villain-fighter-girl-swimsuit-ver",
  "artist": "ESMonster",
  "series": "Street Fighter",
- "title": "Juri Han (Swimsuit ver)",
+ "title": "Juri Han (Swimsuit v1)",
  "images": [
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-1.jpg",
   "images/esmonster/street-fighter/juri-han-korean-style-villain-fighter-girl-swimsuit-ver/juri-han-korean-style-villain-fighter-girl-swimsuit-ver-2.jpg",
@@ -33835,7 +33835,7 @@ const MODELS = [
  "id": "esm-jill-valentine-v2",
  "artist": "ESMonster",
  "series": "Resident Evil 3",
- "title": "Jill Valentine (Swimsuit ver)",
+ "title": "Jill Valentine (Swimsuit v1)",
  "images": [
   "images/esmonster/resident-evil-3/jill-valentine-v2/jill-valentine-v2-1.jpg",
   "images/esmonster/resident-evil-3/jill-valentine-v2/jill-valentine-v2-2.jpg",
