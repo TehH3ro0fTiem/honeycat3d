@@ -650,8 +650,7 @@ const MODELS = [
   "images": [
    "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-1.jpg",
    "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-2.jpg",
-   "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-3.jpg",
-   "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-4.jpg"
+   "images/jace-the-sculptor/x-men/weaponx/jts-weaponx-3.jpg"
   ],
   "scaleOptions": [
    {
@@ -28269,7 +28268,7 @@ const MODELS = [
   "images/esmonster/batman/batman-v1/batman-v1-07.jpg",
   "images/esmonster/batman/batman-v1/batman-v1-08.jpg",
   "images/esmonster/batman/batman-v1/batman-v1-09.jpg",
-  "images/esmonster/batman/batman-v1/batman-v1-010.jpg",
+  "images/esmonster/batman/batman-v1/batman-v1-10.jpg",
   "images/esmonster/batman/batman-v1/batman-v1-11.jpg",
   "images/esmonster/batman/batman-v1/batman-v1-12.jpg",
   "images/esmonster/batman/batman-v1/batman-v1-13.jpg",
@@ -30097,8 +30096,7 @@ const MODELS = [
   "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-1.jpg",
   "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-2.jpg",
   "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-3.jpg",
-  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-4.jpg",
-  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-5.jpg"
+  "images/esmonster/mushoku-tensei/ghislaine-dedoldia/ghislaine-dedoldia-4.jpg"
  ],
  "scaleOptions": [
   {
@@ -30826,9 +30824,7 @@ const MODELS = [
   "images/esmonster/metroid/samus-aran/samus-aran-7.jpg",
   "images/esmonster/metroid/samus-aran/samus-aran-8.jpg",
   "images/esmonster/metroid/samus-aran/samus-aran-9.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-10.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-11.jpg",
-  "images/esmonster/metroid/samus-aran/samus-aran-12.jpg"
+  "images/esmonster/metroid/samus-aran/samus-aran-10.jpg"
  ],
  "scaleOptions": [
   {
@@ -32311,8 +32307,7 @@ const MODELS = [
   "images/esmonster/marvel-comics/spider-woman/spider-woman-6.jpg",
   "images/esmonster/marvel-comics/spider-woman/spider-woman-7.jpg",
   "images/esmonster/marvel-comics/spider-woman/spider-woman-8.jpg",
-  "images/esmonster/marvel-comics/spider-woman/spider-woman-9.jpg",
-  "images/esmonster/marvel-comics/spider-woman/spider-woman-10.jpg"
+  "images/esmonster/marvel-comics/spider-woman/spider-woman-9.jpg"
  ],
  "scaleOptions": [
   {
@@ -32469,9 +32464,7 @@ const MODELS = [
   },
   {
    "label": "Topless",
-   "images": [
-  "images/esmonster/scooby-doo/velma-dinkley-v4/topless/velma-dinkley-v4-topless-1.jpg"
-   ]
+   "images": []
   }
  ]
 },
@@ -32757,7 +32750,7 @@ const MODELS = [
       ]
     },
     {
-      "label": "Nude, with Stockings",
+      "label": "Without Skirt, Exposed",
       "images": [
         "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-1.jpg",
         "images/esmonster/scooby-doo/daphne-blake-v1/exposed-chest/daphne-blake-v1-exposed-chest-2.jpg",
@@ -33512,8 +33505,7 @@ const MODELS = [
   "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-13.jpg",
   "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-14.jpg",
   "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-15.jpg",
-  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-16.jpg",
-  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-17.jpg"
+  "images/esmonster/goblin-slayer/sword-maiden/sword-maiden-16.jpg"
  ],
  "scaleOptions": [
   {
@@ -33668,9 +33660,7 @@ const MODELS = [
   "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-1.jpg",
   "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-2.jpg",
   "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-3.jpg",
-  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-4.jpg",
-  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-5.jpg",
-  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-6.jpg"
+  "images/esmonster/jujutsu-kaisen/maki-zenin/maki-zenin-4.jpg"
  ],
  "scaleOptions": [
   {
@@ -34321,9 +34311,7 @@ const MODELS = [
   "images/esmonster/devil-may-cry-3/dante/dante-2.jpg",
   "images/esmonster/devil-may-cry-3/dante/dante-3.jpg",
   "images/esmonster/devil-may-cry-3/dante/dante-4.jpg",
-  "images/esmonster/devil-may-cry-3/dante/dante-5.jpg",
-  "images/esmonster/devil-may-cry-3/dante/dante-6.jpg",
-  "images/esmonster/devil-may-cry-3/dante/dante-7.jpg"
+  "images/esmonster/devil-may-cry-3/dante/dante-5.jpg"
  ],
  "scaleOptions": [
   {

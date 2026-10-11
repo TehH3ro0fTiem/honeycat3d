@@ -648,6 +648,22 @@ nav {
     position: relative;
     background: #1e1e1e;
     border-radius: 12px;
+    min-height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.no-photos-message {
+    color: #9a9a9a;
+    text-align: center;
+    padding: 40px 30px;
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+.no-photos-message a {
+    color: #d4af37;
 }
 
 .gallery-arrow {
